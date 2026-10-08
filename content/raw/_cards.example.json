@@ -1,0 +1,10 @@
+[
+  {
+    "id": "c-tr-000001",
+    "lang": "tr",
+    "level": "child",
+    "target": "Kâbe",
+    "forbidden": ["Mekke", "hac", "tavaf", "kıble"],
+    "review_status": "draft"
+  }
+]

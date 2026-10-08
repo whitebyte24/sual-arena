@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "Sual Arena",
+    "tagline": "Islamic knowledge quiz"
+  },
+  "home": {
+    "title": "Welcome",
+    "soon": "Coming soon",
+    "modes": {
+      "duel": "Duel",
+      "room": "Friends Room",
+      "family": "Don't Say It!",
+      "daily": "Daily Question",
+      "league": "Ramadan League"
+    }
+  },
+  "common": {
+    "back": "Back",
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "soyleme": {
+    "setup": {
+      "title": "Don’t Say It!",
+      "subtitle": "Pass the phone around and explain the word without saying the forbidden ones.",
+      "teams": "Teams",
+      "team": "Team {n}",
+      "roundSeconds": "Round length",
+      "seconds": "{n} s",
+      "turnsPerTeam": "Turns per team",
+      "passLimit": "Passes per turn",
+      "unlimited": "Unlimited",
+      "level": "Level",
+      "deckLang": "Card language",
+      "cards": "{n} cards",
+      "notEnough": "Not enough cards for this selection",
+      "start": "Start game"
+    },
+    "level": {
+      "child": "Kids (7–12)",
+      "teen": "Teens",
+      "adult": "Adults",
+      "mixed": "Mixed"
+    },
+    "play": {
+      "turnOf": "Turn: {team}",
+      "round": "Turn {n}/{total}",
+      "hint": "Hand the phone to the explainer. The other team listens for forbidden words.",
+      "go": "Start",
+      "forbidden": "Forbidden words",
+      "correct": "Correct",
+      "pass": "Pass",
+      "passLeft": "Pass ({n})",
+      "taboo": "Said it!",
+      "timeUp": "Time’s up!",
+      "turnScore": "Turn score: {n}",
+      "tapToFix": "Made a mistake? Tap a card to change its result.",
+      "next": "Next team",
+      "showResult": "See result",
+      "winner": "{team} wins!",
+      "draw": "It’s a draw!",
+      "again": "Play again",
+      "menu": "Main menu",
+      "quit": "Leave the game?",
+      "quitMsg": "The current game will be lost.",
+      "loading": "Getting ready…"
+    },
+    "result": {
+      "correct": "Correct",
+      "pass": "Pass",
+      "taboo": "Forbidden"
+    }
+  }
+}

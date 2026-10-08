@@ -1,0 +1,10 @@
+[
+  { "id": "c-ar-900001", "lang": "ar", "level": "child", "target": "الكعبة", "forbidden": ["مكة", "الحج", "الطواف", "القبلة"], "review_status": "draft" },
+  { "id": "c-ar-900002", "lang": "ar", "level": "child", "target": "الصيام", "forbidden": ["رمضان", "الإفطار", "السحور", "الجوع"], "review_status": "draft" },
+  { "id": "c-ar-900003", "lang": "ar", "level": "child", "target": "السجادة", "forbidden": ["الصلاة", "السجود", "الأرض", "المصلى"], "review_status": "draft" },
+  { "id": "c-ar-900004", "lang": "ar", "level": "child", "target": "المسبحة", "forbidden": ["الذكر", "الخرز", "التسبيح", "اليد"], "review_status": "draft" },
+  { "id": "c-ar-900005", "lang": "ar", "level": "child", "target": "الأذان", "forbidden": ["المؤذن", "المنارة", "الوقت", "المسجد"], "review_status": "draft" },
+  { "id": "c-ar-900006", "lang": "ar", "level": "teen", "target": "زمزم", "forbidden": ["الماء", "مكة", "البئر", "هاجر"], "review_status": "draft" },
+  { "id": "c-ar-900007", "lang": "ar", "level": "teen", "target": "الهجرة", "forbidden": ["المدينة", "مكة", "الانتقال", "الأنصار"], "review_status": "draft" },
+  { "id": "c-ar-900008", "lang": "ar", "level": "adult", "target": "ليلة القدر", "forbidden": ["رمضان", "ألف شهر", "القرآن", "العشر"], "review_status": "draft" }
+]

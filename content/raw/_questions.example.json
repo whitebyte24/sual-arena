@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q-tr-quran-000001",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'in ilk suresi hangisidir?",
+    "options": ["Fâtiha", "Bakara", "İhlâs", "Yâsîn"],
+    "answer_index": 0,
+    "source": "Kur'an-ı Kerim, mushaf sıralaması",
+    "explanation": "Mushafın ilk suresi, 7 ayetten oluşan Fâtiha Sûresi'dir.",
+    "review_status": "draft"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "Sual Arena",
+    "tagline": "İslami bilgi yarışması"
+  },
+  "home": {
+    "title": "Hoş geldin",
+    "soon": "Yakında",
+    "modes": {
+      "duel": "Düello",
+      "room": "Arkadaş Odası",
+      "family": "Söyleme!",
+      "daily": "Günlük Soru",
+      "league": "Ramazan Ligi"
+    }
+  },
+  "common": {
+    "back": "Geri",
+    "ok": "Tamam",
+    "cancel": "Vazgeç"
+  },
+  "soyleme": {
+    "setup": {
+      "title": "Söyleme!",
+      "subtitle": "Telefonu elden ele geçirin, yasaklı kelimeyi söylemeden anlatın.",
+      "teams": "Takımlar",
+      "team": "Takım {n}",
+      "roundSeconds": "Tur süresi",
+      "seconds": "{n} sn",
+      "turnsPerTeam": "Takım başına tur",
+      "passLimit": "Tur başına pas",
+      "unlimited": "Sınırsız",
+      "level": "Seviye",
+      "deckLang": "Kart dili",
+      "cards": "{n} kart",
+      "notEnough": "Bu seçimde yeterli kart yok",
+      "start": "Oyunu başlat"
+    },
+    "level": {
+      "child": "Çocuk (7–12)",
+      "teen": "Genç",
+      "adult": "Yetişkin",
+      "mixed": "Karışık"
+    },
+    "play": {
+      "turnOf": "Sıra: {team}",
+      "round": "Tur {n}/{total}",
+      "hint": "Telefonu anlatıcıya verin. Diğer takım yasaklı kelimeleri dinler.",
+      "go": "Başla",
+      "forbidden": "Yasaklı kelimeler",
+      "correct": "Doğru",
+      "pass": "Pas",
+      "passLeft": "Pas ({n})",
+      "taboo": "Yasaklı söylendi",
+      "timeUp": "Süre doldu!",
+      "turnScore": "Bu turun puanı: {n}",
+      "tapToFix": "Hata mı var? Karta dokunarak sonucu değiştir.",
+      "next": "Sıradaki takım",
+      "showResult": "Sonucu gör",
+      "winner": "{team} kazandı!",
+      "draw": "Berabere!",
+      "again": "Tekrar oyna",
+      "menu": "Ana menü",
+      "quit": "Oyundan çıkılsın mı?",
+      "quitMsg": "Şu anki oyun kaybolacak.",
+      "loading": "Hazırlanıyor…"
+    },
+    "result": {
+      "correct": "Doğru",
+      "pass": "Pas",
+      "taboo": "Yasaklı"
+    }
+  }
+}
