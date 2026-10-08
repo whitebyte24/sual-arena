@@ -12,7 +12,7 @@ Durum: `[ ]` yapılmadı · `[~]` kısmen/kod hazır, doğrulanmadı · `[x]` ta
 | 6 | Google Play Veri Güvenliği formu taslağı | 10 | [ ] |
 | 7 | Şifreleme ihracat beyanı (`ITSAppUsesNonExemptEncryption=false` app.json'da) | 1 | [x] |
 | 8 | Abonelik ekranında fiyat, süre, otomatik yenileme, iptal bilgisi + "Satın alımları geri yükle" | 5 | [ ] |
-| 9 | Yaş derecelendirmesi 4+ / Herkes; kullanıcılar arası sohbet YOK (yalnız hazır emoji) | 3 | [ ] |
+| 9 | Yaş derecelendirmesi 4+ / Herkes; kullanıcılar arası sohbet YOK (yalnız hazır emoji; kod: EMOJIS beyaz listesi, session.ts) | 3 | [~] |
 | 10 | Google Play hedef SDK güncel (Expo SDK 57 varsayılanı; Faz 10'da doğrula) | 10 | [ ] |
 | 11 | Google UMP formu (AB/İngiltere), KVKK aydınlatma metni | 5 | [ ] |
 | 12 | iOS ATT istemi + açıklama metni; reddedilirse kişiselleştirilmemiş reklam | 5 | [ ] |

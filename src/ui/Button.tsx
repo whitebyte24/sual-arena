@@ -12,13 +12,15 @@ interface Props {
   disabled?: boolean;
   style?: StyleProp<ViewStyle>;
   fontSize?: number;
+  /** Metin rengini geçersiz kıl (ör. doğru/yanlış şık). */
+  textColor?: string;
 }
 
-export function Button({ label, onPress, variant = 'primary', height = 56, disabled, style, fontSize = 18 }: Props) {
+export function Button({ label, onPress, variant = 'primary', height = 56, disabled, style, fontSize = 18, textColor }: Props) {
   const theme = useTheme();
   const bg =
     variant === 'primary' ? theme.primary : variant === 'danger' ? theme.danger : variant === 'neutral' ? theme.surface : 'transparent';
-  const fg = variant === 'neutral' || variant === 'ghost' ? theme.text : '#FFFFFF';
+  const fg = textColor ?? (variant === 'neutral' || variant === 'ghost' ? theme.text : '#FFFFFF');
   return (
     <Pressable
       accessibilityRole="button"

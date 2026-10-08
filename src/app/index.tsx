@@ -1,20 +1,31 @@
+import { useEffect, useState } from 'react';
 import { Pressable, ScrollView, Text, View } from 'react-native';
 import { router } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { radius, spacing, useTheme } from '@/lib/theme';
+import { currentStreak } from '@/features/gunluk/daily';
+import { loadDaily } from '@/features/gunluk/store';
 import { t, type TKey } from '@/i18n';
+import { dateKey } from '@/lib/date';
+import { radius, spacing, useTheme } from '@/lib/theme';
 
-const MODES: { key: TKey; route?: '/soyleme' }[] = [
+type Route = '/soyleme' | '/duello' | '/oda' | '/gunluk';
+const MODES: { key: TKey; route?: Route }[] = [
+  { key: 'home.modes.duel', route: '/duello' },
+  { key: 'home.modes.room', route: '/oda' },
   { key: 'home.modes.family', route: '/soyleme' },
-  { key: 'home.modes.duel' },
-  { key: 'home.modes.room' },
-  { key: 'home.modes.daily' },
+  { key: 'home.modes.daily', route: '/gunluk' },
   { key: 'home.modes.league' },
 ];
 
 export default function Home() {
   const theme = useTheme();
   const insets = useSafeAreaInsets();
+  const [streak, setStreak] = useState(0);
+
+  useEffect(() => {
+    loadDaily().then((d) => setStreak(currentStreak(d.streak, dateKey())));
+  }, []);
+
   return (
     <ScrollView
       style={{ backgroundColor: theme.bg }}
@@ -35,9 +46,14 @@ export default function Home() {
             padding: spacing.lg,
             opacity: pressed ? 0.8 : 1,
           })}>
-          <View>
-            <Text style={{ color: theme.text, fontSize: 20, fontWeight: '700' }}>{t(key)}</Text>
-            {!route && <Text style={{ color: theme.textMuted, marginTop: spacing.xs }}>{t('home.soon')}</Text>}
+          <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+            <View>
+              <Text style={{ color: theme.text, fontSize: 20, fontWeight: '700' }}>{t(key)}</Text>
+              {!route && <Text style={{ color: theme.textMuted, marginTop: spacing.xs }}>{t('home.soon')}</Text>}
+            </View>
+            {route === '/gunluk' && streak > 0 && (
+              <Text style={{ color: theme.accent, fontSize: 18, fontWeight: '800' }}>🔥 {streak}</Text>
+            )}
           </View>
         </Pressable>
       ))}

@@ -52,5 +52,23 @@ kurulu değilse bu dosyadaki kurallarla devam et. i18n/RTL ve UI için hazır sk
 Motor: `src/features/soyleme/engine.ts` (saf TS, 14 test). Ekranlar: `src/app/soyleme/{index,play}.tsx`. Kural: doğru +1, yasaklı −1, pas 0, tur puanı ≥0,
 süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorage`'da tutulup desteye sona atılır.
 
+## Düello / Arkadaş Odası (Faz 3)
+- `src/features/duello/`: `match.ts` (saf durum+puan), `session.ts` (MatchSession + Transport soyutlaması + mesajlar), `bot.ts`, `pairing.ts`
+  (sıralı çiftleme, kanal adları), `matchmaking.ts` + `room.ts` (Supabase Realtime), `MatchPlay.tsx` (UI+sonuç+paylaşım), `quota.ts` (günlük 10).
+- `src/lib/realtime.ts` ChannelTransport = broadcast (olaylar) + presence (varlık). Eşleşme: `queue:<lang>:<cat>` → `duel:<a~b>` el sıkışma → 8 sn sonra BOT.
+- Protokol: host `start/next` yayar; herkes `answer` yayar; doğru cevap ağda YOK (seed'den türetilir); konuk `hello` ile `start` tekrarı ister.
+- Puan: doğru 100 + hız bonusu (≤100). Sohbet yok: yalnızca beyaz listedeki 4 emoji. Bot "BOT" etiketli.
+- Test: `tests/helpers/loopback.ts` bellek içi hub ile ağsız maç testleri. ChannelTransport/matchmaking/room canlı Supabase ile HENÜZ DENENMEDİ.
+- Realtime kanalları herkese açık (RLS/yetkilendirme yok); oda kodu 6 hane. Gerekirse Faz 10'da private channel + RLS değerlendirilecek.
+- `INVITE_URL` (`src/lib/config.ts`) yer tutucu; landing yayınlanınca güncelle.
+
+## Günlük Soru (Faz 4)
+- `src/features/gunluk/daily.ts` (saf TS): gün+dil → aynı 5 soru (kimliğe göre sıralı havuz + tur başı sabit permütasyon), şık sırası `dailySeed`,
+  seri (`completeDay`, `streakStatus`: new/done/active/repairable/broken, `repairStreak`), emoji ızgarası + metin. `state.ts` = kayıt biçimi (saf), `store.ts` = AsyncStorage.
+- Gün = yerel takvim günü (`src/lib/date.ts`). #1 = 2026-10-01. Her cevap anında kaydedilir (yarım kalan günde aynı soruya geri dönüp hile yok).
+- Sunucu tarafı sabitleme isteğe bağlı: tablo `daily_sets` (migration 0002); satır yoksa deterministik seçim. Uygulama sürümleri arası soru bankası farkı olursa bu tablo ile sabitle.
+- **Faz 5 bağlantısı:** `repairStreak` hazır, ödüllü reklam düğmesi (status = repairable) henüz yok. Seri yalnızca cihazda (hesap/silme sonrası taşınmaz).
+- Ortak paylaşım: `src/lib/share.ts` (`shareView` görüntü, `shareWhatsapp`, `shareText`).
+
 ## Durum
-Faz 1 (kurulum) ve Faz 2 (Söyleme!) tamam. Sıradaki: Faz 3 Düello + bot + Arkadaş Odası (Supabase projesi/.env gerekir).
+Faz 1–4 tamam (3'ün çevrimiçi kısmı canlıda test bekliyor). Sıradaki: Faz 5 Abonelik + reklam + hesap + hesap silme.
