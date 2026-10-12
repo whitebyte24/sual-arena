@@ -1,10 +1,21 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Alert, BackHandler, Pressable, ScrollView, Text, View } from 'react-native';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { BackHandler, Pressable, ScrollView, View } from 'react-native';
+import { TABULAR, Text } from '@/ui/Text';
+import { Avatar } from '@/ui/Avatar';
+import { Badge } from '@/ui/Badge';
+import { Card } from '@/ui/Card';
+import { Icon, type IconName } from '@/ui/Icon';
+import { Divider, Lantern } from '@/ui/ornaments';
 import { Stack, router, useLocalSearchParams } from 'expo-router';
 import * as Haptics from 'expo-haptics';
 import { useKeepAwake } from 'expo-keep-awake';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { ALL_CARDS } from '@/content/cards';
+import { onMatchFinished } from '@/features/ads';
+import { AdBanner } from '@/features/ads/AdBanner';
+import { PromoCard } from '@/features/ads/PromoCard';
+import { isPremium } from '@/features/premium/entitlement';
+import { allowedLevels } from '@/features/premium/tiers';
 import {
   answer,
   canPass,
@@ -29,8 +40,9 @@ import {
 } from '@/features/soyleme/engine';
 import { addSeen, loadSeen } from '@/features/soyleme/storage';
 import { t } from '@/i18n';
-import { radius, spacing, useTheme, type Theme } from '@/lib/theme';
+import { glow, radius, spacing, useTheme, type Theme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
+import { confirm } from '@/ui/confirm';
 
 const FALLBACK: Settings = {
   teamNames: ['1', '2'],
@@ -60,14 +72,14 @@ export default function SoylemePlay() {
   const [now, setNow] = useState(() => Date.now());
 
   const begin = useCallback(async () => {
-    const seen = await loadSeen();
-    setGame(createGame(ALL_CARDS, settings, seen, newSeed()));
+    const [seen, premium] = await Promise.all([loadSeen(), isPremium()]);
+    setGame(createGame(ALL_CARDS, settings, seen, newSeed(), allowedLevels(premium)));
   }, [settings]);
 
   useEffect(() => {
     let alive = true;
-    loadSeen().then((seen) => {
-      if (alive) setGame(createGame(ALL_CARDS, settings, seen, newSeed()));
+    Promise.all([loadSeen(), isPremium()]).then(([seen, premium]) => {
+      if (alive) setGame(createGame(ALL_CARDS, settings, seen, newSeed(), allowedLevels(premium)));
     });
     return () => {
       alive = false;
@@ -95,11 +107,19 @@ export default function SoylemePlay() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [phase, turnIndex]);
 
-  const confirmQuit = useCallback(() => {
-    Alert.alert(t('soyleme.play.quit'), t('soyleme.play.quitMsg'), [
-      { text: t('common.cancel'), style: 'cancel' },
-      { text: t('common.ok'), style: 'destructive', onPress: () => router.back() },
-    ]);
+  // Oyun bitti: tek geçiş reklamı (tur aralarında reklam yok) + günde en fazla 1 yumuşak Premium kartı
+  const [promo, setPromo] = useState(false);
+  const counted = useRef(false);
+  useEffect(() => {
+    if (phase !== 'finished' || counted.current) return;
+    counted.current = true;
+    onMatchFinished()
+      .then((r) => setPromo(r.promo))
+      .catch(() => {});
+  }, [phase]);
+
+  const confirmQuit = useCallback(async () => {
+    if (await confirm(t('soyleme.play.quit'), t('soyleme.play.quitMsg'), t('common.ok'), t('common.cancel'))) router.back();
   }, []);
 
   useEffect(() => {
@@ -118,8 +138,9 @@ export default function SoylemePlay() {
 
   if (!game) {
     return (
-      <View style={{ flex: 1, backgroundColor: theme.bg, alignItems: 'center', justifyContent: 'center' }}>
+      <View style={{ flex: 1, backgroundColor: theme.bg, alignItems: 'center', justifyContent: 'center', gap: spacing.md }}>
         <Stack.Screen options={{ gestureEnabled: false }} />
+        <Lantern size={72} />
         <Text style={{ color: theme.textMuted, fontSize: 16 }}>{t('soyleme.play.loading')}</Text>
       </View>
     );
@@ -127,25 +148,27 @@ export default function SoylemePlay() {
 
   const [a, b] = scores(game);
   const team = game.settings.teamNames;
-  const frame = { flex: 1, backgroundColor: theme.bg, paddingTop: insets.top + spacing.sm, paddingBottom: insets.bottom + spacing.md, paddingHorizontal: spacing.md };
+  const activeTeam = game.phase === 'finished' ? -1 : game.turnIndex % 2;
+  const frame = { flex: 1, backgroundColor: theme.bg, paddingTop: insets.top + spacing.sm, paddingBottom: insets.bottom + spacing.md, paddingHorizontal: spacing.screen, gap: spacing.md } as const;
 
   const board = (
     <View style={{ flexDirection: 'row', gap: spacing.sm }}>
       {[0, 1].map((i) => (
-        <View
+        <Card
           key={i}
-          style={{
-            flex: 1,
-            backgroundColor: theme.surface,
-            borderRadius: radius.md,
-            borderWidth: 2,
-            borderColor: game.phase !== 'finished' && game.turns[game.turnIndex]?.team === i ? theme.accent : theme.border,
-            padding: spacing.sm,
-            alignItems: 'center',
-          }}>
-          <Text numberOfLines={1} style={{ color: theme.textMuted, fontSize: 14 }}>{team[i]}</Text>
-          <Text style={{ color: theme.text, fontSize: 28, fontWeight: '800' }}>{i === 0 ? a : b}</Text>
-        </View>
+          padding={10}
+          outline={activeTeam === i ? 'gold' : 'default'}
+          glow={activeTeam === i ? 'gold' : undefined}
+          tone={activeTeam === i ? 'surface' : 'raised'}
+          style={{ flex: 1, flexDirection: 'row', alignItems: 'center', gap: 10 }}>
+          <Avatar name={team[i]} size={40} highlight={activeTeam === i} />
+          <View style={{ flex: 1 }}>
+            <Text numberOfLines={1} style={{ color: theme.textMuted, fontSize: 13, fontWeight: '600' }}>
+              {team[i]}
+            </Text>
+            <Text style={[{ color: activeTeam === i ? theme.accent : theme.text, fontSize: 26, fontWeight: '800' }, TABULAR]}>{i === 0 ? a : b}</Text>
+          </View>
+        </Card>
       ))}
     </View>
   );
@@ -159,17 +182,21 @@ export default function SoylemePlay() {
         <CloseButton onPress={confirmQuit} theme={theme} />
         {board}
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', gap: spacing.md }}>
-          <Text style={{ color: theme.textMuted, fontSize: 16 }}>
-            {t('soyleme.play.round', { n: game.turnIndex + 1, total: totalTurns(game) })}
-          </Text>
-          <Text style={{ color: theme.accent, fontSize: 34, fontWeight: '800', textAlign: 'center' }}>
-            {t('soyleme.play.turnOf', { team: who })}
-          </Text>
-          <Text style={{ color: theme.textMuted, fontSize: 17, textAlign: 'center', paddingHorizontal: spacing.md }}>
-            {t('soyleme.play.hint')}
-          </Text>
+          <Lantern size={110} />
+          <Badge label={t('soyleme.play.round', { n: game.turnIndex + 1, total: totalTurns(game) })} tone="gold" />
+          <Text style={{ color: theme.accent, fontSize: 32, fontWeight: '800', textAlign: 'center' }}>{t('soyleme.play.turnOf', { team: who })}</Text>
+          <Text style={{ color: theme.textMuted, fontSize: 16, lineHeight: 23, textAlign: 'center', paddingHorizontal: spacing.md }}>{t('soyleme.play.hint')}</Text>
         </View>
-        <Button label={t('soyleme.play.go')} height={88} fontSize={26} onPress={() => { setNow(Date.now()); setGame(startTurn(game, Date.now())); }} />
+        <Button
+          label={t('soyleme.play.go')}
+          icon="play"
+          height={88}
+          fontSize={26}
+          onPress={() => {
+            setNow(Date.now());
+            setGame(startTurn(game, Date.now()));
+          }}
+        />
       </View>
     );
   }
@@ -186,52 +213,46 @@ export default function SoylemePlay() {
         <Stack.Screen options={{ gestureEnabled: false }} />
         <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.md }}>
           <CloseButton onPress={confirmQuit} theme={theme} />
-          <View style={{ flex: 1 }}>
-            <View style={{ height: 14, borderRadius: 7, backgroundColor: theme.surface, overflow: 'hidden' }}>
-              <View style={{ height: 14, width: `${Math.max(0, Math.min(1, ratio)) * 100}%`, backgroundColor: urgent ? theme.danger : theme.primary }} />
-            </View>
+          <View style={{ flex: 1, height: 10, borderRadius: 5, backgroundColor: theme.raised, overflow: 'hidden' }}>
+            <View style={{ height: 10, width: `${Math.max(0, Math.min(1, ratio)) * 100}%`, borderRadius: 5, backgroundColor: urgent ? theme.danger : theme.primary }} />
           </View>
-          <Text style={{ color: urgent ? theme.danger : theme.text, fontSize: 28, fontWeight: '800', minWidth: 56, textAlign: 'right' }}>
-            {Math.ceil(left / 1000)}
-          </Text>
+          <View style={{ flexDirection: 'row', alignItems: 'center', gap: 6, borderRadius: radius.pill, paddingHorizontal: 14, paddingVertical: 6, backgroundColor: urgent ? theme.danger : theme.raised, borderWidth: 1, borderColor: urgent ? theme.danger : theme.border }}>
+            <Icon name="timer-outline" size={18} color={urgent ? '#FFFFFF' : theme.accent} />
+            <Text style={[{ color: urgent ? '#FFFFFF' : theme.text, fontSize: 24, fontWeight: '800', minWidth: 40, textAlign: 'center' }, TABULAR]}>{Math.ceil(left / 1000)}</Text>
+          </View>
         </View>
-        <View
-          style={{
-            flex: 1,
-            marginVertical: spacing.md,
-            backgroundColor: theme.surface,
-            borderRadius: radius.lg,
-            borderWidth: 1,
-            borderColor: theme.border,
-            padding: spacing.lg,
-            justifyContent: 'center',
-            gap: spacing.lg,
-          }}>
-          <Text adjustsFontSizeToFit numberOfLines={2} style={{ color: theme.accent, fontSize: 44, fontWeight: '800', textAlign: 'center' }}>
+
+        <Card outline="gold" glow="gold" watermark padding={20} style={{ flex: 1, justifyContent: 'center', gap: spacing.sm }}>
+          <Text adjustsFontSizeToFit numberOfLines={2} style={{ color: theme.accent, fontSize: 46, fontWeight: '800', textAlign: 'center', lineHeight: 54 }}>
             {card?.target}
           </Text>
-          <View style={{ height: 1, backgroundColor: theme.border }} />
-          <Text style={{ color: theme.textMuted, fontSize: 13, textAlign: 'center' }}>{t('soyleme.play.forbidden')}</Text>
-          <View style={{ gap: spacing.sm }}>
+          <Divider />
+          <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 6 }}>
+            <Icon name="cancel" size={14} color={theme.textMuted} />
+            <Text style={{ color: theme.textMuted, fontSize: 12, fontWeight: '700', letterSpacing: 1.2 }}>{t('soyleme.play.forbidden').toLocaleUpperCase('tr')}</Text>
+          </View>
+          <View style={{ gap: spacing.sm, marginTop: 4 }}>
             {card?.forbidden.map((w) => (
-              <Text key={w} adjustsFontSizeToFit numberOfLines={1} style={{ color: theme.danger, fontSize: 26, fontWeight: '700', textAlign: 'center' }}>
-                {w}
-              </Text>
+              <View key={w} style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 10, backgroundColor: theme.wrongBg, borderRadius: radius.md, paddingVertical: 8, paddingHorizontal: 14 }}>
+                <Icon name="close-circle-outline" size={20} color={theme.danger} />
+                <Text adjustsFontSizeToFit numberOfLines={1} style={{ color: theme.text, fontSize: 24, fontWeight: '700', flexShrink: 1 }}>
+                  {w}
+                </Text>
+              </View>
             ))}
           </View>
-        </View>
+        </Card>
+
         <View style={{ flexDirection: 'row', gap: spacing.sm }}>
-          <Button label={t('soyleme.play.taboo')} variant="danger" height={96} fontSize={17} style={{ flex: 1 }} onPress={() => press('taboo')} />
-          <Button
+          <BigAction label={t('soyleme.play.taboo')} icon="close-octagon-outline" tone="danger" onPress={() => press('taboo')} />
+          <BigAction
             label={passLeft === Infinity ? t('soyleme.play.pass') : t('soyleme.play.passLeft', { n: passLeft })}
-            variant="neutral"
-            height={96}
-            fontSize={17}
+            icon="skip-next-circle-outline"
+            tone="neutral"
             disabled={!canPass(game)}
-            style={{ flex: 1 }}
             onPress={() => press('pass')}
           />
-          <Button label={t('soyleme.play.correct')} height={96} fontSize={20} style={{ flex: 1 }} onPress={() => press('correct')} />
+          <BigAction label={t('soyleme.play.correct')} icon="check-bold" tone="primary" onPress={() => press('correct')} />
         </View>
       </View>
     );
@@ -245,39 +266,35 @@ export default function SoylemePlay() {
     <View style={frame}>
       <Stack.Screen options={{ gestureEnabled: false }} />
       {board}
-      <ScrollView contentContainerStyle={{ paddingVertical: spacing.md, gap: spacing.sm }}>
+      <ScrollView contentContainerStyle={{ paddingVertical: spacing.sm, gap: spacing.sm }}>
+        {finished && promo && <PromoCard onDismiss={() => setPromo(false)} />}
         {finished ? (
-          <Text style={{ color: theme.accent, fontSize: 32, fontWeight: '800', textAlign: 'center', marginVertical: spacing.md }}>
-            {w === 'draw' ? t('soyleme.play.draw') : t('soyleme.play.winner', { team: team[w] })}
-          </Text>
+          <View style={{ alignItems: 'center', gap: spacing.md, marginVertical: spacing.lg }}>
+            <Icon name="trophy-award" size={72} color={theme.accent} />
+            <Text style={{ color: theme.accent, fontSize: 32, fontWeight: '800', textAlign: 'center' }}>
+              {w === 'draw' ? t('soyleme.play.draw') : t('soyleme.play.winner', { team: team[w] })}
+            </Text>
+          </View>
         ) : (
           <>
-            <Text style={{ color: theme.accent, fontSize: 28, fontWeight: '800', textAlign: 'center' }}>{t('soyleme.play.timeUp')}</Text>
-            <Text style={{ color: theme.text, fontSize: 18, textAlign: 'center' }}>
-              {t('soyleme.play.turnScore', { n: turn ? turnScore(turn) : 0 })}
-            </Text>
-            <Text style={{ color: theme.textMuted, fontSize: 13, textAlign: 'center' }}>{t('soyleme.play.tapToFix')}</Text>
+            <View style={{ alignItems: 'center', gap: spacing.xs, marginBottom: spacing.sm }}>
+              <Text style={{ color: theme.accent, fontSize: 28, fontWeight: '800' }}>{t('soyleme.play.timeUp')}</Text>
+              <Badge label={t('soyleme.play.turnScore', { n: turn ? turnScore(turn) : 0 })} tone="gold" icon="star-four-points" />
+              <Text style={{ color: theme.textMuted, fontSize: 13, textAlign: 'center' }}>{t('soyleme.play.tapToFix')}</Text>
+            </View>
             {turn?.entries.map((e, i) => (
               <Pressable
                 key={`${e.card.id}-${i}`}
                 accessibilityRole="button"
-                onPress={() => setGame(setResult(game, game.turnIndex, i, CYCLE[(CYCLE.indexOf(e.result) + 1) % CYCLE.length]))}
-                style={{
-                  minHeight: 52,
-                  flexDirection: 'row',
-                  alignItems: 'center',
-                  justifyContent: 'space-between',
-                  backgroundColor: theme.surface,
-                  borderRadius: radius.md,
-                  borderWidth: 1,
-                  borderColor: theme.border,
-                  paddingHorizontal: spacing.md,
-                  gap: spacing.md,
-                }}>
-                <Text style={{ color: theme.text, fontSize: 17, flex: 1 }} numberOfLines={1}>{e.card.target}</Text>
-                <Text style={{ color: resultColor(e.result, theme), fontSize: 15, fontWeight: '800' }}>
-                  {resultMark(e.result)} {t(`soyleme.result.${e.result}`)}
-                </Text>
+                accessibilityLabel={`${e.card.target}: ${t(`soyleme.result.${e.result}`)}`}
+                onPress={() => setGame(setResult(game, game.turnIndex, i, CYCLE[(CYCLE.indexOf(e.result) + 1) % CYCLE.length]))}>
+                <Card padding={12} style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.md }}>
+                  <Icon name={resultIcon(e.result)} size={26} color={resultColor(e.result, theme)} />
+                  <Text style={{ color: theme.text, fontSize: 17, fontWeight: '600', flex: 1 }} numberOfLines={1}>
+                    {e.card.target}
+                  </Text>
+                  <Text style={{ color: resultColor(e.result, theme), fontSize: 13, fontWeight: '800' }}>{t(`soyleme.result.${e.result}`)}</Text>
+                </Card>
               </Pressable>
             ))}
           </>
@@ -285,13 +302,24 @@ export default function SoylemePlay() {
       </ScrollView>
       {finished ? (
         <View style={{ gap: spacing.sm }}>
-          <Button label={t('soyleme.play.again')} height={64} onPress={begin} />
+          <Button
+            label={t('soyleme.play.again')}
+            icon="replay"
+            height={60}
+            onPress={() => {
+              counted.current = false;
+              setPromo(false);
+              begin();
+            }}
+          />
           <Button label={t('soyleme.play.menu')} variant="neutral" onPress={() => router.replace('/')} />
+          <AdBanner surface="result" />
         </View>
       ) : (
         <Button
           label={game.turnIndex + 1 >= totalTurns(game) ? t('soyleme.play.showResult') : t('soyleme.play.next')}
-          height={72}
+          trailingIcon="arrow-right"
+          height={68}
           onPress={() => setGame(nextTurn(game))}
         />
       )}
@@ -300,7 +328,7 @@ export default function SoylemePlay() {
 }
 
 const resultColor = (r: Result, th: Theme) => (r === 'correct' ? th.primary : r === 'taboo' ? th.danger : th.textMuted);
-const resultMark = (r: Result) => (r === 'correct' ? '✓' : r === 'taboo' ? '✕' : '↷');
+const resultIcon = (r: Result): IconName => (r === 'correct' ? 'check-circle' : r === 'taboo' ? 'close-circle' : 'skip-next-circle');
 
 function CloseButton({ onPress, theme }: { onPress: () => void; theme: Theme }) {
   return (
@@ -308,8 +336,45 @@ function CloseButton({ onPress, theme }: { onPress: () => void; theme: Theme }) 
       accessibilityRole="button"
       accessibilityLabel={t('common.cancel')}
       onPress={onPress}
-      style={{ width: 48, height: 48, alignItems: 'center', justifyContent: 'center', alignSelf: 'flex-start' }}>
-      <Text style={{ color: theme.textMuted, fontSize: 26 }}>✕</Text>
+      style={({ pressed }) => ({ width: 48, height: 48, borderRadius: 24, alignItems: 'center', justifyContent: 'center', backgroundColor: theme.surface, borderWidth: 1, borderColor: theme.border, opacity: pressed ? 0.8 : 1 })}>
+      <Icon name="close" size={24} color={theme.textMuted} />
+    </Pressable>
+  );
+}
+
+/** Elden ele oyun için ≥ 96 dp yüksekliğinde büyük eylem düğmesi (simge üstte, etiket altta). */
+function BigAction({ label, icon, tone, disabled, onPress }: { label: string; icon: IconName; tone: 'danger' | 'neutral' | 'primary'; disabled?: boolean; onPress: () => void }) {
+  const theme = useTheme();
+  const bg = tone === 'danger' ? theme.danger : tone === 'primary' ? theme.primary : theme.surface;
+  const fg = tone === 'neutral' ? theme.text : '#FFFFFF';
+  return (
+    <Pressable
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ disabled: !!disabled }}
+      disabled={disabled}
+      onPress={onPress}
+      style={({ pressed }) => [
+        {
+          flex: 1,
+          minHeight: 100,
+          borderRadius: radius.xl,
+          backgroundColor: bg,
+          borderWidth: tone === 'neutral' ? 1 : 0,
+          borderColor: theme.border,
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 6,
+          paddingHorizontal: 6,
+          opacity: disabled ? 0.4 : 1,
+          transform: [{ scale: pressed ? 0.97 : 1 }],
+        },
+        tone === 'primary' ? glow(theme.glowEmerald, 22) : null,
+      ]}>
+      <Icon name={icon} size={30} color={fg} />
+      <Text numberOfLines={2} style={{ color: fg, fontSize: 15, fontWeight: '700', textAlign: 'center' }}>
+        {label}
+      </Text>
     </Pressable>
   );
 }

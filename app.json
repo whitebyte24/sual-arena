@@ -11,7 +11,8 @@
       "bundleIdentifier": "com.sualarena.app",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "usesAppleSignIn": true
     },
     "android": {
       "adaptiveIcon": {
@@ -20,7 +21,10 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "package": "com.sualarena.app"
+      "package": "com.sualarena.app",
+      "permissions": [
+        "com.google.android.gms.permission.AD_ID"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -29,7 +33,26 @@
       "expo-router",
       "expo-localization",
       "expo-secure-store",
-      "expo-sharing"
+      "expo-sharing",
+      "expo-web-browser",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+          "iosAppId": "ca-app-pub-3940256099942544~1458002511",
+          "userTrackingUsageDescription": "Sana daha uygun reklamlar gösterebilmemiz için cihaz kimliğini kullanmamıza izin verebilirsin. İzin vermezsen reklamlar yine görünür ama kişiselleştirilmez."
+        }
+      ],
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "Sana daha uygun reklamlar gösterebilmemiz için cihaz kimliğini kullanmamıza izin verebilirsin. İzin vermezsen reklamlar yine görünür ama kişiselleştirilmez."
+        }
+      ],
+      "expo-apple-authentication",
+      "expo-dev-client",
+      "expo-font",
+      "expo-splash-screen"
     ],
     "scheme": "sualarena",
     "backgroundColor": "#0B1B33",

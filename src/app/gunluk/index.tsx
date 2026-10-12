@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { ScrollView, Text, View } from 'react-native';
+import { ScrollView, View } from 'react-native';
+import { Text } from '@/ui/Text';
 import { router } from 'expo-router';
 import * as Haptics from 'expo-haptics';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -10,12 +11,15 @@ import {
   DAILY_COUNT,
   completeDay,
   currentStreak,
+  repairStreak,
   dailyNumber,
   dailyQuestionIds,
   dailySeed,
   shareText,
   streakStatus,
 } from '@/features/gunluk/daily';
+import { watchRewarded } from '@/features/ads';
+import { AdBanner } from '@/features/ads/AdBanner';
 import { fetchDailyOverride } from '@/features/gunluk/remote';
 import { type DailyState } from '@/features/gunluk/state';
 import { loadDaily, saveDaily } from '@/features/gunluk/store';
@@ -25,6 +29,8 @@ import { INVITE_URL } from '@/lib/config';
 import { shareView, shareWhatsapp } from '@/lib/share';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
+import { Icon } from '@/ui/Icon';
+import { ScreenHeader } from '@/ui/ScreenHeader';
 
 type Mode = 'intro' | 'play' | 'result';
 
@@ -39,6 +45,7 @@ export default function Daily() {
   const [ids, setIds] = useState<string[] | null>(null);
   const [mode, setMode] = useState<Mode>('intro');
   const [cursor, setCursor] = useState(0);
+  const [rescued, setRescued] = useState(false);
   const cardRef = useRef<View>(null);
 
   useEffect(() => {
@@ -59,6 +66,15 @@ export default function Daily() {
   const resolve = useMemo(() => makeResolver(QUESTION_INDEX, dailySeed(today, lang)), [today, lang]);
   const progress = data?.progress?.day === today ? data.progress : null;
   const answered = progress?.choices ?? data?.results[today]?.choices ?? [];
+
+  // Tam 1 gün kaçırıldıysa seri, ödüllü reklamla kurtarılabilir (reklam yüklenemezse de kurtarılır)
+  const rescue = async () => {
+    if (!data || !(await watchRewarded())) return;
+    const next = { ...data, streak: repairStreak(data.streak, today) };
+    setData(next);
+    saveDaily(next, today);
+    setRescued(true);
+  };
 
   const begin = () => {
     setCursor(Math.min(progress?.choices.length ?? 0, DAILY_COUNT - 1));
@@ -172,6 +188,7 @@ export default function Daily() {
         <Button label={t('daily.share')} onPress={() => shareView(cardRef, text, t('daily.shareCardTitle', { n }))} />
         <Button label={t('match.shareWhatsapp')} variant="neutral" onPress={() => shareWhatsapp(text)} />
         <Button label={t('match.menu')} variant="ghost" onPress={() => router.replace('/')} />
+        <AdBanner surface="result" />
       </ScrollView>
     );
   }
@@ -182,17 +199,16 @@ export default function Daily() {
     status === 'broken' ? t('daily.streakBroken') : status === 'active' || status === 'repairable' ? t('daily.streakAtRisk') : '';
   return (
     <ScrollView style={{ backgroundColor: theme.bg }} contentContainerStyle={frame}>
-      <Button label={t('common.back')} variant="ghost" height={48} onPress={() => router.back()} style={{ alignSelf: 'flex-start' }} />
-      <View>
-        <Text style={{ color: theme.accent, fontSize: 32, fontWeight: '800' }}>{t('daily.title')}</Text>
-        <Text style={{ color: theme.textMuted, fontSize: 16, marginTop: spacing.xs }}>{t('daily.subtitle')}</Text>
-      </View>
+      <ScreenHeader title={t('daily.title')} />
+      <Text style={{ color: theme.textMuted, fontSize: 15, lineHeight: 22 }}>{t('daily.subtitle')}</Text>
       <View style={{ backgroundColor: theme.surface, borderRadius: radius.lg, borderWidth: 1, borderColor: theme.border, padding: spacing.lg, alignItems: 'center', gap: spacing.xs }}>
-        <Text style={{ fontSize: 44 }}>{streak > 0 ? '🔥' : '🕯️'}</Text>
+        <Icon name={streak > 0 ? 'fire' : 'candle'} size={60} color={streak > 0 ? theme.accent : theme.textMuted} />
         <Text style={{ color: theme.text, fontSize: 22, fontWeight: '800' }}>{streak > 0 ? t('daily.streak', { n: streak }) : t('daily.streakNone')}</Text>
         {data.streak.best > 0 && <Text style={{ color: theme.textMuted, fontSize: 14 }}>{t('daily.streakBest', { n: data.streak.best })}</Text>}
         {!!note && <Text style={{ color: theme.accent, fontSize: 14, textAlign: 'center' }}>{note}</Text>}
       </View>
+      {rescued && <Text style={{ color: theme.primary, textAlign: 'center' }}>{t('ads.streakRescued')}</Text>}
+      {status === 'repairable' && <Button label={t('ads.streakRescue')} variant="neutral" onPress={rescue} />}
       {!enough && <Text style={{ color: theme.danger }}>{t('daily.noQuestions')}</Text>}
       <Button label={progress?.choices.length ? t('daily.resume') : t('daily.start')} height={64} disabled={!enough} onPress={begin} />
     </ScrollView>

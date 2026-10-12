@@ -12,7 +12,30 @@
       "family": "Don't Say It!",
       "daily": "Daily Question",
       "league": "Ramadan League"
-    }
+    },
+    "premium": "Premium",
+    "account": "Account",
+    "hero": {
+      "eyebrow": "Today",
+      "title": "Refresh your knowledge, compete with your loved ones",
+      "body": "A respectful, exciting arena of knowledge awaits you."
+    },
+    "section": "Game modes",
+    "sub": {
+      "duel": "One-on-one live knowledge battle",
+      "room": "Create a private room, play with friends",
+      "family": "Explain without saying the forbidden words",
+      "daily": "5 new questions every day, keep your streak",
+      "league": "A blessed season of competition"
+    },
+    "badge": {
+      "live": "Live",
+      "upTo": "Up to {n} players",
+      "family": "Family mode",
+      "soon": "Soon",
+      "days": "{n} days"
+    },
+    "menuLabel": "Home"
   },
   "common": {
     "back": "Back",
@@ -172,5 +195,104 @@
     "shareCardTitle": "Daily Question #{n}",
     "noQuestions": "Not enough questions for the daily set.",
     "loading": "Getting ready…"
+  },
+  "premium": {
+    "title": "Sual Arena Premium",
+    "headline": "Play ad-free and unlock everything",
+    "benefits": {
+      "noAds": "No ads",
+      "unlimitedDuels": "Unlimited duels",
+      "allCategories": "All categories",
+      "allDecks": "All Don’t Say It! decks",
+      "leagueRewards": "Ramadan League rewards"
+    },
+    "plan": {
+      "yearly": "Yearly",
+      "monthly": "Monthly",
+      "lifetime": "Lifetime"
+    },
+    "per": {
+      "yearly": "/ year",
+      "monthly": "/ month",
+      "lifetime": "one-time"
+    },
+    "subscribe": "Go Premium",
+    "restore": "Restore purchases",
+    "processing": "Processing…",
+    "success": "Premium is active! Thank you.",
+    "failed": "Could not complete the purchase. Please try again.",
+    "restoreNone": "No purchases found to restore.",
+    "restored": "Your purchases were restored.",
+    "unavailable": "Purchases are unavailable right now.",
+    "active": "Premium active",
+    "manage": "Manage subscription",
+    "legalIos": "Payment is charged to your Apple ID account at confirmation. The subscription renews automatically at the same price and length unless cancelled at least 24 hours before the end of the current period. Manage or cancel in Settings > Apple ID > Subscriptions.",
+    "legalAndroid": "Payment is charged to your Google Play account at confirmation. The subscription renews automatically at the same price and length unless cancelled before the end of the current period. Cancel anytime in Play Store > Subscriptions.",
+    "lifetimeNote": "The lifetime plan is a one-time payment and does not renew.",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "locked": "Premium only",
+    "upgrade": "Go Premium",
+    "best": "Best value"
+  },
+  "ads": {
+    "rewardDuels": "Watch an ad (+{n} duels)",
+    "rewardThanks": "+{n} duels added",
+    "streakRescue": "Save your streak (watch an ad)",
+    "streakRescued": "Your streak is saved!",
+    "promoTitle": "Play ad-free",
+    "promoBody": "Premium removes ads and unlocks all content.",
+    "promoCta": "See Premium",
+    "dismiss": "Dismiss"
+  },
+  "account": {
+    "title": "Account",
+    "guestTitle": "You are playing as a guest",
+    "guestBody": "Sign in to keep your account even if you change phones.",
+    "signedIn": "Signed in",
+    "signInApple": "Sign in with Apple",
+    "signInGoogle": "Sign in with Google",
+    "signOut": "Sign out",
+    "name": "Display name",
+    "save": "Save",
+    "saved": "Saved",
+    "premiumSection": "Premium",
+    "delete": "Delete account",
+    "deleteLocal": "Delete data on this device",
+    "deleteTitle": "Delete your account?",
+    "deleteBody": "Your account and all data on this device (streak, settings) will be permanently deleted. This cannot be undone. If you have a store subscription, cancel it separately in your store settings.",
+    "deleteConfirm": "Delete permanently",
+    "deleteFailed": "Could not delete the account. Check your connection and try again.",
+    "authFailed": "Could not sign in. Please try again.",
+    "offline": "Account features are unavailable right now.",
+    "legal": "Legal",
+    "version": "Version {v}"
+  },
+  "duelUi": {
+    "rules": "Duel rules",
+    "identity": "Contestant",
+    "yourName": "Contestant name",
+    "pickCategory": "Choose a category",
+    "single": "Single choice",
+    "quotaTitle": "Daily duel allowance",
+    "quotaLeft": "Left: {n}",
+    "outTitle": "When you run out of duels today",
+    "outBody": "When your duels are used up, pick one of the options below to keep going.",
+    "unlimited": "UNLIMITED",
+    "searchSub": "Looking for an evenly matched opponent",
+    "ready": "Ready",
+    "radar": "Lantern radar active",
+    "waited": "Waiting: {s} s",
+    "botTitle": "No live opponent found",
+    "botBody": "You are playing against a BOT this match.",
+    "matched": "Match ready"
+  },
+  "matchUi": {
+    "youTag": "You",
+    "botTag": "BOT",
+    "wrongPick": "Wrong choice",
+    "pts": "+{n} pts",
+    "done": "{a}/{b} done",
+    "score": "{n} p"
   }
 }

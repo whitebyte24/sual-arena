@@ -12,7 +12,30 @@
       "family": "Söyleme!",
       "daily": "Günlük Soru",
       "league": "Ramazan Ligi"
-    }
+    },
+    "premium": "Premium",
+    "account": "Hesap",
+    "hero": {
+      "eyebrow": "Bugün",
+      "title": "İlminizi tazeleyin, sevdiklerinizle yarışın",
+      "body": "Edepli ve heyecan dolu bir bilgi meydanı sizi bekliyor."
+    },
+    "section": "Meydan modları",
+    "sub": {
+      "duel": "Birebir canlı bilgi mücadelesi",
+      "room": "Özel oda kur, sevdiklerinle yarış",
+      "family": "Yasaklı kelimeyi söylemeden anlat",
+      "daily": "Her gün 5 yeni soru, seriyi koru",
+      "league": "Bereketli yarışma sezonu"
+    },
+    "badge": {
+      "live": "Canlı",
+      "upTo": "{n} kişiye kadar",
+      "family": "Aile modu",
+      "soon": "Yakında",
+      "days": "{n} gün"
+    },
+    "menuLabel": "Ana menü"
   },
   "common": {
     "back": "Geri",
@@ -172,5 +195,104 @@
     "shareCardTitle": "Günlük Soru #{n}",
     "noQuestions": "Günlük soru için yeterli soru yok.",
     "loading": "Hazırlanıyor…"
+  },
+  "premium": {
+    "title": "Sual Arena Premium",
+    "headline": "Reklamsız oyna, her şeye eriş",
+    "benefits": {
+      "noAds": "Reklamlar kaldırılır",
+      "unlimitedDuels": "Sınırsız düello",
+      "allCategories": "Tüm kategoriler",
+      "allDecks": "Tüm Söyleme! desteleri",
+      "leagueRewards": "Ramazan Ligi ödülleri"
+    },
+    "plan": {
+      "yearly": "Yıllık",
+      "monthly": "Aylık",
+      "lifetime": "Ömür boyu"
+    },
+    "per": {
+      "yearly": "/ yıl",
+      "monthly": "/ ay",
+      "lifetime": "tek seferlik"
+    },
+    "subscribe": "Premium'a geç",
+    "restore": "Satın alımları geri yükle",
+    "processing": "İşleniyor…",
+    "success": "Premium aktif! Teşekkürler.",
+    "failed": "İşlem tamamlanamadı. Tekrar dene.",
+    "restoreNone": "Geri yüklenecek satın alım bulunamadı.",
+    "restored": "Satın alımların geri yüklendi.",
+    "unavailable": "Satın alma şu an kullanılamıyor.",
+    "active": "Premium aktif",
+    "manage": "Aboneliği yönet",
+    "legalIos": "Abonelik, onay sırasında Apple Kimliği hesabından tahsil edilir. Mevcut dönem bitiminden en az 24 saat önce iptal edilmezse abonelik aynı süreyle ve aynı fiyattan otomatik olarak yenilenir. Aboneliği Ayarlar > Apple Kimliği > Abonelikler bölümünden yönetebilir ve iptal edebilirsin.",
+    "legalAndroid": "Abonelik, onay sırasında Google Play hesabından tahsil edilir. Mevcut dönem bitmeden iptal edilmezse abonelik aynı süreyle ve aynı fiyattan otomatik olarak yenilenir. Play Store > Abonelikler bölümünden istediğin zaman iptal edebilirsin.",
+    "lifetimeNote": "Ömür boyu paket tek seferlik ödemedir, yenilenmez.",
+    "terms": "Kullanım koşulları",
+    "privacy": "Gizlilik politikası",
+    "locked": "Premium'a özel",
+    "upgrade": "Premium'a geç",
+    "best": "En avantajlı"
+  },
+  "ads": {
+    "rewardDuels": "Reklam izle (+{n} düello)",
+    "rewardThanks": "+{n} düello hakkı eklendi",
+    "streakRescue": "Seriyi kurtar (reklam izle)",
+    "streakRescued": "Serin kurtarıldı!",
+    "promoTitle": "Reklamsız oyna",
+    "promoBody": "Premium ile reklamlar kalkar, tüm içerik açılır.",
+    "promoCta": "Premium'u gör",
+    "dismiss": "Kapat"
+  },
+  "account": {
+    "title": "Hesap",
+    "guestTitle": "Misafir olarak oynuyorsun",
+    "guestBody": "Giriş yaparsan hesabın telefon değişse de seninle kalır.",
+    "signedIn": "Giriş yapıldı",
+    "signInApple": "Apple ile giriş yap",
+    "signInGoogle": "Google ile giriş yap",
+    "signOut": "Çıkış yap",
+    "name": "Görünen ad",
+    "save": "Kaydet",
+    "saved": "Kaydedildi",
+    "premiumSection": "Premium",
+    "delete": "Hesabı sil",
+    "deleteLocal": "Cihaz verilerini sil",
+    "deleteTitle": "Hesap silinsin mi?",
+    "deleteBody": "Hesabın ve cihazdaki tüm verilerin (seri, ayarlar) kalıcı olarak silinir. Bu işlem geri alınamaz. Mağaza aboneliğin varsa onu ayrıca mağaza ayarlarından iptal etmelisin.",
+    "deleteConfirm": "Kalıcı olarak sil",
+    "deleteFailed": "Hesap silinemedi. İnternetini kontrol edip tekrar dene.",
+    "authFailed": "Giriş yapılamadı. Tekrar dene.",
+    "offline": "Hesap özellikleri şu an kullanılamıyor.",
+    "legal": "Yasal",
+    "version": "Sürüm {v}"
+  },
+  "duelUi": {
+    "rules": "Düello kuralları",
+    "identity": "Yarışmacı",
+    "yourName": "Yarışmacı adı",
+    "pickCategory": "Kategori seç",
+    "single": "Tekil seçim",
+    "quotaTitle": "Günlük düello kontenjanı",
+    "quotaLeft": "Kalan: {n}",
+    "outTitle": "Bugünkü düello hakkın bittiğinde",
+    "outBody": "Hakların tükendiğinde ilim yolculuğuna ara vermeden devam etmek için seçeneklerden birini kullanabilirsin.",
+    "unlimited": "SINIRSIZ",
+    "searchSub": "İlmin meclisinde denk bir talip aranıyor",
+    "ready": "Hazır",
+    "radar": "Fener radarı aktif",
+    "waited": "Bekleme süresi: {s} sn",
+    "botTitle": "Canlı rakip bulunamadı",
+    "botBody": "Bu maçta BOT ile oynuyorsun.",
+    "matched": "Eşleşme tamamlandı"
+  },
+  "matchUi": {
+    "youTag": "Sen",
+    "botTag": "BOT",
+    "wrongPick": "Hatalı tercih",
+    "pts": "+{n} puan",
+    "done": "{a}/{b} tamamladı",
+    "score": "{n} p"
   }
 }

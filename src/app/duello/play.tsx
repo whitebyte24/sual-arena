@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Text, View } from 'react-native';
 import { Stack, router, useLocalSearchParams } from 'expo-router';
 import { QUESTION_INDEX, questionPool, type CategoryChoice } from '@/content/questions';
 import type { ContentLang } from '@/content/schema';
@@ -8,22 +7,21 @@ import { makeResolver, pickQuestions } from '@/features/duello/match';
 import { MatchPlay } from '@/features/duello/MatchPlay';
 import { searchOpponent } from '@/features/duello/matchmaking';
 import { consumeDuel } from '@/features/duello/quota';
+import { SearchScreen, type SearchView } from '@/features/duello/SearchScreen';
 import { MatchSession, nullTransport } from '@/features/duello/session';
-import { t } from '@/i18n';
+import { isPremium } from '@/features/premium/entitlement';
+import { allowedCategories, categoryLocked } from '@/features/premium/tiers';
 import { getIdentity } from '@/lib/identity';
 import { supabase } from '@/lib/supabase';
-import { useTheme } from '@/lib/theme';
-import { Button } from '@/ui/Button';
 
 const QUESTIONS_PER_DUEL = 5;
 const randomSeed = () => (Math.random() * 0x7fffffff) | 0;
 const randomId = () => `${Date.now().toString(36)}${Math.floor(Math.random() * 1e8).toString(36)}`;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-type Phase = { kind: 'search' } | { kind: 'notice'; text: string } | { kind: 'match' };
+type Phase = SearchView | { kind: 'match' };
 
 export default function DuelPlay() {
-  const theme = useTheme();
   const params = useLocalSearchParams<{ category?: string; lang?: string }>();
   const category = (params.category ?? 'all') as CategoryChoice;
   const lang = (params.lang ?? 'tr') as ContentLang;
@@ -31,6 +29,7 @@ export default function DuelPlay() {
   const [phase, setPhase] = useState<Phase>({ kind: 'search' });
   const [session, setSession] = useState<MatchSession | null>(null);
   const [selfId, setSelfId] = useState('');
+  const [myName, setMyName] = useState('');
   const [attempt, setAttempt] = useState(0);
   const sessionRef = useRef<MatchSession | null>(null);
 
@@ -38,7 +37,11 @@ export default function DuelPlay() {
     const ac = new AbortController();
     (async () => {
       const me = await getIdentity();
-      const res = await searchOpponent({ client: me.online ? supabase : null, self: me, lang, category, signal: ac.signal });
+      setMyName(me.name);
+      const premium = await isPremium();
+      // Güvenlik: kilitli kategori (ör. derin bağlantı/eski parametre) → ücretsiz havuza düşer
+      const cat: CategoryChoice = categoryLocked(category as CategoryChoice, premium) ? 'all' : (category as CategoryChoice);
+      const res = await searchOpponent({ client: me.online ? supabase : null, self: me, lang, category: cat, signal: ac.signal });
       if (!res) return;
       if (ac.signal.aborted) {
         if (res.kind === 'human') res.transport.close();
@@ -46,11 +49,11 @@ export default function DuelPlay() {
       }
 
       if (res.kind === 'bot') {
-        setPhase({ kind: 'notice', text: res.reason === 'offline' ? t('duel.offlineNote') : t('duel.botNote') });
+        setPhase({ kind: 'bot', reason: res.reason });
         await sleep(1600);
         if (ac.signal.aborted) return;
       } else {
-        setPhase({ kind: 'notice', text: t('duel.found', { name: res.opponent.name }) });
+        setPhase({ kind: 'found', opponent: res.opponent.name });
         await sleep(900);
         if (ac.signal.aborted) return res.transport.close();
       }
@@ -65,7 +68,7 @@ export default function DuelPlay() {
 
       if (res.kind === 'bot' || res.host) {
         const seed = randomSeed();
-        const qids = pickQuestions(questionPool(lang, category), QUESTIONS_PER_DUEL, seed);
+        const qids = pickQuestions(questionPool(lang, cat, allowedCategories(premium)), QUESTIONS_PER_DUEL, seed);
         const opponent = res.kind === 'bot' ? BOT_PLAYER : res.opponent;
         s.start({ matchId: randomId(), players: [{ id: me.id, name: me.name }, opponent], qids, seed });
       } else {
@@ -102,12 +105,9 @@ export default function DuelPlay() {
   }
 
   return (
-    <View style={{ flex: 1, backgroundColor: theme.bg, alignItems: 'center', justifyContent: 'center', padding: 24, gap: 24 }}>
+    <>
       <Stack.Screen options={{ gestureEnabled: false }} />
-      <Text style={{ color: theme.text, fontSize: 22, fontWeight: '700', textAlign: 'center' }}>
-        {phase.kind === 'notice' ? phase.text : t('duel.searching')}
-      </Text>
-      {phase.kind === 'search' && <Button label={t('duel.cancel')} variant="neutral" onPress={leave} style={{ alignSelf: 'stretch' }} />}
-    </View>
+      <SearchScreen name={myName} view={phase as SearchView} onCancel={leave} />
+    </>
   );
 }

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { ScrollView, Text, TextInput, View } from 'react-native';
+import { ScrollView, TextInput, View } from 'react-native';
+import { Text } from '@/ui/Text';
 import { router, useLocalSearchParams } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { isRoomCode } from '@/features/duello/pairing';
@@ -8,6 +9,7 @@ import { MAX_NAME, getPlayerName, setPlayerName } from '@/lib/identity';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { supabase } from '@/lib/supabase';
 import { Button } from '@/ui/Button';
+import { ScreenHeader } from '@/ui/ScreenHeader';
 
 export default function RoomEntry() {
   const theme = useTheme();
@@ -40,11 +42,8 @@ export default function RoomEntry() {
     <ScrollView
       style={{ backgroundColor: theme.bg }}
       contentContainerStyle={{ padding: spacing.md, paddingTop: insets.top + spacing.md, paddingBottom: insets.bottom + spacing.xl, gap: spacing.lg }}>
-      <Button label={t('common.back')} variant="ghost" height={48} onPress={() => router.back()} style={{ alignSelf: 'flex-start' }} />
-      <View>
-        <Text style={{ color: theme.accent, fontSize: 32, fontWeight: '800' }}>{t('room.title')}</Text>
-        <Text style={{ color: theme.textMuted, fontSize: 16, marginTop: spacing.xs }}>{t('room.subtitle')}</Text>
-      </View>
+      <ScreenHeader title={t('room.title')} />
+      <Text style={{ color: theme.textMuted, fontSize: 15, lineHeight: 22 }}>{t('room.subtitle')}</Text>
       {!online && <Text style={{ color: theme.danger, fontSize: 15 }}>{t('room.needOnline')}</Text>}
       <View>
         <Text style={label}>{t('online.yourName')}</Text>

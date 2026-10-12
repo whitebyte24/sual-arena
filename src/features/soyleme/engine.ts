@@ -58,9 +58,17 @@ export interface GameState {
 export { shuffle };
 
 // ─── deste ───────────────────────────────────────────────────────────────────
-export function eligibleCards(cards: readonly Card[], settings: Pick<Settings, 'lang' | 'level'>): Card[] {
+/** `allowedLevels`: ücretsiz planda erişilebilen seviyeler (undefined = hepsi). */
+export function eligibleCards(
+  cards: readonly Card[],
+  settings: Pick<Settings, 'lang' | 'level'>,
+  allowedLevels?: readonly CardLevel[],
+): Card[] {
   return cards.filter(
-    (c) => c.lang === settings.lang && (settings.level === 'mixed' || c.level === settings.level),
+    (c) =>
+      c.lang === settings.lang &&
+      (settings.level === 'mixed' || c.level === settings.level) &&
+      (!allowedLevels || allowedLevels.includes(c.level)),
   );
 }
 
@@ -81,8 +89,9 @@ export function createGame(
   settings: Settings,
   seenIds: readonly string[],
   seed: number,
+  allowedLevels?: readonly CardLevel[],
 ): GameState {
-  const pool = eligibleCards(cards, settings);
+  const pool = eligibleCards(cards, settings, allowedLevels);
   const [deck, s] = buildDeck(pool, new Set(seenIds), seed);
   return { phase: 'ready', settings, pool, deck, cursor: 0, seed: s, turns: [], turnIndex: 0, endsAt: 0 };
 }

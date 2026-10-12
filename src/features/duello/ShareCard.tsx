@@ -1,5 +1,6 @@
 import { forwardRef } from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
+import { Text } from '@/ui/Text';
 import { INVITE_URL } from '@/lib/config';
 import { palette, radius, spacing } from '@/lib/theme';
 import { t } from '@/i18n';

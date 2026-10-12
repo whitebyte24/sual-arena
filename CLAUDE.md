@@ -70,5 +70,21 @@ süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorag
 - **Faz 5 bağlantısı:** `repairStreak` hazır, ödüllü reklam düğmesi (status = repairable) henüz yok. Seri yalnızca cihazda (hesap/silme sonrası taşınmaz).
 - Ortak paylaşım: `src/lib/share.ts` (`shareView` görüntü, `shareWhatsapp`, `shareText`).
 
+## Premium / Reklam / Hesap (Faz 5)
+- **Kademeler** tek dosyada: `src/features/premium/tiers.ts` (ücretsiz: Kur'an/Siyer/Kıssalar + Söyleme! çocuk/genç + günde 10 düello; premium: hepsi + reklamsız). Havuz süzme: `questionPool(.., allowed)`, `eligibleCards(.., allowedLevels)`.
+- **Platform ayrımı:** `adapter.ts` (web/Expo Go: boş/sahte) vs `adapter.native.ts` (AdMob, RevenueCat). Native modüller Expo Go'da yok → dev build (`docs/setup-accounts.md` §4). `BannerView(.native).tsx` aynı kural.
+- **Reklam politikası** saf TS: `src/features/ads/policy.ts` (+ `tests/monetization.test.ts`). Uzaktan config yalnızca AZALTIR (taban: 3 maçta bir, ≥3 dk, ilk 3 maç yok; ilk oturum yok). Banner yalnızca `home|result`. Geçiş reklamı yalnızca `onMatchFinished()` (MatchPlay Result, Söyleme! bitiş). Ödüllü: `watchRewarded()` (yüklenemezse de ödül).
+- **Güvenlik kuralları:** üretimde AdMob kimliği yoksa reklam YOK (test kimliğine düşmez); `mockAdapter` yalnızca `__DEV__` (üretimde sahte premium yok); `configure()` başarısızsa premium=false.
+- **Hesap:** `src/lib/auth.ts` (Apple yerel iOS, Google OAuth+linkIdentity, `deleteAccount()` = RPC + yerel temizlik), ekranlar `src/app/{premium,hesap}.tsx`. Onay penceresi `src/ui/confirm.ts` (web'de Alert çalışmaz).
+- Uzaktan yapılandırma: `src/lib/remoteConfig.ts` (`remote_config` tablosu → önbellek → varsayılan).
+- **Doğrulanmadı (cihaz/hesap gerekir):** gerçek AdMob/UMP/ATT, RevenueCat satın alma, Apple/Google giriş, canlı hesap silme. Yalnızca tip kontrolü + mantık testleri + web'de sahte akış denendi.
+
+## Arayüz (Stitch tasarımı uygulandı)
+- Tasarım kaynağı `docs/design/stitch/` (4 ekran + DESIGN.md), kod: `src/lib/theme.ts`, `src/ui/`. Ayrıntı ve "alınmayanlar": `docs/design-tokens.md`.
+- **Tüm metin `@/ui/Text`** ile çizilir (Plus Jakarta Sans); `react-native`'den `Text` import etme. Simgeler `@/ui/Icon`. Kilitli çip: `<Chip locked />` (emoji ekleme).
+- SVG gradyan kimlikleri `useId` ile benzersiz olmalı (web'de gizli ekranlar kimlik çakışması yapar).
+- Stitch yalnızca Ana menü, Düello kurulum/arama/soru ekranlarını verdi; Söyleme!, Günlük, Oda, Paywall, Hesap aynı dille elle genişletildi (Stitch onayı yok).
+- Arapça yazı tipi ve RTL denetimi Faz 6'da (şimdilik Arapça glifler sistem yazı tipine düşer).
+
 ## Durum
-Faz 1–4 tamam (3'ün çevrimiçi kısmı canlıda test bekliyor). Sıradaki: Faz 5 Abonelik + reklam + hesap + hesap silme.
+Faz 1–5 tamam + arayüz yenilendi (3 ve 5'in canlı servis kısımları hesap/anahtar bekliyor). Sıradaki: Faz 6 i18n + RTL + karanlık mod.

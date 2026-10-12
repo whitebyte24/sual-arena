@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from 'react';
-import { ScrollView, Share, Text, View } from 'react-native';
+import { ScrollView, Share, View } from 'react-native';
+import { Text } from '@/ui/Text';
 import { Stack, router, useLocalSearchParams } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { QUESTION_INDEX, questionLangs, questionPool, type CategoryChoice } from '@/content/questions';
@@ -9,6 +10,8 @@ import { MatchPlay } from '@/features/duello/MatchPlay';
 import { isRoomCode } from '@/features/duello/pairing';
 import { RoomFailure, createRoom, joinRoom, lobbyPlayers, type RoomError } from '@/features/duello/room';
 import { MatchSession } from '@/features/duello/session';
+import { usePremium } from '@/features/premium/entitlement';
+import { allowedCategories, categoryLocked } from '@/features/premium/tiers';
 import { getLang, t } from '@/i18n';
 import { INVITE_URL, MAX_ROOM_PLAYERS } from '@/lib/config';
 import { getIdentity } from '@/lib/identity';
@@ -16,6 +19,7 @@ import type { ChannelTransport, PresenceMeta } from '@/lib/realtime';
 import { supabase } from '@/lib/supabase';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
+import { ScreenHeader } from '@/ui/ScreenHeader';
 import { Chip } from '@/ui/Chip';
 import { Stepper } from '@/ui/Stepper';
 
@@ -30,6 +34,7 @@ export default function RoomLobby() {
   const insets = useSafeAreaInsets();
   const params = useLocalSearchParams<{ mode?: string; code?: string }>();
   const isHost = params.mode === 'host';
+  const premium = usePremium();
 
   const [code, setCode] = useState(params.code ?? '');
   const [selfId, setSelfId] = useState('');
@@ -43,7 +48,7 @@ export default function RoomLobby() {
 
   const langs = questionLangs();
   const lang = langs.includes(getLang()) ? getLang() : (langs[0] ?? getLang());
-  const pool = questionPool(lang, category).length;
+  const pool = questionPool(lang, category, allowedCategories(premium)).length;
   const maxCount = Math.max(5, Math.min(15, pool));
 
   useEffect(() => {
@@ -99,11 +104,11 @@ export default function RoomLobby() {
     const tr = transportRef.current;
     if (!s || !tr || players.length < 2) return;
     const seed = randomSeed();
-    const qids = pickQuestions(questionPool(lang, category), count, seed);
+    const qids = pickQuestions(questionPool(lang, category, allowedCategories(premium)), count, seed);
     const info: PlayerInfo[] = players.slice(0, MAX_ROOM_PLAYERS).map((p) => ({ id: p.id, name: p.name }));
     await tr.updateMeta({ started: true }).catch(() => {});
     s.start({ matchId: randomId(), players: info, qids, seed });
-  }, [players, lang, category, count]);
+  }, [players, lang, category, count, premium]);
 
   const invite = () =>
     Share.share({ message: t('room.inviteText', { code, url: INVITE_URL }) }).catch(() => {});
@@ -125,7 +130,7 @@ export default function RoomLobby() {
       style={{ backgroundColor: theme.bg }}
       contentContainerStyle={{ padding: spacing.md, paddingTop: insets.top + spacing.md, paddingBottom: insets.bottom + spacing.xl, gap: spacing.lg }}>
       <Stack.Screen options={{ gestureEnabled: true }} />
-      <Button label={t('common.back')} variant="ghost" height={48} onPress={() => router.back()} style={{ alignSelf: 'flex-start' }} />
+      <ScreenHeader title={t('room.title')} />
       {error ? (
         <Text style={{ color: theme.danger, fontSize: 18, textAlign: 'center' }}>{error}</Text>
       ) : !session ? (
@@ -156,7 +161,13 @@ export default function RoomLobby() {
                 <Text style={label}>{t('duel.category')}</Text>
                 <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
                   {CHOICES.map((c) => (
-                    <Chip key={c} label={t(`category.${c}`)} selected={category === c} onPress={() => setCategory(c)} />
+                    <Chip
+                      key={c}
+                      label={t(`category.${c}`)}
+                      locked={categoryLocked(c, premium)}
+                      selected={category === c}
+                      onPress={() => (categoryLocked(c, premium) ? router.push('/premium') : setCategory(c))}
+                    />
                   ))}
                 </View>
               </View>

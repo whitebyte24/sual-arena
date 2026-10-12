@@ -1,5 +1,7 @@
-import { Pressable, Text, View } from 'react-native';
+import { Pressable, View } from 'react-native';
 import { radius, spacing, useTheme } from '@/lib/theme';
+import { Icon } from './Icon';
+import { TABULAR, Text } from './Text';
 
 interface Props {
   label: string;
@@ -13,13 +15,13 @@ interface Props {
 
 export function Stepper({ label, valueText, onDec, onInc, decDisabled, incDisabled }: Props) {
   const theme = useTheme();
-  const btn = (sign: string, onPress: () => void, disabled?: boolean) => (
+  const btn = (name: 'minus' | 'plus', onPress: () => void, disabled?: boolean) => (
     <Pressable
       accessibilityRole="button"
-      accessibilityLabel={sign === '−' ? '−' : '+'}
+      accessibilityLabel={name === 'minus' ? '−' : '+'}
       disabled={disabled}
       onPress={onPress}
-      style={{
+      style={({ pressed }) => ({
         width: 48,
         height: 48,
         borderRadius: radius.md,
@@ -28,17 +30,17 @@ export function Stepper({ label, valueText, onDec, onInc, decDisabled, incDisabl
         borderColor: theme.border,
         alignItems: 'center',
         justifyContent: 'center',
-        opacity: disabled ? 0.35 : 1,
-      }}>
-      <Text style={{ color: theme.text, fontSize: 24, fontWeight: '700' }}>{sign}</Text>
+        opacity: disabled ? 0.35 : pressed ? 0.8 : 1,
+      })}>
+      <Icon name={name} size={24} color={theme.text} />
     </Pressable>
   );
   return (
     <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: spacing.md }}>
       <Text style={{ color: theme.text, fontSize: 16, flex: 1 }}>{label}</Text>
-      {btn('−', onDec, decDisabled)}
-      <Text style={{ color: theme.accent, fontSize: 18, fontWeight: '700', minWidth: 72, textAlign: 'center' }}>{valueText}</Text>
-      {btn('+', onInc, incDisabled)}
+      {btn('minus', onDec, decDisabled)}
+      <Text style={[{ color: theme.accent, fontSize: 18, fontWeight: '700', minWidth: 72, textAlign: 'center' }, TABULAR]}>{valueText}</Text>
+      {btn('plus', onInc, incDisabled)}
     </View>
   );
 }
