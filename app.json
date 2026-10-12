@@ -10,7 +10,8 @@
       "supportsTablet": false,
       "bundleIdentifier": "com.sualarena.app",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "CFBundleAllowMixedLocalizations": true
       },
       "usesAppleSignIn": true
     },
@@ -31,7 +32,17 @@
     },
     "plugins": [
       "expo-router",
-      "expo-localization",
+      [
+        "expo-localization",
+        {
+          "supportsRTL": true,
+          "supportedLocales": [
+            "tr",
+            "ar",
+            "en"
+          ]
+        }
+      ],
       "expo-secure-store",
       "expo-sharing",
       "expo-web-browser",
@@ -40,13 +51,13 @@
         {
           "androidAppId": "ca-app-pub-3940256099942544~3347511713",
           "iosAppId": "ca-app-pub-3940256099942544~1458002511",
-          "userTrackingUsageDescription": "Sana daha uygun reklamlar gösterebilmemiz için cihaz kimliğini kullanmamıza izin verebilirsin. İzin vermezsen reklamlar yine görünür ama kişiselleştirilmez."
+          "userTrackingUsageDescription": "You can allow us to use your device identifier to show you more relevant ads. If you decline, you will still see ads, but they will not be personalized."
         }
       ],
       [
         "expo-tracking-transparency",
         {
-          "userTrackingPermission": "Sana daha uygun reklamlar gösterebilmemiz için cihaz kimliğini kullanmamıza izin verebilirsin. İzin vermezsen reklamlar yine görünür ama kişiselleştirilmez."
+          "userTrackingPermission": "You can allow us to use your device identifier to show you more relevant ads. If you decline, you will still see ads, but they will not be personalized."
         }
       ],
       "expo-apple-authentication",
@@ -58,6 +69,11 @@
     "backgroundColor": "#0B1B33",
     "experiments": {
       "typedRoutes": true
+    },
+    "locales": {
+      "tr": "./locales/native/tr.json",
+      "en": "./locales/native/en.json",
+      "ar": "./locales/native/ar.json"
     }
   }
 }

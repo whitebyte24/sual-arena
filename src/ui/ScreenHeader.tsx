@@ -1,4 +1,4 @@
-import { I18nManager, Pressable, View } from 'react-native';
+import { Pressable, View } from 'react-native';
 import { router } from 'expo-router';
 import { t } from '@/i18n';
 import { radius, spacing, useTheme } from '@/lib/theme';
@@ -6,7 +6,7 @@ import { Icon } from './Icon';
 import { Text } from './Text';
 import { Lantern } from './ornaments';
 
-/** Geri oku + fener + başlık. (Ok yönü RTL'de otomatik ters döner.) */
+/** Geri oku + fener + başlık. (Ok, `Icon` içinde RTL'de aynalanır.) */
 export function ScreenHeader({ title, subtitle, onBack }: { title: string; subtitle?: string; onBack?: () => void }) {
   const theme = useTheme();
   return (
@@ -26,7 +26,7 @@ export function ScreenHeader({ title, subtitle, onBack }: { title: string; subti
           justifyContent: 'center',
           opacity: pressed ? 0.8 : 1,
         })}>
-        <Icon name={I18nManager.isRTL ? 'arrow-right' : 'arrow-left'} size={22} color={theme.text} />
+        <Icon name="arrow-left" size={22} color={theme.text} />
       </Pressable>
       <Lantern size={34} />
       <View style={{ flex: 1 }}>

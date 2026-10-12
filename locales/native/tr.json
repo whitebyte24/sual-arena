@@ -1,0 +1,9 @@
+{
+  "ios": {
+    "CFBundleDisplayName": "Sual Arena",
+    "NSUserTrackingUsageDescription": "Sana daha uygun reklamlar gösterebilmemiz için cihaz kimliğini kullanmamıza izin verebilirsin. İzin vermezsen reklamlar yine görünür ama kişiselleştirilmez."
+  },
+  "android": {
+    "app_name": "Sual Arena"
+  }
+}

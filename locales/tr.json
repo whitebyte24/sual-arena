@@ -266,7 +266,13 @@
     "authFailed": "Giriş yapılamadı. Tekrar dene.",
     "offline": "Hesap özellikleri şu an kullanılamıyor.",
     "legal": "Yasal",
-    "version": "Sürüm {v}"
+    "version": "Sürüm {v}",
+    "language": "Dil",
+    "theme": "Görünüm",
+    "themeSystem": "Sistem",
+    "themeDark": "Koyu",
+    "themeLight": "Açık",
+    "restartNote": "Yön değişikliğinin tamamlanması için uygulamayı kapatıp yeniden aç."
   },
   "duelUi": {
     "rules": "Düello kuralları",

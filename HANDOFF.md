@@ -65,7 +65,7 @@ _(henüz yok)_
 |---|---|
 | 1 Soru bankası | bekliyor — pilot parti başlatılabilir |
 | 2 Kartlar | bekliyor — pilot parti başlatılabilir |
-| 3 AR kontrol | Faz 6 sonrası |
+| 3 AR kontrol | **HAZIR** — `locales/ar.json` (250 anahtar) ve `locales/native/ar.json` incelenebilir; RTL ekran görüntüsü için web önizlemesi: `npm start` → Hesap → Dil |
 | 4 Görseller | Faz 5+ sonrası |
 | 5 Pazarlama | başlatılabilir (öncelik düşük) |
 | 6 E2E test | Faz 10 öncesi |

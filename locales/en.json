@@ -266,7 +266,13 @@
     "authFailed": "Could not sign in. Please try again.",
     "offline": "Account features are unavailable right now.",
     "legal": "Legal",
-    "version": "Version {v}"
+    "version": "Version {v}",
+    "language": "Language",
+    "theme": "Appearance",
+    "themeSystem": "System",
+    "themeDark": "Dark",
+    "themeLight": "Light",
+    "restartNote": "Close and reopen the app to finish switching the layout direction."
   },
   "duelUi": {
     "rules": "Duel rules",

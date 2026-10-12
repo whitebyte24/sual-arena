@@ -15,7 +15,7 @@ Durum: `[ ]` yapılmadı · `[~]` kısmen/kod hazır, doğrulanmadı · `[x]` ta
 | 9 | Yaş derecelendirmesi 4+ / Herkes; kullanıcılar arası sohbet YOK (yalnız hazır emoji; kod: EMOJIS beyaz listesi, session.ts) | 3 | [~] |
 | 10 | Google Play hedef SDK güncel (Expo SDK 57 varsayılanı; Faz 10'da doğrula) | 10 | [ ] |
 | 11 | Google UMP formu (kod: `gatherConsent`; AdMob panelinde mesaj yayınlanmalı), KVKK aydınlatma metni (landing, Faz 9) | 5 | [~] |
-| 12 | iOS ATT istemi + açıklama metni (app.json, TR; Faz 6 da yerelleştir); reddedilirse kişiselleştirilmemiş reklam (kodda) | 5 | [~] |
+| 12 | iOS ATT istemi + açıklama metni (TR/EN/AR yerel dizeler `locales/native`, taban EN); reddedilirse kişiselleştirilmemiş reklam (kodda) | 5-6 | [~] |
 | 13 | App Store gizlilik etiketlerinde reklam/izleme verileri beyan | 10 | [ ] |
 | 14 | Play'de "Reklam içerir" işaretli; Veri Güvenliği'nde reklam kimliği; Android `AD_ID` izni | 10 | [ ] |
 | 15 | `app-ads.txt` açılış sayfası kök dizininde yayında | 9 | [ ] |

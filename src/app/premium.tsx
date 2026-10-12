@@ -119,7 +119,7 @@ export default function Paywall() {
                         <Text style={{ color: theme.text, fontSize: 18, fontWeight: '700' }}>{t(`premium.plan.${p.type}`)}</Text>
                         {idx === 0 && p.type === 'yearly' && <Badge label={t('premium.best')} tone="gold" icon="star-four-points" />}
                       </View>
-                      <Text style={{ color: theme.text, fontSize: 17, fontWeight: '700', textAlign: 'right' }}>
+                      <Text style={{ color: theme.text, fontSize: 17, fontWeight: '700' }}>
                         {p.priceString} <Text style={{ color: theme.textMuted, fontSize: 12, fontWeight: '500' }}>{t(`premium.per.${p.type}`)}</Text>
                       </Text>
                     </Card>

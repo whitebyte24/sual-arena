@@ -8,7 +8,7 @@ import { Icon, type IconName } from '@/ui/Icon';
 import { Divider, Lantern } from '@/ui/ornaments';
 import { Stack, router, useLocalSearchParams } from 'expo-router';
 import * as Haptics from 'expo-haptics';
-import { useKeepAwake } from 'expo-keep-awake';
+import { activateKeepAwakeAsync, deactivateKeepAwake } from 'expo-keep-awake';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { ALL_CARDS } from '@/content/cards';
 import { onMatchFinished } from '@/features/ads';
@@ -56,7 +56,13 @@ const CYCLE: Result[] = ['correct', 'taboo', 'pass'];
 const newSeed = () => (Math.random() * 0x7fffffff) | 0;
 
 export default function SoylemePlay() {
-  useKeepAwake();
+  // Elden ele oyunda ekran kapanmasın (web'de desteklenmeyebilir: hata yutulur)
+  useEffect(() => {
+    activateKeepAwakeAsync('soyleme').catch(() => {});
+    return () => {
+      deactivateKeepAwake('soyleme').catch(() => {});
+    };
+  }, []);
   const theme = useTheme();
   const insets = useSafeAreaInsets();
   const { s } = useLocalSearchParams<{ s?: string }>();

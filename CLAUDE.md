@@ -86,5 +86,14 @@ süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorag
 - Stitch yalnızca Ana menü, Düello kurulum/arama/soru ekranlarını verdi; Söyleme!, Günlük, Oda, Paywall, Hesap aynı dille elle genişletildi (Stitch onayı yok).
 - Arapça yazı tipi ve RTL denetimi Faz 6'da (şimdilik Arapça glifler sistem yazı tipine düşer).
 
+## Dil, RTL, tema (Faz 6)
+- Dil: `src/i18n/` — `lang.ts` (saf: seçim, RTL, tema tercihi), `fonts.ts` (saf: yazı tipi/boyut), `index.ts` (`initLang`, `setLang`, `useLang`, `t`). Kayıtlı tercih > cihaz dili > EN. Kök yerleşim `key={lang}` ile dil değişince yeniden kurulur.
+- **RTL:** yerelde `I18nManager.forceRTL` bir SONRAKİ açılışta etkili → yön değişince kökte "uygulamayı yeniden aç" uyarısı çıkar (`needsRestart`). Web'de `document.dir` anında uygular. Plugin: `expo-localization { supportsRTL, supportedLocales }`.
+  Yönlü simgeler (`Icon` içinde `DIRECTIONAL`) RTL'de aynalanır. Stil yazarken `start/end` kullan (left/right değil); Arapçada `letterSpacing` Text içinde otomatik sıfırlanır.
+- Yazı tipi: Latin/TR Plus Jakarta Sans, Arapça IBM Plex Sans Arabic (~%10 büyük). Tema tercihi (Sistem/Koyu/Açık): `src/lib/appearance.ts`, Hesap ekranında.
+- Yerel dizeler: `locales/native/{tr,en,ar}.json` (uygulama adı + ATT metni) `app.json > locales`; taban ATT metni İngilizce.
+- Denetimler: `npm run i18n:check` (anahtar paritesi) + `npm run i18n:hardcoded` (sabit/Türkçe metin yakalar; `check` içinde).
+- **Arapça içerik yok:** `ar` arayüzünde soru/kart yine de TR'den gelir (dev tohumu yalnızca TR soru + TR/AR kart). Gerçek AR içerik Antigravity'den (HANDOFF Görev 1–3).
+
 ## Durum
-Faz 1–5 tamam + arayüz yenilendi (3 ve 5'in canlı servis kısımları hesap/anahtar bekliyor). Sıradaki: Faz 6 i18n + RTL + karanlık mod.
+Faz 1–6 tamam (3 ve 5'in canlı servis kısımları hesap/anahtar bekliyor; Arapça metinlerin ana dili konuşan kontrolü Antigravity Görev 3). Sıradaki: Faz 7 içerik entegrasyonu + doğrulama.

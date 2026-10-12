@@ -5,7 +5,9 @@ import { router } from 'expo-router';
 import Constants from 'expo-constants';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { restorePurchases, usePremium } from '@/features/premium/entitlement';
-import { t } from '@/i18n';
+import { LANGS, LANG_NAMES, setLang, t, useLang } from '@/i18n';
+import { THEME_PREFS, type ThemePref } from '@/i18n/lang';
+import { loadThemePref, setThemePref } from '@/lib/appearance';
 import {
   appleAvailable,
   deleteAccount,
@@ -21,6 +23,7 @@ import { PRIVACY_URL, TERMS_URL } from '@/lib/config';
 import { MAX_NAME, getPlayerName, setPlayerName } from '@/lib/identity';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
+import { Chip } from '@/ui/Chip';
 import { ScreenHeader } from '@/ui/ScreenHeader';
 import { confirm } from '@/ui/confirm';
 
@@ -33,12 +36,15 @@ export default function Account() {
   const [name, setName] = useState('');
   const [msg, setMsg] = useState<{ text: string; ok: boolean } | null>(null);
   const [busy, setBusy] = useState(false);
+  const lang = useLang();
+  const [themePref, setThemePrefState] = useState<ThemePref>('system');
 
   const refresh = useCallback(async () => setInfo(await getAccountInfo()), []);
   useEffect(() => {
     getAccountInfo().then(setInfo);
     appleAvailable().then(setApple);
     getPlayerName().then(setName);
+    loadThemePref().then(setThemePrefState);
   }, []);
 
   const run = async (fn: () => Promise<AuthResult>) => {
@@ -89,6 +95,29 @@ export default function Account() {
           style={{ minHeight: 52, borderRadius: radius.md, borderWidth: 1, borderColor: theme.border, color: theme.text, fontSize: 18, paddingHorizontal: spacing.md }}
         />
         <Button label={t('account.save')} variant="neutral" height={48} fontSize={16} onPress={saveName} />
+      </View>
+
+      <View style={card}>
+        <Text style={head}>{t('account.language')}</Text>
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
+          {LANGS.map((l) => (
+            <Chip key={l} label={LANG_NAMES[l]} selected={lang === l} onPress={() => setLang(l)} />
+          ))}
+        </View>
+        <Text style={[head, { marginTop: spacing.sm }]}>{t('account.theme')}</Text>
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
+          {THEME_PREFS.map((p) => (
+            <Chip
+              key={p}
+              label={t(p === 'system' ? 'account.themeSystem' : p === 'dark' ? 'account.themeDark' : 'account.themeLight')}
+              selected={themePref === p}
+              onPress={() => {
+                setThemePrefState(p);
+                setThemePref(p);
+              }}
+            />
+          ))}
+        </View>
       </View>
 
       <View style={card}>

@@ -1,0 +1,9 @@
+{
+  "ios": {
+    "CFBundleDisplayName": "Sual Arena",
+    "NSUserTrackingUsageDescription": "You can allow us to use your device identifier to show you more relevant ads. If you decline, you will still see ads, but they will not be personalized."
+  },
+  "android": {
+    "app_name": "Sual Arena"
+  }
+}
