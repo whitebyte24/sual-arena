@@ -1,0 +1,852 @@
+[
+  {
+    "id": "q-tr-quran-000001",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'in mushaftaki son suresi hangisidir?",
+    "options": [
+      "Felak",
+      "Nâs",
+      "İhlâs",
+      "Kâfirûn"
+    ],
+    "answer_index": 1,
+    "source": "Mushaf sıralaması; 114. sure",
+    "explanation": "Kur'an-ı Kerim'in 114. ve son suresi 6 ayetten oluşan Nâs Sûresi'dir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000002",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'in 3 ayetten oluşan en kısa suresi hangisidir?",
+    "options": [
+      "İhlâs",
+      "Mâûn",
+      "Kevser",
+      "Kureyş"
+    ],
+    "answer_index": 2,
+    "source": "Mushaf sıralaması; Kevser Sûresi (108. sure)",
+    "explanation": "Kevser Sûresi 3 ayetten oluşur ve Kur'an'ın en kısa suresidir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000003",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim hangi mübarek gecede indirilmeye başlanmıştır?",
+    "options": [
+      "Berat Gecesi",
+      "Miraç Gecesi",
+      "Regaib Gecesi",
+      "Kadir Gecesi"
+    ],
+    "answer_index": 3,
+    "source": "Kadr 97/1; Bakara 2/185",
+    "explanation": "Kur'an-ı Kerim, Ramazan ayı içerisindeki Kadir Gecesi'nde indirilmeye başlanmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000004",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim ilk kez hangi halife döneminde mushaf haline getirilerek kitaplaştırılmıştır?",
+    "options": [
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Osman",
+      "Hz. Ali"
+    ],
+    "answer_index": 0,
+    "source": "Buhârî, Fedâilü'l-Kur'ân",
+    "explanation": "Yemâme Savaşı'ndan sonra Hz. Ömer'in tavsiyesiyle ilk halife Hz. Ebû Bekir döneminde Zeyd b. Sâbit başkanlığında Kur'an kitaplaştırılmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000005",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim nüshaları çoğaltılarak İslam merkezlerine hangi halife döneminde gönderilmiştir?",
+    "options": [
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Ali",
+      "Hz. Osman"
+    ],
+    "answer_index": 3,
+    "source": "Buhârî, Fedâilü'l-Kur'ân",
+    "explanation": "Hz. Osman döneminde çoğaltılan ana mushaflar Mekke, Kûfe, Basra ve Şam gibi merkezlere gönderilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000006",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'in ikinci suresi hangisidir?",
+    "options": [
+      "Âl-i İmrân",
+      "Bakara",
+      "Nisâ",
+      "Fâtiha"
+    ],
+    "answer_index": 1,
+    "source": "Mushaf sıralaması",
+    "explanation": "Fâtiha'dan sonra gelen ikinci sure, Kur'an'ın en uzun suresi olan Bakara Sûresi'dir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000007",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "İhlas Sûresi temel olarak hangi inanç esasını vurgulamaktadır?",
+    "options": [
+      "Tevhid",
+      "Kader",
+      "Ahiret",
+      "Meleklere iman"
+    ],
+    "answer_index": 0,
+    "source": "İhlâs 112/1-4",
+    "explanation": "İhlas Sûresi, Allah'ın birliğini, eşi ve benzeri olmadığını yani tevhid inancını açıklar.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000008",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Namazın her rekâtında okunan ve 'Kitabın Açılışı' anlamına gelen sure hangisidir?",
+    "options": [
+      "Bakara",
+      "Kevser",
+      "Fâtiha",
+      "Felak"
+    ],
+    "answer_index": 2,
+    "source": "Buhârî, Ezân; Mushaf sıralaması",
+    "explanation": "Fâtiha Sûresi 'açılış' anlamına gelir; namazın her rekâtında okunur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000009",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Âyetü'l-Kürsî (255. ayet) hangi surede yer almaktadır?",
+    "options": [
+      "Âl-i İmrân",
+      "Bakara",
+      "Nisâ",
+      "Mâide"
+    ],
+    "answer_index": 1,
+    "source": "Bakara 2/255",
+    "explanation": "Allah'ın yüce sıfatlarının anlatıldığı Âyetü'l-Kürsî, Bakara Sûresi'nin 255. ayetidir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000010",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim mushafında toplam kaç cüz bulunmaktadır?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "answer_index": 2,
+    "source": "Mushaf tertibi",
+    "explanation": "Kur'an-ı Kerim kolay okunabilmesi için yirmişer sayfalık 30 cüze ayrılmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000011",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'de kendi adıyla anılan bir sure bulunan peygamber hangisidir?",
+    "options": [
+      "Yûnus",
+      "Dâvûd",
+      "İlyâs",
+      "Zülkifl"
+    ],
+    "answer_index": 0,
+    "source": "Yûnus Sûresi (10. sure)",
+    "explanation": "Kur'an'da Yûnus, Hûd, Yûsuf, İbrâhim, Nûh ve Muhammed adlarında sureler bulunmaktadır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000012",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Fâtiha Sûresi toplam kaç ayetten oluşmaktadır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer_index": 2,
+    "source": "Hicr 15/87; Mushaf sıralaması",
+    "explanation": "Fâtiha Sûresi 7 ayettir ve Kur'an'da 'Seb'ul-Mesânî' (tekrarlanan yedi âyet) olarak da anılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000013",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'e (s.a.v.) vahiy getirmekle görevli melek hangisidir?",
+    "options": [
+      "Mîkâil",
+      "İsrâfîl",
+      "Azrâil",
+      "Cebrâil"
+    ],
+    "answer_index": 3,
+    "source": "Bakara 2/97",
+    "explanation": "Vahiy meleği Cebrâil'dir (a.s.); Kur'an'da Rûhu'l-Kudüs ve Rûhu'l-Emîn olarak da anılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000014",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'in en uzun ayeti olan 'Müdâyene' (borçlanma) ayeti hangi surededir?",
+    "options": [
+      "Bakara",
+      "Nisâ",
+      "Mâide",
+      "En'âm"
+    ],
+    "answer_index": 0,
+    "source": "Bakara 2/282",
+    "explanation": "Borçlanma ve şahitlik hukukunu anlatan Bakara Sûresi 282. ayet, Kur'an'ın en uzun ayetidir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000015",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an'ın son iki suresi olan ve kötülüklerden Allah'a sığınmayı emreden sureler hangileridir?",
+    "options": [
+      "Kâfirûn ve İhlâs",
+      "Felak ve Nâs",
+      "Asr ve Kevser",
+      "Fil ve Kureyş"
+    ],
+    "answer_index": 1,
+    "source": "Felak 113; Nâs 114",
+    "explanation": "Felak ve Nâs surelerine sığınma sureleri manasında 'Muavvizeteyn' adı verilir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000016",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim hangi peygambere indirilmiş ilahi kitaptır?",
+    "options": [
+      "Hz. Mûsâ",
+      "Hz. Îsâ",
+      "Hz. Muhammed (s.a.v.)",
+      "Hz. Dâvûd"
+    ],
+    "answer_index": 2,
+    "source": "Muhammed 47/2",
+    "explanation": "Kur'an-ı Kerim, son peygamber Hz. Muhammed'e (s.a.v.) indirilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000017",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Kur'an-ı Kerim'de baştan sona tek bir kıssayı 'kıssaların en güzeli' olarak anlatan sure hangisidir?",
+    "options": [
+      "Yûsuf",
+      "Kehf",
+      "Meryem",
+      "Tâhâ"
+    ],
+    "answer_index": 0,
+    "source": "Yûsuf 12/3",
+    "explanation": "Yûsuf Sûresi'nde Hz. Yûsuf'un kıssası 'ahsenü'l-kasas' (kıssaların en güzeli) olarak anlatılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000018",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Hicretten önce Mekke döneminde inen surelere verilen genel ad nedir?",
+    "options": [
+      "Medenî",
+      "Mekkî",
+      "Haremî",
+      "Kudümî"
+    ],
+    "answer_index": 1,
+    "source": "Ulûmu'l-Kur'ân (Zerkânî, Menâhilü'l-irfân)",
+    "explanation": "Hicretten önce nazil olan surelere 'Mekkî', hicretten sonra nazil olanlara 'Medenî' denir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000019",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Hicretten sonra nazil olan surelere tefsir ilminde ne ad verilir?",
+    "options": [
+      "Mekkî",
+      "Kudsî",
+      "Medenî",
+      "Seferî"
+    ],
+    "answer_index": 2,
+    "source": "Ulûmu'l-Kur'ân (Suyûtî, el-İtkân)",
+    "explanation": "Peygamber Efendimiz'in hicretinden sonra inen sure ve ayetlere Medenî denir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000020",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 1,
+    "question": "Bal arısına vahyedilişini ve şifasını konu edinen ve adını arıdan alan sure hangisidir?",
+    "options": [
+      "Bakara",
+      "Nahl",
+      "Neml",
+      "Ankebût"
+    ],
+    "answer_index": 1,
+    "source": "Nahl 16/68-69",
+    "explanation": "Nahl Sûresi adını bal arısından alır; 68 ve 69. ayetlerinde arının bal yapması anlatılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000021",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Metninin içinde (30. ayetinde) müstakil bir 'Besmele' daha yer alan sure hangisidir?",
+    "options": [
+      "Neml",
+      "Nahl",
+      "Nûr",
+      "Necm"
+    ],
+    "answer_index": 0,
+    "source": "Neml 27/30",
+    "explanation": "Hz. Süleyman'ın Sebe melikesine mektubunun aktarıldığı Neml Sûresi 30. ayette Besmele geçer.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000022",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Kur'an-ı Kerim'de ismi açıkça zikredilen tek sahabe kimdir?",
+    "options": [
+      "Ebû Bekir",
+      "Ali b. Ebî Tâlib",
+      "Osman b. Affân",
+      "Zeyd b. Hârise"
+    ],
+    "answer_index": 3,
+    "source": "Ahzâb 33/37",
+    "explanation": "Ahzâb Sûresi 37. ayette Zeyd b. Hârise'nin ismi açıkça zikredilmektedir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000023",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Kadir Sûresi'nde Kadir Gecesi'nin hangi süreden daha hayırlı olduğu bildirilmiştir?",
+    "options": [
+      "Yüz ay",
+      "Bin ay",
+      "Bin gün",
+      "Yetmiş yıl"
+    ],
+    "answer_index": 1,
+    "source": "Kadr 97/3",
+    "explanation": "Kadr Sûresi 3. ayette 'Kadir gecesi bin aydan daha hayırlıdır' buyrulmaktadır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000024",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Mağara arkadaşları (Ashâb-ı Kehf) kıssasının anlatıldığı sure hangisidir?",
+    "options": [
+      "Meryem",
+      "Enbiyâ",
+      "Kehf",
+      "Sebe'"
+    ],
+    "answer_index": 2,
+    "source": "Kehf 18/9-26",
+    "explanation": "Kehf Sûresi adını da bu kıssadan alır; inançları uğruna mağaraya sığınan gençleri anlatır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000025",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "İnsanların saçılmış pervaneler gibi olacağı kıyamet dehşetini anlatan sure hangisidir?",
+    "options": [
+      "Kâria",
+      "Zilzâl",
+      "Âdiyât",
+      "Tekâsür"
+    ],
+    "answer_index": 0,
+    "source": "Kâria 101/4",
+    "explanation": "Kâria Sûresi 4. ayette insanların yayılmış pervaneler (kelebekler) gibi olacağı bildirilir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000026",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Zamana yeminle başlayan ve hüsrandan kurtulan müminlerin vasıflarını bildiren sure hangisidir?",
+    "options": [
+      "Asr",
+      "Tîn",
+      "Leyl",
+      "Fecr"
+    ],
+    "answer_index": 0,
+    "source": "Asr 103/1-3",
+    "explanation": "Asr Sûresi zamana yeminle başlar; iman eden, salih amel işleyen, hakkı ve sabrı tavsiye edenleri müjdeler.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000027",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Kâbe'yi yıkmak için gelen Ebrehe ordusunun helak edilişini anlatan sure hangisidir?",
+    "options": [
+      "Kureyş",
+      "Fil",
+      "Mâûn",
+      "Tebbet"
+    ],
+    "answer_index": 1,
+    "source": "Fîl 105/1-5",
+    "explanation": "Fil Sûresi, fil ordusunun Ebâbîl kuşlarının attığı taşlarla yenilmiş ekin yaprağı gibi yapılmasını anlatır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000028",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Meleklerin ikişer, üçer ve dörder kanatlı elçiler kılındığını ilk ayetinde bildiren sure hangisidir?",
+    "options": [
+      "Sâffât",
+      "Zuhruf",
+      "Fâtır",
+      "Dühân"
+    ],
+    "answer_index": 2,
+    "source": "Fâtır 35/1",
+    "explanation": "Fâtır Sûresi'nin ilk ayetinde Allah'ın melekleri ikişer, üçer ve dörder kanatlı elçiler kıldığı beyan edilir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000029",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Kur'an'da oğluna Allah'a şirk koşmamayı ve namazı kılmayı öğütleyen bilge şahsiyet kimdir?",
+    "options": [
+      "Tâlût",
+      "Zülkarneyn",
+      "Hâmân",
+      "Lokmân"
+    ],
+    "answer_index": 3,
+    "source": "Lokmân 31/13-19",
+    "explanation": "Lokmân Sûresi'nde Hz. Lokmân'ın oğluna şirkten sakınma, namaz, iyiliği emretme ve tevazu hakkındaki öğütleri yer alır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000030",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "'Rabbinizin hangi nimetlerini yalanlayabilirsiniz?' ayetinin 31 kez tekrarlandığı sure hangisidir?",
+    "options": [
+      "Rahmân",
+      "Vâkıa",
+      "Hadîd",
+      "Mülk"
+    ],
+    "answer_index": 0,
+    "source": "Rahmân 55/13-77",
+    "explanation": "Rahmân Sûresi'nde 'Fe-bi-eyyi âlâ-i Rabbikümâ tükezzibân' ayeti 31 defa tekrarlanmaktadır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000031",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Münafıkların çifte standartlı ve yalancı tutumlarını teşhir eden müstakil sure hangisidir?",
+    "options": [
+      "Mücâdele",
+      "Münâfikûn",
+      "Haşr",
+      "Mümtehine"
+    ],
+    "answer_index": 1,
+    "source": "Münâfikûn 63/1-4",
+    "explanation": "Münâfikûn Sûresi, Medine'deki münafıkların Peygamberimiz'e karşı sergiledikleri tutumu gözler önüne serer.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000032",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "İlk ayetinde 'Ey örtüsüne bürünen!' hitabıyla Peygamberimiz'e tebliğe kalkmasını emreden sure hangisidir?",
+    "options": [
+      "Mücâdele",
+      "Mümtehine",
+      "Müddessir",
+      "Mülk"
+    ],
+    "answer_index": 2,
+    "source": "Müddessir 74/1-2",
+    "explanation": "Müddessir Sûresi ilk ayetinde 'Ey örtünüp bürünen, kalk ve uyar!' emriyle davet sürecini başlatmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000033",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Uhud Gazvesi'nin detaylarını, okçular tepesini ve müminlerin imtihanını anlatan sure hangisidir?",
+    "options": [
+      "Nisâ",
+      "En'âm",
+      "Tevbe",
+      "Âl-i İmrân"
+    ],
+    "answer_index": 3,
+    "source": "Âl-i İmrân 3/121-175",
+    "explanation": "Âl-i İmrân Sûresi'nin 121-175. ayetleri Uhud Savaşı'nda yaşananları ve çıkarılması gereken dersleri anlatır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000034",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Peygamberimiz'e soyu kesik iftirası atan müşriklere karşı 'Asıl soyu kesik olan sana buğzedendir' buyrulan sure hangisidir?",
+    "options": [
+      "Kevser",
+      "İhlâs",
+      "Kâfirûn",
+      "Felak"
+    ],
+    "answer_index": 0,
+    "source": "Kevser 108/3",
+    "explanation": "Kevser Sûresi, oğlu vefat eden Peygamberimiz'e 'ebter' (soyu kesik) diyen müşrikleri reddeder.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000035",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Yerin müthiş bir sarsıntıyla sarsılıp ağırlıklarını dışarı atacağını bildiren sure hangisidir?",
+    "options": [
+      "Kâria",
+      "Zilzâl",
+      "İnşikâk",
+      "İnfitâr"
+    ],
+    "answer_index": 1,
+    "source": "Zilzâl 99/1-2",
+    "explanation": "Zilzâl Sûresi, kıyamet günündeki dehşetli yer sarsıntısını ve insanların amellerinin karşılığını göreceğini açıklar.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000036",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "İslam miras hukukunun paylarını (ferâiz) en ayrıntılı biçimde açıklayan sure hangisidir?",
+    "options": [
+      "En'âm",
+      "A'râf",
+      "Nisâ",
+      "Mâide"
+    ],
+    "answer_index": 2,
+    "source": "Nisâ 4/11-12, 176",
+    "explanation": "Nisâ Sûresi 11, 12 ve 176. ayetlerde miras taksiminin ölçüleri ve pay sahipleri açıkça belirlenmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000037",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Tebük Seferi'ne mazeretsiz katılmayıp samimi pişmanlıklarıyla tevbeleri kabul edilen üç sahabenin durumu hangi surededir?",
+    "options": [
+      "Enfâl",
+      "Ahzâb",
+      "Feth",
+      "Tevbe"
+    ],
+    "answer_index": 3,
+    "source": "Tevbe 9/118",
+    "explanation": "Tevbe Sûresi 118. ayette Ka'b b. Mâlik ve iki arkadaşının 50 gün sonra tevbelerinin kabul edilişi bildirilir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000038",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Adı 'demir' anlamına gelen ve kendisinde büyük bir kuvvet ve faydalar bulunduğunu bildiren sure hangisidir?",
+    "options": [
+      "Hadîd",
+      "Nûr",
+      "Şûrâ",
+      "Neml"
+    ],
+    "answer_index": 0,
+    "source": "Hadîd 57/25",
+    "explanation": "Hadîd Sûresi 25. ayette 'Kendisinde müthiş bir güç ve insanlar için birçok faydalar bulunan demiri indirdik' buyrulur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000039",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Kıyamet gününde insanları amel defterlerine göre ashâb-ı meymene, ashâb-ı meş'eme ve sâbikûn olarak üçe ayıran sure hangisidir?",
+    "options": [
+      "Kıyâme",
+      "Vâkıa",
+      "Hâkka",
+      "Tûr"
+    ],
+    "answer_index": 1,
+    "source": "Vâkıa 56/7-10",
+    "explanation": "Vâkıa Sûresi, mahşer gününde insanların sağ ehli, sol ehli ve hayırda önde gidenler olarak üç sınıfa ayrılacağını bildirir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000040",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz'e düşmanlık eden Ebû Leheb'in iki elinin kuruduğunu ve helakini bildiren sure hangisidir?",
+    "options": [
+      "Fil",
+      "Mâûn",
+      "Tebbet",
+      "Kureyş"
+    ],
+    "answer_index": 2,
+    "source": "Tebbet 111/1-5",
+    "explanation": "Tebbet (Mesed) Sûresi, Ebû Leheb ve karısının helakini ve cehennemdeki azabını konu edinir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000041",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Kur'an-ı Kerim'de 'Hâ-Mîm' heca harfleriyle başlayan 'Havâmîm' sureleri toplam kaç adettir?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer_index": 3,
+    "source": "Ulûmu'l-Kur'ân (Mushaf tertibi; 40-46. sureler)",
+    "explanation": "Mü'min, Fussilet, Şûrâ, Zuhruf, Dühân, Câsiye ve Ahkâf olmak üzere peş peşe gelen yedi suredir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000042",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Yûsuf Sûresi kaç âyettir?",
+    "options": [
+      "111",
+      "101",
+      "121",
+      "131"
+    ],
+    "answer_index": 0,
+    "source": "Mushaf sıralaması; Yûsuf Sûresi",
+    "explanation": "Kur'an'ın 12. suresi olan Yûsuf Sûresi 111 âyettir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000043",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Hendek Gazvesi'nde Medine'yi kuşatan müttefik ordulara karşı müminlerin sabrını anlatan sure hangisidir?",
+    "options": [
+      "Enfâl",
+      "Ahzâb",
+      "Tevbe",
+      "Haşr"
+    ],
+    "answer_index": 1,
+    "source": "Ahzâb 33/9-25",
+    "explanation": "Ahzâb Sûresi, müşrik kabilelerin (grupların) Medine'yi kuşatmasını ve müminlerin zaferini anlatır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000044",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "'Allah'ın yasasında (Sünnetullah) asla bir değişiklik bulamazsın' ilahi kanununu vurgulayan sure hangisidir?",
+    "options": [
+      "Yâsîn",
+      "Hac",
+      "Fâtır",
+      "Lokmân"
+    ],
+    "answer_index": 2,
+    "source": "Fâtır 35/43",
+    "explanation": "Fâtır Sûresi 43. ayette 'Sen Allah'ın sünnetinde kesinlikle bir değişiklik bulamazsın' buyrulur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000045",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Bedir Savaşı ganimetlerinin taksimi ve esirlerin fidyeyle serbest bırakılması hükümleri hangi surededir?",
+    "options": [
+      "Tevbe",
+      "Bakara",
+      "Nisâ",
+      "Enfâl"
+    ],
+    "answer_index": 3,
+    "source": "Enfâl 8/1, 41, 67-71",
+    "explanation": "Enfâl Sûresi adını ganimetlerden alır ve Bedir Savaşı sonrasındaki hükümleri beyan eder.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000046",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Kehf Sûresi'nde Hz. Mûsâ'nın ilim tahsili için seyahat ettiği 'kendisine ledün ilmi verilen' salih kul İslam geleneğinde kimdir?",
+    "options": [
+      "Hızır (a.s.)",
+      "Zülkarneyn",
+      "Lokmân",
+      "Yûşâ b. Nûn"
+    ],
+    "answer_index": 0,
+    "source": "Kehf 18/65-82; Buhârî, İlim",
+    "explanation": "Hadis-i şeriflerde Hz. Mûsâ ile gemi, çocuk ve duvar hadiselerini yaşayan salih kulun Hızır olduğu bildirilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000047",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Müminleri hendeklerde ateşe atarak işkence eden 'Ashâb-ı Uhdûd' kıssası hangi surede anlatılır?",
+    "options": [
+      "Târık",
+      "Bürûc",
+      "A'lâ",
+      "Gâşiye"
+    ],
+    "answer_index": 1,
+    "source": "Bürûc 85/4-9",
+    "explanation": "Bürûc Sûresi'nde imanlarından dolayı ateş dolu hendeklere atılan müminler ve zalimlerin uğrayacağı azap anlatılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000048",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "İsrailoğullarının Cumartesi yasağını çiğneyen grubunun maymuna dönüştürülerek cezalandırılışı kıssası hangi surededir?",
+    "options": [
+      "Bakara",
+      "Mâide",
+      "A'râf",
+      "En'âm"
+    ],
+    "answer_index": 2,
+    "source": "A'râf 7/163-166",
+    "explanation": "A'râf Sûresi 163-166. ayetlerde balık avlama yasağına hileyle uymayan sahil halkının cezalandırılışı anlatılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000049",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "İfk Hadisesi'nde Hz. Âişe'nin masumiyetini ve iftira atanların cezasını ilan eden ayetler hangi surededir?",
+    "options": [
+      "Ahzâb",
+      "Nisâ",
+      "Talâk",
+      "Nûr"
+    ],
+    "answer_index": 3,
+    "source": "Nûr 24/11-20",
+    "explanation": "Nûr Sûresi 11-20. ayetler Müreysî Gazvesi dönüşü Hz. Âişe'ye atılan iftiranın asılsız olduğunu kesin şekilde bildirmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-quran-000050",
+    "lang": "tr",
+    "category": "quran",
+    "difficulty": 3,
+    "question": "Kur'an-ı Kerim'de Bedir Savaşı için 'Hak ile batılın birbirinden ayrıldığı gün' anlamında hangi tabir kullanılmıştır?",
+    "options": [
+      "Yevmü'l-Cem'",
+      "Yevmü'l-Furkân",
+      "Yevmü'l-Feth",
+      "Yevmü'l-Ahzâb"
+    ],
+    "answer_index": 1,
+    "source": "Enfâl 8/41",
+    "explanation": "Enfâl Sûresi 41. ayette Bedir zaferinin gerçekleştiği güne 'Yevmü'l-Furkân' (fark günü) adı verilmiştir.",
+    "review_status": "draft"
+  }
+]

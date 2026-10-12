@@ -95,5 +95,12 @@ süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorag
 - Denetimler: `npm run i18n:check` (anahtar paritesi) + `npm run i18n:hardcoded` (sabit/Türkçe metin yakalar; `check` içinde).
 - **Arapça içerik yok:** `ar` arayüzünde soru/kart yine de TR'den gelir (dev tohumu yalnızca TR soru + TR/AR kart). Gerçek AR içerik Antigravity'den (HANDOFF Görev 1–3).
 
+## İçerik onayı ve bildirim (Faz 7)
+- Akış: Antigravity/Claude `draft` yazar → insan editör `npm run content:sheet` (tarayıcıda inceleme sayfası) → `decisions.json` → `npm run content:apply -- decisions.json` (yalnızca `review_status` değişir; hata varsa hiçbir şey yazılmaz). Kılavuz: `docs/editor-guide.md`.
+- **Onay yetkisi yalnızca insan editörde.** Claude/Antigravity `approved` yazmaz. Üretim derlemesi `content/raw` + `content/approved` içinden YALNIZCA `approved` alır; `npm run content:verify-prod` (`check` içinde) taslak/test kimliği sızmasını yakalar.
+- Doğrulayıcı yalnızca BİÇİMİ denetler; içerik doğruluğu elle okunur (pilotta ~12 soru + 2 kart hata taşıyordu, bkz. `marketing/content-stats.md` §5 ve HANDOFF "dersler"). `_*.example.json` dosyaları kimlik/tekrar denetimine girmez.
+- "Hatalı soru bildir": `src/features/report/` (`logic.ts` saf, `service.ts` Supabase `question_reports` + çevrimdışı kuyruk, `ReportButton.tsx`). Düello/oda ve Günlük Soru cevap ekranında. (kullanıcı, soru) başına tek kayıt; 23505 = zaten bildirilmiş.
+- Tekrar önleme: `features/duello/seen.ts` (en son 3000 soru) → host `pickQuestions`'a verir; maç sonunda her oyuncu oynananları kaydeder.
+
 ## Durum
-Faz 1–6 tamam (3 ve 5'in canlı servis kısımları hesap/anahtar bekliyor; Arapça metinlerin ana dili konuşan kontrolü Antigravity Görev 3). Sıradaki: Faz 7 içerik entegrasyonu + doğrulama.
+Faz 1–7 tamam (kod). Faz 7'nin içerik tarafı: 300 pilot öğe (200 soru + 100 kart) incelendi/düzeltildi, **henüz hiçbiri onaylı değil** (insan editör bekleniyor); hedef 3.000 soru + 600 kart. Sıradaki: Faz 8 Ramazan Ligi.

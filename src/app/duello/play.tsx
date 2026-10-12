@@ -7,6 +7,7 @@ import { makeResolver, pickQuestions } from '@/features/duello/match';
 import { MatchPlay } from '@/features/duello/MatchPlay';
 import { searchOpponent } from '@/features/duello/matchmaking';
 import { consumeDuel } from '@/features/duello/quota';
+import { loadSeenQuestions } from '@/features/duello/seen';
 import { SearchScreen, type SearchView } from '@/features/duello/SearchScreen';
 import { MatchSession, nullTransport } from '@/features/duello/session';
 import { isPremium } from '@/features/premium/entitlement';
@@ -68,7 +69,7 @@ export default function DuelPlay() {
 
       if (res.kind === 'bot' || res.host) {
         const seed = randomSeed();
-        const qids = pickQuestions(questionPool(lang, cat, allowedCategories(premium)), QUESTIONS_PER_DUEL, seed);
+        const qids = pickQuestions(questionPool(lang, cat, allowedCategories(premium)), QUESTIONS_PER_DUEL, seed, await loadSeenQuestions());
         const opponent = res.kind === 'bot' ? BOT_PLAYER : res.opponent;
         s.start({ matchId: randomId(), players: [{ id: me.id, name: me.name }, opponent], qids, seed });
       } else {

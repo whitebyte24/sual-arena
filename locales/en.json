@@ -300,5 +300,22 @@
     "pts": "+{n} pts",
     "done": "{a}/{b} done",
     "score": "{n} p"
+  },
+  "report": {
+    "button": "Report a problem",
+    "reported": "Reported",
+    "title": "What is wrong with this question?",
+    "reasons": {
+      "wrong_answer": "Wrong answer",
+      "typo": "Typo",
+      "offensive": "Inappropriate / disrespectful",
+      "unclear": "Unclear question",
+      "other": "Other"
+    },
+    "notePlaceholder": "Add a note if you like (max 500 characters)",
+    "send": "Send",
+    "sent": "Thank you, your report was received.",
+    "queued": "Thank you! It will be sent when you are online.",
+    "already": "You have already reported this question."
   }
 }

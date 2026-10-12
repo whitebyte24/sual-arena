@@ -18,6 +18,7 @@ import {
 } from '@expo-google-fonts/plus-jakarta-sans';
 import { initAds } from '@/features/ads';
 import { initPremium } from '@/features/premium/entitlement';
+import { flushReports } from '@/features/report/service';
 import { initLang, needsRestart, t, useLang } from '@/i18n';
 import { initAppearance } from '@/lib/appearance';
 import { spacing, useTheme } from '@/lib/theme';
@@ -53,6 +54,7 @@ export default function RootLayout() {
       .catch(() => {})
       .then(() => initAds())
       .catch(() => {});
+    flushReports().catch(() => {}); // çevrimdışıyken biriken "hatalı soru" bildirimlerini gönder
   }, []);
 
   // Yazı tipleri ve dil hazır olana kadar çizim yok (yerel açılış ekranı görünür); font hatasında sistem yazı tipiyle devam.

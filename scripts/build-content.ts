@@ -2,6 +2,7 @@
  * Uygulamaya girecek içeriği src/content/generated/ altına yazar.
  *   npm run content:build        → yalnızca review_status = approved  (üretim, EAS)
  *   npm run content:build:dev    → rejected hariç hepsi (yerel geliştirme; "_" ile başlayan örnekler hariç)
+ * Kaynak: content/raw VE content/approved (ikisinde de durum alanı belirler; onay = review_status değişikliği, bkz. content:sheet/content:apply).
  * Geçersiz öğe varsa HATA verir ve hiçbir şey yazmaz.
  */
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -27,8 +28,8 @@ function collect<T extends { id: string; review_status: string }>(
 ): T[] {
   const byId = new Map<string, T>();
   const errors: string[] = [];
-  // raw önce, approved sonra: aynı id'de approved kazanır
-  const sources = [...(dev ? files('content/raw', prefix) : []), ...files('content/approved', prefix)];
+  // raw önce, approved klasörü sonra: aynı id'de sonraki kazanır. Üretimde durum süzgeci zaten yalnızca approved alır.
+  const sources = [...files('content/raw', prefix), ...files('content/approved', prefix)];
   for (const file of sources) {
     const data = JSON.parse(readFileSync(file, 'utf8')) as T[];
     for (const item of data) {

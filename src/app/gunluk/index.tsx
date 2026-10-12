@@ -30,6 +30,7 @@ import { shareView, shareWhatsapp } from '@/lib/share';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
 import { Icon } from '@/ui/Icon';
+import { ReportButton } from '@/features/report/ReportButton';
 import { ScreenHeader } from '@/ui/ScreenHeader';
 
 type Mode = 'intro' | 'play' | 'result';
@@ -154,6 +155,7 @@ export default function Daily() {
             <Text style={{ color: theme.textMuted, fontSize: 12, textAlign: 'center' }}>
               {t('match.source')}: {q.source}
             </Text>
+            <ReportButton questionId={q.id} />
             <Button
               label={last ? t('daily.finish') : t('daily.next')}
               height={64}

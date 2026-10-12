@@ -55,9 +55,9 @@ for (const file of DIRS.flatMap(listJson)) {
     if (approvedOnly && item.review_status !== 'approved') continue;
     issues.push(...(isQ ? validateQuestion(item) : validateCard(item)));
     const id = String(item.id);
+    if (example) continue; // örnek dosyalar kimlik/tekrar denetimine girmez (gerçek içerikle çakışabilir)
     if (ids.has(id)) issues.push({ id, field: 'id', message: `${ids.get(id)} dosyasında da var` });
     else ids.set(id, rel);
-    if (example) continue;
     const approved = item.review_status === 'approved';
     if (isQ) {
       counts.questions++;

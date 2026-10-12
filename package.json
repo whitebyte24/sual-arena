@@ -60,11 +60,14 @@
     "test": "vitest run",
     "content:validate": "tsx scripts/validate-content.ts",
     "i18n:check": "tsx scripts/check-i18n.ts",
-    "check": "npm run content:build && npm run typecheck && npm run test && npm run i18n:check && npm run i18n:hardcoded && npm run content:validate",
+    "check": "npm run content:build && npm run typecheck && npm run test && npm run i18n:check && npm run i18n:hardcoded && npm run content:validate && npm run content:verify-prod",
     "content:build": "tsx scripts/build-content.ts",
     "content:build:dev": "tsx scripts/build-content.ts --dev",
     "postinstall": "npm run content:build",
-    "i18n:hardcoded": "tsx scripts/check-hardcoded.ts"
+    "i18n:hardcoded": "tsx scripts/check-hardcoded.ts",
+    "content:sheet": "tsx scripts/content-sheet.ts",
+    "content:apply": "tsx scripts/content-apply.ts",
+    "content:verify-prod": "tsx scripts/verify-prod-content.ts"
   },
   "private": true
 }

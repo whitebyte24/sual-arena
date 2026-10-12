@@ -300,5 +300,22 @@
     "pts": "+{n} puan",
     "done": "{a}/{b} tamamladı",
     "score": "{n} p"
+  },
+  "report": {
+    "button": "Hatalı soru bildir",
+    "reported": "Bildirildi",
+    "title": "Bu soruda ne yanlış?",
+    "reasons": {
+      "wrong_answer": "Cevap yanlış",
+      "typo": "Yazım hatası",
+      "offensive": "Uygunsuz / saygısız",
+      "unclear": "Soru belirsiz",
+      "other": "Diğer"
+    },
+    "notePlaceholder": "İstersen not ekle (en fazla 500 karakter)",
+    "send": "Gönder",
+    "sent": "Teşekkürler, bildirimin alındı.",
+    "queued": "Teşekkürler! İnternet bağlantısı olunca gönderilecek.",
+    "already": "Bu soruyu zaten bildirdin."
   }
 }

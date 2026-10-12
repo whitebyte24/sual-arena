@@ -5,6 +5,8 @@ import { Avatar } from '@/ui/Avatar';
 import { Badge } from '@/ui/Badge';
 import { Card } from '@/ui/Card';
 import { Icon } from '@/ui/Icon';
+import { ReportButton } from '@/features/report/ReportButton';
+import { addSeenQuestions } from './seen';
 import * as Haptics from 'expo-haptics';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { QUESTION_INDEX } from '@/content/questions';
@@ -263,6 +265,7 @@ export function MatchPlay({ session, selfId, onAgain, onMenu, onLeave }: Props) 
                 {t('match.source')}: {q.source}
               </Text>
             </View>
+            <ReportButton questionId={q.id} />
           </Card>
         )}
         {revealed && !everyone && (
@@ -338,10 +341,11 @@ function Result({
   useEffect(() => {
     if (counted.current) return;
     counted.current = true;
+    addSeenQuestions(state.qids); // tekrar önleme: sonraki maçta görülmemiş sorular öne alınır
     onMatchFinished()
       .then((r) => setPromo(r.promo))
       .catch(() => {});
-  }, []);
+  }, [state.qids]);
 
   return (
     <ScrollView

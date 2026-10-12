@@ -9,6 +9,7 @@ import { makeResolver, pickQuestions, type PlayerInfo } from '@/features/duello/
 import { MatchPlay } from '@/features/duello/MatchPlay';
 import { isRoomCode } from '@/features/duello/pairing';
 import { RoomFailure, createRoom, joinRoom, lobbyPlayers, type RoomError } from '@/features/duello/room';
+import { loadSeenQuestions } from '@/features/duello/seen';
 import { MatchSession } from '@/features/duello/session';
 import { usePremium } from '@/features/premium/entitlement';
 import { allowedCategories, categoryLocked } from '@/features/premium/tiers';
@@ -104,7 +105,7 @@ export default function RoomLobby() {
     const tr = transportRef.current;
     if (!s || !tr || players.length < 2) return;
     const seed = randomSeed();
-    const qids = pickQuestions(questionPool(lang, category, allowedCategories(premium)), count, seed);
+    const qids = pickQuestions(questionPool(lang, category, allowedCategories(premium)), count, seed, await loadSeenQuestions());
     const info: PlayerInfo[] = players.slice(0, MAX_ROOM_PLAYERS).map((p) => ({ id: p.id, name: p.name }));
     await tr.updateMeta({ started: true }).catch(() => {});
     s.start({ matchId: randomId(), players: info, qids, seed });

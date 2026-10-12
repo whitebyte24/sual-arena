@@ -25,7 +25,7 @@ Durum: `[ ]` yapılmadı · `[~]` kısmen/kod hazır, doğrulanmadı · `[x]` ta
 | 19 | Ekran görüntülerindeki her şey uygulamada gerçekten var | 9 | [ ] |
 | 20 | AdMob: max içerik derecesi G (kodda) + engelli kategoriler (`docs/setup-accounts.md` §2; panelde kullanıcı yapacak) | 5 | [~] |
 | 21 | "Tabu" adı uygulamada/mağaza metninde/reklamda hiçbir yerde yok (`grep -ri tabu` temiz) | 10 | [ ] |
-| 22 | "Hatalı soru bildir" çalışıyor (`question_reports` RLS ekleme-only) | 7 | [~] |
+| 22 | "Hatalı soru bildir" çalışıyor (`question_reports` RLS ekleme-only; UI + çevrimdışı kuyruk hazır, canlı Supabase ile denenmedi) | 7 | [~] |
 | 23 | Premium hediye/referral mekaniği mağaza kurallarına uygun (Apple 3.1.1 / Play Faturalandırma) — hediye v1.1 e ertelendi (öneri), referral RevenueCat promosyonu Faz 9 | 5 | [ ] |
 | 24 | Apple ile girişli hesap silinirken Apple token iptali (Edge Function + Apple anahtarı) | 5 | [ ] |
 | 25 | Üretim derlemesinde reklam birimi kimlikleri gerçek; test kimliği ve sahte premium YOK (`__DEV__` korumalı) | 10 | [ ] |

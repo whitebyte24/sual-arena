@@ -17,3 +17,4 @@ google-services.json
 GoogleService-Info.plist
 supabase/.temp/
 src/content/generated/
+content/review/

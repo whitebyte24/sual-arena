@@ -1,0 +1,852 @@
+[
+  {
+    "id": "q-tr-siyer-000001",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in (s.a.v.) kendisi doğmadan önce vefat eden babasının adı nedir?",
+    "options": [
+      "Abdullah",
+      "Ebû Tâlib",
+      "Abdülmuttalib",
+      "Zübeyr"
+    ],
+    "answer_index": 0,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Peygamberimiz'in babası Abdullah b. Abdülmuttalib, o dünyaya gelmeden önce Medine'de vefat etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000002",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Annesinin vefatından sonra Peygamberimiz'i sekiz yaşına kadar himaye eden dedesi kimdir?",
+    "options": [
+      "Vehb",
+      "Abdülmuttalib",
+      "Hâşim",
+      "Kusay"
+    ],
+    "answer_index": 1,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Annesi Âmine'nin vefatı sonrası Peygamberimiz'i dedesi Abdülmuttalib himayesine almıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000003",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Dedesinin vefatından sonra Peygamber Efendimiz'i evine alıp koruyan ve büyüten amcası kimdir?",
+    "options": [
+      "Hamza",
+      "Abbâs",
+      "Ebû Tâlib",
+      "Hâris"
+    ],
+    "answer_index": 2,
+    "source": "İbn Sa'd, et-Tabakât",
+    "explanation": "Abdülmuttalib'in vefatının ardından Peygamberimiz'i amcası Ebû Tâlib büyütmüştür.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000004",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'i bebekliğinde emziren ve çocukluğunun ilk yıllarını geçirdiği sütannesi kimdir?",
+    "options": [
+      "Ümmü Eymen",
+      "Şeymâ",
+      "Süveybe",
+      "Halîme"
+    ],
+    "answer_index": 3,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Sa'doğulları yurdunda Peygamberimiz'e Halîme binti Ebî Züeyb sütannelik yapmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000005",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'e gençliğinde dürüstlüğü ve güvenilirliği sebebiyle Mekkeliler hangi unvanı vermiştir?",
+    "options": [
+      "es-Sıddîk",
+      "el-Emîn",
+      "el-Fârûk",
+      "el-Hâdî"
+    ],
+    "answer_index": 1,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Mekke halkı üstün ahlakı ve doğruluğu dolayısıyla ona 'Muhammedü'l-Emîn' (Güvenilir Muhammed) demiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000006",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "İlk vahiy geldiğinde Peygamber Efendimiz'i teselli eden ve ona ilk iman eden kişi kimdir?",
+    "options": [
+      "Hz. Âişe",
+      "Hz. Fâtıma",
+      "Hz. Hatice",
+      "Hz. Sevde"
+    ],
+    "answer_index": 2,
+    "source": "Buhârî, Bed'ü'l-vahy",
+    "explanation": "Peygamberimiz'in muhterem eşi Hz. Hatice, ilk iman eden ve Peygamberimiz'e en büyük desteği veren müminedir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000007",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in soyunu Hz. Hasan ve Hz. Hüseyin ile devam ettiren en küçük kızı kimdir?",
+    "options": [
+      "Hz. Zeyneb",
+      "Hz. Rukiyye",
+      "Hz. Ümmü Gülsüm",
+      "Hz. Fâtıma"
+    ],
+    "answer_index": 3,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Hz. Fâtıma ez-Zehrâ, Peygamberimiz'in mübarek neslini devam ettiren kızıdır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000008",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "İslam tarihindeki ilk ezanı okuyan ve Peygamberimiz'in müezzini olan sahabe kimdir?",
+    "options": [
+      "Ammâr b. Yâsir",
+      "Bilâl-i Habeşî",
+      "Selmân-ı Fârisî",
+      "Ebû Zer el-Gıfârî"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Ezân",
+    "explanation": "Bilâl-i Habeşî (r.a.), Mescid-i Nebevî'de ilk ezanı okuyan İslam'ın ilk müezzinidir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000009",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in Mekke'den Medine'ye hicret ederken yol arkadaşı olan sadık dostu kimdir?",
+    "options": [
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Osman",
+      "Hz. Ali"
+    ],
+    "answer_index": 0,
+    "source": "Tevbe 9/40; Buhârî, Menâkıbü'l-ensâr",
+    "explanation": "Kur'an'da 'ikinin ikincisi' olarak övülen Hz. Ebû Bekir, hicret yolculuğunda Peygamberimiz'in yoldaşı olmuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000010",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Hicret esnasında Peygamberimiz ve Hz. Ebû Bekir'in müşriklerden korunmak için üç gün kaldıkları mağara hangisidir?",
+    "options": [
+      "Hira Mağarası",
+      "Sevr Mağarası",
+      "Uhud Mağarası",
+      "Arafat Mağarası"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Menâkıbü'l-ensâr",
+    "explanation": "Peygamberimiz ve Hz. Ebû Bekir Medine'ye yönelmeden önce Sevr Mağarası'nda gizlenmişlerdir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000011",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "İnançları uğruna Mekke'deki evlerini ve mallarını bırakıp Medine'ye göç eden Müslümanlara ne ad verilir?",
+    "options": [
+      "Ensar",
+      "Tâbiîn",
+      "Muhacir",
+      "Ashâb-ı Suffe"
+    ],
+    "answer_index": 2,
+    "source": "Haşr 59/8; İbn Hişâm",
+    "explanation": "Mekke'den Medine'ye hicret eden Müslümanlara 'Muhacir' adı verilir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000012",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Mekke'den hicret eden müminleri Medine'de evlerinde ağırlayan ve her şeylerini paylaşan yerli Müslümanlara ne denir?",
+    "options": [
+      "Muhacir",
+      "Ensar",
+      "Havârî",
+      "Mücahid"
+    ],
+    "answer_index": 1,
+    "source": "Haşr 59/9; İbn Hişâm",
+    "explanation": "Medineli yerli Müslümanlara yardım edenler manasında 'Ensar' adı verilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000013",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in hicret esnasında Medine yakınlarında bizzat inşaatında çalıştığı ilk mescit hangisidir?",
+    "options": [
+      "Mescid-i Nebevî",
+      "Mescid-i Kıbleteyn",
+      "Kubâ Mescidi",
+      "Mescid-i Dırâr"
+    ],
+    "answer_index": 2,
+    "source": "Tevbe 9/108; İbn Hişâm, es-Sîre",
+    "explanation": "Kubâ Mescidi, İslam tarihinde inşa edilen ilk mescittir; takva üzerine kurulduğu Kur'an'da övülür.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000014",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in Medine'ye ulaştıktan sonra inşa ettiği ve İslam'ın idare merkezi olan mescit hangisidir?",
+    "options": [
+      "Mescid-i Nebevî",
+      "Mescid-i Aksâ",
+      "Mescid-i Haram",
+      "Mescid-i Şecereteyn"
+    ],
+    "answer_index": 0,
+    "source": "Buhârî, Salât",
+    "explanation": "Medine'de inşa edilen Mescid-i Nebevî hem ibadet hem de eğitim ve yönetim merkezi olmuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000015",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamberimiz'in amcası olan, 'Allah'ın Arslanı' unvanıyla anılan ve Uhud'da şehit düşen sahabe kimdir?",
+    "options": [
+      "Hz. Abbâs",
+      "Hz. Câfer",
+      "Hz. Hamza",
+      "Hz. Zübeyr"
+    ],
+    "answer_index": 2,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Hz. Hamza (r.a.), Uhud Savaşı'nda şehit düşmüş ve 'Seyyidü'ş-Şühedâ' (şehitlerin efendisi) ilan edilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000016",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz Hz. Muhammed (s.a.v.) hicretin 11. yılında kaç yaşında Medine'de vefat etmiştir?",
+    "options": [
+      "58",
+      "60",
+      "65",
+      "63"
+    ],
+    "answer_index": 3,
+    "source": "Buhârî, Meğâzî",
+    "explanation": "Peygamber Efendimiz miladi 632 yılında, 63 yaşında vefat etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000017",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Mescid-i Nebevî içinde, Peygamberimiz'in kabri ile minberi arasındaki mübarek alana ne ad verilir?",
+    "options": [
+      "Cennetü'l-Bakî",
+      "Ravza-i Mutahhara",
+      "Makâm-ı İbrâhim",
+      "Hacerü'l-Esved"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Fadlü's-salât fî mescidi Mekke",
+    "explanation": "Hadis-i şerifte 'Evimle minberimin arası cennet bahçelerinden bir bahçedir' buyrulan yere Ravza-i Mutahhara denir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000018",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz'in vefatından birkaç ay önce Arafat'ta on binlerce sahabeye hitap ettiği tarihi konuşma hangisidir?",
+    "options": [
+      "Akabe Hutbesi",
+      "Veda Hutbesi",
+      "Medine Hutbesi",
+      "Tebük Hutbesi"
+    ],
+    "answer_index": 1,
+    "source": "Müslim, Hac",
+    "explanation": "Veda Haccı sırasında okunan Veda Hutbesi, evrensel insan hakları ve İslam ilkelerini ilan etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000019",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz (s.a.v.) Mekke'nin ileri gelen hangi büyük Arap kabilesine mensuptur?",
+    "options": [
+      "Evs",
+      "Hazrec",
+      "Kureyş",
+      "Sakîf"
+    ],
+    "answer_index": 2,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Peygamberimiz, Mekke'nin hâkimi ve en saygın kabilesi olan Kureyş kabilesindendir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000020",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 1,
+    "question": "Peygamber Efendimiz Hz. Muhammed (s.a.v.) Kureyş kabilesinin hangi koluna mensuptur?",
+    "options": [
+      "Hâşimoğulları",
+      "Ümeyyeoğulları",
+      "Mahzûmoğulları",
+      "Teymoğulları"
+    ],
+    "answer_index": 0,
+    "source": "İbn Sa'd, et-Tabakât",
+    "explanation": "Peygamber Efendimiz, Kureyş kabilesinin Hâşimî (Hâşimoğulları) koluna mensuptur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000021",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamberimiz'in gençliğinde haksızlığa uğrayan mazlumları korumak için katıldığı erdemliler yemini/topluluğu hangisidir?",
+    "options": [
+      "Hılfü'l-Fudûl",
+      "Dârü'n-Nedve",
+      "Dârü'l-Erkâm",
+      "Kureyş Şûrası"
+    ],
+    "answer_index": 0,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Mekke'de yabancı tüccarın hakkını gasptan kurtarmak için kurulan Hılfü'l-Fudûl'e Peygamberimiz de katılmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000022",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Mekke döneminde ilk Müslümanların gizlice toplanıp Kur'an öğrendikleri sahabi evi hangisidir?",
+    "options": [
+      "Dârü'n-Nedve",
+      "Dârü'l-Erkâm",
+      "Dârü'z-Ziyâfe",
+      "Dârü'l-Hikme"
+    ],
+    "answer_index": 1,
+    "source": "İbn Hişâm, es-Sîre; İbn Sa'd",
+    "explanation": "Erkâm b. Ebi'l-Erkâm'ın evi (Dârü'l-Erkâm), ilk İslam tebliğ ve eğitim merkezi olmuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000023",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Mekke'de zulüm gören Müslümanların Peygamberimiz'in izniyle yaptığı ilk hicret hangi ülkeye gerçekleşmiştir?",
+    "options": [
+      "Yemen",
+      "Habeşistan",
+      "Taif",
+      "Mısır"
+    ],
+    "answer_index": 1,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Müslümanlar adil bir hükümdar olan Necâşî Ashame'nin yönettiği Habeşistan'a hicret etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000024",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamberimiz'in peygamberliğin 10. yılında hem eşi Hz. Hatice'yi hem amcası Ebû Tâlib'i kaybettiği yıla ne ad verilir?",
+    "options": [
+      "Hüzün Yılı",
+      "Ayrılık Yılı",
+      "Hicret Yılı",
+      "İmtihan Yılı"
+    ],
+    "answer_index": 0,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "İki büyük hamisini art arda kaybettiği bu yıla İslam tarihinde Senetü'l-Hüzn (Hüzün Yılı) denmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000025",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Hendek Savaşı'nda Medine şehrinin etrafına hendek kazılması fikrini teklif eden sahabi kimdir?",
+    "options": [
+      "Suheyb-i Rûmî",
+      "Selmân-ı Fârisî",
+      "Mikdâd b. Amr",
+      "Ebû Ubeyde"
+    ],
+    "answer_index": 1,
+    "source": "İbn Hişâm, es-Sîre; Hendek Gazvesi",
+    "explanation": "İran asıllı sahabi Selmân-ı Fârisî'nin savunma hendeği teklifi Medine'yi düşman ordularına karşı korumuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000026",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Hicretten önce Medinelilerin Mekke yakınlarında Peygamberimiz'e canları pahasına bağlılık sözü verdikleri biatlara ne denir?",
+    "options": [
+      "Akabe Biatları",
+      "Rıdvan Biatı",
+      "Hudeybiye Biatı",
+      "Uhud Biatı"
+    ],
+    "answer_index": 0,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Medineli Müslümanlar I. ve II. Akabe Biatları ile Peygamberimiz'i şehirlerine davet edip koruyacaklarına söz vermişlerdir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000027",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Hicretin 6. yılında Müslümanlar ile Kureyşliler arasında on yıllık barış sağlayan ve fethin kapısını açan antlaşma hangisidir?",
+    "options": [
+      "Medine Sözleşmesi",
+      "Hudeybiye Antlaşması",
+      "Akabe Antlaşması",
+      "Taif Muahedesi"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Şurût; Fetih 48/1",
+    "explanation": "Hudeybiye Barışı sayesinde İslam Arap yarımadasında hızla yayılmış, Kur'an bu antlaşmayı 'apaçık fetih' saymıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000028",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Hudeybiye'de elçi olarak gönderilen Hz. Osman'ın şehit edildiği haberi üzerine ağaç altında yapılan bağlılık yemini hangisidir?",
+    "options": [
+      "Akabe Biatı",
+      "Kuba Biatı",
+      "Rıdvan Biatı",
+      "Suffe Biatı"
+    ],
+    "answer_index": 2,
+    "source": "Fetih 48/18; Buhârî, Meğâzî",
+    "explanation": "Kur'an'da 'Andolsun o ağacın altında sana biat ederlerken Allah müminlerden razı olmuştur' buyrulan biat Rıdvan Biatı'dır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000029",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz'in Medine'de Muhacir ile Ensar arasında kurduğu kardeşlik antlaşmasına ne ad verilir?",
+    "options": [
+      "Hilf",
+      "Cizye",
+      "Şûrâ",
+      "Muâhât"
+    ],
+    "answer_index": 3,
+    "source": "Buhârî, Menâkıbü'l-ensâr",
+    "explanation": "Peygamberimiz her Muhaciri bir Medineli Ensar ile kardeş ilan ederek dayanışmayı sağlayan Muâhât'ı tesis etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000030",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Mescid-i Nebevî'nin arka kısmında ilim tahsil eden, barınacak yeri olmayan sahabelerin kaldığı mekâna ne denir?",
+    "options": [
+      "Suffe",
+      "Dârü'l-Erkâm",
+      "Revak",
+      "Mihrap"
+    ],
+    "answer_index": 0,
+    "source": "Buhârî, Salât; İbn Sa'd",
+    "explanation": "Suffe ehli sahabeler vakitlerini Peygamberimiz'den ilim öğrenip hadis ezberlemeye ayırmışlardır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000031",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz'in (s.a.v.) bizzat komuta edip katıldığı askeri seferlere siyer literatüründe ne ad verilir?",
+    "options": [
+      "Seriyye",
+      "Gazve",
+      "Ribat",
+      "Müfreze"
+    ],
+    "answer_index": 1,
+    "source": "Vâkıdî, el-Meğâzî; İbn Hişâm",
+    "explanation": "Peygamberimiz'in bizzat idare ettiği seferlere 'gazve', bir sahabi komutasında gönderdiği birliklere 'seriyye' denir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000032",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz'in bizzat katılmayıp bir sahabeyi komutan tayin ederek sefere gönderdiği askeri birliklere ne denir?",
+    "options": [
+      "Gazve",
+      "Tebük",
+      "Seriyye",
+      "Cünd"
+    ],
+    "answer_index": 2,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Peygamberimiz'in komutan görevlendirerek Medine dışına gönderdiği müfrezelere 'seriyye' denir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000033",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Hicretin 3. yılında yapılan, Hz. Hamza'nın şehit düştüğü ve okçuların tepeyi terk etmesiyle seyrin değiştiği savaş hangisidir?",
+    "options": [
+      "Bedir Savaşı",
+      "Hendek Savaşı",
+      "Huneyn Savaşı",
+      "Uhud Savaşı"
+    ],
+    "answer_index": 3,
+    "source": "Âl-i İmrân 3/121; İbn Hişâm",
+    "explanation": "Uhud Savaşı hicretin 3. yılında gerçekleşmiş ve müminler için büyük bir sabır imtihanı olmuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000034",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Uhud Savaşı'nda Peygamberimiz'in 'Kuşların cesetlerimizi kaptığını görseniz bile ayrılmayın' dediği tepe hangisidir?",
+    "options": [
+      "Cebel-i Rahme",
+      "Ayneyn Tepesi",
+      "Sevr Tepesi",
+      "Kubâ Tepesi"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Cihâd",
+    "explanation": "Ayneyn Tepesi (Okçular Tepesi), Peygamberimiz'in Abdullah b. Cübeyr komutasındaki 50 okçuyu yerleştirdiği stratejik noktadır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000035",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz Medine'ye hicret ettiğinde evi tamamlanıncaya kadar evinde yaklaşık yedi ay kaldığı sahabi kimdir?",
+    "options": [
+      "Sa'd b. Muâz",
+      "Es'ad b. Zürâre",
+      "Ebû Eyyûb el-Ensârî",
+      "Sa'd b. Ubâde"
+    ],
+    "answer_index": 2,
+    "source": "Buhârî, Menâkıbü'l-ensâr",
+    "explanation": "Hâlid b. Zeyd (Ebû Eyyûb el-Ensârî), Peygamberimiz'i Medine'de evinde ağırlama şerefine nail olmuştur.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000036",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz vefatından önceki son hastalığında müminlere namaz kıldırması için kimi imam tayin etmiştir?",
+    "options": [
+      "Hz. Ali",
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Osman"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Ezân",
+    "explanation": "Peygamber Efendimiz 'Ebû Bekir'e söyleyin, insanlara namazı kıldırsın' buyurarak onu namaz imamı yapmıştır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000037",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Peygamber Efendimiz'in 'Seyfullah' (Allah'ın Kılıcı) unvanını verdiği ve Mûte Savaşı'nda orduyu kurtaran komutan kimdir?",
+    "options": [
+      "Hâlid b. Velîd",
+      "Amr b. Âs",
+      "Sa'd b. Ebî Vakkâs",
+      "Üsâme b. Zeyd"
+    ],
+    "answer_index": 0,
+    "source": "Buhârî, Meğâzî",
+    "explanation": "Mûte'de komutanların şehadeti sonrası sancağı devralan Hâlid b. Velîd'e Peygamberimiz Seyfullah lakabını vermiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000038",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Mekke'nin fethi hicretin kaçıncı yılında gerçekleşmiştir?",
+    "options": [
+      "6. yıl",
+      "7. yıl",
+      "8. yıl",
+      "9. yıl"
+    ],
+    "answer_index": 2,
+    "source": "İbn Hişâm, es-Sîre; Buhârî, Meğâzî",
+    "explanation": "Mekke'nin fethi hicretin 8. yılı Ramazan ayında (miladi 630) gerçekleşmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000039",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Medine'de namaz kılınırken kıblenin Kudüs'ten Kâbe'ye çevrilmesi hadisesinin yaşandığı tarihi mescit hangisidir?",
+    "options": [
+      "Kubâ Mescidi",
+      "Mescid-i Kıbleteyn",
+      "Mescid-i Cum'a",
+      "Mescid-i Gamâme"
+    ],
+    "answer_index": 1,
+    "source": "Bakara 2/144; İbn Sa'd",
+    "explanation": "Mescid-i Kıbleteyn (İki Kıbleli Mescit), öğle veya ikindi namazı esnasında kıblenin Kâbe'ye döndürüldüğü mescittir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000040",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 2,
+    "question": "Medine'ye hicretten sonra Müslümanlar, Yahudiler ve müşrik kabileler arasında imzalanan ilk anayasa metni hangisidir?",
+    "options": [
+      "Akabe Metni",
+      "Hudeybiye Belgesi",
+      "Necran Ahitnamesi",
+      "Medine Sözleşmesi"
+    ],
+    "answer_index": 3,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Medine Sözleşmesi (Vesikası), şehir halkının hak ve sorumluluklarını belirleyen tarihteki ilk yazılı anayasalardandır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000041",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Peygamber Efendimiz'in İsrâ gecesinde Mekke'deki Mescid-i Haram'dan gece yürüyüşüyle ulaştırıldığı kutsal mabet neresidir?",
+    "options": [
+      "Mescid-i Aksâ",
+      "Mescid-i Kubâ",
+      "Mescid-i Hayf",
+      "Mescid-i Gamâme"
+    ],
+    "answer_index": 0,
+    "source": "İsrâ 17/1; Buhârî, Salât",
+    "explanation": "İsrâ hadisesinde Peygamberimiz Mescid-i Haram'dan Kudüs'teki Mescid-i Aksâ'ya götürülmüş, oradan Mirac'a yükselmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000042",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Bizans kuvvetlerine karşı yapılan; Zeyd b. Hârise, Câfer b. Ebî Tâlib ve Abdullah b. Revâha'nın art arda şehit olduğu savaş hangisidir?",
+    "options": [
+      "Yermük Savaşı",
+      "Mûte Savaşı",
+      "Tebük Seferi",
+      "Nihâvend Savaşı"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Meğâzî",
+    "explanation": "Hicretin 8. yılındaki Mûte Savaşı'nda Peygamberimiz'in tayin ettiği üç komutan sırayla şehit düşmüştür.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000043",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Peygamber Efendimiz'in aşırı sıcak ve kıtlık döneminde Bizans tehdidine karşı bizzat ordunun başında çıktığı son gazve hangisidir?",
+    "options": [
+      "Tebük Gazvesi",
+      "Hayber Gazvesi",
+      "Tâif Kuşatması",
+      "Huneyn Gazvesi"
+    ],
+    "answer_index": 0,
+    "source": "Tevbe 9/117; İbn Hişâm",
+    "explanation": "Hicretin 9. yılında gerçekleşen Tebük Seferi (Gazvetü'l-Usre), Peygamberimiz'in bizzat katıldığı son gazvedir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000044",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Hayber'in fethi sırasında Peygamberimiz'in sancağı teslim ettiği ve Kamus kalesini fetheden kahraman sahabi kimdir?",
+    "options": [
+      "Hz. Hamza",
+      "Zübeyr b. Avvâm",
+      "Hz. Ali",
+      "Sa'd b. Ebî Vakkâs"
+    ],
+    "answer_index": 2,
+    "source": "Buhârî, Meğâzî",
+    "explanation": "Peygamberimiz 'Sancağı yarın Allah'ı ve Resulü'nü seven, onların da kendisini sevdiği birine vereceğim' diyerek Hz. Ali'ye vermiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000045",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Mekke'nin fethinden hemen sonra gerçekleşen, müminlerin başlangıçta çokluklarına güvenip bocaladığı çetin savaş hangisidir?",
+    "options": [
+      "Bedir Gazvesi",
+      "Evtâs Gazvesi",
+      "Hayber Gazvesi",
+      "Huneyn Gazvesi"
+    ],
+    "answer_index": 3,
+    "source": "Tevbe 9/25-26; İbn Hişâm",
+    "explanation": "Tevbe Sûresi 25. ayette Huneyn günü ordunun çokluğunun gurur verdiği ancak fayda sağlamadığı hatırlatılır.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000046",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Peygamberimiz'in vefatından hemen önce hazırladığı ancak Hz. Ebû Bekir tarafından sefere çıkarılan ordunun genç komutanı kimdir?",
+    "options": [
+      "Abdullah b. Ömer",
+      "Üsâme b. Zeyd",
+      "Muâz b. Cebel",
+      "Mus'ab b. Umeyr"
+    ],
+    "answer_index": 1,
+    "source": "Buhârî, Meğâzî",
+    "explanation": "Peygamber Efendimiz Suriye sınırına gönderilecek orduya genç yaştaki Üsâme b. Zeyd'i komutan tayin etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000047",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "I. Akabe Biatı'ndan sonra Peygamberimiz tarafından Medine'ye ilk muallim olarak gönderilen ve şehrin İslamlaşmasını sağlayan sahabi kimdir?",
+    "options": [
+      "Mus'ab b. Umeyr",
+      "Muâz b. Cebel",
+      "Abdullah b. Mes'ûd",
+      "Ebû Zer el-Gıfârî"
+    ],
+    "answer_index": 0,
+    "source": "İbn Hişâm, es-Sîre",
+    "explanation": "Mus'ab b. Umeyr (r.a.), güzel ahlakı ve tebliği ile Medine'de İslam'ın yayılmasını sağlayan ilk öğretmendir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000048",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Hendek Savaşı sırasında Müslümanları arkadan vurmak için müşrik Kureyş ile anlaşarak antlaşmayı bozan Medineli kabile hangisidir?",
+    "options": [
+      "Benî Kaynukâ",
+      "Benî Nadîr",
+      "Benî Kurayza",
+      "Benî Hâris"
+    ],
+    "answer_index": 2,
+    "source": "Ahzâb 33/26; İbn Hişâm",
+    "explanation": "Benî Kurayza kabilesi Hendek kuşatmasında Müslümanlarla olan barış ahdini bozmuş ve ihanet etmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000049",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Münafıkların Kuba Mescidi'ne zarar vermek ve tefrika çıkarmak için inşa ettikleri ve Peygamberimiz'in yıktırdığı mescit hangisidir?",
+    "options": [
+      "Mescid-i Dırâr",
+      "Mescid-i Feth",
+      "Mescid-i Sebeka",
+      "Mescid-i İcâbe"
+    ],
+    "answer_index": 0,
+    "source": "Tevbe 9/107-108",
+    "explanation": "Kur'an-ı Kerim'de münafıkların zarar vermek amacıyla kurdukları Mescid-i Dırâr'da namaza durulmaması emredilmiştir.",
+    "review_status": "draft"
+  },
+  {
+    "id": "q-tr-siyer-000050",
+    "lang": "tr",
+    "category": "siyer",
+    "difficulty": 3,
+    "question": "Uhud Savaşı'nın hemen ertesinde Peygamber Efendimiz'in yaralı ordusuyla Kureyş müşriklerini takip ettiği gazve hangisidir?",
+    "options": [
+      "Zâtürrikâ' Gazvesi",
+      "Benî Mustalik Gazvesi",
+      "Bedrü'l-Mev'id Gazvesi",
+      "Hamrâülesed Gazvesi"
+    ],
+    "answer_index": 3,
+    "source": "Âl-i İmrân 3/172-174; İbn Hişâm",
+    "explanation": "Uhud'dan bir gün sonra Peygamberimiz müminlerin moralini yükseltmek için Hamrâülesed'e kadar düşmanı kovalamıştır.",
+    "review_status": "draft"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "c-tr-000001",
+    "lang": "tr",
+    "level": "child",
+    "target": "Cami",
+    "forbidden": [
+      "minare",
+      "kubbe",
+      "namaz",
+      "cemaat"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000002",
+    "lang": "tr",
+    "level": "child",
+    "target": "Minare",
+    "forbidden": [
+      "ezan",
+      "şerefe",
+      "cami",
+      "kandil"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000003",
+    "lang": "tr",
+    "level": "child",
+    "target": "Abdest",
+    "forbidden": [
+      "su",
+      "namaz",
+      "yıkamak",
+      "ayak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000004",
+    "lang": "tr",
+    "level": "child",
+    "target": "Sadaka",
+    "forbidden": [
+      "yardım",
+      "para",
+      "fakir",
+      "sevap"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000005",
+    "lang": "tr",
+    "level": "child",
+    "target": "Hac",
+    "forbidden": [
+      "Mekke",
+      "tavaf",
+      "ihram",
+      "Arafat"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000006",
+    "lang": "tr",
+    "level": "child",
+    "target": "Kur'an",
+    "forbidden": [
+      "ayet",
+      "sure",
+      "okumak",
+      "kitap"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000007",
+    "lang": "tr",
+    "level": "child",
+    "target": "Tavaf",
+    "forbidden": [
+      "Kâbe",
+      "dönmek",
+      "şavt",
+      "hac"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000008",
+    "lang": "tr",
+    "level": "child",
+    "target": "Ramazan",
+    "forbidden": [
+      "oruç",
+      "ay",
+      "teravih",
+      "iftar"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000009",
+    "lang": "tr",
+    "level": "child",
+    "target": "Teravih",
+    "forbidden": [
+      "yatsı",
+      "Ramazan",
+      "cami",
+      "gece"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000010",
+    "lang": "tr",
+    "level": "child",
+    "target": "Kıble",
+    "forbidden": [
+      "Kâbe",
+      "yön",
+      "namaz",
+      "pusula"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000011",
+    "lang": "tr",
+    "level": "child",
+    "target": "Secde",
+    "forbidden": [
+      "alın",
+      "namaz",
+      "yere koymak",
+      "rüku"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000012",
+    "lang": "tr",
+    "level": "child",
+    "target": "Rüku",
+    "forbidden": [
+      "eğilmek",
+      "namaz",
+      "secde",
+      "kıyam"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000013",
+    "lang": "tr",
+    "level": "child",
+    "target": "Takke",
+    "forbidden": [
+      "baş",
+      "namaz",
+      "şapka",
+      "örtü"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000014",
+    "lang": "tr",
+    "level": "child",
+    "target": "Kubbe",
+    "forbidden": [
+      "yuvarlak",
+      "tavan",
+      "cami",
+      "hilal"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000015",
+    "lang": "tr",
+    "level": "child",
+    "target": "İmsak",
+    "forbidden": [
+      "vakit",
+      "oruç",
+      "sahur",
+      "sabah"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000016",
+    "lang": "tr",
+    "level": "child",
+    "target": "Bayram",
+    "forbidden": [
+      "tatil",
+      "ziyaret",
+      "şeker",
+      "el öpmek"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000017",
+    "lang": "tr",
+    "level": "child",
+    "target": "Gusül",
+    "forbidden": [
+      "tüm vücut",
+      "temizlik",
+      "yıkanmak",
+      "su"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000018",
+    "lang": "tr",
+    "level": "child",
+    "target": "Fıtır Sadakası",
+    "forbidden": [
+      "Ramazan",
+      "fakir",
+      "bayram",
+      "vermek"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000019",
+    "lang": "tr",
+    "level": "child",
+    "target": "Sünnet",
+    "forbidden": [
+      "Peygamber",
+      "farz",
+      "hadis",
+      "sevap"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000020",
+    "lang": "tr",
+    "level": "child",
+    "target": "Farz",
+    "forbidden": [
+      "zorunlu",
+      "emir",
+      "namaz",
+      "Allah"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000021",
+    "lang": "tr",
+    "level": "teen",
+    "target": "İhram",
+    "forbidden": [
+      "beyaz",
+      "örtü",
+      "hac",
+      "Mîkât"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000022",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Arafat",
+    "forbidden": [
+      "vakfe",
+      "dağ",
+      "hac",
+      "dua"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000023",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Mihrap",
+    "forbidden": [
+      "imam",
+      "duvar",
+      "cami",
+      "namaz kıldırmak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000024",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Minber",
+    "forbidden": [
+      "hutbe",
+      "merdiven",
+      "imam",
+      "cuma"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000025",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Vaaz",
+    "forbidden": [
+      "nasihat",
+      "hoca",
+      "kürsü",
+      "cami"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000026",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Kandil Gecesi",
+    "forbidden": [
+      "cami",
+      "ibadet",
+      "simit",
+      "mübarek"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000027",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Müezzin",
+    "forbidden": [
+      "ezan",
+      "kamet",
+      "okumak",
+      "ses"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000028",
+    "lang": "tr",
+    "level": "teen",
+    "target": "İmam",
+    "forbidden": [
+      "namaz",
+      "cemaat",
+      "mihrap",
+      "önder"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000029",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Cemaat",
+    "forbidden": [
+      "namaz",
+      "birlikte",
+      "cami",
+      "saf"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000030",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Saf",
+    "forbidden": [
+      "sıra",
+      "namaz",
+      "omuz omuza",
+      "düzgün"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000031",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Tefsir",
+    "forbidden": [
+      "Kur'an",
+      "açıklamak",
+      "ayet",
+      "anlam"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000032",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Hadis",
+    "forbidden": [
+      "Peygamber",
+      "söz",
+      "sünnet",
+      "rivayet"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000033",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Helal",
+    "forbidden": [
+      "serbest",
+      "izin",
+      "haram",
+      "yemek"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000034",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Haram",
+    "forbidden": [
+      "yasak",
+      "günah",
+      "helal",
+      "kaçınmak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000035",
+    "lang": "tr",
+    "level": "teen",
+    "target": "Sevap",
+    "forbidden": [
+      "iyilik",
+      "ödül",
+      "günah",
+      "cennet"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000036",
+    "lang": "tr",
+    "level": "adult",
+    "target": "İhlas",
+    "forbidden": [
+      "samimiyet",
+      "Allah rızası",
+      "niyet",
+      "gösterişsiz"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000037",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Takva",
+    "forbidden": [
+      "sakınmak",
+      "korku",
+      "günah",
+      "Allah sevgisi"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000038",
+    "lang": "tr",
+    "level": "adult",
+    "target": "İhsan",
+    "forbidden": [
+      "görüyormuş gibi",
+      "iyilik",
+      "ibadet",
+      "Cibril"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000039",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Sıla-i Rahim",
+    "forbidden": [
+      "akraba",
+      "ziyaret",
+      "aile",
+      "bağ"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000040",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Sadaka-i Cariye",
+    "forbidden": [
+      "kesintisiz",
+      "çeşme",
+      "okul",
+      "ölümden sonra"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000041",
+    "lang": "tr",
+    "level": "adult",
+    "target": "İnfak",
+    "forbidden": [
+      "harcamak",
+      "Allah için",
+      "mal",
+      "paylaşmak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000042",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Gıybet",
+    "forbidden": [
+      "dedikodu",
+      "arkasından konuşmak",
+      "günah",
+      "kardeş eti"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000043",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Riya",
+    "forbidden": [
+      "gösteriş",
+      "ameli bozmak",
+      "şirk",
+      "övgü"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000044",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Kıyamet",
+    "forbidden": [
+      "sûr",
+      "mahşer",
+      "son gün",
+      "hesap"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000045",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Mizan",
+    "forbidden": [
+      "terazi",
+      "tartı",
+      "ahiret",
+      "günah sevap"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000046",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Sırat",
+    "forbidden": [
+      "köprü",
+      "cehennem üstü",
+      "geçmek",
+      "ahiret"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000047",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Şefaat",
+    "forbidden": [
+      "Peygamber",
+      "af dilemek",
+      "ahiret",
+      "aracı olmak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000048",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Ashab-ı Kehf",
+    "forbidden": [
+      "mağara",
+      "gençler",
+      "köpek",
+      "uyumak"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000049",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Uhud",
+    "forbidden": [
+      "dağ",
+      "savaş",
+      "okçular",
+      "Hamza"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "c-tr-000050",
+    "lang": "tr",
+    "level": "adult",
+    "target": "Hendek",
+    "forbidden": [
+      "çukur",
+      "kazmak",
+      "savunma",
+      "Medine"
+    ],
+    "review_status": "draft"
+  }
+]

@@ -58,13 +58,17 @@ Bu dosya Claude Code ↔ Antigravity arasındaki tek iletişim kanalıdır. Önc
 - Çıktı: `marketing/qa-report.md` — tablo: senaryo | adım | beklenen | gerçekleşen | ekran görüntüsü yolu | şiddet.
 
 ## Geri bildirim (Claude Code yazar)
-_(henüz yok)_
+- Antigravity (2026-10-12): Pilot parti (200 soru: TR/AR quran & siyer; 100 kart: TR/AR) tamamlandı.
+- Tüm içerik draft statüsünde teslim edildi; validator 0 hata verdi (Sorular: 230, Kartlar: 124).
+- answer_index (%25-%25-%25-%25) ve kart seviyeleri (child:40, teen:30, adult:30) tam dengelendi.
+- İstatistikler ve insan editör inceleme notları marketing/content-stats.md dosyasına yazıldı.
+- **Claude Code incelemesi (2026-10-12):** doğrulayıcı 0 hata verse de ~12 soru + 2 kart gerçek içerik hatası taşıyordu (belirsiz cevap, mezhepler arası hüküm, zayıf hadis, uydurma çeldirici); düzeltildi. **Sonraki partiler için dersler:** (1) "en kısa/en uzun/tek" sorularında çeldiricinin de aynı özelliği taşımadığından emin ol; (2) fıkhî hüküm adı (farz/vacip/sünnet, rekat sayısı, secde sayısı) yazma; (3) hadis bab/numarası yazma, yalnızca kitap adı; (4) çeldirici olarak var olmayan sure/kişi/yer adı uydurma; (5) örnek (_) dosyalara dokunma.
 
 ## Durum
 | Görev | Durum |
 |---|---|
-| 1 Soru bankası | bekliyor — pilot parti başlatılabilir |
-| 2 Kartlar | bekliyor — pilot parti başlatılabilir |
+| 1 Soru bankası | **pilot parti teslim edildi + Claude incelemesi yapıldı** (bkz. marketing/content-stats.md §5); sıradaki: insan editör örnekleri → sonra kalan kategoriler (tarih, ilmihal, kıssalar, arapça) |
+| 2 Kartlar | **pilot parti teslim edildi + incelendi** (2 kart düzeltildi) |
 | 3 AR kontrol | **HAZIR** — `locales/ar.json` (250 anahtar) ve `locales/native/ar.json` incelenebilir; RTL ekran görüntüsü için web önizlemesi: `npm start` → Hesap → Dil |
 | 4 Görseller | Faz 5+ sonrası |
 | 5 Pazarlama | başlatılabilir (öncelik düşük) |
