@@ -15,7 +15,14 @@ const ATTRS = ['label', 'placeholder', 'title', 'subtitle', 'accessibilityLabel'
 const LETTER = /[A-Za-zÇĞİÖŞÜçğıöşü؀-ۿ]{2,}/;
 const TR_CHARS = /[çğıöşüÇĞİÖŞÜ]/;
 // dil adları kendi dillerinde; içerik doğrulayıcı iletileri geliştirici aracıdır (kullanıcıya gösterilmez)
-const SKIP_TR = [join('src', 'content', 'generated'), join('src', 'i18n', 'lang.ts'), join('src', 'content', 'validate.ts')];
+// şehir adları üç dilde VERİDİR (cities.ts); seasonPlan.ts hata iletisi sezon üretme betiğine (geliştirici aracı) gider
+const SKIP_TR = [
+  join('src', 'content', 'generated'),
+  join('src', 'i18n', 'lang.ts'),
+  join('src', 'content', 'validate.ts'),
+  join('src', 'features', 'lig', 'cities.ts'),
+  join('src', 'features', 'lig', 'seasonPlan.ts'),
+];
 
 function files(dir: string, ext: RegExp): string[] {
   return readdirSync(dir, { withFileTypes: true }).flatMap((e) => {

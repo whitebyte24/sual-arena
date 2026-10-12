@@ -102,5 +102,12 @@ süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorag
 - "Hatalı soru bildir": `src/features/report/` (`logic.ts` saf, `service.ts` Supabase `question_reports` + çevrimdışı kuyruk, `ReportButton.tsx`). Düello/oda ve Günlük Soru cevap ekranında. (kullanıcı, soru) başına tek kayıt; 23505 = zaten bildirilmiş.
 - Tekrar önleme: `features/duello/seen.ts` (en son 3000 soru) → host `pickQuestions`'a verir; maç sonunda her oyuncu oynananları kaydeder.
 
+## Ramazan Ligi (Faz 8)
+- `src/features/lig/`: `prayer.ts` (saf: gün batımı = iftar, NOAA/Spencer; ekinoks + Mekke/Londra testleri), `cities.ts` (56 şehir, konum izni YOK), `schedule.ts` (saf: sezon günü, durum not-started/locked/open/done/ended/no-set, bildirim planı), `seasonPlan.ts` (saf: 30 gün, tekrarsız, finale = kadir gecesi−1 günü 10 soru), `run.ts` (puan = düello), `ligState.ts`/`store.ts` (yerel kayıt), `remote.ts` (Supabase + önbellek + skor gönderme), `notifications.ts` (yerel iftar bildirimi).
+- Ekranlar: `src/app/lig/{index,play}.tsx`. **Reklamsız** (banner/geçiş yok; `onMatchFinished` çağrılmaz). Ana ekran kartı sezon+bayrak açıksa etkinleşir (`isLeagueAvailable`).
+- Sunucu: migration `0003_league.sql` (sezon başına dil, skor ≤5000). Sezon SQL'i: `npm run league:sql` (onaylı soru ister: ≥155/dil). Açma/kapama ve kısıtlar: `docs/league-ops.md`.
+- Gün N = o günün iftarından sonraki set; her soru kimliği kullanıcının uygulama sürümünde bulunmalı (yoksa "güncelle"). **Sezon sorularını sürümden önce onayla.**
+- **Doğrulanmadı:** canlı Supabase (sezon/sıralama/skor), gerçek bildirim zamanlaması (cihaz gerekir). Web'de demo için `lig.cache.v1` önbelleği elle yazılarak denendi.
+
 ## Durum
-Faz 1–7 tamam (kod). Faz 7'nin içerik tarafı: 300 pilot öğe (200 soru + 100 kart) incelendi/düzeltildi, **henüz hiçbiri onaylı değil** (insan editör bekleniyor); hedef 3.000 soru + 600 kart. Sıradaki: Faz 8 Ramazan Ligi.
+Faz 1–8 tamam (kod). Sıradaki: Faz 9 mağaza + pazarlama dosyaları. Açık kararlar: Premium "lig ödülleri" tanımsız; hediye v1.1; 3.000 soru + 600 kart içeriği ve insan onayı.

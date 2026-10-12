@@ -67,7 +67,8 @@
     "i18n:hardcoded": "tsx scripts/check-hardcoded.ts",
     "content:sheet": "tsx scripts/content-sheet.ts",
     "content:apply": "tsx scripts/content-apply.ts",
-    "content:verify-prod": "tsx scripts/verify-prod-content.ts"
+    "content:verify-prod": "tsx scripts/verify-prod-content.ts",
+    "league:sql": "tsx scripts/make-league-sql.ts"
   },
   "private": true
 }

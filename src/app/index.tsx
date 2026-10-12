@@ -5,8 +5,9 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { AdBanner } from '@/features/ads/AdBanner';
 import { currentStreak } from '@/features/gunluk/daily';
 import { loadDaily } from '@/features/gunluk/store';
+import { isLeagueAvailable } from '@/features/lig/remote';
 import { usePremium } from '@/features/premium/entitlement';
-import { t, type TKey } from '@/i18n';
+import { getLang, t, type TKey } from '@/i18n';
 import { MAX_ROOM_PLAYERS } from '@/lib/config';
 import { dateKey } from '@/lib/date';
 import { glow, radius, spacing, useTheme } from '@/lib/theme';
@@ -16,7 +17,7 @@ import { Icon, type IconName } from '@/ui/Icon';
 import { Lantern, Divider } from '@/ui/ornaments';
 import { Text } from '@/ui/Text';
 
-type Route = '/soyleme' | '/duello' | '/oda' | '/gunluk';
+type Route = '/soyleme' | '/duello' | '/oda' | '/gunluk' | '/lig';
 type Mode = { key: 'duel' | 'room' | 'family' | 'daily' | 'league'; title: TKey; sub: TKey; icon: IconName; route?: Route };
 
 const MODES: Mode[] = [
@@ -32,9 +33,11 @@ export default function Home() {
   const insets = useSafeAreaInsets();
   const premium = usePremium();
   const [streak, setStreak] = useState(0);
+  const [leagueOpen, setLeagueOpen] = useState(false);
 
   useEffect(() => {
     loadDaily().then((d) => setStreak(currentStreak(d.streak, dateKey())));
+    isLeagueAvailable(getLang()).then(setLeagueOpen); // uzaktan açılır: yeniden yayın gerekmez
   }, []);
 
   const badge = (m: Mode) => {
@@ -48,7 +51,7 @@ export default function Home() {
       case 'daily':
         return streak > 0 ? <Badge label={t('home.badge.days', { n: streak })} tone="gold" icon="fire" /> : null;
       default:
-        return <Badge label={t('home.badge.soon')} icon="lock-outline" />;
+        return leagueOpen ? <Badge label={t('home.badge.live')} tone="gold" icon="moon-waning-crescent" /> : <Badge label={t('home.badge.soon')} icon="lock-outline" />;
     }
   };
 
@@ -131,7 +134,9 @@ export default function Home() {
         <Text style={{ color: theme.text, fontSize: 20, fontWeight: '700' }}>{t('home.section')}</Text>
       </View>
 
-      {MODES.map((m) => {
+      {MODES.map((m0) => {
+        // Ramazan Ligi uzaktan açılır (sezon + bayrak); kapalıyken kilitli kart
+        const m: Mode = m0.key === 'league' && leagueOpen ? { ...m0, route: '/lig' } : m0;
         const locked = !m.route;
         return (
           <Pressable

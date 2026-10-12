@@ -5,7 +5,7 @@ Kod hazır; aşağıdaki kayıtlar yapılmadan ilgili özellik gerçek cihazda �
 
 ## 1. Supabase (ücretsiz proje)
 1. supabase.com → New project. `Project Settings > API`: URL ve anon key → `EXPO_PUBLIC_SUPABASE_URL`, `EXPO_PUBLIC_SUPABASE_ANON_KEY`.
-2. `SQL Editor`: `supabase/migrations/0001_init.sql`, sonra `0002_daily_sets.sql` içeriğini sırayla çalıştır.
+2. `SQL Editor`: `supabase/migrations/0001_init.sql`, sonra `0002_daily_sets.sql`, `0003_league.sql` içeriğini sırayla çalıştır (Ramazan Ligi için ayrıca `docs/league-ops.md`).
 3. `Authentication > Providers`: **Anonymous sign-ins: açık** (misafir modu buna dayanır).
 4. `Authentication > Sign In / Providers` (Settings): **Allow manual linking: açık** (misafir → Google hesabına bağlama).
 5. `Authentication > URL Configuration > Redirect URLs`: `sualarena://auth-callback` ekle (geliştirmede Expo'nun gösterdiği `exp://…/--/auth-callback` da).

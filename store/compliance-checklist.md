@@ -29,6 +29,8 @@ Durum: `[ ]` yapılmadı · `[~]` kısmen/kod hazır, doğrulanmadı · `[x]` ta
 | 23 | Premium hediye/referral mekaniği mağaza kurallarına uygun (Apple 3.1.1 / Play Faturalandırma) — hediye v1.1 e ertelendi (öneri), referral RevenueCat promosyonu Faz 9 | 5 | [ ] |
 | 24 | Apple ile girişli hesap silinirken Apple token iptali (Edge Function + Apple anahtarı) | 5 | [ ] |
 | 25 | Üretim derlemesinde reklam birimi kimlikleri gerçek; test kimliği ve sahte premium YOK (`__DEV__` korumalı) | 10 | [ ] |
+| 26 | Bildirim izni: yalnızca kullanıcı Lig'de "İftar hatırlatması"nı açınca istenir; iOS izin metni/Android POST_NOTIFICATIONS; Play Veri Güvenliği'nde bildirim beyanı | 8 | [~] |
+| 27 | Lig ekranlarında reklam yok (iftar bildirimiyle açılan ekranlar dahil); Lig'de konum izni YOK, şehir yalnızca cihazda | 8 | [x] |
 
 ## Gönderim öncesi hızlı kontrol
 - `npm run check` yeşil · `npx expo-doctor` temiz · `grep -rIi "tabu" src locales store marketing` boş

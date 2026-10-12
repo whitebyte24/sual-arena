@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { View } from 'react-native';
-import { Stack } from 'expo-router';
+import { Stack, router } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import {
   IBMPlexSansArabic_400Regular,
@@ -18,6 +18,7 @@ import {
 } from '@expo-google-fonts/plus-jakarta-sans';
 import { initAds } from '@/features/ads';
 import { initPremium } from '@/features/premium/entitlement';
+import { onNotificationTap } from '@/features/lig/notifications';
 import { flushReports } from '@/features/report/service';
 import { initLang, needsRestart, t, useLang } from '@/i18n';
 import { initAppearance } from '@/lib/appearance';
@@ -56,6 +57,9 @@ export default function RootLayout() {
       .catch(() => {});
     flushReports().catch(() => {}); // çevrimdışıyken biriken "hatalı soru" bildirimlerini gönder
   }, []);
+
+  // İftar bildirimine dokunulunca Lig ekranını aç (o ekranlarda reklam yok)
+  useEffect(() => onNotificationTap((url) => router.push(url as never)), []);
 
   // Yazı tipleri ve dil hazır olana kadar çizim yok (yerel açılış ekranı görünür); font hatasında sistem yazı tipiyle devam.
   if (!ready || (!fontsLoaded && !fontError)) return null;
