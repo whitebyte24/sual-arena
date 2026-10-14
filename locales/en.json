@@ -60,7 +60,7 @@
       "start": "Start game"
     },
     "level": {
-      "child": "Kids (7–12)",
+      "child": "Ages 7–12",
       "teen": "Teens",
       "adult": "Adults",
       "mixed": "Mixed"
@@ -203,8 +203,7 @@
       "noAds": "No ads",
       "unlimitedDuels": "Unlimited duels",
       "allCategories": "All categories",
-      "allDecks": "All Don’t Say It! decks",
-      "leagueRewards": "Ramadan League rewards"
+      "allDecks": "All Don’t Say It! decks"
     },
     "plan": {
       "yearly": "Yearly",

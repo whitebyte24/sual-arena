@@ -9,7 +9,7 @@ import { formatClock, iftarOpenMs } from '@/features/lig/prayer';
 import { fetchLeaderboard, loadLeague, submitScore, type LeagueData, type Row } from '@/features/lig/remote';
 import { leagueStatus, reminderPlan, seasonLength } from '@/features/lig/schedule';
 import { loadLig, saveLig } from '@/features/lig/store';
-import { getLang, t } from '@/i18n';
+import { getLang, t, upper } from '@/i18n';
 import { addDays, dateKey } from '@/lib/date';
 import { getPlayerName } from '@/lib/identity';
 import { radius, spacing, useTheme } from '@/lib/theme';
@@ -271,7 +271,7 @@ export default function LeagueHub() {
 
       {/* Gün rozetleri */}
       <View style={{ gap: spacing.sm }}>
-        <Text style={eyebrow}>{t('lig.daysDone', { n: done.length }).toLocaleUpperCase('tr')}</Text>
+        <Text style={eyebrow}>{upper(t('lig.daysDone', { n: done.length }))}</Text>
         <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 8 }}>
           {Array.from({ length: total }, (_, i) => i + 1).map((n) => {
             const ok = done.includes(n);

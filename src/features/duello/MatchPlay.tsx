@@ -13,7 +13,7 @@ import { QUESTION_INDEX } from '@/content/questions';
 import { onMatchFinished } from '@/features/ads';
 import { AdBanner } from '@/features/ads/AdBanner';
 import { PromoCard } from '@/features/ads/PromoCard';
-import { t } from '@/i18n';
+import { t, upper } from '@/i18n';
 import { INVITE_URL } from '@/lib/config';
 import { shareView, shareWhatsapp } from '@/lib/share';
 import { glow, radius, spacing, useTheme, type Theme } from '@/lib/theme';
@@ -188,7 +188,7 @@ export function MatchPlay({ session, selfId, onAgain, onMenu, onLeave }: Props) 
             <View style={{ flexDirection: 'row', alignItems: 'center', gap: 6 }}>
               <Icon name="book-open-variant" size={14} color={theme.accent} />
               <Text style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1.1 }}>
-                {t(`category.${q.category}`).toLocaleUpperCase('tr')}
+                {upper(t(`category.${q.category}`))}
               </Text>
             </View>
           )}

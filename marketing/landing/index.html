@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="tr" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sual Arena: İslami Bilgi Yarışması</title>
+  <meta name="description" content="Sual Arena — canlı düello, Söyleme! aile oyunu, günlük soru ve Ramazan Ligi. Bilgini sevdiklerinle yarıştır. / مسابقة إسلامية / Islamic knowledge game.">
+  <meta name="theme-color" content="#0B1B33">
+  <meta property="og:title" content="Sual Arena">
+  <meta property="og:description" content="Islamic knowledge game · İslami bilgi yarışması · مسابقة إسلامية">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body data-title-tr="Sual Arena: İslami Bilgi Yarışması" data-title-ar="سؤال أرينا: مسابقة إسلامية" data-title-en="Sual Arena: Islamic Quiz">
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="./"><span class="dot" aria-hidden="true"></span>Sual Arena</a>
+    <div class="langs" role="group" aria-label="Language">
+      <button data-set="tr" aria-pressed="false">TR</button>
+      <button data-set="ar" aria-pressed="false">AR</button>
+      <button data-set="en" aria-pressed="false">EN</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- TR -->
+    <div data-lang="tr" class="active">
+      <section class="hero">
+        <span class="badge">Ramazan 2027'de geliyor</span>
+        <h1>Bilgini sevdiklerinle yarıştır</h1>
+        <p class="lead">Canlı düello, tek telefonla aile oyunu “Söyleme!”, her gün 5 yeni soru ve Ramazan Ligi. Edepli, kaynaklı, aileyle oynanır.</p>
+      </section>
+    </div>
+    <!-- AR -->
+    <div data-lang="ar">
+      <section class="hero">
+        <span class="badge">قريباً في رمضان ٢٠٢٧</span>
+        <h1>اختبر معلوماتك مع من تحب</h1>
+        <p class="lead">تحدٍّ مباشر، ولعبة «لا تقل!» العائلية بهاتف واحد، و٥ أسئلة جديدة كل يوم، ودوري رمضان. محتوى مهذّب وموثّق المصادر.</p>
+      </section>
+    </div>
+    <!-- EN -->
+    <div data-lang="en">
+      <section class="hero">
+        <span class="badge">Coming for Ramadan 2027</span>
+        <h1>Test your knowledge with the people you love</h1>
+        <p class="lead">Live duels, the “Don't Say It!” family game on one phone, 5 fresh questions every day and the Ramadan League. Respectful, sourced, family-friendly.</p>
+      </section>
+    </div>
+
+    <!-- Bekleme listesi (tek form; metinler dile göre) -->
+    <form class="wait" id="wait" novalidate>
+      <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input type="email" name="email" required autocomplete="email" maxlength="254"
+             placeholder="E-posta / البريد الإلكتروني / Email" aria-label="Email">
+      <button class="cta" type="submit">
+        <span data-lang="tr" class="active">Haber ver</span><span data-lang="ar">أخبرني</span><span data-lang="en">Notify me</span>
+      </button>
+    </form>
+    <p class="note" id="wait-note" aria-live="polite"></p>
+    <div hidden>
+      <span data-msg="ok" data-lang="tr">Teşekkürler! Yayınlandığında haber vereceğiz.</span>
+      <span data-msg="ok" data-lang="ar">شكراً! سنخبرك عند الإطلاق.</span>
+      <span data-msg="ok" data-lang="en">Thank you! We'll let you know at launch.</span>
+      <span data-msg="invalid" data-lang="tr">Geçerli bir e-posta gir.</span>
+      <span data-msg="invalid" data-lang="ar">أدخل بريداً إلكترونياً صحيحاً.</span>
+      <span data-msg="invalid" data-lang="en">Please enter a valid email.</span>
+      <span data-msg="fail" data-lang="tr">Şu an kaydedemedik, lütfen sonra tekrar dene.</span>
+      <span data-msg="fail" data-lang="ar">تعذّر الحفظ الآن، حاول لاحقاً.</span>
+      <span data-msg="fail" data-lang="en">We couldn't save that right now, please try again later.</span>
+    </div>
+    <p class="note">
+      <span data-lang="tr" class="active">E-postan yalnızca yayın haberi için kullanılır; istediğin an silinmesini isteyebilirsin. <a data-keeplang href="privacy.html">Gizlilik</a></span>
+      <span data-lang="ar">يُستخدم بريدك فقط للإعلان عن الإطلاق، ويمكنك طلب حذفه في أي وقت. <a data-keeplang href="privacy.html">الخصوصية</a></span>
+      <span data-lang="en">Your email is only used for the launch announcement; you can ask us to delete it anytime. <a data-keeplang href="privacy.html">Privacy</a></span>
+    </p>
+
+    <div class="stores">
+      <a class="cta" data-store="appStoreUrl" hidden>App Store</a>
+      <a class="cta" data-store="playStoreUrl" hidden>Google Play</a>
+      <span class="soon" hidden>
+        <span data-lang="tr" class="active">App Store ve Google Play'de yakında</span><span data-lang="ar">قريباً على App Store وGoogle Play</span><span data-lang="en">Coming soon to the App Store and Google Play</span>
+      </span>
+    </div>
+
+    <section class="band">
+      <div class="grid">
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Düello</span><span data-lang="ar">التحدّي</span><span data-lang="en">Duel</span></h3>
+          <p><span data-lang="tr" class="active">5 soru, 10 saniye, hız bonusu. Rakip bulunamazsa “BOT” etiketli bir rakiple.</span><span data-lang="ar">٥ أسئلة و١٠ ثوانٍ ونقاط سرعة. وإن لم يتوفر منافس فروبوت بعلامة BOT.</span><span data-lang="en">5 questions, 10 seconds, speed bonus. A clearly labelled BOT if no opponent is found.</span></p>
+        </div>
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Söyleme!</span><span data-lang="ar">لا تقل!</span><span data-lang="en">Don't Say It!</span></h3>
+          <p><span data-lang="tr" class="active">Tek telefonla, internetsiz aile oyunu. İki takım, her yaşa uygun seviyeler.</span><span data-lang="ar">لعبة عائلية بهاتف واحد وبلا إنترنت. فريقان ومستويات لكل الأعمار.</span><span data-lang="en">A one-phone family game, no internet needed. Two teams, levels for every age.</span></p>
+        </div>
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Günlük Soru</span><span data-lang="ar">سؤال اليوم</span><span data-lang="en">Daily Question</span></h3>
+          <p><span data-lang="tr" class="active">Herkese aynı 5 soru. Serini koru, sonucunu paylaş.</span><span data-lang="ar">الأسئلة الخمسة نفسها للجميع. حافظ على سلسلتك وشارك نتيجتك.</span><span data-lang="en">The same 5 questions for everyone. Keep your streak, share your result.</span></p>
+        </div>
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Ramazan Ligi</span><span data-lang="ar">دوري رمضان</span><span data-lang="en">Ramadan League</span></h3>
+          <p><span data-lang="tr" class="active">Her gün iftardan sonra açılan özel set ve Kadir Gecesi finali.</span><span data-lang="ar">مجموعة خاصة تُفتح كل يوم بعد الإفطار ونهائي ليلة القدر.</span><span data-lang="en">A special set opens every day after iftar, with a Night of Power finale.</span></p>
+        </div>
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Arkadaş Odası</span><span data-lang="ar">غرفة الأصدقاء</span><span data-lang="en">Friends Room</span></h3>
+          <p><span data-lang="tr" class="active">6 haneli kodla özel oda, 2-8 kişi. Sohbet yok; yalnızca hazır emoji.</span><span data-lang="ar">غرفة خاصة برمز من ٦ أرقام لـ ٢–٨ لاعبين. بلا محادثة، رموز جاهزة فقط.</span><span data-lang="en">Private room with a 6-digit code, 2-8 players. No chat; only preset emoji.</span></p>
+        </div>
+        <div class="card">
+          <h3><span data-lang="tr" class="active">Üç dil</span><span data-lang="ar">ثلاث لغات</span><span data-lang="en">Three languages</span></h3>
+          <p><span data-lang="tr" class="active">Türkçe, Arapça (tam sağdan sola) ve İngilizce.</span><span data-lang="ar">التركية والعربية (من اليمين إلى اليسار) والإنجليزية.</span><span data-lang="en">Turkish, Arabic (full right-to-left) and English.</span></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="band">
+      <h2><span data-lang="tr" class="active">Güvenilir ve saygılı içerik</span><span data-lang="ar">محتوى موثوق ومحترم</span><span data-lang="en">Trustworthy and respectful</span></h2>
+      <p class="meta">
+        <span data-lang="tr" class="active">Sorular kaynakla hazırlanır ve yayınlanmadan önce insan editör incelemesinden geçer. Mezhepler arası tartışmalı konulara girmeyiz. Premium'da reklam yoktur.</span>
+        <span data-lang="ar">تُعدّ الأسئلة بمصادرها وتُراجع بشرياً قبل النشر، ولا نتناول المسائل الخلافية بين المذاهب. لا إعلانات في بريميوم.</span>
+        <span data-lang="en">Questions are written with sources and reviewed by a human editor before publishing. We avoid topics disputed between schools of thought. Premium has no ads.</span>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <span>© Sual Arena</span>
+    <nav>
+      <a data-keeplang href="privacy.html"><span data-lang="tr" class="active">Gizlilik</span><span data-lang="ar">الخصوصية</span><span data-lang="en">Privacy</span></a>
+      <a data-keeplang href="terms.html"><span data-lang="tr" class="active">Koşullar</span><span data-lang="ar">الشروط</span><span data-lang="en">Terms</span></a>
+      <a data-keeplang href="delete-account.html"><span data-lang="tr" class="active">Hesap silme</span><span data-lang="ar">حذف الحساب</span><span data-lang="en">Delete account</span></a>
+      <a href="mailto:" data-cfg="contactEmail" class="todo">TODO@sualarena.app</a>
+    </nav>
+  </footer>
+</div>
+<script src="config.js"></script>
+<script src="site.js"></script>
+</body>
+</html>

@@ -1,0 +1,1634 @@
+[
+ {
+  "id": "q-tr-ilmihal-000001",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "İslam'ın şartları kaç tanedir?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Îmân; Müslim, Îmân",
+  "explanation": "Kelime-i şehadet, namaz, zekât, oruç ve hac İslam'ın beş şartıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000002",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "İmanın şartları kaç tanedir?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "source": "Müslim, Îmân (Cibrîl hadisi)",
+  "explanation": "Allah'a, meleklere, kitaplara, peygamberlere, ahiret gününe ve kadere iman, imanın altı şartıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000003",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Müslüman olmak isteyen kişinin söylemesi gereken ifade hangisidir?",
+  "options": [
+   "Besmele",
+   "Kelime-i şehadet",
+   "Tekbir",
+   "Tesbih"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Îmân",
+  "explanation": "Kelime-i şehadet, Allah'tan başka ilah olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şahitliktir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000004",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Günde kaç vakit namaz kılınır?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Salât",
+  "explanation": "Sabah, öğle, ikindi, akşam ve yatsı olmak üzere günde beş vakit namaz kılınır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000005",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Beş vakit namazdan hangisinin farzı 3 rekâttır?",
+  "options": [
+   "Akşam",
+   "Sabah",
+   "İkindi",
+   "Yatsı"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Salât",
+  "explanation": "Akşam namazının farzı üç rekâttır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000006",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Sabah namazının farzı kaç rekâttır?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Salât",
+  "explanation": "Sabah namazının farzı iki rekâttır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000007",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Öğle namazının farzı kaç rekâttır?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Salât",
+  "explanation": "Öğle namazının farzı dört rekâttır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000008",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Cuma namazının farzı kaç rekâttır?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer_index": 0,
+  "source": "Cuma 62/9",
+  "explanation": "Cuma namazının farzı hutbeden sonra iki rekâttır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000009",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Namazda alnın yere konmasına ne ad verilir?",
+  "options": [
+   "Rükû",
+   "Secde",
+   "Kıyam",
+   "Selâm"
+  ],
+  "answer_index": 1,
+  "source": "Namaz terimleri",
+  "explanation": "Namazda alın, burun ve diğer organlarla yere kapanmaya secde denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000010",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Namazda belin eğilerek ellerin dizlere konmasına ne ad verilir?",
+  "options": [
+   "Secde",
+   "Kıyam",
+   "Ka'de",
+   "Rükû"
+  ],
+  "answer_index": 3,
+  "source": "Namaz terimleri",
+  "explanation": "Namazda eğilmeye rükû denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000011",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Namazda oturma durumuna ne ad verilir?",
+  "options": [
+   "Kıyam",
+   "Rükû",
+   "Ka'de",
+   "Secde"
+  ],
+  "answer_index": 2,
+  "source": "Namaz terimleri",
+  "explanation": "Namazda oturuşa ka'de denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000012",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Namaza başlarken söylenen ilk tekbire ne ad verilir?",
+  "options": [
+   "İftitah tekbiri",
+   "Kunût tekbiri",
+   "Teşrîk tekbiri",
+   "Bayram tekbiri"
+  ],
+  "answer_index": 0,
+  "source": "Namaz terimleri",
+  "explanation": "Namaza başlarken 'Allâhü ekber' diyerek alınan tekbire iftitah (açılış) tekbiri denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000013",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Müslümanların namazda yöneldiği yer neresidir?",
+  "options": [
+   "Mescid-i Aksâ",
+   "Mescid-i Nebevî",
+   "Arafat",
+   "Kâbe"
+  ],
+  "answer_index": 3,
+  "source": "Bakara 2/144",
+  "explanation": "Müslümanlar namazda Mekke'deki Kâbe'ye (kıble) yönelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000014",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Müslümanların ilk kıblesi neresidir?",
+  "options": [
+   "Kâbe",
+   "Mescid-i Aksâ",
+   "Mescid-i Nebevî",
+   "Kubâ Mescidi"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Îmân",
+  "explanation": "Hicretten sonra yaklaşık on altı-on yedi ay Mescid-i Aksâ'ya doğru namaz kılınmış, sonra kıble Kâbe olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000015",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Abdestte hangi organ yıkanmaz, mesh edilir?",
+  "options": [
+   "Baş",
+   "Yüz",
+   "Eller",
+   "Ayaklar"
+  ],
+  "answer_index": 0,
+  "source": "Mâide 5/6",
+  "explanation": "Abdestte yüz, kollar ve ayaklar yıkanır; baş ise mesh edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000016",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Su bulunmadığında veya kullanılamadığında abdest yerine geçen uygulama nedir?",
+  "options": [
+   "Gusül",
+   "Mesh",
+   "Teyemmüm",
+   "İstincâ"
+  ],
+  "answer_index": 2,
+  "source": "Mâide 5/6",
+  "explanation": "Su bulunmadığında temiz toprakla teyemmüm yapılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000017",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Cünüplük gibi hâllerden sonra bütün bedenin yıkanmasına ne ad verilir?",
+  "options": [
+   "Abdest",
+   "Gusül",
+   "Teyemmüm",
+   "Mesh"
+  ],
+  "answer_index": 1,
+  "source": "Mâide 5/6",
+  "explanation": "Boy abdesti de denilen gusül, bütün vücudun yıkanmasıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000018",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Namaz vaktinin girdiğini duyuran çağrıya ne denir?",
+  "options": [
+   "Ezan",
+   "Kamet",
+   "Tekbir",
+   "Salâ"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Ezân",
+  "explanation": "Namaz vaktini bildiren çağrıya ezan denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000019",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Farz namaza başlamadan hemen önce okunan çağrıya ne denir?",
+  "options": [
+   "Ezan",
+   "Salâ",
+   "Tahmîd",
+   "Kamet (ikamet)"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Ezân",
+  "explanation": "Cemaatle kılınan farz namazdan hemen önce okunan çağrıya kamet denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000020",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "İslam tarihinde ilk ezanı okuyan sahabi kimdir?",
+  "options": [
+   "Ebû Hüreyre",
+   "Abdullah b. Mes'ûd",
+   "Bilâl-i Habeşî",
+   "Zeyd b. Sâbit"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Ezân",
+  "explanation": "Peygamberimiz'in müezzini Bilâl-i Habeşî, ilk ezanı okumuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000021",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Cuma namazından önce okunan konuşmaya ne denir?",
+  "options": [
+   "Va'z",
+   "Hutbe",
+   "Dua",
+   "Mevlid"
+  ],
+  "answer_index": 1,
+  "source": "Cuma 62/9",
+  "explanation": "Cuma namazından önce imamın okuduğu hutbe, namazın şartlarındandır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000022",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Yılda kaç bayram namazı kılınır?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Îdeyn",
+  "explanation": "Ramazan Bayramı ve Kurban Bayramı olmak üzere yılda iki bayram namazı kılınır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000023",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Cenaze namazında hangi hareket yapılmaz?",
+  "options": [
+   "Rükû ve secde",
+   "Kıyam",
+   "Selam",
+   "Tekbir"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Cenâiz",
+  "explanation": "Cenaze namazı ayakta ve tekbirlerle kılınır; rükû ve secde yoktur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000024",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Oruç hangi ayda tutulur?",
+  "options": [
+   "Şaban",
+   "Muharrem",
+   "Recep",
+   "Ramazan"
+  ],
+  "answer_index": 3,
+  "source": "Bakara 2/185",
+  "explanation": "Oruç, Ramazan ayında farzdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000025",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Ramazan'da sabaha doğru yenen yemeğe ne ad verilir?",
+  "options": [
+   "Sahur",
+   "İftar",
+   "Kandil",
+   "Davet"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Savm",
+  "explanation": "Orucun başlamasından önceki yemeğe sahur denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000026",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Akşam vakti orucun açıldığı yemeğe ne denir?",
+  "options": [
+   "Sahur",
+   "Arefe",
+   "İftar",
+   "Fitre"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Savm",
+  "explanation": "Güneş batınca orucu açmaya iftar denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000027",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Orucun başlama vakti olan, tan yerinin ağarmaya başladığı vakit nedir?",
+  "options": [
+   "Kerahet",
+   "İmsak",
+   "İşrak",
+   "Zeval"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/187",
+  "explanation": "Fecr (tan ağarması) ile oruç başlar; bu vakte imsak denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000028",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Ramazan Bayramı'ndan önce verilen sadakanın adı nedir?",
+  "options": [
+   "Kurban",
+   "Zekât",
+   "Fidye",
+   "Fitre"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Zekât",
+  "explanation": "Ramazan Bayramı namazından önce verilen sadakaya sadaka-i fıtır (fitre) denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000029",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Ramazan Bayramı hangi ayın birinci günü başlar?",
+  "options": [
+   "Zilhicce",
+   "Şevvâl",
+   "Muharrem",
+   "Rebîülevvel"
+  ],
+  "answer_index": 1,
+  "source": "Hicrî takvim",
+  "explanation": "Ramazan Bayramı Şevvâl ayının ilk günüdür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000030",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Kurban Bayramı hangi ayın onuncu gününde başlar?",
+  "options": [
+   "Zilhicce",
+   "Şevvâl",
+   "Muharrem",
+   "Safer"
+  ],
+  "answer_index": 0,
+  "source": "Hicrî takvim",
+  "explanation": "Kurban Bayramı Zilhicce ayının onuncu gününde başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000031",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Zekât verilebilecek sınıfların sayısı Kur'an'da kaç olarak sayılmıştır?",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "Tevbe 9/60",
+  "explanation": "Tevbe Sûresi 60. âyet, zekâtın verileceği sekiz sınıfı sayar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000032",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Zekât, maldan belirli bir miktarın verilmesini ifade eder; bu asgari miktara ne denir?",
+  "options": [
+   "Fidye",
+   "Sadaka",
+   "Nisap",
+   "İnfak"
+  ],
+  "answer_index": 2,
+  "source": "Zekât ilmihali",
+  "explanation": "Zekâtın farz olması için gereken asgari mal miktarına nisap denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000033",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Ölümden sonra da sevap kazandıran sadaka türüne ne denir?",
+  "options": [
+   "Fitre",
+   "Zekât",
+   "Sadaka-i câriye",
+   "Fidye"
+  ],
+  "answer_index": 2,
+  "source": "Müslim, Vasiyet",
+  "explanation": "Hayrı sürekli devam eden bağış ve hizmetler sadaka-i câriye olarak anılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000034",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Hac ibadeti hangi ayda yapılır?",
+  "options": [
+   "Zilhicce",
+   "Ramazan",
+   "Şevvâl",
+   "Muharrem"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/197",
+  "explanation": "Hac, Zilhicce ayında belirli günlerde yapılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000035",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Haccın en önemli rüknü olan ve arefe günü yapılan ibadet nedir?",
+  "options": [
+   "Şeytan taşlama",
+   "Kurban kesme",
+   "Sa'y",
+   "Arafat'ta vakfe"
+  ],
+  "answer_index": 3,
+  "source": "Tirmizî, Hac",
+  "explanation": "Hac Arafat'tır; arefe günü Arafat'ta bulunmak haccın en önemli rüknüdür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000036",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Hac ve umrede Kâbe'nin etrafında yedi kez dönmeye ne ad verilir?",
+  "options": [
+   "Sa'y",
+   "Tavaf",
+   "Vakfe",
+   "İhram"
+  ],
+  "answer_index": 1,
+  "source": "Hac 22/29",
+  "explanation": "Kâbe'yi yedi kez dolaşmaya tavaf denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000037",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Hac ve umrede Safâ ile Merve arasında yedi kez gidip gelmeye ne ad verilir?",
+  "options": [
+   "Sa'y",
+   "Tavaf",
+   "Vakfe",
+   "İfâda"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/158",
+  "explanation": "Safâ ile Merve arasında gidip gelmeye sa'y denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000038",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Hac veya umre için giyilen özel kıyafete ve bu niyet haline ne ad verilir?",
+  "options": [
+   "Tavaf",
+   "Sa'y",
+   "İhram",
+   "Zemzem"
+  ],
+  "answer_index": 2,
+  "source": "Hac ilmihali",
+  "explanation": "Hac ve umre niyetiyle girilen özel kıyafet ve hâl ihramdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000039",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Hac sırasında şeytan taşlama ibadeti nerede yapılır?",
+  "options": [
+   "Arafat",
+   "Müzdelife",
+   "Safâ",
+   "Mina"
+  ],
+  "answer_index": 3,
+  "source": "Hac ilmihali",
+  "explanation": "Şeytan taşlama (rami), Mina'da yapılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000040",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kâbe'nin köşesinde bulunan ve tavafın başlangıcı sayılan siyah taşın adı nedir?",
+  "options": [
+   "Makam-ı İbrâhîm",
+   "Hacerülesved",
+   "Hatîm",
+   "Mültezem"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Hac",
+  "explanation": "Hacerülesved, tavafın başlangıç noktasıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000041",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Kâbe'yi örten siyah örtüye ne ad verilir?",
+  "options": [
+   "Hırka",
+   "Kisve",
+   "Seccade",
+   "Sancak"
+  ],
+  "answer_index": 1,
+  "source": "Hac ilmihali",
+  "explanation": "Kâbe'nin üzerini örten siyah örtüye kisve denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000042",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Mekke'de bulunan ve Hz. Hâcer ile İsmâîl'e nasip olan mübarek suyun adı nedir?",
+  "options": [
+   "Zemzem",
+   "Kevser",
+   "Selsebil",
+   "Sidre"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Enbiyâ",
+  "explanation": "Zemzem, Mescid-i Harâm'da Kâbe'nin yakınında bulunan kutsal su kaynağıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000043",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Umre hakkında hangisi doğrudur?",
+  "options": [
+   "Yalnızca arefe günü yapılır",
+   "Sadece Ramazan'da yapılır",
+   "Sadece Kurban Bayramı'nda yapılır",
+   "Yılın her döneminde yapılabilir"
+  ],
+  "answer_index": 3,
+  "source": "Hac ilmihali",
+  "explanation": "Haccın belirli günleri vardır; umre ise yılın her döneminde yapılabilen bir ziyarettir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000044",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Kâbe'nin bulunduğu şehir neresidir?",
+  "options": [
+   "Medine",
+   "Kudüs",
+   "Mekke",
+   "Tâif"
+  ],
+  "answer_index": 2,
+  "source": "Âl-i İmrân 3/96",
+  "explanation": "Kâbe, Mekke'deki Mescid-i Harâm'dadır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000045",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Müslümanlar için kutsal sayılan 'üç mescit' hangileridir?",
+  "options": [
+   "Kubâ, Kıbleteyn, Dırâr",
+   "Süleymaniye, Selimiye, Sultanahmet",
+   "Mescid-i Harâm, Mescid-i Nebevî, Mescid-i Aksâ",
+   "Emevî, Kurtuba, Ezher"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Salât fî Mescidi Mekke",
+  "explanation": "Hadiste, ziyaret için yola çıkılacak üç mescit olarak bu üçü bildirilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000046",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Allah'ın güzel isimleri anlamına gelen 'Esmâ-i Hüsnâ' sayısı hangisidir?",
+  "options": [
+   "40",
+   "77",
+   "99",
+   "114"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Tevhîd",
+  "explanation": "Hadiste Allah'ın doksan dokuz ismi olduğu bildirilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000047",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Vahyi peygamberlere ulaştırmakla görevli melek kimdir?",
+  "options": [
+   "Mîkâil",
+   "Cebrâil",
+   "İsrâfîl",
+   "Azrâil"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/97",
+  "explanation": "Cebrâil, vahiy meleğidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000048",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Sûr'a üfürmekle görevli melek kimdir?",
+  "options": [
+   "Cebrâil",
+   "Mîkâil",
+   "Azrâil",
+   "İsrâfîl"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Rikâk",
+  "explanation": "İsrâfîl, kıyamet kopacağı zaman sûra üfürecek olan melektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000049",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Can almakla görevli melek hangi adla bilinir?",
+  "options": [
+   "Azrâil",
+   "Mîkâil",
+   "Cebrâil",
+   "İsrâfîl"
+  ],
+  "answer_index": 0,
+  "source": "Secde 32/11",
+  "explanation": "Kur'an'da 'ölüm meleği' olarak anılan melek halk arasında Azrâil adıyla bilinir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000050",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Yağmur ve rızıkla ilişkilendirilen melek kimdir?",
+  "options": [
+   "Cebrâil",
+   "Mîkâil",
+   "İsrâfîl",
+   "Azrâil"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/98",
+  "explanation": "Bakara 98. âyette Cebrâil ile birlikte anılan Mîkâil, rızık ve yağmurla görevli kabul edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000051",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Kabirde sual soran meleklere ne denir?",
+  "options": [
+   "Kirâmen Kâtibîn",
+   "Hafaza",
+   "Münker ve Nekîr",
+   "Zebâni"
+  ],
+  "answer_index": 2,
+  "source": "Tirmizî, Cenâiz",
+  "explanation": "Kabirde sorgu yapan meleklere Münker ve Nekîr denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000052",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "İnsanın amellerini yazan meleklere ne ad verilir?",
+  "options": [
+   "Münker ve Nekîr",
+   "Zebâni",
+   "Hafaza",
+   "Kirâmen Kâtibîn"
+  ],
+  "answer_index": 3,
+  "source": "İnfitâr 82/10-12",
+  "explanation": "İnfitâr Sûresi, insanın yaptıklarını yazan değerli yazıcı melekleri bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000053",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Dört büyük ilahî kitaptan biri olmayan hangisidir?",
+  "options": [
+   "Tevrat",
+   "Zebur",
+   "İncil",
+   "Sünen"
+  ],
+  "answer_index": 3,
+  "source": "Nisâ 4/136",
+  "explanation": "Tevrat, Zebur, İncil ve Kur'an dört büyük kitaptır; Sünen hadis kitaplarının genel adıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000054",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Hz. İbrâhîm'e verilen küçük ilahî kitaplara ne ad verilir?",
+  "options": [
+   "Zebur",
+   "Suhuf",
+   "Tevrat",
+   "İncil"
+  ],
+  "answer_index": 1,
+  "source": "A'lâ 87/18-19",
+  "explanation": "Hz. İbrâhîm'e indirilen sahifelere suhuf denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000055",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Peygamberimiz'in sözlerine, fiillerine ve onayladıklarına ne denir?",
+  "options": [
+   "Meâl",
+   "Tefsir",
+   "Sünnet (hadis)",
+   "Siyer"
+  ],
+  "answer_index": 2,
+  "source": "Ahzâb 33/21",
+  "explanation": "Peygamberimiz'in söz, fiil ve onayları sünnetin kaynağıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000056",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Peygamberimiz'i hayatta iken görüp iman eden ve imanla ölen kişilere ne denir?",
+  "options": [
+   "Sahâbe",
+   "Tâbiîn",
+   "Muhaddis",
+   "Havâri"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Fezâilü Ashâbi'n-Nebî",
+  "explanation": "Peygamberimiz'i görüp iman edenlere sahabi, onları görenlere tâbiîn denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000057",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Sahabeyi gören ve onlardan öğrenen nesle ne ad verilir?",
+  "options": [
+   "Sahâbe",
+   "Havâri",
+   "Tâbiîn",
+   "Ensâr"
+  ],
+  "answer_index": 2,
+  "source": "İslam tarihi terimleri",
+  "explanation": "Sahabeyi gören ve onlardan ilim alan nesle tâbiîn denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000058",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Evlilikte erkeğin kadına vermekle yükümlü olduğu mal veya hak nedir?",
+  "options": [
+   "Nafaka",
+   "Çeyiz",
+   "Bedel",
+   "Mehir"
+  ],
+  "answer_index": 3,
+  "source": "Nisâ 4/4",
+  "explanation": "Mehir, nikâh sebebiyle kadına verilen haktır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000059",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kur'an'da faizin yasaklandığı âyet hangi surede yer alır?",
+  "options": [
+   "Fâtiha",
+   "Bakara",
+   "Meryem",
+   "Kehf"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/275",
+  "explanation": "Bakara 275. âyet, Allah'ın alışverişi helal, faizi haram kıldığını bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000060",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Kur'an'da içki ve kumarın yasaklandığı âyet hangi surede yer alır?",
+  "options": [
+   "Mâide",
+   "Nûr",
+   "Yûsuf",
+   "Mülk"
+  ],
+  "answer_index": 0,
+  "source": "Mâide 5/90",
+  "explanation": "Mâide 90. âyet, içki, kumar, putlar ve fal oklarını şeytan işi pislik olarak bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000061",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kur'an'da domuz etinin haram kılındığı âyetlerden biri hangi surededir?",
+  "options": [
+   "Meryem",
+   "Bakara",
+   "Kehf",
+   "Yûsuf"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/173",
+  "explanation": "Bakara 173. âyet, leş, kan, domuz eti ve Allah'tan başkası adına kesileni haram kılar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000062",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Anne babaya iyi davranmanın emredildiği ve 'öf' bile dememenin istendiği âyet hangi surede yer alır?",
+  "options": [
+   "Nûr",
+   "Mülk",
+   "Kalem",
+   "İsrâ"
+  ],
+  "answer_index": 3,
+  "source": "İsrâ 17/23",
+  "explanation": "İsrâ 23. âyet, anne babaya iyilik etmeyi ve onlara 'öf' bile dememeyi emreder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000063",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kur'an'da gıybetin ('arkadan çekiştirmenin') yasaklandığı âyet hangi surede yer alır?",
+  "options": [
+   "Nahl",
+   "Kehf",
+   "Hucurât",
+   "Nûr"
+  ],
+  "answer_index": 2,
+  "source": "Hucurât 49/12",
+  "explanation": "Hucurât 12. âyet, gıybeti ölü kardeşin etini yemeye benzetir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000064",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "İsraf konusunda 'yiyin için fakat israf etmeyin' buyuran âyet hangi surededir?",
+  "options": [
+   "A'râf",
+   "Mülk",
+   "Kalem",
+   "Duhâ"
+  ],
+  "answer_index": 0,
+  "source": "A'râf 7/31",
+  "explanation": "A'râf 31. âyet, yiyip içmeyi ama israf etmemeyi emreder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000065",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Yemeğe başlarken ne söylenir?",
+  "options": [
+   "Elhamdülillâh",
+   "Sübhânallâh",
+   "Bismillâh",
+   "Allâhü ekber"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Et'ime",
+  "explanation": "Yemeğe besmeleyle başlanır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000066",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Yemekten sonra hangi söz söylenir?",
+  "options": [
+   "Bismillâh",
+   "Elhamdülillâh",
+   "Allâhü ekber",
+   "Lâ havle"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Et'ime",
+  "explanation": "Yemek sonrasında Allah'a hamd edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000067",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "'Sübhânallâh' demeye ne ad verilir?",
+  "options": [
+   "Tekbir",
+   "Tahmid",
+   "Tehlil",
+   "Tesbih"
+  ],
+  "answer_index": 3,
+  "source": "Zikir terimleri",
+  "explanation": "Sübhânallâh demek tesbih, Elhamdülillâh demek tahmid, Allâhü ekber demek tekbirdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000068",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "'Elhamdülillâh' demeye ne ad verilir?",
+  "options": [
+   "Tahmid",
+   "Tesbih",
+   "Tekbir",
+   "Tehlil"
+  ],
+  "answer_index": 0,
+  "source": "Zikir terimleri",
+  "explanation": "Elhamdülillâh demek, Allah'a hamd etmek yani tahmiddir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000069",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "'Allâhü ekber' demeye ne ad verilir?",
+  "options": [
+   "Tesbih",
+   "Tahmid",
+   "Tehlil",
+   "Tekbir"
+  ],
+  "answer_index": 3,
+  "source": "Zikir terimleri",
+  "explanation": "Allâhü ekber demek tekbirdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000070",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "'Lâ ilâhe illallâh' demeye ne ad verilir?",
+  "options": [
+   "Tesbih",
+   "Tehlil",
+   "Tahmid",
+   "Tekbir"
+  ],
+  "answer_index": 1,
+  "source": "Zikir terimleri",
+  "explanation": "Lâ ilâhe illallâh demek tehlil, yani tevhid cümlesini söylemektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000071",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "'Bismillâhirrahmânirrahîm' ifadesine ne ad verilir?",
+  "options": [
+   "Besmele",
+   "Hamdele",
+   "Hasbele",
+   "Salvele"
+  ],
+  "answer_index": 0,
+  "source": "Zikir terimleri",
+  "explanation": "Bismillâhirrahmânirrahîm diyerek başlamak besmele çekmek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000072",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Müslümanların birbirini karşılarken söylediği selam hangisidir?",
+  "options": [
+   "Hayırlı sabahlar",
+   "Allaha ısmarladık",
+   "Es-selâmü aleyküm",
+   "Tebrikler"
+  ],
+  "answer_index": 2,
+  "source": "Müslim, Îmân",
+  "explanation": "Müslümanlar birbirlerine 'Es-selâmü aleyküm' diyerek selam verir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000073",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Selama karşılık nasıl verilir?",
+  "options": [
+   "Hoş geldin",
+   "Ve aleyküm selâm",
+   "Eyvallah",
+   "Sağ ol"
+  ],
+  "answer_index": 1,
+  "source": "Nisâ 4/86",
+  "explanation": "Selam alındığında daha güzeliyle veya aynısıyla karşılık verilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000074",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Komşuluk hakkı konusunda Peygamberimiz ne buyurmuştur?",
+  "options": [
+   "Komşuya zarar vermek serbesttir",
+   "Komşuluk dinde önemsizdir",
+   "Komşuya selam vermek gerekmez",
+   "Şerrinden komşusunun güvende olmadığı kimse cennete giremez"
+  ],
+  "answer_index": 3,
+  "source": "Müslim, Îmân",
+  "explanation": "Peygamberimiz, komşusu şerrinden emin olmayan kimsenin cennete giremeyeceğini bildirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000075",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Yetimin malını haksız yere yemek hakkında Kur'an ne bildirir?",
+  "options": [
+   "Karınlarına ateş doldurmuş olurlar",
+   "Hiçbir sorumluluğu yoktur",
+   "Büyük sevap kazandırır",
+   "Ancak çok az günahtır"
+  ],
+  "answer_index": 0,
+  "source": "Nisâ 4/10",
+  "explanation": "Nisâ 10. âyet, yetim malını haksızca yiyenlerin karınlarına ateş yemiş olacağını bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000076",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Aşûre Günü hangi ayın onuncu günüdür?",
+  "options": [
+   "Safer",
+   "Recep",
+   "Muharrem",
+   "Şaban"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Savm",
+  "explanation": "Aşûre günü Muharrem ayının onuncu günüdür; Peygamberimiz o gün oruç tutmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000077",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "'Haram aylar' içinde yer alan ay hangisidir?",
+  "options": [
+   "Ramazan",
+   "Şevvâl",
+   "Zilkade",
+   "Rebîülâhir"
+  ],
+  "answer_index": 2,
+  "source": "Tevbe 9/36",
+  "explanation": "Zilkade, Zilhicce, Muharrem ve Recep haram aylardır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000078",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Müslümanın yılda bir kez, Ramazan'da özel olarak aradığı gece hangisidir?",
+  "options": [
+   "Berât Gecesi",
+   "Kadir Gecesi",
+   "Regâib Gecesi",
+   "Mevlid Gecesi"
+  ],
+  "answer_index": 1,
+  "source": "Kadir 97/1-5",
+  "explanation": "Kadir Gecesi, bin aydan hayırlı olarak bildirilir ve Ramazan'ın son on gecesinde aranır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000079",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Ramazan ayında geceleri kılınan ek namaza ne denir?",
+  "options": [
+   "Duhâ",
+   "Evvâbîn",
+   "Tahiyyetü'l-mescid",
+   "Teravih"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Salât-ı Terâvîh",
+  "explanation": "Ramazan geceleri kılınan namaza teravih denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000080",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kur'an okurken 'euzü besmele' çekmek ne anlama gelir?",
+  "options": [
+   "Allah'a sığınıp Besmele ile başlamak",
+   "Kur'an'ı bitirmek",
+   "Kur'an'ı öğretmek",
+   "Kur'an'ı dinlemek"
+  ],
+  "answer_index": 0,
+  "source": "Nahl 16/98",
+  "explanation": "Kur'an okumaya başlarken 'kovulmuş şeytandan Allah'a sığınırım' denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000081",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Peygamberimiz'in yedi kat gökleri geçtiği ve Mescid-i Aksâ'dan göğe yükseldiği mucizeye ne ad verilir?",
+  "options": [
+   "İsrâ",
+   "Hicret",
+   "Miraç",
+   "Fetih"
+  ],
+  "answer_index": 2,
+  "source": "Necm 53/13-18",
+  "explanation": "İsrâ, Mescid-i Harâm'dan Mescid-i Aksâ'ya; Miraç ise oradan göğe yükselişidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000082",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Kur'an'ı okurken manasını anlamak için hazırlanan çeviriye ne ad verilir?",
+  "options": [
+   "Meâl",
+   "Tefsir",
+   "Mushaf",
+   "Hatim"
+  ],
+  "answer_index": 0,
+  "source": "Kur'an ilimleri terimleri",
+  "explanation": "Kur'an'ın anlamını başka dile aktaran çeviriye meâl denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000083",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Müslüman ölüsünün yıkanması, kefenlenmesi ve namazının kılınmasından sonra yapılan işlem nedir?",
+  "options": [
+   "Hacc",
+   "Sa'y",
+   "Tavaf",
+   "Defin"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Cenâiz",
+  "explanation": "Cenaze yıkanır, kefenlenir, namazı kılınır ve defnedilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000084",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Abdest almadan önce söylenen ifade hangisidir?",
+  "options": [
+   "Tekbir",
+   "Besmele",
+   "Tesbih",
+   "Salavat"
+  ],
+  "answer_index": 1,
+  "source": "Ebû Dâvûd, Tahâret",
+  "explanation": "Abdeste Besmele çekerek başlanır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000085",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Peygamberimiz'in cuma günü için tavsiye ettiği temizlik uygulaması nedir?",
+  "options": [
+   "Teyemmüm",
+   "Mesh",
+   "İstincâ",
+   "Gusül (boy abdesti)"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Cuma",
+  "explanation": "Peygamberimiz cuma günü gusül almayı ve temizlenmeyi tavsiye etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000086",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Oruç tutarken yemek içmekten kaçınmanın yanında nelerden de sakınılır?",
+  "options": [
+   "Yalan ve boş sözden",
+   "Çalışmaktan",
+   "Çocuklarla ilgilenmekten",
+   "Dua etmekten"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Savm",
+  "explanation": "Oruç yalnızca yeme içmeyi değil, yalan ve boş sözleri de terk etmeyi gerektirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000087",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Güneş doğmadan önce kılınan farz namaz hangisidir?",
+  "options": [
+   "Öğle",
+   "Sabah",
+   "İkindi",
+   "Yatsı"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Salât",
+  "explanation": "Sabah namazı fecirden güneş doğuncaya kadar olan vakitte kılınır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000088",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Yatsı namazının farzı kaç rekâttır?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Salât",
+  "explanation": "Yatsı namazının farzı dört rekâttır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000089",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Hac, gücü yetenlere ömürde kaç kez farzdır?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 0,
+  "source": "Âl-i İmrân 3/97",
+  "explanation": "Hac, gücü yetenlere ömürde bir kez farzdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000090",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Altın, gümüş ve ticaret mallarında zekât oranı nedir?",
+  "options": [
+   "Onda bir",
+   "Kırkta bir (%2,5)",
+   "Beşte bir",
+   "Yüzde on"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Zekât",
+  "explanation": "Nisaba ulaşan altın, gümüş, para ve ticaret mallarından kırkta bir (%2,5) zekât verilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000091",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Kurban kesme ibadeti hangi peygamberin sünneti olarak anılır?",
+  "options": [
+   "Hz. Nûh",
+   "Hz. Mûsâ",
+   "Hz. Îsâ",
+   "Hz. İbrâhîm"
+  ],
+  "answer_index": 3,
+  "source": "Sâffât 37/102-107",
+  "explanation": "Kurban, Hz. İbrâhîm'in oğlunu kurban etme imtihanının anısına yapılan bir ibadettir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000092",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Kur'an'da namazın belirli vakitlerde farz kılındığını bildiren âyet hangi surededir?",
+  "options": [
+   "Tâhâ",
+   "Yûsuf",
+   "Nisâ",
+   "Kehf"
+  ],
+  "answer_index": 2,
+  "source": "Nisâ 4/103",
+  "explanation": "Nisâ 103. âyet, namazın müminlere vakitleri belli bir farz olduğunu bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000093",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Cemaatle namazı yöneten kişiye ne ad verilir?",
+  "options": [
+   "Müezzin",
+   "Hatip",
+   "İmam",
+   "Hâfız"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Ezân",
+  "explanation": "Cemaatle namazı öne geçip yöneten kişiye imam denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000094",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Namaz sırasında aşağıdakilerden hangisi namazı bozar?",
+  "options": [
+   "Kasten konuşmak",
+   "Fâtiha okumak",
+   "Rükûya gitmek",
+   "Kıbleye dönük durmak"
+  ],
+  "answer_index": 0,
+  "source": "Müslim, Mesâcid",
+  "explanation": "Namazda insan konuşması yapmak namazı bozar; Kur'an okumak ve zikretmek ise namazın parçasıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000095",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Su bulunmadığında teyemmümde ne kullanılır?",
+  "options": [
+   "Kum yerine tuz",
+   "Ateş külü",
+   "Temiz kâğıt",
+   "Temiz toprak"
+  ],
+  "answer_index": 3,
+  "source": "Mâide 5/6",
+  "explanation": "Teyemmüm, temiz toprakla (yer yüzeyiyle) yapılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-ilmihal-000096",
+  "lang": "tr",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Cennetin bekçisi olarak anılan melek hangisidir?",
+  "options": [
+   "Mîkâil",
+   "Rıdvân",
+   "Cebrâil",
+   "İsrâfîl"
+  ],
+  "answer_index": 1,
+  "source": "Zümer 39/73",
+  "explanation": "Cennet kapıları açılınca bekçileri müminleri selamlayacak; kaynaklarda cennet bekçisi Rıdvân adıyla anılır.",
+  "review_status": "draft"
+ }
+]

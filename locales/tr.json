@@ -60,7 +60,7 @@
       "start": "Oyunu başlat"
     },
     "level": {
-      "child": "Çocuk (7–12)",
+      "child": "7–12 yaş",
       "teen": "Genç",
       "adult": "Yetişkin",
       "mixed": "Karışık"
@@ -203,8 +203,7 @@
       "noAds": "Reklamlar kaldırılır",
       "unlimitedDuels": "Sınırsız düello",
       "allCategories": "Tüm kategoriler",
-      "allDecks": "Tüm Söyleme! desteleri",
-      "leagueRewards": "Ramazan Ligi ödülleri"
+      "allDecks": "Tüm Söyleme! desteleri"
     },
     "plan": {
       "yearly": "Yıllık",

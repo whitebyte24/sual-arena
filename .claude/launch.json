@@ -1,6 +1,43 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "expo-web", "runtimeExecutable": "npx", "runtimeArgs": ["expo", "start", "--web", "--port", "8081"], "port": 8081 }
+    {
+      "name": "expo-web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "expo",
+        "start",
+        "--web",
+        "--port",
+        "8081"
+      ],
+      "port": 8081
+    },
+    {
+      "name": "landing",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "--yes",
+        "http-server",
+        "marketing/landing",
+        "-p",
+        "8090",
+        "-c-1"
+      ],
+      "port": 8090
+    },
+    {
+      "name": "review",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "--yes",
+        "http-server",
+        "content/review",
+        "-p",
+        "8091",
+        "-c-1"
+      ],
+      "port": 8091
+    }
   ]
 }

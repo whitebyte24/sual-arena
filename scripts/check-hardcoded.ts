@@ -20,6 +20,8 @@ const SKIP_TR = [
   join('src', 'content', 'generated'),
   join('src', 'i18n', 'lang.ts'),
   join('src', 'content', 'validate.ts'),
+  join('src', 'content', 'lint.ts'), // içerik kalite denetimi: geliştirici aracı iletileri
+  join('src', 'content', 'quranData.ts'), // sure adları VERİDİR (TR/EN/AR)
   join('src', 'features', 'lig', 'cities.ts'),
   join('src', 'features', 'lig', 'seasonPlan.ts'),
 ];

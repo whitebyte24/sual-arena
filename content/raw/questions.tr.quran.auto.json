@@ -1,0 +1,852 @@
+[
+ {
+  "id": "q-tr-quran-000051",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim'in en uzun suresi hangisidir?",
+  "options": [
+   "Âl-i İmrân",
+   "Nisâ",
+   "Bakara",
+   "A'râf"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/1-286",
+  "explanation": "Bakara Sûresi 286 âyetle Kur'an'ın en uzun suresidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000052",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim toplam kaç sureden oluşur?",
+  "options": [
+   "99",
+   "110",
+   "114",
+   "120"
+  ],
+  "answer_index": 2,
+  "source": "Mushaf düzeni; Fâtiha 1/1 – Nâs 114/6",
+  "explanation": "Mushaf'ta Fâtiha'dan Nâs'a kadar 114 sure bulunur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000053",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Hangi sure Besmele ile başlamaz?",
+  "options": [
+   "Tevbe",
+   "Enfâl",
+   "Mâide",
+   "Yûnus"
+  ],
+  "answer_index": 0,
+  "source": "Tevbe 9/1; Neml 27/30",
+  "explanation": "Tevbe, Besmele ile başlamayan tek suredir. Neml 30. âyette ise Besmele âyetin içinde geçer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000054",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Peygamberimiz'e inen ilk âyetler hangi surenin başında yer alır?",
+  "options": [
+   "Müddessir",
+   "Alak",
+   "Fâtiha",
+   "Müzzemmil"
+  ],
+  "answer_index": 1,
+  "source": "Alak 96/1-5",
+  "explanation": "'Oku' emriyle başlayan ilk âyetler Alak Sûresi'nin ilk beş âyetidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000055",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Adı 'örümcek' anlamına gelen sure hangisidir?",
+  "options": [
+   "Ankebût",
+   "Neml",
+   "Nahl",
+   "Kasas"
+  ],
+  "answer_index": 0,
+  "source": "Ankebût 29/41",
+  "explanation": "Ankebût Sûresi 41. âyette Allah'tan başkasını dost edinenleri örümceğin evine benzetir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000056",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Adı 'karınca' anlamına gelen sure hangisidir?",
+  "options": [
+   "Nahl",
+   "Ankebût",
+   "Fîl",
+   "Neml"
+  ],
+  "answer_index": 3,
+  "source": "Neml 27/18",
+  "explanation": "Neml Sûresi 18. âyette Hz. Süleyman'ın ordusunu fark eden bir karıncanın uyarısı anlatılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000057",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Hz. Süleyman'a Sebe Melikesi'nin haberini getiren kuş hangisidir?",
+  "options": [
+   "Karga",
+   "Güvercin",
+   "Hüdhüd",
+   "Kartal"
+  ],
+  "answer_index": 2,
+  "source": "Neml 27/20-22",
+  "explanation": "Hüdhüd, Sebe ülkesinden getirdiği haberi Hz. Süleyman'a bildirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000058",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Müzzemmil Sûresi'nde Kur'an'ın nasıl okunması emredilir?",
+  "options": [
+   "Çok hızlı bir şekilde",
+   "Tane tane (tertil ile)",
+   "Yalnızca sessizce",
+   "Sadece sabah vakti"
+  ],
+  "answer_index": 1,
+  "source": "Müzzemmil 73/4",
+  "explanation": "'Kur'an'ı tane tane, ağır ağır oku' emri, Kur'an'ı düzgün ve manasını düşünerek okumayı öğretir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000059",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim'in tamamını baştan sona okumaya ne denir?",
+  "options": [
+   "Tecvid",
+   "Hatim",
+   "Tilavet",
+   "Meâl"
+  ],
+  "answer_index": 1,
+  "source": "Kur'an ilimleri (Ulûmü'l-Kur'ân) terimleri",
+  "explanation": "Kur'an'ı baştan sona okuyup bitirmeye hatim denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000060",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim'in tamamını ezbere bilen kişiye ne denir?",
+  "options": [
+   "Müezzin",
+   "Vâiz",
+   "Mücâhid",
+   "Hâfız"
+  ],
+  "answer_index": 3,
+  "source": "Kur'an ilimleri (Ulûmü'l-Kur'ân) terimleri",
+  "explanation": "Kur'an'ı baştan sona ezberleyen kişiye hâfız denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000061",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an harflerini mahreç ve sıfatlarına uygun okumayı öğreten ilme ne denir?",
+  "options": [
+   "Tefsir",
+   "Kelâm",
+   "Tecvid",
+   "Fıkıh"
+  ],
+  "answer_index": 2,
+  "source": "Kur'an ilimleri (Ulûmü'l-Kur'ân) terimleri",
+  "explanation": "Tecvid, Kur'an'ı güzel ve doğru okuma kurallarını öğreten ilimdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000062",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an âyetlerinin anlamını açıklayan ilme ne denir?",
+  "options": [
+   "Tefsir",
+   "Tecvid",
+   "Sîret",
+   "Hadis"
+  ],
+  "answer_index": 0,
+  "source": "Kur'an ilimleri (Ulûmü'l-Kur'ân) terimleri",
+  "explanation": "Tefsir, Kur'an âyetlerinin anlamını ve hükümlerini açıklama ilmidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000063",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim yaklaşık kaç yılda indirilmiştir?",
+  "options": [
+   "10",
+   "15",
+   "23",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "Siyer ve Kur'an ilimleri (nüzûl süreci)",
+  "explanation": "Kur'an, peygamberliğin başlangıcından vefata kadar yaklaşık 23 yıl içinde indirilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000064",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Hz. Îsâ'nın kendisinden sonra gelecek peygamberi 'Ahmed' adıyla müjdelediğini bildiren sure hangisidir?",
+  "options": [
+   "Cuma",
+   "Tegābün",
+   "Hadîd",
+   "Saff"
+  ],
+  "answer_index": 3,
+  "source": "Saff 61/6",
+  "explanation": "Saff Sûresi 6. âyette Hz. Îsâ'nın 'adı Ahmed olan bir peygamberi müjdelerim' dediği bildirilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000065",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'İncire ve zeytine andolsun' âyetiyle başlayan sure hangisidir?",
+  "options": [
+   "Şems",
+   "Duhâ",
+   "Tîn",
+   "Fecr"
+  ],
+  "answer_index": 2,
+  "source": "Tîn 95/1",
+  "explanation": "Tîn Sûresi, incire ve zeytine yeminle başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000066",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'Güneşe ve onun aydınlığına andolsun' âyetiyle başlayan sure hangisidir?",
+  "options": [
+   "Tîn",
+   "Şems",
+   "Leyl",
+   "Fecr"
+  ],
+  "answer_index": 1,
+  "source": "Şems 91/1",
+  "explanation": "Şems Sûresi güneşe ve aydınlığına yeminle başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000067",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'Kuşluk vaktine andolsun' âyetiyle başlayan sure hangisidir?",
+  "options": [
+   "Tîn",
+   "Duhâ",
+   "Şems",
+   "Kadir"
+  ],
+  "answer_index": 1,
+  "source": "Duhâ 93/1",
+  "explanation": "Duhâ Sûresi kuşluk vaktine yeminle başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000068",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Nûn. Kalem'e ve yazdıklarına andolsun' âyetiyle başlayan sure hangisidir?",
+  "options": [
+   "Alak",
+   "Tûr",
+   "Necm",
+   "Kalem"
+  ],
+  "answer_index": 3,
+  "source": "Kalem 68/1",
+  "explanation": "Kalem Sûresi, kaleme ve onunla yazılanlara yeminle başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000069",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'Sizin dininiz size, benim dinim banadır' âyeti hangi surede yer alır?",
+  "options": [
+   "Kâfirûn",
+   "Nasr",
+   "Mâûn",
+   "Kureyş"
+  ],
+  "answer_index": 0,
+  "source": "Kâfirûn 109/6",
+  "explanation": "Kâfirûn Sûresi'nin son âyeti inanç özgürlüğünü ve ayrılığı bu cümleyle ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000070",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'O doğurmadı ve doğurulmadı' meâlindeki âyet hangi surededir?",
+  "options": [
+   "Felak",
+   "Nâs",
+   "İhlâs",
+   "Kevser"
+  ],
+  "answer_index": 2,
+  "source": "İhlâs 112/3",
+  "explanation": "İhlâs Sûresi'nin 3. âyeti Allah'ın doğurmadığını ve doğurulmadığını bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000071",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Allah'ın yardımı ve fetih geldiği zaman' diye başlayan sure hangisidir?",
+  "options": [
+   "Fetih",
+   "Kadir",
+   "Zilzâl",
+   "Nasr"
+  ],
+  "answer_index": 3,
+  "source": "Nasr 110/1",
+  "explanation": "Nasr Sûresi, Allah'ın yardımının ve fethin gelişini müjdeler; Mekke'nin fethine işaret ettiği kabul edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000072",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Kur'an-ı Kerim'de adı en çok anılan peygamber kimdir?",
+  "options": [
+   "Hz. İbrâhîm",
+   "Hz. Nûh",
+   "Hz. Mûsâ",
+   "Hz. Îsâ"
+  ],
+  "answer_index": 2,
+  "source": "Kur'an'daki peygamber adlarının sıklığı (sayım)",
+  "explanation": "Hz. Mûsâ'nın adı ve kıssası Kur'an'da diğer peygamberlerden daha fazla yer alır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000073",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim'de adı açıkça zikredilen tek ay hangisidir?",
+  "options": [
+   "Muharrem",
+   "Ramazan",
+   "Recep",
+   "Zilhicce"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/185",
+  "explanation": "Bakara 185. âyette 'Kur'an'ın indirildiği ay' olarak yalnızca Ramazan ayı adıyla anılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000074",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Orucun müminlere farz kılındığını bildiren âyet hangi surede yer alır?",
+  "options": [
+   "Bakara",
+   "Nisâ",
+   "Mâide",
+   "Hucurât"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/183",
+  "explanation": "Bakara 183: 'Ey iman edenler! Oruç sizden öncekilere farz kılındığı gibi size de farz kılındı.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000075",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Hepiniz Allah'ın ipine sımsıkı sarılın' emri hangi surede yer alır?",
+  "options": [
+   "Mâide",
+   "Hucurât",
+   "Nisâ",
+   "Âl-i İmrân"
+  ],
+  "answer_index": 3,
+  "source": "Âl-i İmrân 3/103",
+  "explanation": "Âl-i İmrân 103. âyet, müminlere Allah'ın ipine topluca sarılmayı ve ayrılığa düşmemeyi emreder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000076",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Felak ve Nâs sûrelerine birlikte ne ad verilir?",
+  "options": [
+   "Havâmîm",
+   "Müsebbihât",
+   "Muavvizeteyn",
+   "Zehrâvân"
+  ],
+  "answer_index": 2,
+  "source": "Felak 113/1-5; Nâs 114/1-6",
+  "explanation": "Allah'a sığınmayı öğreten Felak ve Nâs sûrelerine 'sığınma sûreleri' anlamında Muavvizeteyn denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000077",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Bakara ve Âl-i İmrân sûrelerine birlikte ne ad verilir?",
+  "options": [
+   "Muavvizeteyn",
+   "Zehrâvân",
+   "Müsebbihât",
+   "Havâmîm"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2; Âl-i İmrân 3",
+  "explanation": "Bakara ve Âl-i İmrân'a 'iki parlak sure' anlamında Zehrâvân denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000078",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Genel kabule göre Hicret'ten sonra Medine'de inen ilk sure hangisidir?",
+  "options": [
+   "Bakara",
+   "Enfâl",
+   "Nûr",
+   "Tevbe"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/1",
+  "explanation": "Kur'an ilimleri kaynaklarında Medine döneminde inen ilk sure Bakara olarak kabul edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000079",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Aşağıdaki surelerden hangisi Medenîdir?",
+  "options": [
+   "Nisâ",
+   "Kehf",
+   "Yûsuf",
+   "Meryem"
+  ],
+  "answer_index": 0,
+  "source": "Mekkî–Medenî sure sınıflaması; Nisâ 4",
+  "explanation": "Nisâ Sûresi Medine döneminde inmiştir; diğer üçü Mekkîdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000080",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Aşağıdaki surelerden hangisi Mekkîdir?",
+  "options": [
+   "Mâide",
+   "Kehf",
+   "Nisâ",
+   "Enfâl"
+  ],
+  "answer_index": 1,
+  "source": "Mekkî–Medenî sure sınıflaması; Kehf 18",
+  "explanation": "Kehf Sûresi Mekke döneminde inmiştir; diğer üçü Medenîdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000081",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Allah göklerin ve yerin nurudur' âyeti hangi surede yer alır?",
+  "options": [
+   "Hadîd",
+   "Zümer",
+   "Furkân",
+   "Nûr"
+  ],
+  "answer_index": 3,
+  "source": "Nûr 24/35",
+  "explanation": "Nûr Sûresi 35. âyet, 'Nûr Âyeti' olarak bilinir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000082",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Kur'an-ı Kerim'in 67. suresi hangisidir?",
+  "options": [
+   "Kalem",
+   "Hâkka",
+   "Mülk",
+   "Nûh"
+  ],
+  "answer_index": 2,
+  "source": "Mülk 67/1",
+  "explanation": "67. sure, 30 âyetten oluşan Mülk Sûresi'dir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000083",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Müminler ancak kardeştirler' âyeti hangi surede yer alır?",
+  "options": [
+   "Nûr",
+   "Mâide",
+   "Hucurât",
+   "Mülk"
+  ],
+  "answer_index": 2,
+  "source": "Hucurât 49/10",
+  "explanation": "Hucurât 10. âyet, müminlerin kardeş olduğunu bildirir ve aralarının düzeltilmesini ister.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000084",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Yâsîn Sûresi kaç âyettir?",
+  "options": [
+   "63",
+   "73",
+   "83",
+   "93"
+  ],
+  "answer_index": 2,
+  "source": "Yâsîn 36/1-83",
+  "explanation": "Yâsîn Sûresi 83 âyetten oluşur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000085",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Ayet sayısı bakımından Kur'an'ın en uzun ikinci suresi hangisidir?",
+  "options": [
+   "Şuarâ",
+   "Âl-i İmrân",
+   "A'râf",
+   "Nisâ"
+  ],
+  "answer_index": 0,
+  "source": "Şuarâ 26/227",
+  "explanation": "Bakara'dan sonra en çok âyeti olan sure 227 âyetli Şuarâ'dır (Âl-i İmrân 200 âyettir).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000086",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Namaza çağrı yapıldığında alışverişi bırakıp Allah'ı anmaya koşmayı emreden âyet hangi surededir?",
+  "options": [
+   "Münâfikûn",
+   "Cuma",
+   "Saff",
+   "Tegābün"
+  ],
+  "answer_index": 1,
+  "source": "Cuma 62/9",
+  "explanation": "Cuma Sûresi 9. âyet, Cuma ezanında Allah'ı anmaya koşmayı ve alışverişi bırakmayı emreder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000087",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Bugün size dininizi ikmal ettim' âyeti hangi surede yer alır?",
+  "options": [
+   "Bakara",
+   "Nisâ",
+   "En'âm",
+   "Mâide"
+  ],
+  "answer_index": 3,
+  "source": "Mâide 5/3",
+  "explanation": "Mâide 3. âyette Allah'ın dini kemale erdirdiği ve nimetini tamamladığı bildirilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000088",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Peygamberimiz'in Mescid-i Harâm'dan Mescid-i Aksâ'ya götürülüşünü ilk âyetinde haber veren sure hangisidir?",
+  "options": [
+   "Necm",
+   "İsrâ",
+   "Kehf",
+   "Tâhâ"
+  ],
+  "answer_index": 1,
+  "source": "İsrâ 17/1",
+  "explanation": "İsrâ Sûresi, Allah'ın kulunu gece yürüyüşüyle Mescid-i Aksâ'ya götürdüğünü bildirerek başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000089",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Sidretü'l-Müntehâ'nın anıldığı sure hangisidir?",
+  "options": [
+   "Necm",
+   "İsrâ",
+   "Kadir",
+   "Tîn"
+  ],
+  "answer_index": 0,
+  "source": "Necm 53/14",
+  "explanation": "Necm Sûresi 14. âyette Peygamberimiz'in Sidretü'l-Müntehâ yanında Cebrâil'i gördüğü bildirilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000090",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kadir Sûresi kaç âyettir?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "source": "Kadir 97/1-5",
+  "explanation": "Kadir Sûresi 5 âyetten oluşur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000091",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Rabbim, ilmimi artır' duası hangi surede geçer?",
+  "options": [
+   "Kehf",
+   "Mülk",
+   "Tâhâ",
+   "Nahl"
+  ],
+  "answer_index": 2,
+  "source": "Tâhâ 20/114",
+  "explanation": "Tâhâ 114. âyet, Peygamberimiz'e 'Rabbim, ilmimi artır' demesini öğretir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000092",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "'Yalnız sana ibadet eder, yalnız senden yardım dileriz' âyeti hangi surede yer alır?",
+  "options": [
+   "Fâtiha",
+   "Bakara",
+   "İhlâs",
+   "Nâs"
+  ],
+  "answer_index": 0,
+  "source": "Fâtiha 1/5",
+  "explanation": "Fâtiha 5. âyet, ibadet ve yardım istemenin yalnızca Allah'a yönelik olduğunu ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000093",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Kur'an-ı Kerim'de 'Elif-Lâm-Mîm' harfleriyle başlayan ilk sure hangisidir?",
+  "options": [
+   "Fâtiha",
+   "Bakara",
+   "Nisâ",
+   "Mâide"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/1",
+  "explanation": "Fâtiha'dan sonra gelen Bakara Sûresi 'Elif-Lâm-Mîm' ile başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000094",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Kur'an'ın 'hakkı batıldan ayıran' anlamındaki adı hangisidir?",
+  "options": [
+   "Hudâ",
+   "Mushaf",
+   "Kitâb",
+   "Furkân"
+  ],
+  "answer_index": 3,
+  "source": "Furkân 25/1",
+  "explanation": "Furkân, 'hak ile batılı ayıran' demektir; Kur'an'ın adlarından biridir ve bir sureye de ad olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000095",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Rabbinin yoluna hikmetle ve güzel öğütle çağır' âyeti hangi surededir?",
+  "options": [
+   "Yûnus",
+   "Kehf",
+   "Nûr",
+   "Nahl"
+  ],
+  "answer_index": 3,
+  "source": "Nahl 16/125",
+  "explanation": "Nahl 125. âyet, tebliğde hikmet, güzel öğüt ve en güzel şekilde mücadeleyi esas alır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000096",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Peygamberimiz'in 'yüce bir ahlak üzere' olduğunu bildiren âyet hangi surededir?",
+  "options": [
+   "Kalem",
+   "Ahzâb",
+   "Fetih",
+   "Nûr"
+  ],
+  "answer_index": 0,
+  "source": "Kalem 68/4",
+  "explanation": "Kalem 4. âyet: 'Şüphesiz sen pek büyük bir ahlak üzeresin.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000097",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Allah'ın Resûlü'nde sizin için güzel bir örnek vardır' âyeti hangi surededir?",
+  "options": [
+   "Fetih",
+   "Ahzâb",
+   "Hucurât",
+   "Muhammed"
+  ],
+  "answer_index": 1,
+  "source": "Ahzâb 33/21",
+  "explanation": "Ahzâb 21. âyet, Resûlullah'ı güzel örnek (üsve-i hasene) olarak gösterir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000098",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "'Seni ancak âlemlere rahmet olarak gönderdik' âyeti hangi surede yer alır?",
+  "options": [
+   "İsrâ",
+   "Fetih",
+   "Enbiyâ",
+   "Kehf"
+  ],
+  "answer_index": 2,
+  "source": "Enbiyâ 21/107",
+  "explanation": "Enbiyâ 107. âyet, Peygamberimiz'in âlemlere rahmet olarak gönderildiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000099",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Hz. İbrâhîm'e 'insanlar arasında haccı ilan et' emrinin verildiği sure hangisidir?",
+  "options": [
+   "Bakara",
+   "Âl-i İmrân",
+   "Hac",
+   "Mâide"
+  ],
+  "answer_index": 2,
+  "source": "Hac 22/27",
+  "explanation": "Hac Sûresi 27. âyet, Hz. İbrâhîm'e insanları hacca çağırmasını emreder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-quran-000100",
+  "lang": "tr",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "İnsanlar için kurulan ilk ibadet evinin Mekke'deki Kâbe olduğunu bildiren âyet hangi surededir?",
+  "options": [
+   "Hac",
+   "Bakara",
+   "Mâide",
+   "Âl-i İmrân"
+  ],
+  "answer_index": 3,
+  "source": "Âl-i İmrân 3/96",
+  "explanation": "Âl-i İmrân 96. âyet, insanlar için kurulan ilk evin Mekke'deki mübarek Kâbe olduğunu bildirir.",
+  "review_status": "draft"
+ }
+]

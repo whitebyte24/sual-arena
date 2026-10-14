@@ -35,3 +35,25 @@ Kod hazır; aşağıdaki kayıtlar yapılmadan ilgili özellik gerçek cihazda �
 ## 4. Geliştirme derlemesi (Expo Go yetmez)
 Reklam, satın alma ve Apple girişi yerel modüldür: `npx eas-cli login` → `eas build --profile development --platform android` (veya ios) → cihaza kur → `npm start`.
 Web/Expo Go'da reklamlar kapalı, premium akışı yalnızca `__DEV__` sahte modunda çalışır (üretimde sahte premium YOK).
+
+## 5. Açılış sayfası (landing) — bekleme listesi, gizlilik, koşullar, hesap silme, app-ads.txt
+Sayfalar statik: `marketing/landing/` (index, privacy, terms, delete-account, app-ads.txt). Ücretsiz barındırma: **Cloudflare Pages** (önerilen) veya GitHub Pages; `Build command` boş, çıktı klasörü `marketing/landing`.
+1. **Alan adı:** `sualarena.app` kodda yer tutucu (`src/lib/config.ts`). Alan adı ücretlidir (~15$/yıl; "ücretli servis yok" kuralının istisnası olacağı için ONAY ver). Alternatif: ücretsiz `*.pages.dev` adresi — o zaman `src/lib/config.ts` + `store/listing.*.json` içindeki `sualarena.app` bağlantıları değişir (`scripts/check-store.ts` içindeki bağlantı desenini de güncelle).
+2. **`marketing/landing/config.js`:** `publisher` (mağaza hesabındaki ad), `contactEmail`, mağaza URL'leri (yayında), `lastUpdated`. `TODO` kalan alan sayfada sarı görünür.
+3. **Bekleme listesi:** Supabase'de `supabase/migrations/0004_waitlist.sql` çalıştır, `supabaseUrl` + `supabaseAnonKey` (anon key herkese açık olabilir; tabloya yalnızca EKLEME izni var) gir. Boş bırakırsan form e-posta taslağı (mailto) açar. Liste Dashboard → Table editor → `waitlist`.
+4. **`app-ads.txt`:** AdMob yayıncı kimliği (`pub-…`) ile satırın başındaki `#` işaretini kaldır; alan adı kökünde `https://<alan>/app-ads.txt` olarak açılmalı. AdMob → Uygulamalar → app-ads.txt kontrolü.
+5. **Temiz URL'ler:** `/privacy` ve `/terms` adresleri Cloudflare Pages/GitHub Pages'te `.html` olmadan da açılır.
+6. Mağaza formlarına gir: Gizlilik URL = `/privacy`, Hesap silme URL (Play Veri Güvenliği) = `/delete-account`, Destek/pazarlama URL = `/`.
+7. Yayından önce **Arapça yerel okuyucu** ve (önerilir) bir hukukçu `privacy.html`/`terms.html` metnini okumalı: şablon, uygulamanın gerçek veri akışına göre yazıldı ama hukuki danışmanlık değildir.
+
+## 6. Apple ile giriş: hesap silinirken belirteç iptali (App Store 5.1.1(v))
+Kod hazır, **canlı denenmedi** (Apple anahtarı gerekir). Uygulama girişte `apple-link` fonksiyonuna yetkilendirme kodunu bırakır; silmede `delete-account` önce Apple belirtecini iptal eder, sonra kullanıcıyı siler. Fonksiyon dağıtılmamışsa silme eski RPC'ye düşer (Apple bağlantısı iptal edilmez!) — **mağaza gönderiminden önce dağıtın.**
+1. Apple Developer → Certificates, IDs & Profiles → **Keys** → yeni anahtar → *Sign in with Apple* işaretli → **.p8** dosyasını indir (bir kez indirilir), **Key ID**'yi not al. **Team ID** hesap sayfasında.
+2. App ID (`com.sualarena.app`) için *Sign in with Apple* özelliği açık olmalı.
+3. Supabase gizli değişkenleri (CLI: `npx supabase login` → `npx supabase link --project-ref <ref>`):
+   ```bash
+   npx supabase secrets set APPLE_TEAM_ID=XXXXXXXXXX APPLE_KEY_ID=YYYYYYYYYY APPLE_CLIENT_ID=com.sualarena.app
+   npx supabase secrets set APPLE_PRIVATE_KEY="$(cat AuthKey_YYYYYYYYYY.p8)"
+   ```
+4. Migration `0005_apple_tokens.sql` çalıştır, fonksiyonları dağıt: `npx supabase functions deploy apple-link` ve `npx supabase functions deploy delete-account`.
+5. Test (TestFlight, gerçek Apple hesabıyla): giriş yap → Hesap → Hesabı sil → Apple Kimliği ayarlarında "Apple ile Giriş Yapan Uygulamalar" listesinden Sual Arena'nın kalktığını doğrula; Supabase'te kullanıcı ve `apple_tokens` satırı silinmiş olmalı.

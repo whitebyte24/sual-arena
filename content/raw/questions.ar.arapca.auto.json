@@ -1,0 +1,1617 @@
+[
+ {
+  "id": "q-ar-arapca-000001",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى كلمة «الصراط» في قوله تعالى: «اهدنا الصراط المستقيم»؟",
+  "options": [
+   "الجبل",
+   "النهر",
+   "الطريق",
+   "البيت"
+  ],
+  "answer_index": 2,
+  "source": "الفاتحة 1/6",
+  "explanation": "الصراط هو الطريق الواضح الواسع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000002",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى كلمة «القسط» في القرآن؟",
+  "options": [
+   "الظلم",
+   "العدل",
+   "الكرم",
+   "الشجاعة"
+  ],
+  "answer_index": 1,
+  "source": "الحجرات 49/9",
+  "explanation": "القسط بمعنى العدل، وجاء في قوله: «إن الله يحب المقسطين».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000003",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى كلمة «أوّاب» في قوله تعالى عن داود: «إنه أواب»؟",
+  "options": [
+   "كثير الكلام",
+   "كثير الأسفار",
+   "كثير الأكل",
+   "كثير الرجوع إلى الله"
+  ],
+  "answer_index": 3,
+  "source": "ص 38/17",
+  "explanation": "الأواب هو الرجّاع إلى الله بالتوبة والطاعة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000004",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «العهن» في قوله تعالى: «كالعهن المنفوش»؟",
+  "options": [
+   "الصوف",
+   "القطن",
+   "الحرير",
+   "الرمل"
+  ],
+  "answer_index": 0,
+  "source": "القارعة 101/5",
+  "explanation": "العهن هو الصوف، وشبّهت الآية الجبال يوم القيامة به.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000005",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما المقصود بـ«الغاسق» في قوله تعالى: «ومن شر غاسق إذا وقب»؟",
+  "options": [
+   "الليل إذا اشتد ظلامه",
+   "الصبح",
+   "الشمس",
+   "المطر"
+  ],
+  "answer_index": 0,
+  "source": "الفلق 113/3",
+  "explanation": "فسّر كثير من المفسرين الغاسق بالليل إذا أظلم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000006",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «الخنّاس» في سورة الناس؟",
+  "options": [
+   "الذي يجهر بالسوء",
+   "الذي يمشي في الأسواق",
+   "الذي يخاف الناس",
+   "الذي يختفي إذا ذُكر الله"
+  ],
+  "answer_index": 3,
+  "source": "الناس 114/4",
+  "explanation": "الخناس هو الذي يختفي ويتأخر عند ذكر الله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000007",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما معنى «الماعون» في قوله تعالى: «ويمنعون الماعون»؟",
+  "options": [
+   "الماء فقط",
+   "الطعام فقط",
+   "ما يُنتفع به ويُعار",
+   "المال الكثير"
+  ],
+  "answer_index": 2,
+  "source": "الماعون 107/7",
+  "explanation": "الماعون كل ما يتعاونه الناس من متاع ومعروف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000008",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «الكوثر» في سورة الكوثر؟",
+  "options": [
+   "النهر الصغير",
+   "الخير الكثير",
+   "السيف",
+   "الجبل"
+  ],
+  "answer_index": 1,
+  "source": "الكوثر 108/1",
+  "explanation": "الكوثر الخير الكثير، ويشمل نهراً في الجنة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000009",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «الأبتر» في قوله تعالى: «إن شانئك هو الأبتر»؟",
+  "options": [
+   "الكبير",
+   "القوي",
+   "المقطوع المنقطع الأثر",
+   "الغني"
+  ],
+  "answer_index": 2,
+  "source": "الكوثر 108/3",
+  "explanation": "الأبتر هو المقطوع من كل خير، المنقطع الذكر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000010",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «العصر» في قوله تعالى: «والعصر»؟",
+  "options": [
+   "النهر",
+   "الدهر والزمان",
+   "الصباح",
+   "الربيع"
+  ],
+  "answer_index": 1,
+  "source": "العصر 103/1",
+  "explanation": "فسّر كثير من المفسرين العصر بالدهر والزمن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000011",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما المراد بـ«الهمزة» في سورة الهمزة؟",
+  "options": [
+   "من يعيب الناس ويطعن فيهم",
+   "من يصلي كثيراً",
+   "من يتصدق",
+   "من يسافر"
+  ],
+  "answer_index": 0,
+  "source": "الهمزة 104/1",
+  "explanation": "الهمزة هو الذي يعيب الناس ويغتابهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000012",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «العاديات» في سورة العاديات؟",
+  "options": [
+   "الجبال",
+   "النجوم",
+   "السحب",
+   "الخيل التي تجري بسرعة"
+  ],
+  "answer_index": 3,
+  "source": "العاديات 100/1",
+  "explanation": "العاديات هي الخيل التي تعدو في سبيل الله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000013",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما المقصود بـ«القارعة» في القرآن؟",
+  "options": [
+   "الزلزال",
+   "الصاعقة",
+   "القيامة",
+   "الجبل"
+  ],
+  "answer_index": 2,
+  "source": "القارعة 101/1-3",
+  "explanation": "القارعة من أسماء يوم القيامة لأنها تقرع القلوب بأهوالها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000014",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «الفلق» في سورة الفلق؟",
+  "options": [
+   "الليل",
+   "الجبل",
+   "النار",
+   "الصبح"
+  ],
+  "answer_index": 3,
+  "source": "الفلق 113/1",
+  "explanation": "الفلق الصبح الذي ينفلق من ظلمة الليل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000015",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «القانتين» في القرآن؟",
+  "options": [
+   "المطيعين الخاشعين لله",
+   "التجار",
+   "المسافرين",
+   "الكاتبين"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/238",
+  "explanation": "القانت هو المطيع الخاشع الدائم على الطاعة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000016",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "كم عدد أقسام الكلام في اللغة العربية؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "أقسام الكلام ثلاثة: اسم وفعل وحرف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000017",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "أي الكلمات التالية فعل ماضٍ؟",
+  "options": [
+   "كتاب",
+   "كتب",
+   "مكتب",
+   "كاتب"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«كتب» فعل ماضٍ، أما الباقي فأسماء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000018",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما علامة رفع الفاعل الأصلية؟",
+  "options": [
+   "الفتحة",
+   "الكسرة",
+   "الضمة",
+   "السكون"
+  ],
+  "answer_index": 2,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الفاعل مرفوع وعلامة رفعه الأصلية الضمة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000019",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "أي الكلمات التالية حرف جر؟",
+  "options": [
+   "على",
+   "قلم",
+   "يكتب",
+   "كتاب"
+  ],
+  "answer_index": 0,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«على» حرف جر، ومن حروف الجر: من وإلى وعن وفي والباء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000020",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما مثنى كلمة «كتاب» في حالة الرفع؟",
+  "options": [
+   "كتابون",
+   "كتابات",
+   "كتبان",
+   "كتابان"
+  ],
+  "answer_index": 3,
+  "source": "قواعد اللغة العربية",
+  "explanation": "يُثنى الاسم بزيادة الألف والنون في حالة الرفع: كتابان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000021",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع كلمة «كتاب»؟",
+  "options": [
+   "كتب",
+   "كتّاب",
+   "أكتاب",
+   "كتابات"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "جمع كتاب: كتب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000022",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع كلمة «رجل»؟",
+  "options": [
+   "رجلان",
+   "أرجل",
+   "رجلات",
+   "رجال"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "جمع رجل: رجال، أما «رجلان» فمثنى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000023",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع كلمة «بيت» بمعنى المسكن؟",
+  "options": [
+   "بيتان",
+   "بيّات",
+   "بيوت",
+   "أبياتات"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "جمع بيت المسكن: بيوت، وجمع بيت الشعر: أبيات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000024",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما جمع كلمة «نبي»؟",
+  "options": [
+   "نباء",
+   "أنبياء",
+   "أنبئة",
+   "نبايا"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "جمع نبي: أنبياء، ويُجمع أيضاً على نبيّين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000025",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما جمع كلمة «رسول»؟",
+  "options": [
+   "رسائل",
+   "رسولات",
+   "رسل",
+   "رسالات"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "جمع رسول: رسل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000026",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع كلمة «ملك» بمعنى الكائن النوراني؟",
+  "options": [
+   "ملوك",
+   "أملاك",
+   "ملكات",
+   "ملائكة"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "جمع ملَك: ملائكة، وجمع مَلِك: ملوك.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000027",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما جمع كلمة «مسجد»؟",
+  "options": [
+   "مساجد",
+   "مسجدات",
+   "أمساجد",
+   "مسجدون"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "جمع مسجد: مساجد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000028",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما جمع كلمة «قلم»؟",
+  "options": [
+   "قلوم",
+   "أقلام",
+   "قلمات",
+   "أقالم"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "جمع قلم: أقلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000029",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما جمع كلمة «يوم»؟",
+  "options": [
+   "يومات",
+   "يوموم",
+   "أيوم",
+   "أيام"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "جمع يوم: أيام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000030",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع كلمة «سورة» بمعنى سورة القرآن؟",
+  "options": [
+   "سورات",
+   "سور",
+   "أسوار",
+   "سوار"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "جمع سورة القرآن: سور، أما جمع سور البناء فهو أسوار.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000031",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الصدق»؟",
+  "options": [
+   "الكذب",
+   "الأمانة",
+   "العدل",
+   "الحياء"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "ضد الصدق الكذب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000032",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «العدل»؟",
+  "options": [
+   "الكرم",
+   "الصبر",
+   "الظلم",
+   "العلم"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "ضد العدل الظلم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000033",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «النور»؟",
+  "options": [
+   "الضوء",
+   "الظلام",
+   "الشمس",
+   "الصباح"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "ضد النور الظلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000034",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «العلم»؟",
+  "options": [
+   "العمل",
+   "الفهم",
+   "الجهل",
+   "الحفظ"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "ضد العلم الجهل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000035",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الحياة»؟",
+  "options": [
+   "الموت",
+   "الصحة",
+   "النوم",
+   "المرض"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "ضد الحياة الموت.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000036",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «السلم»؟",
+  "options": [
+   "الأمن",
+   "الصلح",
+   "الهدوء",
+   "الحرب"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "ضد السلم الحرب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000037",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "كم عدد حروف الهجاء في اللغة العربية؟",
+  "options": [
+   "24",
+   "28",
+   "29",
+   "32"
+  ],
+  "answer_index": 1,
+  "source": "الأبجدية العربية",
+  "explanation": "تتكون الأبجدية العربية من 28 حرفاً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000038",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما أول حرف من حروف الهجاء؟",
+  "options": [
+   "الباء",
+   "التاء",
+   "الجيم",
+   "الألف"
+  ],
+  "answer_index": 3,
+  "source": "الأبجدية العربية",
+  "explanation": "أول حروف الهجاء الألف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000039",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما آخر حرف من حروف الهجاء؟",
+  "options": [
+   "الواو",
+   "الياء",
+   "الهاء",
+   "النون"
+  ],
+  "answer_index": 1,
+  "source": "الأبجدية العربية",
+  "explanation": "آخر حروف الهجاء الياء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000040",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "أي الحروف التالية يُعدّ من الحروف الشمسية؟",
+  "options": [
+   "القاف",
+   "الميم",
+   "الشين",
+   "الباء"
+  ],
+  "answer_index": 2,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الشين شمسي: يُدغم اللام في الشمس، أما القاف والميم والباء فقمرية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000041",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "أي لغة نزل بها القرآن الكريم؟",
+  "options": [
+   "العربية",
+   "العبرية",
+   "السريانية",
+   "الفارسية"
+  ],
+  "answer_index": 0,
+  "source": "يوسف 12/2",
+  "explanation": "قال تعالى: «إنا أنزلناه قرآناً عربياً لعلكم تعقلون».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000042",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "من الذي يُنسب إليه وضع علم النحو في الأثر المشهور؟",
+  "options": [
+   "سيبويه",
+   "الخليل بن أحمد",
+   "أبو الأسود الدؤلي",
+   "ابن مالك"
+  ],
+  "answer_index": 2,
+  "source": "طبقات النحويين",
+  "explanation": "ينسب إلى أبي الأسود الدؤلي وضع أصول النحو بتوجيه من علي رضي الله عنه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000043",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "من مؤلف كتاب «الكتاب» في النحو؟",
+  "options": [
+   "ابن مالك",
+   "سيبويه",
+   "الفراهيدي",
+   "الزمخشري"
+  ],
+  "answer_index": 1,
+  "source": "سيبويه، الكتاب",
+  "explanation": "كتاب سيبويه أشهر كتب النحو الأولى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000044",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "من مؤلف «ألفية» في النحو المشهورة؟",
+  "options": [
+   "سيبويه",
+   "الأخفش",
+   "ابن هشام",
+   "ابن مالك"
+  ],
+  "answer_index": 3,
+  "source": "ابن مالك، الألفية",
+  "explanation": "ألّف ابن مالك الألفية في النحو والصرف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000045",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "من مؤلف المعجم المشهور «لسان العرب»؟",
+  "options": [
+   "الجوهري",
+   "الفيروزآبادي",
+   "ابن منظور",
+   "الخليل بن أحمد"
+  ],
+  "answer_index": 2,
+  "source": "ابن منظور، لسان العرب",
+  "explanation": "ألّف ابن منظور معجماً ضخماً هو لسان العرب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000046",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "من صاحب معجم «العين»؟",
+  "options": [
+   "الخليل بن أحمد الفراهيدي",
+   "سيبويه",
+   "ابن منظور",
+   "الجوهري"
+  ],
+  "answer_index": 0,
+  "source": "الخليل، العين",
+  "explanation": "ألّف الخليل بن أحمد أول معجم عربي هو العين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000047",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "من الذي ترجم كتاب «كليلة ودمنة» إلى العربية؟",
+  "options": [
+   "الجاحظ",
+   "الحريري",
+   "الهمذاني",
+   "ابن المقفع"
+  ],
+  "answer_index": 3,
+  "source": "ابن المقفع، كليلة ودمنة",
+  "explanation": "نقل ابن المقفع كليلة ودمنة إلى العربية من الفارسية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000048",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ماذا تسمى القصائد الجاهلية الطويلة المشهورة التي عُلّقت على الكعبة كما يُروى؟",
+  "options": [
+   "الأمالي",
+   "المعلقات",
+   "المقامات",
+   "الموشحات"
+  ],
+  "answer_index": 1,
+  "source": "تاريخ الأدب العربي",
+  "explanation": "المعلقات قصائد جاهلية طويلة اشتهرت بجودتها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000049",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "من صاحب «المقامات» المشهورة بالسجع؟",
+  "options": [
+   "الجاحظ",
+   "المتنبي",
+   "بديع الزمان الهمذاني",
+   "أبو تمام"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ الأدب العربي",
+  "explanation": "اشتهر الهمذاني بالمقامات الأدبية المسجوعة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000050",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ماذا يسمى علم ضبط أواخر الكلمات رفعاً ونصباً وجراً وجزماً؟",
+  "options": [
+   "الإعراب",
+   "البلاغة",
+   "العروض",
+   "الصرف"
+  ],
+  "answer_index": 0,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الإعراب هو تغيير أواخر الكلمات بحسب موقعها في الجملة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000051",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «الوسيلة» في قوله تعالى: «وابتغوا إليه الوسيلة»؟",
+  "options": [
+   "السلاح",
+   "الطريق الطويل",
+   "الحارس",
+   "ما يُتقرب به إلى الله"
+  ],
+  "answer_index": 3,
+  "source": "المائدة 5/35",
+  "explanation": "الوسيلة كل ما يُتقرب به إلى الله من الطاعات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000052",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «اليمّ» في القرآن؟",
+  "options": [
+   "النهر",
+   "البحر",
+   "الصحراء",
+   "الجبل"
+  ],
+  "answer_index": 1,
+  "source": "القصص 28/7",
+  "explanation": "اليم هو البحر، وجاء في قصة موسى «فألقيه في اليم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000053",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «الطود» في قوله تعالى: «كالطود العظيم»؟",
+  "options": [
+   "الجبل",
+   "الموج",
+   "السحاب",
+   "الشجرة"
+  ],
+  "answer_index": 0,
+  "source": "الشعراء 26/63",
+  "explanation": "الطود هو الجبل العظيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000054",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «زُبَر الحديد»؟",
+  "options": [
+   "أسلاك رقيقة",
+   "قطع الحديد",
+   "المسامير",
+   "سبائك الذهب"
+  ],
+  "answer_index": 1,
+  "source": "الكهف 18/96",
+  "explanation": "الزبر القطع الكبيرة من الحديد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000055",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما معنى «الرجس» في آية الخمر والميسر؟",
+  "options": [
+   "المرض",
+   "الفقر",
+   "الحزن",
+   "القذر والنجس"
+  ],
+  "answer_index": 3,
+  "source": "المائدة 5/90",
+  "explanation": "الرجس كل ما يُستقذر ويُستخبث.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000056",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما المراد بـ«الأزلام» في القرآن؟",
+  "options": [
+   "الآلات الموسيقية",
+   "الأواني",
+   "سهام كانوا يستقسمون بها",
+   "الدراهم"
+  ],
+  "answer_index": 2,
+  "source": "المائدة 5/3",
+  "explanation": "الأزلام سهام كانت تُستعمل للتفاؤل والتشاؤم وقسمة الأمور.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000057",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما المراد بـ«الأنصاب» في القرآن؟",
+  "options": [
+   "الجبال",
+   "الأشجار",
+   "المنازل",
+   "الأصنام المنصوبة للعبادة"
+  ],
+  "answer_index": 3,
+  "source": "المائدة 5/90",
+  "explanation": "الأنصاب حجارة كانت تُنصب وتُعبد أو يُذبح عندها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000058",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «ظهير» في قوله تعالى: «والملائكة بعد ذلك ظهير»؟",
+  "options": [
+   "عدو",
+   "معين ونصير",
+   "حارس",
+   "قاضٍ"
+  ],
+  "answer_index": 1,
+  "source": "التحريم 66/4",
+  "explanation": "الظهير هو المعين والمناصر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000059",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما المراد بـ«الأسباط» في القرآن؟",
+  "options": [
+   "الأنبياء الأوائل",
+   "الملائكة",
+   "القبائل من ذرية يعقوب",
+   "العلماء"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/136",
+  "explanation": "الأسباط هم قبائل بني إسرائيل من ذرية يعقوب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000060",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «السندس» و«الإستبرق» في وصف الجنة؟",
+  "options": [
+   "نوعان من الحرير",
+   "أنهار",
+   "ثمار",
+   "أطعمة"
+  ],
+  "answer_index": 0,
+  "source": "الكهف 18/31",
+  "explanation": "السندس رقيق الحرير والإستبرق غليظه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000061",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «الأرائك» في وصف الجنة؟",
+  "options": [
+   "الأنهار",
+   "الأسرّة المزينة",
+   "القصور",
+   "الأشجار"
+  ],
+  "answer_index": 1,
+  "source": "الكهف 18/31",
+  "explanation": "الأرائك سرر مزينة عليها حجال.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000062",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما معنى «القنطار» في قوله تعالى: «والقناطير المقنطرة»؟",
+  "options": [
+   "الذهب فقط",
+   "الأرض",
+   "القلعة",
+   "المال الكثير"
+  ],
+  "answer_index": 3,
+  "source": "آل عمران 3/14",
+  "explanation": "القنطار مقدار كبير من المال.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000063",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى «الصاخّة» في القرآن؟",
+  "options": [
+   "صيحة يوم القيامة",
+   "الريح الشديدة",
+   "الزلزال",
+   "المطر"
+  ],
+  "answer_index": 0,
+  "source": "عبس 80/33",
+  "explanation": "الصاخة اسم من أسماء القيامة لأن صيحتها تصم الآذان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000064",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما معنى «الطامّة» في سورة النازعات؟",
+  "options": [
+   "الفيضان",
+   "الزلزلة",
+   "القيامة",
+   "الصاعقة"
+  ],
+  "answer_index": 2,
+  "source": "النازعات 79/34",
+  "explanation": "الطامة الكبرى هي القيامة التي تعلو كل شيء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000065",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما المراد بـ«الحاقّة» في القرآن؟",
+  "options": [
+   "القيامة",
+   "الأرض",
+   "الجنة",
+   "القبر"
+  ],
+  "answer_index": 0,
+  "source": "الحاقة 69/1",
+  "explanation": "الحاقة من أسماء القيامة لأنها حق واقع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000066",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما المراد بـ«الغاشية» في القرآن؟",
+  "options": [
+   "السحابة",
+   "الليل",
+   "الجيش",
+   "القيامة التي تغشى الناس"
+  ],
+  "answer_index": 3,
+  "source": "الغاشية 88/1",
+  "explanation": "الغاشية من أسماء القيامة لأنها تغشى الناس بأهوالها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000067",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما المراد بـ«يوم الفصل» في القرآن؟",
+  "options": [
+   "يوم الجمعة",
+   "يوم القيامة",
+   "يوم بدر",
+   "يوم عرفة"
+  ],
+  "answer_index": 1,
+  "source": "المرسلات 77/13-14",
+  "explanation": "يوم الفصل هو يوم يُفصل فيه بين الخلائق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000068",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "في جملة «العلم نور»، ما الخبر؟",
+  "options": [
+   "العلم",
+   "في",
+   "نور",
+   "لا يوجد خبر"
+  ],
+  "answer_index": 2,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«العلم» مبتدأ و«نور» خبر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000069",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "في جملة «قرأ الطالب الكتاب»، من الفاعل؟",
+  "options": [
+   "الكتاب",
+   "الطالب",
+   "قرأ",
+   "لا يوجد فاعل"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الطالب هو من قام بفعل القراءة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000070",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "في جملة «قرأ الطالب الكتاب»، ما المفعول به؟",
+  "options": [
+   "الطالب",
+   "قرأ",
+   "لا يوجد",
+   "الكتاب"
+  ],
+  "answer_index": 3,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الكتاب هو ما وقع عليه فعل القراءة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000071",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "أي الكلمات التالية فعل أمر؟",
+  "options": [
+   "اكتب",
+   "كتب",
+   "يكتب",
+   "كاتب"
+  ],
+  "answer_index": 0,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«اكتب» فعل أمر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000072",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "أي الكلمات التالية فعل مضارع؟",
+  "options": [
+   "كتب",
+   "اكتب",
+   "يكتب",
+   "كتاب"
+  ],
+  "answer_index": 2,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«يكتب» فعل مضارع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000073",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "أي الكلمات التالية مؤنثة؟",
+  "options": [
+   "الشمس",
+   "القمر",
+   "البحر",
+   "الجبل"
+  ],
+  "answer_index": 0,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«الشمس» مؤنثة، و«القمر» و«البحر» و«الجبل» مذكرة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000074",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما الضمير الدال على المتكلم؟",
+  "options": [
+   "أنتَ",
+   "أنا",
+   "هو",
+   "هي"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«أنا» ضمير المتكلم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000075",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما الضمير الدال على المخاطب المذكر؟",
+  "options": [
+   "أنا",
+   "هو",
+   "أنتَ",
+   "هم"
+  ],
+  "answer_index": 2,
+  "source": "قواعد اللغة العربية",
+  "explanation": "«أنتَ» ضمير المخاطب المذكر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000076",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع المذكر السالم لكلمة «مسلم» في حالة الرفع؟",
+  "options": [
+   "مسلمات",
+   "مسلمين",
+   "مسالم",
+   "مسلمون"
+  ],
+  "answer_index": 3,
+  "source": "قواعد اللغة العربية",
+  "explanation": "جمع «مسلم» في حالة الرفع: مسلمون.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000077",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما جمع المؤنث السالم لكلمة «مؤمنة»؟",
+  "options": [
+   "مؤمنون",
+   "مؤمنين",
+   "مؤامن",
+   "مؤمنات"
+  ],
+  "answer_index": 3,
+  "source": "قواعد اللغة العربية",
+  "explanation": "جمع مؤمنة: مؤمنات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000078",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الإيمان»؟",
+  "options": [
+   "الحق",
+   "الصدق",
+   "الكفر",
+   "العدل"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "ضد الإيمان الكفر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000079",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الكرم»؟",
+  "options": [
+   "الصبر",
+   "البخل",
+   "الحياء",
+   "القوة"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "ضد الكرم البخل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000080",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الشجاعة»؟",
+  "options": [
+   "الجبن",
+   "الحذر",
+   "الحكمة",
+   "العدل"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "ضد الشجاعة الجبن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000081",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الحق»؟",
+  "options": [
+   "الصدق",
+   "الباطل",
+   "العلم",
+   "العمل"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "ضد الحق الباطل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000082",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الهدى»؟",
+  "options": [
+   "العلم",
+   "النور",
+   "الحق",
+   "الضلال"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "ضد الهدى الضلال.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000083",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الطاعة»؟",
+  "options": [
+   "المعصية",
+   "الصدق",
+   "الأمانة",
+   "العلم"
+  ],
+  "answer_index": 0,
+  "source": "لسان العرب",
+  "explanation": "ضد الطاعة المعصية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000084",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «القوة»؟",
+  "options": [
+   "الصبر",
+   "الحرب",
+   "الضعف",
+   "الفقر"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "ضد القوة الضعف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000085",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "ما ضد كلمة «الصبر»؟",
+  "options": [
+   "الحلم",
+   "الأناة",
+   "الرضا",
+   "الجزع"
+  ],
+  "answer_index": 3,
+  "source": "لسان العرب",
+  "explanation": "ضد الصبر الجزع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000086",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى اسم «محمد»؟",
+  "options": [
+   "العالم",
+   "كثير الحمد، المحمود",
+   "الشجاع",
+   "الكريم"
+  ],
+  "answer_index": 1,
+  "source": "لسان العرب",
+  "explanation": "محمد اسم مفعول من حمّد، أي كثير الحمد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000087",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما معنى اسم «أحمد»؟",
+  "options": [
+   "الأقوى",
+   "الأكرم",
+   "الأكثر حمداً لله",
+   "الأحكم"
+  ],
+  "answer_index": 2,
+  "source": "لسان العرب",
+  "explanation": "أحمد على وزن أفعل التفضيل، أي الأكثر حمداً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000088",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما اسم علم الأوزان الشعرية؟",
+  "options": [
+   "العروض",
+   "النحو",
+   "الصرف",
+   "البلاغة"
+  ],
+  "answer_index": 0,
+  "source": "علوم العربية",
+  "explanation": "العروض علم أوزان الشعر وبحوره.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000089",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما اسم علم تصريف الكلمات وتغير صيغها؟",
+  "options": [
+   "العروض",
+   "النحو",
+   "الصرف",
+   "البلاغة"
+  ],
+  "answer_index": 2,
+  "source": "علوم العربية",
+  "explanation": "الصرف يبحث في أبنية الكلمة وتصريفها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000090",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "ما اسم علم الجمال والبيان في الكلام العربي؟",
+  "options": [
+   "الصرف",
+   "البلاغة",
+   "العروض",
+   "المنطق"
+  ],
+  "answer_index": 1,
+  "source": "علوم العربية",
+  "explanation": "البلاغة علم البيان والمعاني والبديع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000091",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "ما أقسام الفعل في اللغة العربية؟",
+  "options": [
+   "ماضٍ ومضارع وأمر",
+   "اسم وفعل وحرف",
+   "مفرد ومثنى وجمع",
+   "مذكر ومؤنث"
+  ],
+  "answer_index": 0,
+  "source": "قواعد اللغة العربية",
+  "explanation": "ينقسم الفعل إلى ماضٍ ومضارع وأمر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000092",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "كم عدد أركان الجملة الاسمية الأساسية؟",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "تتألف الجملة الاسمية من مبتدأ وخبر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000093",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "كم عدد الحركات الأساسية في اللغة العربية؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "قواعد اللغة العربية",
+  "explanation": "الحركات الأساسية ثلاث: الفتحة والضمة والكسرة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000094",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "أي الحروف التالية يُكتب بلا نقاط؟",
+  "options": [
+   "الزاي",
+   "الذال",
+   "الراء",
+   "النون"
+  ],
+  "answer_index": 2,
+  "source": "الأبجدية العربية",
+  "explanation": "الراء حرف بلا نقطة، أما الزاي والذال والنون فمنقوطة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-arapca-000095",
+  "lang": "ar",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "أي الحروف التالية له نقطتان من فوق؟",
+  "options": [
+   "الباء",
+   "الثاء",
+   "الياء",
+   "التاء"
+  ],
+  "answer_index": 3,
+  "source": "الأبجدية العربية",
+  "explanation": "التاء لها نقطتان فوقها، والباء نقطة تحتها، والثاء ثلاث فوقها، والياء نقطتان تحتها.",
+  "review_status": "draft"
+ }
+]

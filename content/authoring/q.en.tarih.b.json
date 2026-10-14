@@ -1,0 +1,446 @@
+{
+  "lang": "en",
+  "category": "tarih",
+  "items": [
+    [
+      "In which year did the Mongols sack Baghdad and end the Abbasid caliphate?",
+      "1258",
+      "1071",
+      "1453",
+      "1492",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "Hulagu's Mongols took Baghdad in 1258."
+    ],
+    [
+      "Which battle was the first major defeat of the Mongols by the Mamluks?",
+      "Ain Jalut",
+      "Hattin",
+      "Manzikert",
+      "Kose Dagh",
+      3,
+      "Maqrizi, as-Suluk",
+      "The Mamluks defeated the Mongols at Ain Jalut in 1260."
+    ],
+    [
+      "Which state is regarded as the first Turkic state to accept Islam?",
+      "The Karakhanids",
+      "The Ghaznavids",
+      "The Seljuks",
+      "The Ottomans",
+      3,
+      "Turkic–Islamic history",
+      "The Karakhanids under Satuq Bughra Khan are regarded as the first."
+    ],
+    [
+      "In which year was the Battle of Manzikert?",
+      "1071",
+      "1099",
+      "1243",
+      "1453",
+      1,
+      "Ibn al-Athir, al-Kamil",
+      "Alp Arslan defeated the Byzantines at Manzikert in 1071."
+    ],
+    [
+      "Which Seljuk sultan won at Manzikert?",
+      "Alp Arslan",
+      "Tughril Beg",
+      "Malik-Shah",
+      "Sanjar",
+      1,
+      "Ibn al-Athir, al-Kamil",
+      "Alp Arslan captured the Byzantine emperor Romanos Diogenes."
+    ],
+    [
+      "What are the schools founded by the Seljuk vizier Nizam al-Mulk called?",
+      "The Nizamiyyah madrasas",
+      "The Suffah",
+      "Dar al-Hadith",
+      "The kuttabs",
+      2,
+      "Nizam al-Mulk, Siyasatnama",
+      "He founded the Nizamiyyah madrasas in Baghdad and many other cities."
+    ],
+    [
+      "What was the capital of the Seljuk Sultanate of Rum?",
+      "Konya",
+      "Bursa",
+      "Edirne",
+      "Istanbul",
+      1,
+      "History of the Seljuks of Rum",
+      "Konya was the capital."
+    ],
+    [
+      "Who wrote the Mathnawi?",
+      "Jalal ad-Din Rumi",
+      "Yunus Emre",
+      "Ahmad Yasawi",
+      "Hafez of Shiraz",
+      1,
+      "Rumi, Mathnawi",
+      "Rumi wrote the Mathnawi in Konya."
+    ],
+    [
+      "In which year is the Ottoman state traditionally said to have been founded?",
+      "1299",
+      "1071",
+      "1453",
+      "1517",
+      1,
+      "Ottoman history",
+      "Osman Gazi is traditionally credited with founding it in 1299."
+    ],
+    [
+      "Who founded the Ottoman state?",
+      "Osman Gazi",
+      "Orhan Gazi",
+      "Murad I",
+      "Bayezid I",
+      1,
+      "Ottoman history",
+      "The founder was Osman Gazi."
+    ],
+    [
+      "Which Ottoman sultan conquered Constantinople in 1453?",
+      "Mehmed II (the Conqueror)",
+      "Selim I",
+      "Suleiman the Magnificent",
+      "Murad I",
+      1,
+      "Ottoman history",
+      "Mehmed II took Constantinople on 29 May 1453."
+    ],
+    [
+      "What was the Ottoman capital before the conquest of Istanbul?",
+      "Edirne",
+      "Bursa",
+      "Konya",
+      "Ankara",
+      2,
+      "Ottoman history",
+      "Edirne was the capital until 1453."
+    ],
+    [
+      "Which country did Selim I conquer in 1517, ending the Mamluk state?",
+      "Egypt",
+      "Iran",
+      "Hungary",
+      "India",
+      2,
+      "Ottoman history",
+      "After the Battle of Ridaniyya Selim I annexed Egypt in 1517 and the Mamluk state came to an end."
+    ],
+    [
+      "Which battle under Suleiman the Magnificent added most of Hungary to the Ottomans?",
+      "Mohacs",
+      "Chaldiran",
+      "Ridaniyya",
+      "Preveza",
+      2,
+      "Ottoman history",
+      "The Battle of Mohacs (1526) defeated the Hungarian army."
+    ],
+    [
+      "Which commander won the naval battle of Preveza?",
+      "Barbarossa Hayreddin Pasha",
+      "Piri Reis",
+      "Turgut Reis",
+      "Kilic Ali Pasha",
+      3,
+      "Ottoman history",
+      "Barbarossa Hayreddin won at Preveza in 1538."
+    ],
+    [
+      "Which architect built the Suleymaniye Mosque?",
+      "Mimar Sinan",
+      "Mimar Kemaleddin",
+      "Vedat Tek",
+      "Davud Agha",
+      1,
+      "Ottoman architecture",
+      "Suleymaniye is regarded as Sinan's journeyman work."
+    ],
+    [
+      "Which mosque did Sinan call his masterpiece?",
+      "The Selimiye Mosque in Edirne",
+      "The Suleymaniye",
+      "The Sehzade Mosque",
+      "The Sultan Ahmed Mosque",
+      3,
+      "Ottoman architecture",
+      "He described the Selimiye in Edirne as his masterpiece."
+    ],
+    [
+      "Which Moroccan traveller wrote the 'Rihla'?",
+      "Ibn Battuta",
+      "Evliya Celebi",
+      "Piri Reis",
+      "Ibn Jubayr",
+      2,
+      "Ibn Battuta, Rihla",
+      "Ibn Battuta recorded his travels in the Rihla."
+    ],
+    [
+      "Which Timurid ruler built an observatory in Samarkand?",
+      "Ulugh Beg",
+      "Timur",
+      "Alp Arslan",
+      "Sultan Sanjar",
+      3,
+      "History of the Timurids",
+      "Ulugh Beg built the observatory at Samarkand."
+    ],
+    [
+      "From which city did the Mamluk state rule?",
+      "Cairo",
+      "Baghdad",
+      "Damascus",
+      "Cordoba",
+      2,
+      "History of the Mamluks",
+      "The Mamluks ruled from Cairo."
+    ],
+    [
+      "Outside the walls of which city did the companion Abu Ayyub al-Ansari die?",
+      "Constantinople",
+      "Jerusalem",
+      "Damascus",
+      "Cordoba",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "He died during the Umayyad siege and was buried near its walls."
+    ],
+    [
+      "Which island was conquered with the first Muslim fleet under Uthman?",
+      "Cyprus",
+      "Crete",
+      "Rhodes",
+      "Sicily",
+      3,
+      "Ibn al-Athir, al-Kamil",
+      "Mu'awiyah led the first fleet to Cyprus."
+    ],
+    [
+      "What is the year in which Hasan handed the caliphate to Mu'awiyah and the community reunited called?",
+      "The Year of Unity ('Am al-Jama'ah)",
+      "The Year of the Elephant",
+      "The Year of Sorrow",
+      "The Year of Ashes",
+      3,
+      "Tabari, Tarikh",
+      "The year 41 AH is remembered as the Year of Unity."
+    ],
+    [
+      "What was the administrative office Umar founded to record stipends and revenue?",
+      "The diwan",
+      "Zakat",
+      "Jizyah",
+      "Fay'",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "Umar established the diwan to organise stipends and state income."
+    ],
+    [
+      "Which mosque in Cordoba was later turned into a cathedral?",
+      "The Great Mosque of Cordoba",
+      "The Suleymaniye",
+      "The Selimiye",
+      "Hagia Sophia",
+      3,
+      "Andalusian architecture",
+      "Abd ar-Rahman I began the Great Mosque, later enlarged."
+    ],
+    [
+      "In which year did the Crusaders capture Jerusalem?",
+      "1099",
+      "1071",
+      "1187",
+      "1258",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "The First Crusade took Jerusalem in 1099."
+    ],
+    [
+      "In which battle were the Seljuks of Rum defeated by the Mongols?",
+      "Kose Dagh",
+      "Manzikert",
+      "Myriokephalon",
+      "Ain Jalut",
+      3,
+      "History of the Seljuks of Rum",
+      "They lost to the Mongols at Kose Dagh in 1243."
+    ],
+    [
+      "Who founded the Seljuk state?",
+      "Tughril Beg",
+      "Alp Arslan",
+      "Malik-Shah",
+      "Sanjar",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "Tughril Beg was its founder and first sultan."
+    ],
+    [
+      "Which Ottoman sultan was called 'the Lawgiver' (Kanuni)?",
+      "Suleiman I",
+      "Mehmed II",
+      "Selim I",
+      "Bayezid II",
+      1,
+      "Ottoman history",
+      "He was called Kanuni for organising the laws."
+    ],
+    [
+      "Which Ottoman sultan was nicknamed 'Yildirim' (Thunderbolt)?",
+      "Bayezid I",
+      "Mehmed II",
+      "Selim I",
+      "Murad I",
+      1,
+      "Ottoman history",
+      "He was called Yildirim for his swift movements."
+    ],
+    [
+      "What are the schools of higher learning in the Islamic world called?",
+      "Madrasas",
+      "Khans",
+      "Ribats",
+      "Zawiyas",
+      3,
+      "Islamic civilisation",
+      "Madrasas were the centres of higher education."
+    ],
+    [
+      "Who wrote the geography 'Nuzhat al-Mushtaq'?",
+      "Al-Idrisi",
+      "Ibn Khaldun",
+      "Al-Biruni",
+      "Ibn Khurradadhbih",
+      3,
+      "Al-Idrisi, Nuzhat al-Mushtaq",
+      "Al-Idrisi prepared a world map and geography for Roger II of Sicily."
+    ],
+    [
+      "Which polymath studied India and wrote 'Kitab al-Hind'?",
+      "Al-Biruni",
+      "Ibn Sina",
+      "Al-Farabi",
+      "Ibn Rushd",
+      3,
+      "Al-Biruni, Kitab al-Hind",
+      "Al-Biruni studied astronomy, mathematics, geography and history."
+    ],
+    [
+      "Which philosopher was called 'the Second Teacher'?",
+      "Al-Farabi",
+      "Ibn Sina",
+      "Ibn Rushd",
+      "Al-Kindi",
+      3,
+      "Al-Farabi, al-Madina al-Fadila",
+      "He was called the Second Teacher after Aristotle, the First."
+    ],
+    [
+      "Which Cordoban philosopher is known for his commentaries on Aristotle?",
+      "Ibn Rushd (Averroes)",
+      "Ibn Sina",
+      "Al-Farabi",
+      "Al-Kindi",
+      3,
+      "Ibn Rushd, Tahafut at-Tahafut",
+      "His commentaries influenced European thought."
+    ],
+    [
+      "Which structures were established under al-Ma'mun to observe the heavens?",
+      "Observatories",
+      "Madrasas",
+      "Khans",
+      "Ribats",
+      3,
+      "Ibn al-Athir, al-Kamil",
+      "Observatories were built in Baghdad and Damascus."
+    ],
+    [
+      "Which Abbasid caliph supported the House of Wisdom and scholars?",
+      "Al-Ma'mun",
+      "Mu'awiyah",
+      "Al-Walid",
+      "Yazid",
+      2,
+      "Ibn al-Athir, al-Kamil",
+      "Al-Ma'mun was a great patron of translation and learning."
+    ],
+    [
+      "Which Ottoman ruler took Iznik and opened the first Ottoman madrasa?",
+      "Orhan Gazi",
+      "Osman Gazi",
+      "Murad I",
+      "Bayezid",
+      3,
+      "Ottoman history",
+      "Under Orhan, Iznik was taken and the first Ottoman madrasa opened there."
+    ],
+    [
+      "Which Ottoman sultan was martyred at the Battle of Kosovo?",
+      "Murad I",
+      "Osman Gazi",
+      "Orhan Gazi",
+      "Bayezid I",
+      3,
+      "Ottoman history",
+      "Murad I was killed at Kosovo in 1389."
+    ],
+    [
+      "Between which two rulers was the Battle of Ankara (1402) fought?",
+      "Timur and Bayezid I",
+      "Mehmed II and Constantine",
+      "Alp Arslan and Romanos",
+      "Saladin and Richard",
+      3,
+      "Ottoman history",
+      "Timur defeated Bayezid I at Ankara in 1402."
+    ],
+    [
+      "In which year was Uthman ibn Affan killed?",
+      "656",
+      "632",
+      "661",
+      "680",
+      3,
+      "Tabari, Tarikh",
+      "Uthman was besieged in his house and killed in 656."
+    ],
+    [
+      "In which year was Jerusalem conquered under Umar?",
+      "638",
+      "622",
+      "711",
+      "1071",
+      3,
+      "Tabari, Tarikh",
+      "Jerusalem surrendered by treaty in 638."
+    ],
+    [
+      "What was the first Muslim city founded by Amr ibn al-As in Egypt?",
+      "Fustat",
+      "Cairo",
+      "Alexandria",
+      "Kairouan",
+      3,
+      "Maqrizi, al-Khitat",
+      "He founded Fustat and built a mosque there."
+    ],
+    [
+      "What is the period of flourishing science and arts in the Islamic world, roughly 8th to 13th centuries, called?",
+      "The Islamic Golden Age",
+      "The Stone Age",
+      "The Age of Ignorance",
+      "The European Renaissance",
+      1,
+      "Islamic civilisation",
+      "Science, translation, astronomy and medicine flourished in Baghdad, Cairo and Cordoba."
+    ]
+  ]
+}

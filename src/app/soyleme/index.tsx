@@ -14,7 +14,7 @@ import {
 import { usePremium } from '@/features/premium/entitlement';
 import { allowedLevels, levelLocked } from '@/features/premium/tiers';
 import { loadSettings, saveSettings } from '@/features/soyleme/storage';
-import { getLang, t } from '@/i18n';
+import { getLang, t, upper } from '@/i18n';
 import { spacing, useTheme } from '@/lib/theme';
 import { Avatar } from '@/ui/Avatar';
 import { Button } from '@/ui/Button';
@@ -80,7 +80,7 @@ export default function SoylemeSetup() {
       <Text style={{ color: theme.textMuted, fontSize: 15, lineHeight: 22 }}>{t('soyleme.setup.subtitle')}</Text>
 
       <View style={{ gap: spacing.sm }}>
-        <Text style={eyebrow}>{t('soyleme.setup.teams').toLocaleUpperCase('tr')}</Text>
+        <Text style={eyebrow}>{upper(t('soyleme.setup.teams'))}</Text>
         {([0, 1] as const).map((i) => (
           <Card key={i} padding={10} style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.md }}>
             <Avatar name={settings.teamNames[i] || String(i + 1)} size={44} highlight={i === 0} />
@@ -123,7 +123,7 @@ export default function SoylemeSetup() {
       </Card>
 
       <View style={{ gap: spacing.sm }}>
-        <Text style={eyebrow}>{t('soyleme.setup.level').toLocaleUpperCase('tr')}</Text>
+        <Text style={eyebrow}>{upper(t('soyleme.setup.level'))}</Text>
         <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
           {LEVELS.map((l) => (
             <Chip
@@ -139,7 +139,7 @@ export default function SoylemeSetup() {
 
       {langs.length > 1 && (
         <View style={{ gap: spacing.sm }}>
-          <Text style={eyebrow}>{t('soyleme.setup.deckLang').toLocaleUpperCase('tr')}</Text>
+          <Text style={eyebrow}>{upper(t('soyleme.setup.deckLang'))}</Text>
           <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
             {langs.map((l) => (
               <Chip key={l} label={l.toUpperCase()} selected={settings.lang === l} onPress={() => patch({ lang: l })} />

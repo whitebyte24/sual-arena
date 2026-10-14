@@ -18,3 +18,12 @@ GoogleService-Info.plist
 supabase/.temp/
 src/content/generated/
 content/review/
+
+# Expo prebuild (CNG): app.json + plugin yapılandırmasından üretilir
+/android
+/ios
+
+# Review Ready raporu (yerel)
+review-ready-report.html
+content/review/
+content/lint-report.json

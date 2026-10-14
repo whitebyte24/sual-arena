@@ -1,0 +1,1702 @@
+[
+ {
+  "id": "q-tr-kissalar-000001",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Meleklere secde emri verildiğinde Hz. Âdem'e secde etmeyen kimdir?",
+  "options": [
+   "İblîs",
+   "Hârût",
+   "Mârût",
+   "Cebrâil"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/34",
+  "explanation": "Melekler Hz. Âdem'e secde etmiş, İblîs ise kibirlenerek secde etmemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000002",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Âdem ile eşinin cennette yaklaşmaları yasaklanan şey nedir?",
+  "options": [
+   "Bir pınar",
+   "Bir saray",
+   "Bir kapı",
+   "Belli bir ağaç"
+  ],
+  "answer_index": 3,
+  "source": "Bakara 2/35",
+  "explanation": "Allah, Âdem ile eşine cennette her yerden yemelerine izin vermiş, yalnızca belli bir ağaca yaklaşmayı yasaklamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000003",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Âdem'in iki oğlunun kurban kıssasında kardeşini öldüren kişi kimdir?",
+  "options": [
+   "Habil",
+   "Kâbil",
+   "Şit",
+   "İdrîs"
+  ],
+  "answer_index": 1,
+  "source": "Mâide 5/27-31",
+  "explanation": "Kurbanı kabul edilmeyen kardeş, haset edip diğerini öldürmüş ve sonra pişman olmuştur; kaynaklarda adı Kâbil'dir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000004",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Âdem'in eşi kimdir?",
+  "options": [
+   "Sâre",
+   "Hâcer",
+   "Havvâ",
+   "Âsiye"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/35; A'râf 7/19",
+  "explanation": "Hz. Âdem'in eşi Havvâ'dır; ikisi cennette bulunmuş, sonra yeryüzüne indirilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000005",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Nûh kavmini yaklaşık kaç yıl İslam'a davet etmiştir?",
+  "options": [
+   "100",
+   "300",
+   "500",
+   "950"
+  ],
+  "answer_index": 3,
+  "source": "Ankebût 29/14",
+  "explanation": "Ankebût 14. âyet, Hz. Nûh'un kavmi arasında 950 yıl kaldığını bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000006",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Nûh'un gemisine binmeyi reddeden ve tufanda boğulan oğlunun adı nedir?",
+  "options": [
+   "Sâm",
+   "Hâm",
+   "Yâfes",
+   "Kenan"
+  ],
+  "answer_index": 3,
+  "source": "Hûd 11/42-43",
+  "explanation": "Hz. Nûh'un oğlu Kenan, 'Beni sudan bir dağ korur' diyerek gemiye binmemiş ve boğulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000007",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Tufan'dan sonra Hz. Nûh'un gemisinin oturduğu dağ hangisidir?",
+  "options": [
+   "Hirâ",
+   "Uhud",
+   "Cûdî",
+   "Sînâ"
+  ],
+  "answer_index": 2,
+  "source": "Hûd 11/44",
+  "explanation": "Hûd 44. âyette gemi Cûdî Dağı'na oturmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000008",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Nûh'un gemisine her canlıdan kaçar tane alması emredilmiştir?",
+  "options": [
+   "Üç",
+   "İki (bir çift)",
+   "Yedi",
+   "Bir"
+  ],
+  "answer_index": 1,
+  "source": "Hûd 11/40",
+  "explanation": "Hz. Nûh'a her canlıdan birer çift gemiye almak emredilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000009",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Kavmi Âd'a gönderilen peygamber kimdir?",
+  "options": [
+   "Hz. Hûd",
+   "Hz. Sâlih",
+   "Hz. Şuayb",
+   "Hz. Lût"
+  ],
+  "answer_index": 0,
+  "source": "A'râf 7/65",
+  "explanation": "Allah, Âd kavmine kardeşleri Hûd'u peygamber olarak göndermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000010",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Âd kavmi nasıl helak edilmiştir?",
+  "options": [
+   "Tufanla",
+   "Taş yağmuruyla",
+   "Yer sarsıntısıyla",
+   "Şiddetli bir fırtınayla"
+  ],
+  "answer_index": 3,
+  "source": "Hâkka 69/6-7",
+  "explanation": "Âd kavmi, yedi gece sekiz gün süren dondurucu ve şiddetli bir rüzgârla helak edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000011",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Sâlih'in kavmine gösterdiği mucize nedir?",
+  "options": [
+   "Asanın yılana dönüşmesi",
+   "Ölüleri diriltmesi",
+   "Kayadan çıkan dişi deve",
+   "Ateşin soğuması"
+  ],
+  "answer_index": 2,
+  "source": "A'râf 7/73",
+  "explanation": "Hz. Sâlih'in mucizesi, 'Allah'ın devesi' olarak anılan dişi devedir; Semûd kavmi onu kesince helak olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000012",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Sâlih'in gönderildiği kavim hangisidir?",
+  "options": [
+   "Âd",
+   "Semûd",
+   "Medyen",
+   "Sebe"
+  ],
+  "answer_index": 1,
+  "source": "A'râf 7/73",
+  "explanation": "Hz. Sâlih, Semûd kavmine gönderilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000013",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Lût'un kavmi nasıl helak edilmiştir?",
+  "options": [
+   "Taş yağmuruyla",
+   "Tufanla",
+   "Kıtlıkla",
+   "Denizde boğularak"
+  ],
+  "answer_index": 0,
+  "source": "Hûd 11/82",
+  "explanation": "Lût kavminin yurdu altüst edilmiş ve üzerlerine pişmiş çamurdan taşlar yağdırılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000014",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Kur'an'da Hz. Lût'a inanmayıp kavminin yanında yer alan ve helak olan kimdir?",
+  "options": [
+   "Lût'un kızı",
+   "Lût'un kardeşi",
+   "Lût'un karısı",
+   "Lût'un oğlu"
+  ],
+  "answer_index": 2,
+  "source": "Tahrîm 66/10",
+  "explanation": "Tahrîm Sûresi, Nûh ve Lût'un eşlerinin iman etmeyip hainlik ettiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000015",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Putları kıran ve kavmi tarafından ateşe atılan peygamber kimdir?",
+  "options": [
+   "Hz. Mûsâ",
+   "Hz. İbrâhîm",
+   "Hz. Nûh",
+   "Hz. Yûnus"
+  ],
+  "answer_index": 1,
+  "source": "Enbiyâ 21/57-69",
+  "explanation": "Hz. İbrâhîm putları kırınca kavmi onu ateşe atmış, Allah ateşe soğuk ve esenlik olmasını emretmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000016",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Ateşe atılan Hz. İbrâhîm için ateşe ne emredilmiştir?",
+  "options": [
+   "Hemen sön",
+   "İbrâhîm'i yak",
+   "Yavaş yan",
+   "İbrâhîm'e soğuk ve selamet ol"
+  ],
+  "answer_index": 3,
+  "source": "Enbiyâ 21/69",
+  "explanation": "Allah, 'Ey ateş! İbrâhîm'e karşı serin ve esenlik ol' buyurmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000017",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Kur'an'da 'Allah'ın dostu' (Halîlullah) olarak anılan peygamber kimdir?",
+  "options": [
+   "Hz. Mûsâ",
+   "Hz. İbrâhîm",
+   "Hz. Îsâ",
+   "Hz. Davud"
+  ],
+  "answer_index": 1,
+  "source": "Nisâ 4/125",
+  "explanation": "Nisâ 125. âyette Allah, İbrâhîm'i dost edindiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000018",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. İbrâhîm'in iki peygamber oğlu kimlerdir?",
+  "options": [
+   "İsmâîl ve İshâk",
+   "Yûsuf ve Bünyamin",
+   "Mûsâ ve Hârûn",
+   "Yahyâ ve Zekeriyyâ"
+  ],
+  "answer_index": 0,
+  "source": "İbrâhîm 14/39",
+  "explanation": "Hz. İbrâhîm, ihtiyarlığında kendisine İsmâîl ve İshâk'ı bağışlayan Allah'a hamd eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000019",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. İbrâhîm'in rüyada oğlunu kurban etmekle sınandığı olay hangi surede anlatılır?",
+  "options": [
+   "Bakara",
+   "Meryem",
+   "Sâffât",
+   "Hûd"
+  ],
+  "answer_index": 2,
+  "source": "Sâffât 37/99-113",
+  "explanation": "Sâffât Sûresi, Hz. İbrâhîm'in rüyada oğlunu kurban etmekle sınanışını ve Allah'ın yerine bir koç vermesini anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000020",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Hâcer'in oğlu için su aradığı iki tepe hangileridir?",
+  "options": [
+   "Uhud ve Hira",
+   "Arafat ve Müzdelife",
+   "Sevr ve Nûr",
+   "Safâ ve Merve"
+  ],
+  "answer_index": 3,
+  "source": "Bakara 2/158",
+  "explanation": "Safâ ile Merve arası, Hz. Hâcer'in suyu araması anısına hac ve umrede sa'y yapılan yerdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000021",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. İbrâhîm ile hangi oğlu birlikte Kâbe'nin temellerini yükseltmiştir?",
+  "options": [
+   "İshâk",
+   "İsmâîl",
+   "Yûsuf",
+   "Yakûb"
+  ],
+  "answer_index": 1,
+  "source": "Bakara 2/127",
+  "explanation": "Hz. İbrâhîm ve oğlu İsmâîl Kâbe'nin temellerini yükseltirken Allah'tan duaları kabul etmesini dilemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000022",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. İshak'ın oğlu olan peygamber kimdir?",
+  "options": [
+   "Hz. Yûsuf",
+   "Hz. İsmâîl",
+   "Hz. Yakûb",
+   "Hz. Hûd"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/133",
+  "explanation": "Hz. İshâk'ın oğlu Hz. Yakûb'dur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000023",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "'İsrâiloğulları' adı hangi peygamberin lakabından gelir?",
+  "options": [
+   "Hz. İshâk",
+   "Hz. Yûsuf",
+   "Hz. Mûsâ",
+   "Hz. Yakûb"
+  ],
+  "answer_index": 3,
+  "source": "Âl-i İmrân 3/93",
+  "explanation": "İsrâil, Hz. Yakûb'un lakabıdır; İsrâiloğulları onun soyundan gelenlerdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000024",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yûsuf rüyasında kaç yıldızın kendisine secde ettiğini görmüştür?",
+  "options": [
+   "7",
+   "9",
+   "11",
+   "12"
+  ],
+  "answer_index": 2,
+  "source": "Yûsuf 12/4",
+  "explanation": "Hz. Yûsuf rüyasında on bir yıldızı, güneşi ve ayı kendisine secde ederken görmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000025",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Yûsuf'u kuyuya atan kimlerdir?",
+  "options": [
+   "Amcaları",
+   "Komşuları",
+   "Kardeşleri",
+   "Mısır halkı"
+  ],
+  "answer_index": 2,
+  "source": "Yûsuf 12/8-15",
+  "explanation": "Hz. Yûsuf'a haset eden kardeşleri onu kuyuya atmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000026",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yûsuf'un yorumladığı rüyaya göre Mısır'da kaç yıl bolluk yaşanacaktır?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "Yûsuf 12/47-48",
+  "explanation": "Hz. Yûsuf, yedi yıl bolluk ve ardından yedi yıl kıtlık yaşanacağını bildirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000027",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yakûb'un oğlunun hasretinden gözlerine ne olmuştur?",
+  "options": [
+   "Sağır oldu",
+   "Gözleri görmez oldu",
+   "Konuşamaz oldu",
+   "Hastalanıp vefat etti"
+  ],
+  "answer_index": 1,
+  "source": "Yûsuf 12/84",
+  "explanation": "Hz. Yakûb, Yûsuf'un üzüntüsünden gözleri ağarana dek ağlamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000028",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yakûb'un gözleri nasıl açılmıştır?",
+  "options": [
+   "Zemzem suyuyla",
+   "Bir ilaçla",
+   "Bir duayla hemen",
+   "Yûsuf'un gömleğinin yüzüne sürülmesiyle"
+  ],
+  "answer_index": 3,
+  "source": "Yûsuf 12/93-96",
+  "explanation": "Yûsuf'un gönderdiği gömlek Yakûb'un yüzüne konulunca gözü yeniden görmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000029",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Eyyûb hangi özelliğiyle bilinir?",
+  "options": [
+   "Sabrıyla",
+   "Cömertliğiyle",
+   "Kuvvetiyle",
+   "Ticaretiyle"
+  ],
+  "answer_index": 0,
+  "source": "Enbiyâ 21/83-84; Sâd 38/41-44",
+  "explanation": "Hz. Eyyûb, ağır hastalık ve sıkıntılara sabretmiş, Allah ona şifa vermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000030",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Şuayb hangi halka gönderilmiştir?",
+  "options": [
+   "Âd",
+   "Medyen",
+   "Semûd",
+   "Sebe"
+  ],
+  "answer_index": 1,
+  "source": "Hûd 11/84",
+  "explanation": "Hz. Şuayb, ölçü ve tartıda hile yapan Medyen halkına gönderilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000031",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Şuayb kavmini hangi konuda uyarmıştır?",
+  "options": [
+   "Put yapmaktan",
+   "Yetim malı yemekten",
+   "Ölçü ve tartıda hile yapmaktan",
+   "Hırsızlıktan"
+  ],
+  "answer_index": 2,
+  "source": "Hûd 11/84-85",
+  "explanation": "Hz. Şuayb, halkını ölçüyü ve tartıyı tam yapmaya çağırmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000032",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ'yı Nil'e bırakan annesi nasıl uyarılmıştır?",
+  "options": [
+   "Rüya ile",
+   "Bir kâhin ile",
+   "Hiçbir uyarı yapılmadı",
+   "Vahiy yoluyla"
+  ],
+  "answer_index": 3,
+  "source": "Kasas 28/7",
+  "explanation": "Allah, Mûsâ'nın annesine onu emzirmesini, korkarsa denize bırakmasını vahyetmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000033",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ'yı Nil'den alıp yetiştiren Firavun'un eşi kimdir?",
+  "options": [
+   "Hâcer",
+   "Âsiye",
+   "Sâre",
+   "Meryem"
+  ],
+  "answer_index": 1,
+  "source": "Kasas 28/9; Tahrîm 66/11",
+  "explanation": "Firavun'un eşi Âsiye, 'Bu bana da sana da göz aydınlığıdır' diyerek Mûsâ'yı sahiplenmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000034",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Mûsâ'nın peygamberlik görevinde yardımcısı olmasını istediği kardeşi kimdir?",
+  "options": [
+   "Yûsuf",
+   "Yahyâ",
+   "Hârûn",
+   "Hızır"
+  ],
+  "answer_index": 2,
+  "source": "Tâhâ 20/29-32",
+  "explanation": "Hz. Mûsâ, Allah'tan kardeşi Hârûn'u yardımcı kılmasını istemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000035",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Mûsâ'nın en bilinen mucizelerinden biri nedir?",
+  "options": [
+   "Asasının yılana dönüşmesi",
+   "Kayadan deve çıkması",
+   "Ölüleri diriltmesi",
+   "Ateşin soğuması"
+  ],
+  "answer_index": 0,
+  "source": "Tâhâ 20/17-21",
+  "explanation": "Hz. Mûsâ'nın asası Allah'ın izniyle yılana dönüşür; elini koynundan çıkardığında parlak görünürdü.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000036",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Mûsâ'nın Allah ile konuştuğu dağ hangisidir?",
+  "options": [
+   "Uhud",
+   "Cûdî",
+   "Nûr",
+   "Tûr (Sînâ)"
+  ],
+  "answer_index": 3,
+  "source": "Kasas 28/29-30",
+  "explanation": "Hz. Mûsâ, Tûr Dağı'nın yanında ateş görmüş ve orada Allah'ın hitabına mazhar olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000037",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Mûsâ'ya verilen ilahi kitap hangisidir?",
+  "options": [
+   "Zebur",
+   "Tevrat",
+   "İncil",
+   "Suhuf"
+  ],
+  "answer_index": 1,
+  "source": "Mâide 5/44",
+  "explanation": "Allah, Hz. Mûsâ'ya Tevrat'ı indirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000038",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Dâvud'a verilen ilahi kitap hangisidir?",
+  "options": [
+   "Zebur",
+   "Tevrat",
+   "İncil",
+   "Kur'an"
+  ],
+  "answer_index": 0,
+  "source": "Nisâ 4/163",
+  "explanation": "Allah, Hz. Dâvud'a Zebur'u vermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000039",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Îsâ'ya verilen ilahi kitap hangisidir?",
+  "options": [
+   "Tevrat",
+   "Zebur",
+   "Suhuf",
+   "İncil"
+  ],
+  "answer_index": 3,
+  "source": "Mâide 5/46",
+  "explanation": "Allah, Hz. Îsâ'ya İncil'i vermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000040",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ'nın kavmi ile Kızıldeniz'e ulaştığında deniz nasıl olmuştur?",
+  "options": [
+   "Birden kurudu",
+   "Dalgalar yükseldi",
+   "Asasıyla vurunca yarıldı",
+   "Çok sakinleşti"
+  ],
+  "answer_index": 2,
+  "source": "Şuarâ 26/63",
+  "explanation": "Hz. Mûsâ asasıyla denize vurunca deniz yarılmış ve İsrâiloğulları geçmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000041",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Firavun ve ordusu nasıl helak olmuştur?",
+  "options": [
+   "Fırtınayla",
+   "Yer sarsıntısıyla",
+   "Taş yağmuruyla",
+   "Denizde boğularak"
+  ],
+  "answer_index": 3,
+  "source": "Şuarâ 26/66; Yûnus 10/90-92",
+  "explanation": "Firavun ve ordusu Hz. Mûsâ'nın arkasından denize girince boğulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000042",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Firavun'un Hz. Mûsâ'ya karşı kurduğu hileye yardım eden vezirinin adı nedir?",
+  "options": [
+   "Kârûn",
+   "Hâmân",
+   "Sâmirî",
+   "Ebrehe"
+  ],
+  "answer_index": 1,
+  "source": "Kasas 28/38",
+  "explanation": "Firavun, vezirine 'Hâmân, bana kerpiç pişirip yüksek bir kule yap' demiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000043",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Servetiyle şımarıp Allah'a nankörlük eden ve yere batırılan kişi kimdir?",
+  "options": [
+   "Kârûn",
+   "Hâmân",
+   "Firavun",
+   "Nemrud"
+  ],
+  "answer_index": 0,
+  "source": "Kasas 28/76-81",
+  "explanation": "Kârûn, serveti kendi bilgisine bağlayıp kibirlenince hazineleriyle birlikte yere batırılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000044",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "İsrâiloğulları'nın Mûsâ'nın yokluğunda taptıkları şey nedir?",
+  "options": [
+   "Güneş",
+   "Ateş",
+   "Altın buzağı",
+   "Ay"
+  ],
+  "answer_index": 2,
+  "source": "Tâhâ 20/85-88",
+  "explanation": "Sâmirî'nin yaptığı altın buzağıya İsrâiloğullarından bir grup tapmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000045",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "İsrâiloğulları'nın Mûsâ'nın emrine uymadıkları için cezası olarak kaç yıl çölde şaşkın dolaştıkları bildirilir?",
+  "options": [
+   "10",
+   "20",
+   "40",
+   "70"
+  ],
+  "answer_index": 2,
+  "source": "Mâide 5/26",
+  "explanation": "Mâide 26. âyete göre o topraklar onlara kırk yıl haram kılınmış, çölde şaşkın dolaşmışlardır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000046",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Dâvud'un Câlût'u öldürdüğü olay hangi surede anlatılır?",
+  "options": [
+   "Nisâ",
+   "Mâide",
+   "Bakara",
+   "Yûsuf"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/249-251",
+  "explanation": "Bakara Sûresi, Tâlût'un ordusuyla savaşıp Câlût'u öldüren Dâvud'u anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000047",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Allah'ın Hz. Dâvud için yumuşattığı madde nedir?",
+  "options": [
+   "Demir",
+   "Bakır",
+   "Altın",
+   "Taş"
+  ],
+  "answer_index": 0,
+  "source": "Sebe 34/10",
+  "explanation": "Allah, Hz. Dâvud'a demiri yumuşatmış, zırh yapmasını öğretmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000048",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Süleyman hangi peygamberin oğludur?",
+  "options": [
+   "Hz. Yakûb",
+   "Hz. Dâvud",
+   "Hz. Yûsuf",
+   "Hz. İbrâhîm"
+  ],
+  "answer_index": 1,
+  "source": "Neml 27/16",
+  "explanation": "Hz. Süleyman, Dâvud'a vâris olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000049",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Süleyman'a Allah'ın verdiği özelliklerden biri nedir?",
+  "options": [
+   "Kuş dilini bilmek",
+   "Ölümsüzlük",
+   "Hiç uyumamak",
+   "Asasıyla deniz yarmak"
+  ],
+  "answer_index": 0,
+  "source": "Neml 27/16",
+  "explanation": "Hz. Süleyman'a kuşların dili öğretilmiş, rüzgâr ve cinler onun emrine verilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000050",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Süleyman'ın ölümünü cinlere gösteren olay nedir?",
+  "options": [
+   "Tahtının yıkılması",
+   "Gökten ses gelmesi",
+   "Gökyüzünün kararması",
+   "Dayandığı asayı bir kurdun yemesi"
+  ],
+  "answer_index": 3,
+  "source": "Sebe 34/14",
+  "explanation": "Süleyman asasına dayalı halde vefat etmiş, asayı yiyen kurt yüzünden yere düşünce cinler ölümünü anlamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000051",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Süleyman'ın Sebe Melikesi'ne gönderdiği davetin yazılı olduğu şeyin adı nedir?",
+  "options": [
+   "Taş levha",
+   "Fermân",
+   "Mektup",
+   "Berat"
+  ],
+  "answer_index": 2,
+  "source": "Neml 27/28-30",
+  "explanation": "Hz. Süleyman, hüdhüd ile Sebe Melikesi'ne bir mektup göndermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000052",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Süleyman'ın Sebe Melikesi'nin tahtını getirtmesi hangi surede anlatılır?",
+  "options": [
+   "Kehf",
+   "Neml",
+   "Meryem",
+   "Hûd"
+  ],
+  "answer_index": 1,
+  "source": "Neml 27/38-42",
+  "explanation": "Neml Sûresi, Sebe Melikesi'nin tahtının göz açıp kapayıncaya kadar getirilişini anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000053",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Balığın karnına düşen peygamber kimdir?",
+  "options": [
+   "Hz. Eyyûb",
+   "Hz. Yûnus",
+   "Hz. Hûd",
+   "Hz. Zekeriyyâ"
+  ],
+  "answer_index": 1,
+  "source": "Sâffât 37/139-148",
+  "explanation": "Hz. Yûnus, kavminden ayrılıp gemiye binince atıldığı denizde balık tarafından yutulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000054",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yûnus'un balığın karnında yaptığı dua hangisidir?",
+  "options": [
+   "Rabbenâ âtinâ",
+   "Rabbi zidnî ilmâ",
+   "Hasbünallâhu ve ni'me'l-vekîl",
+   "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn"
+  ],
+  "answer_index": 3,
+  "source": "Enbiyâ 21/87",
+  "explanation": "Hz. Yûnus karanlıklar içinde 'Senden başka ilah yoktur, seni tenzih ederim, ben zalimlerdenim' demiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000055",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Kur'an'da 'balık sahibi' (Zünnûn) diye anılan peygamber kimdir?",
+  "options": [
+   "Hz. Yûnus",
+   "Hz. Mûsâ",
+   "Hz. İlyas",
+   "Hz. Nûh"
+  ],
+  "answer_index": 0,
+  "source": "Enbiyâ 21/87",
+  "explanation": "Enbiyâ 87. âyet, Hz. Yûnus'tan 'Zünnûn' (balık sahibi) diye söz eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000056",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Meryem'in himayesini üstlenen peygamber kimdir?",
+  "options": [
+   "Hz. Mûsâ",
+   "Hz. İsmâîl",
+   "Hz. Zekeriyyâ",
+   "Hz. Yûsuf"
+  ],
+  "answer_index": 2,
+  "source": "Âl-i İmrân 3/37",
+  "explanation": "Hz. Zekeriyyâ, Meryem'in bakımını üstlenmiş, mihrabında onun rızkını görünce Allah'a dua etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000057",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Yahyâ'nın babası kimdir?",
+  "options": [
+   "Hz. Zekeriyyâ",
+   "Hz. İmrân",
+   "Hz. Hârûn",
+   "Hz. Dâvud"
+  ],
+  "answer_index": 0,
+  "source": "Meryem 19/2-7",
+  "explanation": "Hz. Zekeriyyâ, yaşlılığında Allah'ın bağışıyla Yahyâ'ya kavuşmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000058",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Meryem'in annesi Kur'an'da hangi kişinin karısı olarak anılır?",
+  "options": [
+   "Zekeriyyâ",
+   "Yûsuf",
+   "İmrân",
+   "Hârûn"
+  ],
+  "answer_index": 2,
+  "source": "Âl-i İmrân 3/35",
+  "explanation": "Âl-i İmrân 35. âyette Meryem'in annesi 'İmrân'ın karısı' olarak anılır ve doğacak çocuğunu Allah'a adar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000059",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Meryem'in doğum sancısı sırasında yaslandığı ağaç nedir?",
+  "options": [
+   "Zeytin ağacı",
+   "Hurma ağacı",
+   "İncir ağacı",
+   "Çınar"
+  ],
+  "answer_index": 1,
+  "source": "Meryem 19/23-25",
+  "explanation": "Meryem, doğum sancısı onu bir hurma kütüğüne sığındırmış, ağaç ona taze hurma dökmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000060",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Îsâ beşikte iken ne söylemiştir?",
+  "options": [
+   "'Ben Allah'ın oğluyum'",
+   "'Ben bir meleğim'",
+   "Hiç konuşmadı",
+   "'Ben Allah'ın kuluyum'"
+  ],
+  "answer_index": 3,
+  "source": "Meryem 19/29-30",
+  "explanation": "Beşikteki Hz. Îsâ 'Ben Allah'ın kuluyum, bana kitap verdi ve beni peygamber yaptı' demiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000061",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Îsâ Allah'ın izniyle hangi mucizeyi göstermiştir?",
+  "options": [
+   "Denizi yarmak",
+   "Dağı yürütmek",
+   "Güneşi durdurmak",
+   "Ölüleri diriltmek"
+  ],
+  "answer_index": 3,
+  "source": "Âl-i İmrân 3/49",
+  "explanation": "Hz. Îsâ, Allah'ın izniyle ölüleri diriltir, doğuştan körleri ve alacalıları iyileştirirdi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000062",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Hz. Îsâ'nın yakın yardımcılarına Kur'an'da ne ad verilir?",
+  "options": [
+   "Havâriler",
+   "Ensâr",
+   "Muhâcirûn",
+   "Suffe ehli"
+  ],
+  "answer_index": 0,
+  "source": "Âl-i İmrân 3/52",
+  "explanation": "Hz. Îsâ'nın destekçilerine Havâriler denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000063",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Havârilerin Hz. Îsâ'dan gökten indirilmesini istedikleri şey nedir?",
+  "options": [
+   "Ateş",
+   "Sofra (Mâide)",
+   "Altın",
+   "Yağmur"
+  ],
+  "answer_index": 1,
+  "source": "Mâide 5/112-115",
+  "explanation": "Havâriler gökten bir sofra indirilmesini istemiş, Mâide Sûresi'ne adını veren bu sofra anlatılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000064",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Zülkarneyn'in Kur'an'da anlatılan en bilinen işi nedir?",
+  "options": [
+   "Kâbe'yi inşa etmesi",
+   "Tûfan'dan gemiyle kurtulması",
+   "Yecûc ve Mecûc'e karşı set yapması",
+   "Denizi yarması"
+  ],
+  "answer_index": 2,
+  "source": "Kehf 18/94-98",
+  "explanation": "Zülkarneyn, bir kavme Yecûc ve Mecûc'e karşı demir ve bakırla bir set yapmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000065",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Ashâb-ı Kehf, mağarada kaç yıl uyumuştur?",
+  "options": [
+   "40",
+   "100",
+   "300",
+   "309"
+  ],
+  "answer_index": 3,
+  "source": "Kehf 18/25",
+  "explanation": "Kehf Sûresi, mağara arkadaşlarının üç yüz dokuz yıl kaldıklarını bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000066",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Kur'an'da Ashâb-ı Kehf'in yanında bulunan hayvan hangisidir?",
+  "options": [
+   "At",
+   "Köpek",
+   "Koyun",
+   "Güvercin"
+  ],
+  "answer_index": 1,
+  "source": "Kehf 18/18",
+  "explanation": "Mağara kıssasında köpekleri girişte ön ayaklarını uzatmış yatıyordu.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000067",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Kehf kıssasında Hz. Mûsâ ile yolculuk yapan âlim kişinin Hadis-i Şerif'te bildirilen adı nedir?",
+  "options": [
+   "Hızır",
+   "Yûşa",
+   "Hârûn",
+   "Zülkarneyn"
+  ],
+  "answer_index": 0,
+  "source": "Kehf 18/65-82; Buhârî, İlim",
+  "explanation": "Hadislerde Hz. Mûsâ'yla yolculuk eden ilim sahibi kul Hızır olarak anılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000068",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Kur'an-ı Kerim'de adı geçen peygamber sayısı kaçtır?",
+  "options": [
+   "10",
+   "25",
+   "124",
+   "313"
+  ],
+  "answer_index": 1,
+  "source": "Kur'an'da adı geçen peygamberler",
+  "explanation": "Kur'an'da isimleri zikredilen peygamber sayısı genel kabule göre yirmi beştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000069",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Ulü'l-azm peygamberlerden hangisi değildir?",
+  "options": [
+   "Hz. Nûh",
+   "Hz. Yûsuf",
+   "Hz. İbrâhîm",
+   "Hz. Mûsâ"
+  ],
+  "answer_index": 1,
+  "source": "Ahkāf 46/35",
+  "explanation": "Ulü'l-azm peygamberler genel olarak Nûh, İbrâhîm, Mûsâ, Îsâ ve Muhammed'dir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000070",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Îsâ'nın göğe yükseltildiği olay Kur'an'da hangi şekilde ifade edilir?",
+  "options": [
+   "Allah'ın onu katına yükseltmesi",
+   "Bir merdivenle çıkması",
+   "Kayıp olması",
+   "Tufanla yok olması"
+  ],
+  "answer_index": 0,
+  "source": "Nisâ 4/157-158",
+  "explanation": "Nisâ 158. âyet, Allah'ın Îsâ'yı kendi katına yükselttiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000071",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. İdrîs Kur'an'da nasıl anılır?",
+  "options": [
+   "Denizde boğulmuş",
+   "Mağaraya sığınmış",
+   "Çöle sürgün edilmiş",
+   "Yüce bir makama yükseltilmiş"
+  ],
+  "answer_index": 3,
+  "source": "Meryem 19/56-57",
+  "explanation": "Meryem Sûresi, İdrîs'in dürüst bir peygamber olduğunu ve yüce bir makama yükseltildiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000072",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ Allah'tan göğsünün genişletilmesi için hangi duayı yapmıştır?",
+  "options": [
+   "Rabbim, bana mülk ver",
+   "Rabbim, bana evlat ver",
+   "Rabbim, göğsümü genişlet",
+   "Rabbim, beni cennete koy"
+  ],
+  "answer_index": 2,
+  "source": "Tâhâ 20/25-28",
+  "explanation": "Hz. Mûsâ Firavun'a giderken 'Rabbim, göğsümü genişlet, işimi kolaylaştır' diye dua etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000073",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ ile ilgili hangi olay Kasas Sûresi'nde anlatılır?",
+  "options": [
+   "Doğumu ve Firavun'un sarayında büyümesi",
+   "Hicret",
+   "Uhud Savaşı",
+   "Hendek kazılması"
+  ],
+  "answer_index": 0,
+  "source": "Kasas 28/1-43",
+  "explanation": "Kasas Sûresi, Hz. Mûsâ'nın doğumunu, Firavun'un sarayında büyümesini ve peygamber oluşunu anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000074",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Allah'ın Hz. Mûsâ ile doğrudan konuşması nedeniyle ona verilen lakap nedir?",
+  "options": [
+   "Halîlullah",
+   "Safiyyullah",
+   "Kelîmullah",
+   "Rûhullah"
+  ],
+  "answer_index": 2,
+  "source": "Nisâ 4/164",
+  "explanation": "Nisâ 164. âyet, Allah'ın Mûsâ ile bizzat konuştuğunu bildirir; ona Kelîmullah denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000075",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Îsâ'ya verilen 'Allah'ın Kelimesi ve Rûhu' unvanı için hangi lakap kullanılır?",
+  "options": [
+   "Kelîmullah",
+   "Rûhullah",
+   "Halîlullah",
+   "Safiyyullah"
+  ],
+  "answer_index": 1,
+  "source": "Nisâ 4/171",
+  "explanation": "Nisâ 171. âyet, Meryem oğlu Îsâ'yı Allah'ın elçisi, kelimesi ve kendisinden bir ruh olarak anar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000076",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Âdem'in yaratılışında kullanılan maddeye Kur'an'da ne denir?",
+  "options": [
+   "Ateş",
+   "Nur",
+   "Işık",
+   "Çamur (balçık)"
+  ],
+  "answer_index": 3,
+  "source": "Sâd 38/71",
+  "explanation": "Allah, Âdem'i çamurdan yaratacağını meleklere bildirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000077",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Yûsuf zindana neden atılmıştır?",
+  "options": [
+   "Hırsızlık yaptığı için",
+   "Putları kırdığı için",
+   "Kardeşlerini şikâyet ettiği için",
+   "Aziz'in karısının iftirası yüzünden"
+  ],
+  "answer_index": 3,
+  "source": "Yûsuf 12/23-35",
+  "explanation": "Aziz'in karısı Yûsuf'a iftira atınca, delillere rağmen zindana konulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000078",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Yûsuf'un zindan arkadaşlarının rüyalarını yorumlaması hangi surede anlatılır?",
+  "options": [
+   "Kehf",
+   "Yûsuf",
+   "Hûd",
+   "Nahl"
+  ],
+  "answer_index": 1,
+  "source": "Yûsuf 12/36-41",
+  "explanation": "Yûsuf Sûresi, zindan arkadaşlarının rüyalarını yorumlamasını anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000079",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "İsrâiloğulları'ndan bir topluluk hangi yasağı çiğnedikleri için maymunlaştırılmıştır?",
+  "options": [
+   "Cumartesi günü avlanma yasağı",
+   "Put yapma yasağı",
+   "Faiz yasağı",
+   "Yetim malı yasağı"
+  ],
+  "answer_index": 0,
+  "source": "A'râf 7/163-166",
+  "explanation": "Sebt (Cumartesi) günü balık avlama yasağını çiğneyen sahil halkı bu şekilde cezalandırılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000080",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Süleyman'ın karınca vadisinde duyduğu uyarı kime aittir?",
+  "options": [
+   "Bir kuşa",
+   "Bir cine",
+   "Bir karıncaya",
+   "Bir meleğe"
+  ],
+  "answer_index": 2,
+  "source": "Neml 27/18-19",
+  "explanation": "Bir karınca, kavmini 'Yuvalarınıza girin' diye uyarmış, Süleyman da tebessüm etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000081",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Allah'ın Hz. Davud'a öğrettiği ve dağların da ona eşlik ettiği ibadet nedir?",
+  "options": [
+   "Hac",
+   "Zekât",
+   "Cihâd",
+   "Tesbih"
+  ],
+  "answer_index": 3,
+  "source": "Sâd 38/18-19",
+  "explanation": "Dağlar ve kuşlar, Dâvud'la birlikte sabah akşam Allah'ı tesbih ederdi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000082",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. İlyas hangi putun kavmi tarafından tapıldığını eleştirmiştir?",
+  "options": [
+   "Lât",
+   "Ba'l",
+   "Menât",
+   "Uzzâ"
+  ],
+  "answer_index": 1,
+  "source": "Sâffât 37/123-125",
+  "explanation": "Hz. İlyas, kavmine 'Ba'l'a mı yalvarıp en güzel yaratıcıyı bırakıyorsunuz?' demiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000083",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Hûd'un kavmi olan Âd'ın yurdu için Kur'an'da kullanılan isim nedir?",
+  "options": [
+   "İrem",
+   "Hicr",
+   "Medyen",
+   "Yesrib"
+  ],
+  "answer_index": 0,
+  "source": "Fecr 89/6-8",
+  "explanation": "Fecr Sûresi, 'direkler sahibi İrem'den söz eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000084",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Kur'an'da Ashâb-ı Uhdûd'un anlatıldığı kıssada mü'minler nasıl cezalandırılmıştır?",
+  "options": [
+   "Denizde boğularak",
+   "Taşlanarak",
+   "Yakıcı hendeklerde ateşe atılarak",
+   "Zindana atılarak"
+  ],
+  "answer_index": 2,
+  "source": "Bürûc 85/4-8",
+  "explanation": "Bürûc Sûresi, mü'minleri ateşle dolu hendeklere atanları lanetler.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000085",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Kehf Sûresi'nde bahsi geçen iki bahçe sahibinden biri neden helak olmuştur?",
+  "options": [
+   "Cimrilik yaptığı için",
+   "Yalan söylediği için",
+   "Hırsızlık yaptığı için",
+   "Kibirlenip Allah'ı inkâr ettiği için"
+  ],
+  "answer_index": 3,
+  "source": "Kehf 18/32-44",
+  "explanation": "İki bahçe kıssasında mal sahibi kibirlenip kıyameti inkâr edince bahçesi yok edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000086",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Nûh'un gemisini yaparken kavmi ona nasıl davranmıştır?",
+  "options": [
+   "Alay etmişlerdir",
+   "Yardım etmişlerdir",
+   "Kendilerine katılmışlardır",
+   "Korkup kaçmışlardır"
+  ],
+  "answer_index": 0,
+  "source": "Hûd 11/38",
+  "explanation": "Nûh gemiyi yaparken kavmin ileri gelenleri her geçtiklerinde onunla alay etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000087",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Sâlih'in devesi için Kur'an'da kullanılan ifade nedir?",
+  "options": [
+   "Kutsal deve",
+   "Allah'ın devesi",
+   "Mucize deve",
+   "Yolcu devesi"
+  ],
+  "answer_index": 1,
+  "source": "A'râf 7/73",
+  "explanation": "Sâlih kavmine 'İşte Allah'ın devesi' diye seslenmiş, ona zarar vermelerini yasaklamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000088",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Peygamberlerin ilki olarak kabul edilen kimdir?",
+  "options": [
+   "Hz. Nûh",
+   "Hz. İbrâhîm",
+   "Hz. Âdem",
+   "Hz. İdrîs"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/30-37",
+  "explanation": "Hz. Âdem ilk insan ve genel kabule göre ilk peygamberdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000089",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Peygamberlerin sonuncusu kimdir?",
+  "options": [
+   "Hz. Îsâ",
+   "Hz. Mûsâ",
+   "Hz. Muhammed",
+   "Hz. Nûh"
+  ],
+  "answer_index": 2,
+  "source": "Ahzâb 33/40",
+  "explanation": "Ahzâb 40. âyet, Hz. Muhammed'in peygamberlerin sonuncusu olduğunu bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000090",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Aşağıdaki peygamberlerden hangisi Hz. İbrâhîm'in soyundan değildir?",
+  "options": [
+   "Hz. Nûh",
+   "Hz. Mûsâ",
+   "Hz. Yûsuf",
+   "Hz. Dâvud"
+  ],
+  "answer_index": 0,
+  "source": "En'âm 6/84-86",
+  "explanation": "Hz. Nûh, Hz. İbrâhîm'den önce yaşamış bir peygamberdir; diğerleri onun soyundandır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000091",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Şuayb'ın kavmine inkâr etmeleri sebebiyle gelen azap neydir?",
+  "options": [
+   "Tufan",
+   "Taş yağmuru",
+   "Fırtına",
+   "Şiddetli bir sarsıntı (rajfe)"
+  ],
+  "answer_index": 3,
+  "source": "A'râf 7/91",
+  "explanation": "Medyen halkını şiddetli bir sarsıntı yakalamış, yurtlarında diz üstü çökmüşlerdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000092",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Zekeriyyâ'nın çocuk sahibi olmak için Allah'a yalvarması hangi surede anlatılır?",
+  "options": [
+   "Yûsuf",
+   "Meryem",
+   "Kehf",
+   "Nahl"
+  ],
+  "answer_index": 1,
+  "source": "Meryem 19/2-6",
+  "explanation": "Meryem Sûresi, Zekeriyyâ'nın Rabbine gizlice yalvarışını ve ona Yahyâ'nın müjdelenişini anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000093",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Kur'an'da, nankörlük edince bentleri yıkılan ve bahçeleri harap olan topluluk hangisidir?",
+  "options": [
+   "Medyen halkı",
+   "Sebe halkı",
+   "Semûd kavmi",
+   "Âd kavmi"
+  ],
+  "answer_index": 1,
+  "source": "Sebe 34/15-16",
+  "explanation": "Sebe halkı nankörlük edince bentlerini yıkan Arim seli bahçelerini harap etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000094",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Kur'an'da Fil Vakası'nda Ebrehe'nin ordusuna ne gönderilmiştir?",
+  "options": [
+   "Sürü sürü kuşlar",
+   "Fırtına",
+   "Sel",
+   "Deprem"
+  ],
+  "answer_index": 0,
+  "source": "Fîl 105/3-4",
+  "explanation": "Allah, Ebrehe'nin ordusuna sürü sürü kuşlar göndermiş, bunlar pişmiş çamurdan taşlar atmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000095",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Tih çölünde İsrâiloğulları'na gökten indirilen yiyecekler nelerdir?",
+  "options": [
+   "Hurma ve süt",
+   "Bal ve incir",
+   "Men ve Selvâ",
+   "Zeytin ve nar"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/57",
+  "explanation": "Bakara 57. âyet, Allah'ın İsrâiloğulları'na bulutla gölgelik yaptığını, 'men ve selvâ' indirdiğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000096",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. Mûsâ'nın asasıyla kayaya vurmasıyla kaç pınar fışkırmıştır?",
+  "options": [
+   "3",
+   "7",
+   "12",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "Bakara 2/60",
+  "explanation": "Hz. Mûsâ asasıyla kayaya vurunca on iki pınar fışkırmış, her kabile kendi su içeceği yeri bilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000097",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. İbrâhîm'in misafir meleklere ikram ettiği yemek nedir?",
+  "options": [
+   "Pişmiş balık",
+   "Hurma ve süt",
+   "Kızartılmış buzağı",
+   "Bal ve ekmek"
+  ],
+  "answer_index": 2,
+  "source": "Hûd 11/69",
+  "explanation": "Hz. İbrâhîm, misafirlerine gecikmeden kızartılmış bir buzağı getirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000098",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Hz. Meryem, doğumdan sonra kendisini suçlayan kavmine nasıl karşılık vermiştir?",
+  "options": [
+   "Uzun bir konuşma yapmıştır",
+   "Şehirden ayrılmıştır",
+   "Yemin etmiştir",
+   "Sessizlik orucu tutup bebeği işaret etmiştir"
+  ],
+  "answer_index": 3,
+  "source": "Meryem 19/26-29",
+  "explanation": "Meryem, \"Rahman için oruç adadım, bugün kimseyle konuşmayacağım\" demiş ve bebeğe işaret etmiş, bebek konuşmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000099",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Âdem'in iki oğlunun kurban kıssasında kurbanı kabul edilen kimdir?",
+  "options": [
+   "Habil",
+   "Kâbil",
+   "Şit",
+   "İdrîs"
+  ],
+  "answer_index": 0,
+  "source": "Mâide 5/27",
+  "explanation": "İki kardeşten birinin kurbanı kabul edilmiş, diğerinin edilmemiş; kabul edilen kardeş kaynaklarda Habil olarak anılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-kissalar-000100",
+  "lang": "tr",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Hz. İshâk'ın annesi ve Hz. İbrâhîm'in ilk eşi kimdir?",
+  "options": [
+   "Hâcer",
+   "Sâre",
+   "Havvâ",
+   "Âsiye"
+  ],
+  "answer_index": 1,
+  "source": "Hûd 11/71-73",
+  "explanation": "Yaşlılığında Hz. İbrâhîm'e İshâk müjdelenen hanımı kaynaklarda Sâre olarak anılır.",
+  "review_status": "draft"
+ }
+]

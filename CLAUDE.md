@@ -6,9 +6,9 @@ Hedef: en geç ~11 Ocak 2027'de iOS+Android'de yayında (Ramazan 2027 ≈ 8 Şub
 ## Çalışma kuralları
 - Önce plan, faz sonunda ≤5 satır rapor. Alt ajan yok (sen istemedikçe). Uzun çıktı dosyaya.
 - Ücretli servis/paket yok (tek istisna: Apple 99$/yıl, Google 25$). Supabase Pro gerekirse ÖNCE sor.
-- Toplu içerik (soru, kart, çeviri, pazarlama) Antigravity'nin işi; ben şema + doğrulama kurarım.
+- Toplu içerik (soru, kart, çeviri, pazarlama): kullanıcı 2026-10-14 tarihinde Claude'a devretti; yalnızca `draft` yazılır, onay insan editörde. Antigravity yedek.
 - Expo API'leri değişti: kod yazmadan önce `https://docs.expo.dev/versions/v57.0.0/` veya `llms.txt` oku.
-- Paket eklerken `npx expo install <paket>` (npm install değil). Windows/bash: büyük dosyaları heredoc ile değil Write ile yaz.
+- Paket eklerken `npx expo install <paket>` (npm install değil). Windows/bash: büyük dosyaları heredoc ile değil Write ile yaz; komutlara literal `\uXXXX` kaçışı yazma (araç gerçek karaktere çevirir; `chr(92)` ile üret).
 
 ## Komutlar
 - `npm run check` = typecheck + vitest + i18n paritesi + içerik doğrulama (her faz sonunda yeşil olmalı)
@@ -44,9 +44,15 @@ Renkler: zümrüt `#0E9F6E`, gece laciverti `#0B1B33`, altın `#E0B04A`; karanl�
 kurulu değilse bu dosyadaki kurallarla devam et. i18n/RTL ve UI için hazır skill yok → script + docs ile çözüldü.
 
 ## İçerik → uygulama hattı
-`content/approved/*.json` (+ dev'de `content/raw/`) → `npm run content:build[:dev]` → `src/content/generated/` (gitignore'lu).
-`npm start/android/ios` DEV derlemesi yapar (draft dahil); `npm install` ve `npm run check` ÜRETİM derlemesi yapar (yalnız approved).
-**Mağaza build'inden önce** `src/content/generated/meta.json` içinde `"mode":"prod"` olmalı. `*dev-seed*` dosyaları Claude'un test verisidir (draft, c-xx-9xxxxx kimlikleri).
+- **Yazım (Claude, 2026-10-14):** `content/authoring/q.<dil>.<kategori>.<ad>.json` (soru: `[soru, DOĞRU, yanlış×3, zorluk, kaynak, açıklama]`) ve `c.<dil>.<ad>.json` (kart: `[hedef, y1..y4, c|t|a]`) →
+  `npm run content:compile` → `content/raw/questions.<dil>.<kat>.auto.json` + `cards.<dil>.auto.json` (hepsi `draft`; doğru şık konumu tohumlu karışımla dengelenir; sayıyla başlayan şıklar sıralanır).
+  Compile, içinde insan kararı olan (draft dışı) dosyayı EZMEZ (`--force` ile geçersiz kılınır). Onay başladıktan sonra authoring dosyalarını düzenleme: düzeltmeyi doğrudan raw dosyasında yap.
+- **Denetimler:** `content:validate` (şema/biçim) · `content:lint` (`src/content/lint.ts`: Kur'an kaynaklarını `quranData.ts` ile doğrular — 114 sure/6236 ayet; "hepsi/hiçbiri" şıkkı; dil–yazı uyumu; cevap sızıntısı; yakın tekrar; doğru şık dağılımı) — ikisi de `npm run check` içinde.
+- **Hacim (taslak):** TR 592 · AR 582 · EN 580 soru (kategori başına ~100) · dil başına 150 kart. Pilot (Antigravity) dosyaları `*.001.json`. Hepsi `draft`; **onay yalnızca insan editörde** (`npm run content:sheet` → `docs/editor-guide.md`).
+- `content/approved/*.json` (+ dev'de `content/raw/`) → `npm run content:build[:dev]` → `src/content/generated/` (gitignore'lu).
+`npm start/android/ios` DEV derlemesi yapar (draft dahil); `npm install`, `npx expo install` ve `npm run check` ÜRETİM derlemesi yapar (yalnız approved → onaysızken 0 içerik!). Emülatörde içerik görmek için önce `npm run content:build:dev`, Metro'yu `--clear` ile başlat.
+**Mağaza build'inden önce** `npm run content:verify-store` yeşil olmalı (prod modu, yalnız approved, dil başına yeterli hacim). Dev-seed test dosyaları kaldırıldı (gerçek içerik var).
+- Uygulama, kullanıcının dilinde içerik yoksa `questionLangs()`/`cardLangs()` ile ilk mevcut dile düşer (kısmi onayda boş ekran olmaz).
 
 ## Söyleme! (Faz 2)
 Motor: `src/features/soyleme/engine.ts` (saf TS, 14 test). Ekranlar: `src/app/soyleme/{index,play}.tsx`. Kural: doğru +1, yasaklı −1, pas 0, tur puanı ≥0,
@@ -109,5 +115,20 @@ süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorag
 - Gün N = o günün iftarından sonraki set; her soru kimliği kullanıcının uygulama sürümünde bulunmalı (yoksa "güncelle"). **Sezon sorularını sürümden önce onayla.**
 - **Doğrulanmadı:** canlı Supabase (sezon/sıralama/skor), gerçek bildirim zamanlaması (cihaz gerekir). Web'de demo için `lig.cache.v1` önbelleği elle yazılarak denendi.
 
+## Mağaza + Pazarlama (Faz 9)
+- `store/listing.{tr,ar,en}.json` (App Store + Play metinleri), `store/keywords.md`, `store/screenshots.md` (6 kare + "yenilikler" şablonu). Doğrulayıcı: `npm run store:check` (`scripts/check-store.ts`, `npm run check`'e bağlı):
+  karakter sınırları, anahtar kelime kuralları, "Tabu" taraması (`tabu`; `tabular-nums` yanlış pozitif değil), "çocuklar için", "reklamsız ⇒ aynı cümlede Premium", abonelik/koşullar/gizlilik bağlantısı, `marketing/` içinde 40 video senaryosu.
+- Açılış sayfası `marketing/landing/` (statik, TR/AR/EN, `?lang=`): `index`, `privacy`, `terms`, `delete-account`, `app-ads.txt`, `config.js` (yayıncı adı/e-posta/mağaza URL'leri; `TODO` = doldurulacak). Bekleme listesi: migration `0004_waitlist.sql` (yalnızca ekleme) ya da mailto yedeği. Yayın adımları: `docs/setup-accounts.md` §5.
+- Toplu pazarlama (launch-plan, 40 video, creator/kurs outreach, referral) + AR inceleme = Antigravity: `docs/antigravity-prompt-marketing.md`.
+- **Doğrulanmadı / yapılmadı:** landing yayında değil (alan adı kararı), AdMob `pub-` kimliği yok, ekran görüntüsü görselleri yok, hukuki metinler hukukçu/AR yerel okuyucu görmedi, referral/gelir paylaşımı uygulamada YOK (elle takip).
+
+## Faz 10 — uyumluluk ve yayın hazırlığı (2026-10-14)
+- **Uyumluluk taraması** (`review-ready` kuralları, alt ajansız satır içi): sonuç `review-ready-report.html` (yerel, gitignore) + `store/compliance-checklist.md`. Kalan **BLOCKER'lar insan/hesap işi:** gizlilik/koşullar sayfalarının yayını, Apple belirteç iptali fonksiyonlarının dağıtımı (`docs/setup-accounts.md` §6).
+- `app.config.js` (app.json üstüne): mağaza profillerinde gereksiz Android izinlerini engeller; **production derlemesinde eksik Supabase/RevenueCat/AdMob anahtarı varsa HATA** verir (`ALLOW_INCOMPLETE_ENV=1` ile atlanır); AdMob uygulama kimliklerini `ADMOB_*_APP_ID` ortam değişkeninden alır. Kök `app.json` anahtarı `react-native-google-mobile-ads` Gradle hatasını önler (silme!).
+- iOS gizlilik manifesti `app.json > ios.privacyManifests`; form cevapları `store/forms.md` (App Privacy, Data safety, yaş derecesi, inceleme notları).
+- Apple ile girişli hesap silme: Edge Function'lar `supabase/functions/{apple-link,delete-account}` + migration 0005; istemci `src/lib/auth.ts` (fonksiyon yoksa RPC'ye düşer). **Canlı denenmedi.**
+- Android: `docs/android-emulator.md` (komutlar, Windows derleme ipuçları). Metro bu ortamda dosya değişikliğini izlemeyebilir → kod/içerik değişince `--clear` ile yeniden başlat. Hermes `toLocaleUpperCase(yerel)` yerelini yok sayar → büyük harf için `upper()` (`@/i18n`) kullan.
+- `eas.json`: development / preview (APK) / production (AAB, otomatik sürüm artışı). EAS ortam değişkenleri gerekli (bkz. `.env.example`).
+
 ## Durum
-Faz 1–8 tamam (kod). Sıradaki: Faz 9 mağaza + pazarlama dosyaları. Açık kararlar: Premium "lig ödülleri" tanımsız; hediye v1.1; 3.000 soru + 600 kart içeriği ve insan onayı.
+Faz 1–10 kod/metin/içerik taslağı tamam. **Yayın öncesi insan işleri:** hesaplar (Supabase, AdMob, RevenueCat, Apple, Google) + alan adı kararı, içerik onayı (`npm run content:sheet`), Arapça metin okuması, mağaza formları, gerçek cihaz/TestFlight/Play kapalı test, `npm run content:verify-store` yeşil. Açık kararlar: alan adı (ücretli), Premium "lig ödülleri" paywall'dan kaldırıldı (tanımsız), hediye/referral v1.1.

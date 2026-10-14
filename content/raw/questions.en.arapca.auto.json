@@ -1,0 +1,1685 @@
+[
+ {
+  "id": "q-en-arapca-000001",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What is the basic meaning of the Arabic word 'salam'?",
+  "options": [
+   "Peace, safety",
+   "Thanks",
+   "Love",
+   "Strength"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Salam means peace and safety; it is also one of God's names.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000002",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'sabr' basically mean?",
+  "options": [
+   "Running fast",
+   "Eating a lot",
+   "Raising the voice",
+   "Restraining oneself, patient endurance"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Sabr means holding oneself steady and enduring hardship.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000003",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'shukr' mean?",
+  "options": [
+   "Fear",
+   "Envy",
+   "Gratitude to the Giver of blessings",
+   "Anger"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Shukr is recognising a blessing and thanking the One who gave it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000004",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'tawakkul' mean?",
+  "options": [
+   "Not working",
+   "Doing one's part and entrusting the result to God",
+   "Eating a lot",
+   "A long journey"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Tawakkul means taking the means and relying on God for the outcome.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000005",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What is the root meaning of 'tawbah'?",
+  "options": [
+   "To be silent",
+   "To return",
+   "To laugh",
+   "To walk"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Tawbah is turning back to God from sin.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000006",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'istighfar' mean?",
+  "options": [
+   "Asking for forgiveness",
+   "Not praying",
+   "Eating food",
+   "Going on a journey"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Istighfar is seeking God's forgiveness.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000007",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'dhikr' mean literally?",
+  "options": [
+   "Writing",
+   "Selling",
+   "Sleeping",
+   "Remembering, mentioning"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Dhikr is remembering God with the tongue and heart.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000008",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'hijrah' mean?",
+  "options": [
+   "Visiting",
+   "Fighting",
+   "Emigration, leaving a place",
+   "Marrying"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Hijrah is leaving a place and moving to another.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000009",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What is the literal meaning of 'jihad'?",
+  "options": [
+   "Travel",
+   "Trade",
+   "Striving, effort",
+   "Feast"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Jihad literally means exerting strength and effort.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000010",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'hajj' mean literally?",
+  "options": [
+   "Intending, heading towards",
+   "Loving",
+   "Buying",
+   "Praying"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Hajj originally means setting out towards a place.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000011",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'zakah' mean literally?",
+  "options": [
+   "Earning",
+   "Purification and growth",
+   "Spending",
+   "Hoarding"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Zakah means purifying and increasing.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000012",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'sawm' (fasting) mean literally?",
+  "options": [
+   "Eating a lot",
+   "Sleeping a lot",
+   "Walking fast",
+   "Refraining from something"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Sawm means holding back; in fasting, from food and drink.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000013",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What is one literal meaning of 'salah'?",
+  "options": [
+   "Supplication",
+   "Walking",
+   "Writing",
+   "Loving"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Salah literally means supplication; as a term it is the ritual prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000014",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'masjid' mean?",
+  "options": [
+   "Place of teaching",
+   "Marketplace",
+   "Resting place",
+   "Place of prostration"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Masjid means place of sujud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000015",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'minbar' mean?",
+  "options": [
+   "A low place",
+   "A raised place",
+   "A dining place",
+   "A water source"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "The minbar is the raised pulpit from which the sermon is delivered.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000016",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'qiblah' mean?",
+  "options": [
+   "A seat",
+   "A path",
+   "The direction one faces",
+   "A bed"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Qiblah is the direction faced in prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000017",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Quran' literally mean?",
+  "options": [
+   "That which is written",
+   "That which walks",
+   "That which is hidden",
+   "That which is recited"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Quran comes from 'to read' and means 'often recited'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000018",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'ayah' mean literally?",
+  "options": [
+   "Sign, evidence",
+   "Book",
+   "War",
+   "Meal"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Ayah means sign; Quranic verses are called ayat.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000019",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does 'surah' literally mean?",
+  "options": [
+   "Book",
+   "Part (juz')",
+   "Rank, enclosure",
+   "Section (hizb)"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Surah carries meanings such as high rank or wall.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000020",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'hadith' literally mean?",
+  "options": [
+   "Path",
+   "Speech, report",
+   "Prayer",
+   "City"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Hadith means a report or statement; it is used for the Prophet's words and deeds.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000021",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'sunnah' literally mean?",
+  "options": [
+   "Way, practice",
+   "Book",
+   "Measure",
+   "Time"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Sunnah means a followed way.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000022",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'rasul' mean?",
+  "options": [
+   "Commander",
+   "King",
+   "Slave",
+   "Messenger"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Rasul is one who is sent.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000023",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does 'nabi' mean?",
+  "options": [
+   "One who walks",
+   "One who fights",
+   "One who gives news",
+   "One who writes"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Nabi is one who brings news from God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000024",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'ummah' mean?",
+  "options": [
+   "Forest",
+   "Community",
+   "Mountain",
+   "Caravan"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "An ummah is a community united by belief or purpose.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000025",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What is the literal meaning of 'khalifah'?",
+  "options": [
+   "Commander",
+   "Successor, deputy",
+   "Ruler",
+   "Messenger"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Khalifah means one who succeeds or acts as deputy.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000026",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'imam' mean?",
+  "options": [
+   "Leader",
+   "Muezzin",
+   "Guard",
+   "Scribe"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Imam means one who goes in front, a leader.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000027",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'sahabah' mean?",
+  "options": [
+   "Neighbours",
+   "Relatives",
+   "Companions",
+   "Enemies"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Sahabah comes from 'sahib' (companion).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000028",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'ansar' mean?",
+  "options": [
+   "Migrants",
+   "Messengers",
+   "Commanders",
+   "Helpers"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "The Ansar are the Muslims of Medina who helped the Prophet.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000029",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'muhajir' mean?",
+  "options": [
+   "One who helps",
+   "Messenger",
+   "Neighbour",
+   "One who emigrates"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Muhajir means one who makes hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000030",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'tawhid' mean?",
+  "options": [
+   "Multiplying",
+   "Declaring God one",
+   "Dividing",
+   "Selling"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Tawhid is affirming the oneness of God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000031",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'shirk' mean?",
+  "options": [
+   "Associating partners with God",
+   "Praying",
+   "Praising",
+   "Helping"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Shirk is associating partners with God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000032",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What is the literal meaning of 'kufr'?",
+  "options": [
+   "To open",
+   "To carry",
+   "To cover",
+   "To wash"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Kufr means to cover; one who denies the truth covers it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000033",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'ihsan' mean?",
+  "options": [
+   "Doing good, excellence",
+   "Evil",
+   "Envy",
+   "Moving fast"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Ihsan means doing well and beautifully.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000034",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What is the basic meaning of 'Rabb'?",
+  "options": [
+   "Slave",
+   "Guest",
+   "One who nurtures and sustains",
+   "Warrior"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Rabb means Lord, one who raises and owns.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000035",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'jannah' literally mean?",
+  "options": [
+   "Mountain",
+   "Sea",
+   "Desert",
+   "Garden"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Jannah means garden, a covered, shaded place.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000036",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'akhirah' mean?",
+  "options": [
+   "The former",
+   "The latter (the Hereafter)",
+   "The middle",
+   "The distant"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Akhirah means the last, the life after death.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000037",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does 'dunya' literally mean?",
+  "options": [
+   "The nearer one",
+   "The distant one",
+   "The great one",
+   "The hidden one"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Dunya means the nearest; it is the life of this world.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000038",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'qiyamah' mean?",
+  "options": [
+   "Sitting",
+   "Rising, standing up",
+   "Walking",
+   "Sleep"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Qiyamah comes from 'to stand', the day people are raised.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000039",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'mizan' mean?",
+  "options": [
+   "Measuring cup",
+   "Ruler",
+   "Pen",
+   "Scale (balance)"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Mizan is a scale; on Judgement Day deeds are weighed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000040",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'sirat' mean?",
+  "options": [
+   "Bridge place",
+   "House",
+   "Path",
+   "Fortress"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Sirat is a wide, clear path; 'sirat al-mustaqim' is the straight path.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000041",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'mahshar' mean?",
+  "options": [
+   "A place of scattering",
+   "A battlefield",
+   "A gathering place",
+   "A marketplace"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Mahshar is where people are gathered for reckoning.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000042",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'wahy' literally mean?",
+  "options": [
+   "Reciting aloud",
+   "Writing",
+   "Drawing",
+   "Secret communication"
+  ],
+  "answer_index": 3,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Wahy means a swift, hidden communication.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000043",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does 'jinn' literally mean?",
+  "options": [
+   "Hidden ones",
+   "High ones",
+   "Shining ones",
+   "Great ones"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Jinn means concealed, beings hidden from sight.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000044",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What is the basic meaning of 'malak' (angel)?",
+  "options": [
+   "A warrior",
+   "A messenger (one entrusted)",
+   "A ruler",
+   "A merchant"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Malak is basically one sent as a messenger.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000045",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'nur' mean?",
+  "options": [
+   "Shadow",
+   "Darkness",
+   "Water",
+   "Light"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Nur is light.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000046",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'hamd' mean?",
+  "options": [
+   "Pleading",
+   "Praise, thankful praise",
+   "Asking",
+   "Hiding"
+  ],
+  "answer_index": 1,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Hamd is praising someone for their excellence.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000047",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'tasbih' mean?",
+  "options": [
+   "Asking God for help",
+   "Praising the Prophet",
+   "Declaring God free of every imperfection",
+   "Giving up prayer"
+  ],
+  "answer_index": 2,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Tasbih is saying 'Subhanallah'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000048",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "From which root does 'sadaqah' come?",
+  "options": [
+   "Truthfulness",
+   "Wealth",
+   "Moving fast",
+   "Speaking"
+  ],
+  "answer_index": 0,
+  "source": "Raghib al-Isfahani, al-Mufradat",
+  "explanation": "Sadaqah comes from 'sidq' (truthfulness).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000049",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the divine name 'Ar-Rahman' mean?",
+  "options": [
+   "The All-Knowing",
+   "The Powerful",
+   "The Most Merciful",
+   "The All-Seeing"
+  ],
+  "answer_index": 2,
+  "source": "Asma' al-Husna; Al-Fatihah 1/3",
+  "explanation": "Ar-Rahman means the One whose mercy encompasses everything.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000050",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-'Alim' mean?",
+  "options": [
+   "The Oft-Forgiving",
+   "The All-Knowing",
+   "The Provider",
+   "The Creator"
+  ],
+  "answer_index": 1,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-'Alim is the One whose knowledge encompasses everything.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000051",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'As-Sami'' mean?",
+  "options": [
+   "The All-Seeing",
+   "The All-Knowing",
+   "The Creator",
+   "The All-Hearing"
+  ],
+  "answer_index": 3,
+  "source": "Asma' al-Husna",
+  "explanation": "As-Sami' hears everything.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000052",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Al-Basir' mean?",
+  "options": [
+   "The All-Seeing",
+   "The All-Hearing",
+   "The Pardoner",
+   "The Protector"
+  ],
+  "answer_index": 0,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Basir sees everything.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000053",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-Ghafur' mean?",
+  "options": [
+   "The Oft-Forgiving",
+   "The Most Strong",
+   "The Most Rich",
+   "The Most High"
+  ],
+  "answer_index": 0,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Ghafur forgives sins abundantly.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000054",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Ar-Razzaq' mean?",
+  "options": [
+   "The Creator",
+   "The Taker of life",
+   "The Seer",
+   "The Provider"
+  ],
+  "answer_index": 3,
+  "source": "Asma' al-Husna; Adh-Dhariyat 51/58",
+  "explanation": "Ar-Razzaq provides sustenance for all creatures.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000055",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-Khaliq' mean?",
+  "options": [
+   "The Provider",
+   "The Creator",
+   "The Knower",
+   "The Protector"
+  ],
+  "answer_index": 1,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Khaliq brings things into being.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000056",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Al-Hakim' mean?",
+  "options": [
+   "The Most Strong",
+   "The Most Generous",
+   "The All-Wise",
+   "The Most Patient"
+  ],
+  "answer_index": 2,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Hakim does everything with wisdom.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000057",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-Karim' mean?",
+  "options": [
+   "The Judge",
+   "The Giver of life",
+   "The Hidden",
+   "The Most Generous"
+  ],
+  "answer_index": 3,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Karim is the Most Generous and Noble.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000058",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-Wadud' mean?",
+  "options": [
+   "The Most Wrathful",
+   "The Most Loving",
+   "The Most Knowing",
+   "The Most Strong"
+  ],
+  "answer_index": 1,
+  "source": "Asma' al-Husna; Al-Buruj 85/14",
+  "explanation": "Al-Wadud loves His servants and is worthy of love.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000059",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Al-Latif' mean?",
+  "options": [
+   "The Harsh",
+   "The Mighty",
+   "The Subtle, the Kind",
+   "The Reckoner"
+  ],
+  "answer_index": 2,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-Latif is gentle and knows the finest details.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000060",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'As-Sabur' mean?",
+  "options": [
+   "The Most Patient",
+   "The Most Strong",
+   "The Most Knowing",
+   "The Most Seeing"
+  ],
+  "answer_index": 0,
+  "source": "Asma' al-Husna",
+  "explanation": "As-Sabur does not hasten to punish.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000061",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-'Afuww' mean?",
+  "options": [
+   "The Pardoner",
+   "The Secret Seer",
+   "The Provider",
+   "The Reckoner"
+  ],
+  "answer_index": 0,
+  "source": "Asma' al-Husna",
+  "explanation": "Al-'Afuww erases sins and pardons.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000062",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Al-Hayy' mean?",
+  "options": [
+   "The Strong",
+   "The Ever-Living",
+   "The Rich",
+   "The Most High"
+  ],
+  "answer_index": 1,
+  "source": "Asma' al-Husna; Al-Baqarah 2/255",
+  "explanation": "Al-Hayy has eternal life.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000063",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What do 'Al-Wahid' and 'Al-Ahad' express?",
+  "options": [
+   "Power",
+   "Mercy",
+   "Wealth",
+   "Oneness"
+  ],
+  "answer_index": 3,
+  "source": "Asma' al-Husna; Al-Ikhlas 112/1",
+  "explanation": "Both names affirm that God is One.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000064",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does 'As-Samad' mean?",
+  "options": [
+   "The Seer",
+   "The Creator",
+   "The One everyone needs while He needs nothing",
+   "The Forgiver"
+  ],
+  "answer_index": 2,
+  "source": "Asma' al-Husna; Al-Ikhlas 112/2",
+  "explanation": "As-Samad is the One to whom all turn in need.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000065",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Al-Awwal' mean?",
+  "options": [
+   "The Last",
+   "The Hidden",
+   "The Manifest",
+   "The First, with no beginning"
+  ],
+  "answer_index": 3,
+  "source": "Asma' al-Husna; Al-Hadid 57/3",
+  "explanation": "Al-Awwal is the First, before whom nothing was.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000066",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Al-Akhir' mean?",
+  "options": [
+   "The First",
+   "The Last, with no end",
+   "The Manifest",
+   "The Hidden"
+  ],
+  "answer_index": 1,
+  "source": "Asma' al-Husna; Al-Hadid 57/3",
+  "explanation": "Al-Akhir remains after all else perishes.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000067",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Ar-Ra'uf' mean?",
+  "options": [
+   "The Most Compassionate",
+   "The Most Strong",
+   "The Most Knowing",
+   "The Most Seeing"
+  ],
+  "answer_index": 0,
+  "source": "Asma' al-Husna; Al-Baqarah 2/143",
+  "explanation": "Ar-Ra'uf is full of tenderness towards His servants.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000068",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Allahu akbar' mean?",
+  "options": [
+   "God is Forgiving",
+   "God is One",
+   "God is the Greatest",
+   "God hears and sees"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Adhan",
+  "explanation": "Allahu akbar means God is greater than everything.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000069",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'In sha' Allah' mean?",
+  "options": [
+   "Praise be to God",
+   "God forbid",
+   "If God wills",
+   "Thanks to God"
+  ],
+  "answer_index": 2,
+  "source": "Al-Kahf 18/23-24",
+  "explanation": "It acknowledges that future events happen only by God's will.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000070",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Masha' Allah' mean?",
+  "options": [
+   "What God wills (has happened), how wonderful His creation",
+   "May God forgive",
+   "May God be pleased",
+   "May God protect"
+  ],
+  "answer_index": 0,
+  "source": "Al-Kahf 18/39",
+  "explanation": "Said in admiration of something good.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000071",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Astaghfirullah' mean?",
+  "options": [
+   "I praise God",
+   "I seek God's forgiveness",
+   "I glorify God",
+   "I seek refuge in God"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Da'awat",
+  "explanation": "Astaghfirullah means 'I ask God for forgiveness'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000072",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What does 'Subhanallah' mean?",
+  "options": [
+   "Praise be to God",
+   "I seek God's forgiveness",
+   "If God wills",
+   "Glory be to God, He is free of all imperfection"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Da'awat",
+  "explanation": "Subhanallah declares God free of any fault.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000073",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Alhamdulillah' mean?",
+  "options": [
+   "God is the Greatest",
+   "May God forgive",
+   "All praise is for God",
+   "May God be pleased"
+  ],
+  "answer_index": 2,
+  "source": "Al-Fatihah 1/2",
+  "explanation": "Alhamdulillah states that all praise belongs to God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000074",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Hasbunallah' mean?",
+  "options": [
+   "May God forgive us",
+   "God is sufficient for us",
+   "God is the Greatest",
+   "In the name of God"
+  ],
+  "answer_index": 1,
+  "source": "Al Imran 3/173",
+  "explanation": "'Hasbunallahu wa ni'ma al-wakil': God is sufficient for us, and the best Disposer of affairs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000075",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'La hawla wa la quwwata illa billah' mean?",
+  "options": [
+   "There is no power or strength except with God",
+   "God is the Greatest",
+   "All praise is for God",
+   "If God wills"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Da'awat",
+  "explanation": "All power and strength come from God alone.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000076",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Bismillah' mean?",
+  "options": [
+   "Praise to God",
+   "God is the Greatest",
+   "May God forgive",
+   "In the name of God"
+  ],
+  "answer_index": 3,
+  "source": "Al-Fatihah 1/1",
+  "explanation": "Bismillah means 'in the name of God'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000077",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Inna lillahi wa inna ilayhi raji'un' mean?",
+  "options": [
+   "We belong to God and to Him we shall return",
+   "May God forgive",
+   "Praise be to God",
+   "If God wills"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/156",
+  "explanation": "Said at times of calamity.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000078",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Jazak Allahu khayran' mean?",
+  "options": [
+   "May God forgive you",
+   "May God protect you",
+   "May God reward you with good",
+   "May God pardon you"
+  ],
+  "answer_index": 2,
+  "source": "Tirmidhi, Birr",
+  "explanation": "It is a prayer of thanks.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000079",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does 'Amin' mean?",
+  "options": [
+   "Praise be",
+   "God is the Greatest",
+   "May God forgive",
+   "O God, accept"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Adhan",
+  "explanation": "Amin is said at the end of a supplication.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000080",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'kitab' mean?",
+  "options": [
+   "Pen",
+   "Book",
+   "Notebook",
+   "Door"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Kitab means book.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000081",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'qalam' mean?",
+  "options": [
+   "A writing board",
+   "A chest",
+   "A mountain",
+   "A writing pen"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Qalam is a pen.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000082",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'bab' mean?",
+  "options": [
+   "Door",
+   "House",
+   "Window",
+   "Wall"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Bab means door.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000083",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'bayt' mean?",
+  "options": [
+   "Door",
+   "Road",
+   "House",
+   "Garden"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Bayt means house.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000084",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'ma'' mean?",
+  "options": [
+   "Fire",
+   "Water",
+   "Earth",
+   "Wind"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Ma' means water.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000085",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'shams' mean?",
+  "options": [
+   "Sun",
+   "Moon",
+   "Star",
+   "Sky"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Shams means sun; Surah Ash-Shams is named after it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000086",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'qamar' mean?",
+  "options": [
+   "Sun",
+   "Star",
+   "Cloud",
+   "Moon"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Qamar means moon; Surah Al-Qamar is named after it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000087",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'sama'' mean?",
+  "options": [
+   "Earth",
+   "Sea",
+   "Sky",
+   "Mountain"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Sama' means sky.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000088",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'layl' mean?",
+  "options": [
+   "Day",
+   "Night",
+   "Morning",
+   "Evening"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "Layl means night; Surah Al-Layl is named after it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000089",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'yawm' mean?",
+  "options": [
+   "Day",
+   "Night",
+   "Month",
+   "Year"
+  ],
+  "answer_index": 0,
+  "source": "Arabic dictionaries",
+  "explanation": "Yawm means day.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000090",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'ilm' mean?",
+  "options": [
+   "Wealth",
+   "Knowledge",
+   "Power",
+   "Patience"
+  ],
+  "answer_index": 1,
+  "source": "Arabic dictionaries",
+  "explanation": "'Ilm means knowledge.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000091",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'qalb' mean?",
+  "options": [
+   "Mind",
+   "Hand",
+   "Heart",
+   "Eye"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Qalb means heart.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000092",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "What do 'ibn' and 'bint' mean?",
+  "options": [
+   "Father and mother",
+   "Brother and friend",
+   "Grandfather and grandmother",
+   "Son and daughter"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Ibn means son and bint means daughter.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000093",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What does the Arabic word 'umm' mean?",
+  "options": [
+   "Father",
+   "Sister",
+   "Mother",
+   "Aunt"
+  ],
+  "answer_index": 2,
+  "source": "Arabic dictionaries",
+  "explanation": "Umm means mother.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000094",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "What does the Arabic word 'akhi' mean?",
+  "options": [
+   "My father",
+   "My son",
+   "My friend",
+   "My brother"
+  ],
+  "answer_index": 3,
+  "source": "Arabic dictionaries",
+  "explanation": "Akhi means my brother.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000095",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What number is 'sab'ah' in Arabic?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "Arabic numerals",
+  "explanation": "Sab'ah means seven.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000096",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What number is 'thalathah' in Arabic?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "Arabic numerals",
+  "explanation": "Thalathah means three.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000097",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "What number is 'ashrah' in Arabic?",
+  "options": [
+   "5",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer_index": 3,
+  "source": "Arabic numerals",
+  "explanation": "'Ashrah means ten.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000098",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "How many letters are there in the Arabic alphabet?",
+  "options": [
+   "24",
+   "28",
+   "29",
+   "32"
+  ],
+  "answer_index": 1,
+  "source": "The Arabic alphabet",
+  "explanation": "The Arabic alphabet has 28 letters.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-arapca-000099",
+  "lang": "en",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "In which direction is Arabic written?",
+  "options": [
+   "Left to right",
+   "Top to bottom",
+   "Bottom to top",
+   "Right to left"
+  ],
+  "answer_index": 3,
+  "source": "Arabic script",
+  "explanation": "Arabic is written from right to left.",
+  "review_status": "draft"
+ }
+]

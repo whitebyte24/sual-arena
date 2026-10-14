@@ -1,6 +1,6 @@
 import { Pressable, View } from 'react-native';
 import { router } from 'expo-router';
-import { t } from '@/i18n';
+import { t, upper } from '@/i18n';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Icon } from './Icon';
 import { Text } from './Text';
@@ -35,7 +35,7 @@ export function ScreenHeader({ title, subtitle, onBack }: { title: string; subti
         </Text>
         {!!subtitle && (
           <Text numberOfLines={1} style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1.2 }}>
-            {subtitle.toLocaleUpperCase('tr')}
+            {upper(subtitle)}
           </Text>
         )}
       </View>

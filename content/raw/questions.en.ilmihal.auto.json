@@ -1,0 +1,1617 @@
+[
+ {
+  "id": "q-en-ilmihal-000001",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many pillars of Islam are there?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Iman; Muslim, Iman",
+  "explanation": "The five pillars are the declaration of faith, prayer, zakat, fasting and Hajj.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000002",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many articles of faith (pillars of iman) are there?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "source": "Muslim, Iman (Hadith of Jibril)",
+  "explanation": "Belief in God, angels, books, messengers, the Last Day and divine decree.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000003",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Which statement does a person say to enter Islam?",
+  "options": [
+   "The Basmalah",
+   "The Takbir",
+   "The Shahadah (declaration of faith)",
+   "The Tasbih"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Iman",
+  "explanation": "The Shahadah: there is no god but God and Muhammad is His servant and messenger.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000004",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many obligatory daily prayers are there?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Salat",
+  "explanation": "Fajr, Dhuhr, Asr, Maghrib and Isha.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000005",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "How many units (rak'ahs) are in the obligatory Maghrib prayer?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Salat",
+  "explanation": "The Maghrib prayer has three rak'ahs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000006",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many units (rak'ahs) are in the obligatory Fajr prayer?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Salat",
+  "explanation": "The Fajr prayer has two rak'ahs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000007",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many units (rak'ahs) are in the obligatory Dhuhr prayer?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Salat",
+  "explanation": "The Dhuhr prayer has four rak'ahs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000008",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "How many units (rak'ahs) are in the obligatory Friday prayer?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer_index": 0,
+  "source": "Al-Jumu'ah 62/9",
+  "explanation": "The Friday prayer is two rak'ahs after the sermon.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000009",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the act of placing the forehead on the ground in prayer called?",
+  "options": [
+   "Ruku'",
+   "Qiyam",
+   "Taslim",
+   "Sujud"
+  ],
+  "answer_index": 3,
+  "source": "Prayer terms",
+  "explanation": "Sujud is prostration.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000010",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the bowing posture in prayer, with hands on the knees, called?",
+  "options": [
+   "Sujud",
+   "Ruku'",
+   "Qiyam",
+   "Tashahhud"
+  ],
+  "answer_index": 1,
+  "source": "Prayer terms",
+  "explanation": "Ruku' is bowing in prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000011",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the sitting posture in prayer called?",
+  "options": [
+   "Qiyam",
+   "Ruku'",
+   "Qa'dah",
+   "Sujud"
+  ],
+  "answer_index": 2,
+  "source": "Prayer terms",
+  "explanation": "The sitting posture is called qa'dah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000012",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the opening takbir that begins the prayer called?",
+  "options": [
+   "Takbirat al-Ihram",
+   "Takbir of qunut",
+   "Takbir of tashriq",
+   "Eid takbir"
+  ],
+  "answer_index": 0,
+  "source": "Prayer terms",
+  "explanation": "Saying 'Allahu akbar' to enter the prayer is takbirat al-ihram.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000013",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Towards what do Muslims face in prayer?",
+  "options": [
+   "The Kaaba",
+   "Al-Aqsa Mosque",
+   "The Prophet's Mosque",
+   "Arafat"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/144",
+  "explanation": "Muslims face the Kaaba (qiblah) in Mecca.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000014",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What was the first qiblah of the Muslims?",
+  "options": [
+   "The Kaaba",
+   "Al-Aqsa Mosque (Jerusalem)",
+   "The Prophet's Mosque",
+   "Quba Mosque"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Iman",
+  "explanation": "For about sixteen or seventeen months Muslims prayed toward Jerusalem, then the qiblah changed to the Kaaba.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000015",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which part of the body is wiped (not washed) in wudu?",
+  "options": [
+   "The face",
+   "The hands",
+   "The feet",
+   "The head"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ma'idah 5/6",
+  "explanation": "The face, arms and feet are washed; the head is wiped.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000016",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What replaces wudu when no water is available?",
+  "options": [
+   "Ghusl",
+   "Wiping over socks",
+   "Tayammum",
+   "Istinja'"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ma'idah 5/6",
+  "explanation": "Tayammum is done with clean earth.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000017",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is washing the whole body after major impurity called?",
+  "options": [
+   "Wudu",
+   "Ghusl",
+   "Tayammum",
+   "Masah"
+  ],
+  "answer_index": 1,
+  "source": "Al-Ma'idah 5/6",
+  "explanation": "Ghusl is the full ritual bath.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000018",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the call announcing the time of prayer called?",
+  "options": [
+   "Adhan",
+   "Iqamah",
+   "Takbir",
+   "Talbiyah"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Adhan",
+  "explanation": "The adhan announces the prayer time.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000019",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the second call given just before the obligatory congregational prayer begins?",
+  "options": [
+   "Adhan",
+   "Talbiyah",
+   "Tahmid",
+   "Iqamah"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Adhan",
+  "explanation": "The iqamah signals that the prayer is about to start.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000020",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Who gave the first adhan in Islam?",
+  "options": [
+   "Abu Hurayrah",
+   "Abdullah ibn Mas'ud",
+   "Bilal ibn Rabah",
+   "Zayd ibn Thabit"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Adhan",
+  "explanation": "Bilal was the first muezzin.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000021",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is delivered before the Friday congregational prayer?",
+  "options": [
+   "A story",
+   "A lecture",
+   "The mawlid",
+   "The khutbah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Jumu'ah 62/9",
+  "explanation": "The khutbah is a condition of the Friday prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000022",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "How many Eid prayers are there each year?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Eidayn",
+  "explanation": "Eid al-Fitr and Eid al-Adha.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000023",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which movements are not performed in the funeral prayer?",
+  "options": [
+   "Standing",
+   "Salam",
+   "Ruku' and sujud",
+   "Takbir"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Jana'iz",
+  "explanation": "The funeral prayer is performed standing with takbirs, without ruku' or sujud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000024",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "In which month is fasting obligatory?",
+  "options": [
+   "Ramadan",
+   "Sha'ban",
+   "Muharram",
+   "Rajab"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/185",
+  "explanation": "Fasting is obligatory in Ramadan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000025",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the meal before dawn in Ramadan called?",
+  "options": [
+   "Iftar",
+   "Dinner",
+   "Lunch",
+   "Suhoor"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Sawm",
+  "explanation": "Suhoor is the pre-dawn meal.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000026",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the meal that breaks the fast at sunset called?",
+  "options": [
+   "Iftar",
+   "Suhoor",
+   "Dinner",
+   "Fidyah"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Sawm",
+  "explanation": "Iftar is breaking the fast at sunset.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000027",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "At what time does the fast begin each day?",
+  "options": [
+   "At sunset",
+   "At noon",
+   "At true dawn (fajr)",
+   "At forenoon"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/187",
+  "explanation": "The fast begins at true dawn.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000028",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the charity given before the Eid al-Fitr prayer called?",
+  "options": [
+   "Qurbani",
+   "Zakat al-Fitr",
+   "Zakat",
+   "Fidyah"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Zakat",
+  "explanation": "Zakat al-Fitr is paid before the Eid prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000029",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "In which month does Eid al-Fitr fall?",
+  "options": [
+   "Dhul-Hijjah",
+   "Muharram",
+   "Rabi' al-Awwal",
+   "Shawwal"
+  ],
+  "answer_index": 3,
+  "source": "Hijri calendar",
+  "explanation": "Eid al-Fitr is on 1 Shawwal.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000030",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "On which day of Dhul-Hijjah is Eid al-Adha?",
+  "options": [
+   "The 1st",
+   "The 5th",
+   "The 10th",
+   "The 20th"
+  ],
+  "answer_index": 2,
+  "source": "Hijri calendar",
+  "explanation": "Eid al-Adha falls on 10 Dhul-Hijjah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000031",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "How many categories of zakat recipients are listed in the Quran?",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "At-Tawbah 9/60",
+  "explanation": "Verse 60 of At-Tawbah lists eight categories.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000032",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the minimum amount of wealth on which zakat becomes due called?",
+  "options": [
+   "Nisab",
+   "Fidyah",
+   "Sadaqah",
+   "Infaq"
+  ],
+  "answer_index": 0,
+  "source": "Zakat jurisprudence",
+  "explanation": "Nisab is the minimum threshold.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000033",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is charity whose reward continues after death called?",
+  "options": [
+   "Sadaqah jariyah",
+   "Zakat al-Fitr",
+   "Zakat",
+   "Fidyah"
+  ],
+  "answer_index": 0,
+  "source": "Muslim, Wasiyyah",
+  "explanation": "Ongoing charity such as building a mosque or digging a well.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000034",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "In which month is Hajj performed?",
+  "options": [
+   "Ramadan",
+   "Dhul-Hijjah",
+   "Shawwal",
+   "Muharram"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/197",
+  "explanation": "The main rites of Hajj are in Dhul-Hijjah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000035",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which is the most essential rite of Hajj, performed on the Day of Arafah?",
+  "options": [
+   "Stoning the pillars",
+   "Offering a sacrifice",
+   "Standing at Arafat",
+   "Sa'i"
+  ],
+  "answer_index": 2,
+  "source": "Tirmidhi, Hajj",
+  "explanation": "'Hajj is Arafah.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000036",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is circling the Kaaba seven times called?",
+  "options": [
+   "Sa'i",
+   "Wuquf",
+   "Ihram",
+   "Tawaf"
+  ],
+  "answer_index": 3,
+  "source": "Al-Hajj 22/29",
+  "explanation": "Tawaf is walking around the Kaaba.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000037",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is walking between Safa and Marwah seven times called?",
+  "options": [
+   "Tawaf",
+   "Wuquf",
+   "Ifadah",
+   "Sa'i"
+  ],
+  "answer_index": 3,
+  "source": "Al-Baqarah 2/158",
+  "explanation": "Sa'i is part of Hajj and Umrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000038",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What are the special garments and state of intention for Hajj or Umrah called?",
+  "options": [
+   "Tawaf",
+   "Sa'i",
+   "Ihram",
+   "Zamzam"
+  ],
+  "answer_index": 2,
+  "source": "Hajj jurisprudence",
+  "explanation": "Ihram is the sacred state entered with intention and special clothes.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000039",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Where are the pillars stoned during Hajj?",
+  "options": [
+   "Mina",
+   "Arafat",
+   "Muzdalifah",
+   "Safa"
+  ],
+  "answer_index": 0,
+  "source": "Hajj jurisprudence",
+  "explanation": "The stoning (rami) takes place in Mina.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000040",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the black stone at the corner of the Kaaba, the starting point of tawaf, called?",
+  "options": [
+   "Maqam Ibrahim",
+   "Al-Hajar al-Aswad",
+   "Al-Hijr",
+   "Al-Multazam"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Hajj",
+  "explanation": "The Black Stone marks the start of tawaf.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000041",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "What is the black cloth covering the Kaaba called?",
+  "options": [
+   "Cloak",
+   "Prayer rug",
+   "Kiswah",
+   "Banner"
+  ],
+  "answer_index": 2,
+  "source": "Hajj jurisprudence",
+  "explanation": "The Kaaba is covered with a black kiswah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000042",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the blessed water in Mecca that gushed for Hajar and Ismail called?",
+  "options": [
+   "Kawthar",
+   "Zamzam",
+   "Salsabil",
+   "Sidrah"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Anbiya",
+  "explanation": "Zamzam is the well near the Kaaba.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000043",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which statement is correct about Umrah?",
+  "options": [
+   "It can be performed at any time of the year",
+   "It is performed only on Arafat day",
+   "It is performed only in Ramadan",
+   "It is performed only on Eid al-Adha"
+  ],
+  "answer_index": 0,
+  "source": "Hajj jurisprudence",
+  "explanation": "Hajj has fixed days; Umrah can be done throughout the year.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000044",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "In which city is the Kaaba?",
+  "options": [
+   "Medina",
+   "Jerusalem",
+   "Ta'if",
+   "Mecca"
+  ],
+  "answer_index": 3,
+  "source": "Al Imran 3/96",
+  "explanation": "The Kaaba is in the Sacred Mosque in Mecca.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000045",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Which three mosques are the ones for which a journey may be undertaken?",
+  "options": [
+   "Quba, Qiblatayn and Dirar",
+   "Suleymaniye, Selimiye and Sultan Ahmed",
+   "The Sacred Mosque, the Prophet's Mosque and Al-Aqsa",
+   "Umayyad, Cordoba and Azhar"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Fadl as-Salat",
+  "explanation": "The hadith names these three mosques.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000046",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "How many of God's most beautiful names (Asma' al-Husna) are well known?",
+  "options": [
+   "40",
+   "77",
+   "99",
+   "114"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Tawhid",
+  "explanation": "A hadith says God has ninety-nine names.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000047",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Which angel is entrusted with delivering revelation?",
+  "options": [
+   "Mika'il",
+   "Israfil",
+   "Azra'il",
+   "Jibril"
+  ],
+  "answer_index": 3,
+  "source": "Al-Baqarah 2/97",
+  "explanation": "Jibril is the angel of revelation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000048",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which angel is entrusted with blowing the Trumpet?",
+  "options": [
+   "Jibril",
+   "Israfil",
+   "Mika'il",
+   "Azra'il"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Riqaq",
+  "explanation": "Israfil will blow the Trumpet on the Day of Judgement.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000049",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "By what name is the angel of death commonly known?",
+  "options": [
+   "Mika'il",
+   "Jibril",
+   "Israfil",
+   "Azra'il"
+  ],
+  "answer_index": 3,
+  "source": "As-Sajdah 32/11",
+  "explanation": "The Quran calls him 'the angel of death', commonly known as Azra'il.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000050",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which angel is associated with rain and provision?",
+  "options": [
+   "Jibril",
+   "Mika'il",
+   "Israfil",
+   "Azra'il"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/98",
+  "explanation": "Mika'il is mentioned beside Jibril and is held to be in charge of rain and provision.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000051",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What are the two angels who question the dead in the grave called?",
+  "options": [
+   "The Noble Scribes",
+   "The Guardian Angels",
+   "Munkar and Nakir",
+   "The Zabaniyah"
+  ],
+  "answer_index": 2,
+  "source": "Tirmidhi, Jana'iz",
+  "explanation": "Munkar and Nakir question the deceased in the grave.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000052",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What are the two angels who record a person's deeds called?",
+  "options": [
+   "The Noble Scribes (Kiraman Katibin)",
+   "Munkar and Nakir",
+   "The Zabaniyah",
+   "The Guardian Angels"
+  ],
+  "answer_index": 0,
+  "source": "Al-Infitar 82/10-12",
+  "explanation": "The surah mentions noble recorders who know what you do.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000053",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Which of these is not one of the four major revealed books?",
+  "options": [
+   "The Torah",
+   "The Psalms",
+   "The Sunan",
+   "The Gospel"
+  ],
+  "answer_index": 2,
+  "source": "An-Nisa 4/136",
+  "explanation": "The Torah, Psalms, Gospel and Quran are scriptures; the Sunan are hadith collections.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000054",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "What are the small scrolls revealed to Ibrahim called?",
+  "options": [
+   "The Scrolls (Suhuf)",
+   "The Zabur",
+   "The Torah",
+   "The Gospel"
+  ],
+  "answer_index": 0,
+  "source": "Al-A'la 87/18-19",
+  "explanation": "The scrolls of Ibrahim.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000055",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What do we call the sayings, actions and approvals of the Prophet?",
+  "options": [
+   "Tafsir",
+   "Sirah",
+   "Translation",
+   "The Sunnah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ahzab 33/21",
+  "explanation": "The Sunnah is the Prophet's word, deed and tacit approval.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000056",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is a person who met the Prophet as a believer and died as a believer called?",
+  "options": [
+   "A Tabi'i",
+   "A Sahabi (companion)",
+   "A muhaddith",
+   "A disciple"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Fada'il Ashab an-Nabi",
+  "explanation": "A companion met the Prophet while believing in him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000057",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the generation that met the companions and learned from them called?",
+  "options": [
+   "The Sahabah",
+   "The Tabi'un (Successors)",
+   "The Hawariyyun",
+   "The Ansar"
+  ],
+  "answer_index": 1,
+  "source": "Hadith terminology",
+  "explanation": "The Successors met the companions.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000058",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the gift the husband must give his wife at marriage called?",
+  "options": [
+   "Mahr",
+   "Nafaqah",
+   "Trousseau",
+   "A present"
+  ],
+  "answer_index": 0,
+  "source": "An-Nisa 4/4",
+  "explanation": "Mahr is the bride's right by the marriage contract.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000059",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "In which surah is riba (interest) prohibited?",
+  "options": [
+   "Al-Fatihah",
+   "Maryam",
+   "Al-Kahf",
+   "Al-Baqarah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Baqarah 2/275",
+  "explanation": "God has permitted trade and forbidden riba.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000060",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "In which surah are intoxicants and gambling prohibited?",
+  "options": [
+   "An-Nur",
+   "Yusuf",
+   "Al-Ma'idah",
+   "Al-Mulk"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ma'idah 5/90",
+  "explanation": "The verse calls intoxicants, gambling, idols and divining arrows an abomination of Satan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000061",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "In which surah is the eating of pork prohibited?",
+  "options": [
+   "Maryam",
+   "Al-Kahf",
+   "Al-Baqarah",
+   "Yusuf"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/173",
+  "explanation": "The verse forbids carrion, blood, pork and what is slaughtered for other than God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000062",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "In which surah are we commanded to be kind to parents and not say 'uff' to them?",
+  "options": [
+   "Al-Isra",
+   "An-Nur",
+   "Al-Mulk",
+   "Al-Qalam"
+  ],
+  "answer_index": 0,
+  "source": "Al-Isra 17/23",
+  "explanation": "'Do not say to them a word of disrespect.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000063",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "In which surah is backbiting forbidden, compared to eating the flesh of a dead brother?",
+  "options": [
+   "An-Nahl",
+   "Al-Kahf",
+   "An-Nur",
+   "Al-Hujurat"
+  ],
+  "answer_index": 3,
+  "source": "Al-Hujurat 49/12",
+  "explanation": "The verse forbids backbiting.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000064",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "In which surah are we told 'eat and drink but do not be excessive'?",
+  "options": [
+   "Al-Mulk",
+   "Al-A'raf",
+   "Al-Qalam",
+   "Ad-Duha"
+  ],
+  "answer_index": 1,
+  "source": "Al-A'raf 7/31",
+  "explanation": "The verse tells people to eat and drink without excess.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000065",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What does a Muslim say when beginning to eat?",
+  "options": [
+   "Alhamdulillah",
+   "Bismillah",
+   "Subhanallah",
+   "Allahu akbar"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, At'imah",
+  "explanation": "Meals begin with the name of God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000066",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What does a Muslim say after finishing a meal?",
+  "options": [
+   "Bismillah",
+   "Allahu akbar",
+   "Alhamdulillah",
+   "La hawla wa la quwwata"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, At'imah",
+  "explanation": "One praises God after eating.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000067",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is saying 'Subhanallah' called?",
+  "options": [
+   "Tasbih",
+   "Takbir",
+   "Tahmid",
+   "Tahlil"
+  ],
+  "answer_index": 0,
+  "source": "Dhikr terms",
+  "explanation": "Subhanallah is tasbih; Alhamdulillah is tahmid; Allahu akbar is takbir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000068",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is saying 'Alhamdulillah' called?",
+  "options": [
+   "Tasbih",
+   "Takbir",
+   "Tahlil",
+   "Tahmid"
+  ],
+  "answer_index": 3,
+  "source": "Dhikr terms",
+  "explanation": "Alhamdulillah is tahmid.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000069",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is saying 'Allahu akbar' called?",
+  "options": [
+   "Tasbih",
+   "Tahmid",
+   "Tahlil",
+   "Takbir"
+  ],
+  "answer_index": 3,
+  "source": "Dhikr terms",
+  "explanation": "Allahu akbar is takbir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000070",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is saying 'La ilaha illallah' called?",
+  "options": [
+   "Tasbih",
+   "Tahmid",
+   "Tahlil",
+   "Takbir"
+  ],
+  "answer_index": 2,
+  "source": "Dhikr terms",
+  "explanation": "La ilaha illallah is tahlil.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000071",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is saying 'Bismillahir-Rahmanir-Rahim' called?",
+  "options": [
+   "Hamdalah",
+   "Basmalah",
+   "Hasbalah",
+   "Hawqalah"
+  ],
+  "answer_index": 1,
+  "source": "Dhikr terms",
+  "explanation": "Saying 'In the name of God, the Most Merciful, the Most Compassionate' is the basmalah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000072",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the Muslim greeting when meeting?",
+  "options": [
+   "As-salamu alaykum",
+   "Good morning",
+   "Goodbye",
+   "Congratulations"
+  ],
+  "answer_index": 0,
+  "source": "Muslim, Iman",
+  "explanation": "Muslims greet with 'peace be upon you'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000073",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "How is the greeting of peace answered?",
+  "options": [
+   "Wa alaykum as-salam",
+   "Welcome",
+   "May God bless you",
+   "Thank you"
+  ],
+  "answer_index": 0,
+  "source": "An-Nisa 4/86",
+  "explanation": "One replies with a better greeting or the same.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000074",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What did the Prophet say about the neighbour?",
+  "options": [
+   "Harming a neighbour is permitted",
+   "Neighbours are unimportant in religion",
+   "Greeting a neighbour is not required",
+   "One whose neighbour fears his harm cannot enter Paradise"
+  ],
+  "answer_index": 3,
+  "source": "Muslim, Iman",
+  "explanation": "The Prophet said that one whose neighbour is unsafe from his harm will not enter Paradise.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000075",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "What does the Quran say about those who unjustly eat an orphan's property?",
+  "options": [
+   "They bear no responsibility",
+   "They earn a great reward",
+   "They only fill their bellies with fire",
+   "It is a small sin"
+  ],
+  "answer_index": 2,
+  "source": "An-Nisa 4/10",
+  "explanation": "'They consume only fire into their bellies.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000076",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "The tenth day of which month is Ashura?",
+  "options": [
+   "Safar",
+   "Muharram",
+   "Rajab",
+   "Sha'ban"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Sawm",
+  "explanation": "Ashura is the tenth of Muharram, a day the Prophet fasted.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000077",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Which of these is one of the sacred months?",
+  "options": [
+   "Ramadan",
+   "Dhul-Qa'dah",
+   "Shawwal",
+   "Rabi' al-Akhir"
+  ],
+  "answer_index": 1,
+  "source": "At-Tawbah 9/36",
+  "explanation": "The sacred months are Dhul-Qa'dah, Dhul-Hijjah, Muharram and Rajab.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000078",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "Which night is sought in the last ten nights of Ramadan?",
+  "options": [
+   "The Night of Power (Laylat al-Qadr)",
+   "The night of Bara'ah",
+   "The night of Raghaib",
+   "The night of Mawlid"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qadr 97/1-5",
+  "explanation": "Laylat al-Qadr is better than a thousand months.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000079",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the special prayer performed on the nights of Ramadan called?",
+  "options": [
+   "Duha",
+   "Awwabin",
+   "Tarawih",
+   "Tahiyyat al-masjid"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Salat at-Tarawih",
+  "explanation": "Tarawih is the night prayer of Ramadan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000080",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What does one say when seeking refuge before reciting the Quran?",
+  "options": [
+   "Subhanallah",
+   "Alhamdulillah",
+   "Allahu akbar",
+   "A'udhu billahi minash-shaytanir-rajim"
+  ],
+  "answer_index": 3,
+  "source": "An-Nahl 16/98",
+  "explanation": "'When you recite the Quran, seek refuge in God from the accursed Satan.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000081",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the Prophet's ascent through the heavens from Al-Aqsa called?",
+  "options": [
+   "The Isra",
+   "The Hijrah",
+   "The Mi'raj",
+   "The Fath"
+  ],
+  "answer_index": 2,
+  "source": "An-Najm 53/13-18",
+  "explanation": "Isra is the journey to Al-Aqsa; Mi'raj is the ascent to the heavens.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000082",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "What is a rendering of the meaning of the Quran in another language called?",
+  "options": [
+   "Tafsir",
+   "A translation of the meanings",
+   "Mushaf",
+   "Khatm"
+  ],
+  "answer_index": 1,
+  "source": "Quranic sciences",
+  "explanation": "A translation conveys the meaning, not the miraculous wording.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000083",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What does one say when beginning wudu?",
+  "options": [
+   "Bismillah",
+   "Allahu akbar",
+   "Subhanallah",
+   "Allahumma salli"
+  ],
+  "answer_index": 0,
+  "source": "Abu Dawud, Taharah",
+  "explanation": "One begins wudu by mentioning God's name.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000084",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "What did the Prophet recommend regarding purification on Friday?",
+  "options": [
+   "Tayammum",
+   "Wiping",
+   "Istinja'",
+   "Taking a bath (ghusl)"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Jumu'ah",
+  "explanation": "He recommended ghusl on Friday.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000085",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Besides food and drink, what does a fasting person avoid?",
+  "options": [
+   "Working",
+   "Lying and idle speech",
+   "Caring for children",
+   "Supplication"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Sawm",
+  "explanation": "Fasting includes giving up falsehood and idle speech.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000086",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Which prayer is performed before sunrise?",
+  "options": [
+   "Dhuhr",
+   "Asr",
+   "Isha",
+   "Fajr"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Salat",
+  "explanation": "Fajr is prayed between dawn and sunrise.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000087",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many rak'ahs are in the obligatory Isha prayer?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Salat",
+  "explanation": "The Isha prayer has four rak'ahs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000088",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "How many times is Hajj obligatory in a lifetime for those able?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 0,
+  "source": "Al Imran 3/97",
+  "explanation": "Hajj is obligatory once for those who are able.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000089",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is the rate of zakat on gold, silver and trade goods?",
+  "options": [
+   "One-tenth",
+   "One-fifth",
+   "Ten percent",
+   "One-fortieth (2.5%)"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Zakat",
+  "explanation": "On wealth that reaches the nisab, one-fortieth is due.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000090",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "The sacrifice at Eid is a sunnah of which prophet?",
+  "options": [
+   "Ibrahim",
+   "Nuh",
+   "Musa",
+   "Isa"
+  ],
+  "answer_index": 0,
+  "source": "As-Saffat 37/102-107",
+  "explanation": "Qurbani recalls Ibrahim's test and the ransom of his son.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000091",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "In which surah are prayers described as prescribed at fixed times for the believers?",
+  "options": [
+   "Ta-Ha",
+   "Yusuf",
+   "An-Nisa",
+   "Al-Kahf"
+  ],
+  "answer_index": 2,
+  "source": "An-Nisa 4/103",
+  "explanation": "'Indeed, prayer has been decreed upon the believers at specified times.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000092",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "What is the person who leads a congregational prayer called?",
+  "options": [
+   "Muezzin",
+   "Imam",
+   "Khatib",
+   "Hafiz"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Adhan",
+  "explanation": "The imam leads the worshippers.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000093",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "Which of these invalidates the prayer?",
+  "options": [
+   "Deliberate talking",
+   "Reciting Al-Fatihah",
+   "Bowing",
+   "Facing the qiblah"
+  ],
+  "answer_index": 0,
+  "source": "Muslim, Masajid",
+  "explanation": "Human conversation invalidates the prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000094",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "What is used in tayammum when there is no water?",
+  "options": [
+   "Salt instead of water",
+   "Ashes",
+   "Paper",
+   "Clean earth"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ma'idah 5/6",
+  "explanation": "Tayammum uses clean earth.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-ilmihal-000095",
+  "lang": "en",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "Which angel is mentioned as the keeper of Paradise?",
+  "options": [
+   "Mika'il",
+   "Ridwan",
+   "Jibril",
+   "Israfil"
+  ],
+  "answer_index": 1,
+  "source": "Az-Zumar 39/73",
+  "explanation": "The reports name Ridwan as the keeper of Paradise.",
+  "review_status": "draft"
+ }
+]

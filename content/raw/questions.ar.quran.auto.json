@@ -1,0 +1,852 @@
+[
+ {
+  "id": "q-ar-quran-000051",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ما أطول سورة في القرآن الكريم؟",
+  "options": [
+   "البقرة",
+   "آل عمران",
+   "النساء",
+   "الأعراف"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/1-286",
+  "explanation": "سورة البقرة هي أطول سور القرآن، وعدد آياتها 286 آية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000052",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "كم عدد سور القرآن الكريم؟",
+  "options": [
+   "99",
+   "110",
+   "114",
+   "120"
+  ],
+  "answer_index": 2,
+  "source": "ترتيب المصحف الشريف",
+  "explanation": "يضم المصحف 114 سورة من الفاتحة إلى الناس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000053",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي سورة في القرآن لا تبدأ بالبسملة؟",
+  "options": [
+   "الأنفال",
+   "التوبة",
+   "المائدة",
+   "يونس"
+  ],
+  "answer_index": 1,
+  "source": "التوبة 9/1؛ النمل 27/30",
+  "explanation": "سورة التوبة هي السورة الوحيدة التي لا تبدأ بالبسملة، أما في سورة النمل فجاءت البسملة داخل الآية 30.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000054",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "من أي سورة نزلت أولى آيات الوحي على النبي ﷺ؟",
+  "options": [
+   "المدثر",
+   "الفاتحة",
+   "العلق",
+   "المزمل"
+  ],
+  "answer_index": 2,
+  "source": "العلق 96/1-5",
+  "explanation": "أولى الآيات نزولاً هي الآيات الخمس الأولى من سورة العلق التي تبدأ بـ«اقرأ».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000055",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة معناها اسمها «العنكبوت»؟",
+  "options": [
+   "النمل",
+   "النحل",
+   "القصص",
+   "العنكبوت"
+  ],
+  "answer_index": 3,
+  "source": "العنكبوت 29/41",
+  "explanation": "شبّهت الآية 41 من سورة العنكبوت من اتخذ من دون الله أولياء ببيت العنكبوت.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000056",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة اسمها «النمل»؟",
+  "options": [
+   "النمل",
+   "النحل",
+   "العنكبوت",
+   "الفيل"
+  ],
+  "answer_index": 0,
+  "source": "النمل 27/18",
+  "explanation": "في الآية 18 من سورة النمل نملة تحذّر قومها من جيش سليمان عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000057",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي طائر جاء سليمان عليه السلام بخبر ملكة سبأ؟",
+  "options": [
+   "الغراب",
+   "الحمامة",
+   "الهدهد",
+   "النسر"
+  ],
+  "answer_index": 2,
+  "source": "النمل 27/20-22",
+  "explanation": "جاء الهدهد بخبر سبأ وملكتها إلى سليمان عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000058",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "كيف أمر الله بقراءة القرآن في سورة المزمل؟",
+  "options": [
+   "بسرعة كبيرة",
+   "ترتيلاً",
+   "سراً فقط",
+   "في الصباح فقط"
+  ],
+  "answer_index": 1,
+  "source": "المزمل 73/4",
+  "explanation": "قال تعالى: «ورتل القرآن ترتيلا»، أي اقرأه بتمهّل وتدبّر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000059",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ماذا يسمى ختم قراءة القرآن الكريم كله من أوله إلى آخره؟",
+  "options": [
+   "التجويد",
+   "التفسير",
+   "الختمة",
+   "الترجمة"
+  ],
+  "answer_index": 2,
+  "source": "علوم القرآن",
+  "explanation": "قراءة القرآن كله من أوله إلى آخره تسمى ختمة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000060",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ماذا يسمى من حفظ القرآن الكريم كاملاً؟",
+  "options": [
+   "الحافظ",
+   "المؤذن",
+   "الواعظ",
+   "المجاهد"
+  ],
+  "answer_index": 0,
+  "source": "علوم القرآن",
+  "explanation": "من حفظ القرآن كله يسمى حافظاً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000061",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ما العلم الذي يعنى بقراءة القرآن وإخراج حروفه من مخارجها؟",
+  "options": [
+   "التفسير",
+   "الفقه",
+   "الكلام",
+   "التجويد"
+  ],
+  "answer_index": 3,
+  "source": "علوم القرآن",
+  "explanation": "علم التجويد يعلّم أحكام القراءة الصحيحة للقرآن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000062",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ما العلم الذي يشرح معاني آيات القرآن الكريم؟",
+  "options": [
+   "التجويد",
+   "التفسير",
+   "السيرة",
+   "الحديث"
+  ],
+  "answer_index": 1,
+  "source": "علوم القرآن",
+  "explanation": "التفسير هو علم بيان معاني القرآن وأحكامه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000063",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في كم سنة تقريباً نزل القرآن الكريم؟",
+  "options": [
+   "10",
+   "15",
+   "23",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "السيرة وعلوم القرآن",
+  "explanation": "نزل القرآن مفرقاً في نحو ثلاث وعشرين سنة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000064",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "في أي سورة بشّر عيسى عليه السلام برسول يأتي من بعده اسمه «أحمد»؟",
+  "options": [
+   "الجمعة",
+   "التغابن",
+   "الحديد",
+   "الصف"
+  ],
+  "answer_index": 3,
+  "source": "الصف 61/6",
+  "explanation": "في الآية 6 من سورة الصف قال عيسى: «ومبشراً برسول يأتي من بعدي اسمه أحمد».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000065",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة تبدأ بالقسم بالتين والزيتون؟",
+  "options": [
+   "الشمس",
+   "الضحى",
+   "التين",
+   "الفجر"
+  ],
+  "answer_index": 2,
+  "source": "التين 95/1",
+  "explanation": "تبدأ سورة التين بقوله تعالى: «والتين والزيتون».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000066",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة تبدأ بالقسم بالشمس وضحاها؟",
+  "options": [
+   "التين",
+   "الشمس",
+   "الليل",
+   "الفجر"
+  ],
+  "answer_index": 1,
+  "source": "الشمس 91/1",
+  "explanation": "تبدأ سورة الشمس بقوله تعالى: «والشمس وضحاها».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000067",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة تبدأ بالقسم بوقت الضحى؟",
+  "options": [
+   "الضحى",
+   "التين",
+   "الشمس",
+   "القدر"
+  ],
+  "answer_index": 0,
+  "source": "الضحى 93/1",
+  "explanation": "تبدأ سورة الضحى بقوله تعالى: «والضحى».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000068",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي سورة تبدأ بقوله تعالى: «ن والقلم وما يسطرون»؟",
+  "options": [
+   "العلق",
+   "الطور",
+   "النجم",
+   "القلم"
+  ],
+  "answer_index": 3,
+  "source": "القلم 68/1",
+  "explanation": "تبدأ سورة القلم بالقسم بالقلم وما يكتب به.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000069",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في أي سورة جاء قوله تعالى: «لكم دينكم ولي دين»؟",
+  "options": [
+   "النصر",
+   "الماعون",
+   "الكافرون",
+   "قريش"
+  ],
+  "answer_index": 2,
+  "source": "الكافرون 109/6",
+  "explanation": "هي آخر آيات سورة الكافرون، وتبيّن البراءة من الشرك واحترام اختلاف الدين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000070",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في أي سورة جاء قوله تعالى: «لم يلد ولم يولد»؟",
+  "options": [
+   "الفلق",
+   "الإخلاص",
+   "الناس",
+   "الكوثر"
+  ],
+  "answer_index": 1,
+  "source": "الإخلاص 112/3",
+  "explanation": "الآية 3 من سورة الإخلاص تنفي عن الله الولد والوالد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000071",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي سورة تبدأ بقوله تعالى: «إذا جاء نصر الله والفتح»؟",
+  "options": [
+   "الفتح",
+   "النصر",
+   "القدر",
+   "الزلزلة"
+  ],
+  "answer_index": 1,
+  "source": "النصر 110/1",
+  "explanation": "تبشّر سورة النصر بنصر الله والفتح، ويُراد به فتح مكة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000072",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "من أكثر الأنبياء ذكراً باسمه في القرآن الكريم؟",
+  "options": [
+   "موسى عليه السلام",
+   "إبراهيم عليه السلام",
+   "نوح عليه السلام",
+   "عيسى عليه السلام"
+  ],
+  "answer_index": 0,
+  "source": "إحصاء أسماء الأنبياء في القرآن",
+  "explanation": "اسم موسى عليه السلام وقصته من أكثر ما تكرر في القرآن الكريم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000073",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "ما الشهر الوحيد الذي ذُكر باسمه صراحة في القرآن الكريم؟",
+  "options": [
+   "محرم",
+   "رجب",
+   "ذو الحجة",
+   "رمضان"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/185",
+  "explanation": "قال تعالى: «شهر رمضان الذي أنزل فيه القرآن»، وهو الشهر الوحيد المذكور بالاسم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000074",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في أي سورة فُرض الصيام على المؤمنين؟",
+  "options": [
+   "النساء",
+   "المائدة",
+   "البقرة",
+   "الحجرات"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/183",
+  "explanation": "قال تعالى: «يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000075",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «واعتصموا بحبل الله جميعاً»؟",
+  "options": [
+   "المائدة",
+   "الحجرات",
+   "آل عمران",
+   "النساء"
+  ],
+  "answer_index": 2,
+  "source": "آل عمران 3/103",
+  "explanation": "تأمر الآية 103 من سورة آل عمران المؤمنين بالتمسك بحبل الله وعدم التفرق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000076",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "ماذا تسمى سورتا الفلق والناس معاً؟",
+  "options": [
+   "الحواميم",
+   "المعوذتان",
+   "المسبحات",
+   "الزهراوان"
+  ],
+  "answer_index": 1,
+  "source": "الفلق 113/1-5؛ الناس 114/1-6",
+  "explanation": "تسمى سورتا الفلق والناس المعوذتين لأنهما تعلّمان الاستعاذة بالله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000077",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "ماذا تسمى سورتا البقرة وآل عمران معاً؟",
+  "options": [
+   "الزهراوان",
+   "المعوذتان",
+   "المسبحات",
+   "الحواميم"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2؛ آل عمران 3",
+  "explanation": "يطلق على البقرة وآل عمران «الزهراوان».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000078",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "أول سورة نزلت بالمدينة المنورة حسب الرأي الراجح هي:",
+  "options": [
+   "الأنفال",
+   "النور",
+   "التوبة",
+   "البقرة"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/1",
+  "explanation": "تذكر كتب علوم القرآن أن البقرة أول ما نزل من القرآن بالمدينة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000079",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي السور التالية مدنية؟",
+  "options": [
+   "الكهف",
+   "النساء",
+   "يوسف",
+   "مريم"
+  ],
+  "answer_index": 1,
+  "source": "تصنيف المكي والمدني",
+  "explanation": "سورة النساء نزلت بالمدينة، والسور الأخرى مكية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000080",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "أي السور التالية مكية؟",
+  "options": [
+   "المائدة",
+   "النساء",
+   "الكهف",
+   "الأنفال"
+  ],
+  "answer_index": 2,
+  "source": "تصنيف المكي والمدني",
+  "explanation": "سورة الكهف مكية، والسور الأخرى مدنية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000081",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «الله نور السماوات والأرض»؟",
+  "options": [
+   "الحديد",
+   "الزمر",
+   "الفرقان",
+   "النور"
+  ],
+  "answer_index": 3,
+  "source": "النور 24/35",
+  "explanation": "الآية 35 من سورة النور تسمى «آية النور».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000082",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "ما ترتيب سورة الملك في المصحف؟",
+  "options": [
+   "67",
+   "68",
+   "69",
+   "71"
+  ],
+  "answer_index": 0,
+  "source": "الملك 67/1",
+  "explanation": "سورة الملك هي السورة السابعة والستون وعدد آياتها 30.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000083",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «إنما المؤمنون إخوة»؟",
+  "options": [
+   "الحجرات",
+   "النور",
+   "المائدة",
+   "الملك"
+  ],
+  "answer_index": 0,
+  "source": "الحجرات 49/10",
+  "explanation": "تقرر الآية 10 من سورة الحجرات أخوّة المؤمنين وتأمر بالإصلاح بينهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000084",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "كم عدد آيات سورة يس؟",
+  "options": [
+   "63",
+   "73",
+   "83",
+   "93"
+  ],
+  "answer_index": 2,
+  "source": "يس 36/1-83",
+  "explanation": "تتكون سورة يس من 83 آية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000085",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "ما ثاني أطول سورة في القرآن من حيث عدد الآيات؟",
+  "options": [
+   "آل عمران",
+   "الأعراف",
+   "النساء",
+   "الشعراء"
+  ],
+  "answer_index": 3,
+  "source": "الشعراء 26/227",
+  "explanation": "بعد البقرة تأتي الشعراء بـ227 آية، أما آل عمران ففيها 200 آية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000086",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في أي سورة أمر الله المؤمنين بترك البيع والسعي إلى ذكر الله عند النداء للصلاة؟",
+  "options": [
+   "المنافقون",
+   "الصف",
+   "الجمعة",
+   "التغابن"
+  ],
+  "answer_index": 2,
+  "source": "الجمعة 62/9",
+  "explanation": "تأمر الآية 9 من سورة الجمعة بترك البيع والسعي إلى ذكر الله عند النداء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000087",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «اليوم أكملت لكم دينكم»؟",
+  "options": [
+   "البقرة",
+   "النساء",
+   "المائدة",
+   "الأنعام"
+  ],
+  "answer_index": 2,
+  "source": "المائدة 5/3",
+  "explanation": "تخبر الآية 3 من سورة المائدة بإكمال الدين وإتمام النعمة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000088",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة تبدأ بذكر إسراء الله بعبده من المسجد الحرام إلى المسجد الأقصى؟",
+  "options": [
+   "النجم",
+   "الإسراء",
+   "الكهف",
+   "طه"
+  ],
+  "answer_index": 1,
+  "source": "الإسراء 17/1",
+  "explanation": "تبدأ سورة الإسراء بقوله تعالى: «سبحان الذي أسرى بعبده ليلاً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000089",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "في أي سورة ذُكرت سدرة المنتهى؟",
+  "options": [
+   "الإسراء",
+   "القدر",
+   "التين",
+   "النجم"
+  ],
+  "answer_index": 3,
+  "source": "النجم 53/14",
+  "explanation": "تذكر الآية 14 من سورة النجم سدرة المنتهى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000090",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "كم عدد آيات سورة القدر؟",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "source": "القدر 97/1-5",
+  "explanation": "تتكون سورة القدر من 5 آيات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000091",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء دعاء: «رب زدني علماً»؟",
+  "options": [
+   "الكهف",
+   "الملك",
+   "طه",
+   "النحل"
+  ],
+  "answer_index": 2,
+  "source": "طه 20/114",
+  "explanation": "تأمر الآية 114 من سورة طه النبي ﷺ أن يقول: «رب زدني علماً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000092",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "في أي سورة جاء قوله تعالى: «إياك نعبد وإياك نستعين»؟",
+  "options": [
+   "الفاتحة",
+   "البقرة",
+   "الإخلاص",
+   "الناس"
+  ],
+  "answer_index": 0,
+  "source": "الفاتحة 1/5",
+  "explanation": "الآية 5 من الفاتحة تبيّن أن العبادة والاستعانة لله وحده.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000093",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "أي سورة هي أول سورة تبدأ بالحروف المقطعة «الم» في ترتيب المصحف؟",
+  "options": [
+   "الفاتحة",
+   "البقرة",
+   "النساء",
+   "المائدة"
+  ],
+  "answer_index": 1,
+  "source": "البقرة 2/1",
+  "explanation": "تبدأ سورة البقرة بالحروف «الم» بعد الفاتحة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000094",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "ما اسم القرآن الذي يعني الفارق بين الحق والباطل؟",
+  "options": [
+   "الهدى",
+   "المصحف",
+   "الكتاب",
+   "الفرقان"
+  ],
+  "answer_index": 3,
+  "source": "الفرقان 25/1",
+  "explanation": "الفرقان من أسماء القرآن، ومعناه الفاصل بين الحق والباطل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000095",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «ادع إلى سبيل ربك بالحكمة والموعظة الحسنة»؟",
+  "options": [
+   "النحل",
+   "يونس",
+   "الكهف",
+   "النور"
+  ],
+  "answer_index": 0,
+  "source": "النحل 16/125",
+  "explanation": "تجعل الآية 125 من سورة النحل الدعوة بالحكمة والموعظة الحسنة والجدال بالتي هي أحسن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000096",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة وُصف النبي ﷺ بأنه على «خلق عظيم»؟",
+  "options": [
+   "الأحزاب",
+   "الفتح",
+   "القلم",
+   "النور"
+  ],
+  "answer_index": 2,
+  "source": "القلم 68/4",
+  "explanation": "قال تعالى: «وإنك لعلى خلق عظيم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000097",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «لقد كان لكم في رسول الله أسوة حسنة»؟",
+  "options": [
+   "الفتح",
+   "الحجرات",
+   "محمد",
+   "الأحزاب"
+  ],
+  "answer_index": 3,
+  "source": "الأحزاب 33/21",
+  "explanation": "تجعل الآية 21 من سورة الأحزاب رسول الله ﷺ قدوة حسنة للمؤمنين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000098",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة جاء قوله تعالى: «وما أرسلناك إلا رحمة للعالمين»؟",
+  "options": [
+   "الإسراء",
+   "الأنبياء",
+   "الفتح",
+   "الكهف"
+  ],
+  "answer_index": 1,
+  "source": "الأنبياء 21/107",
+  "explanation": "تصف الآية 107 من سورة الأنبياء رسالة النبي ﷺ بأنها رحمة للعالمين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000099",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "في أي سورة أُمر إبراهيم عليه السلام بأن يؤذن في الناس بالحج؟",
+  "options": [
+   "البقرة",
+   "آل عمران",
+   "الحج",
+   "المائدة"
+  ],
+  "answer_index": 2,
+  "source": "الحج 22/27",
+  "explanation": "تأمر الآية 27 من سورة الحج إبراهيم عليه السلام بالنداء في الناس بالحج.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-quran-000100",
+  "lang": "ar",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "في أي سورة جاء أن أول بيت وُضع للناس هو الذي ببكة مباركاً؟",
+  "options": [
+   "الحج",
+   "البقرة",
+   "المائدة",
+   "آل عمران"
+  ],
+  "answer_index": 3,
+  "source": "آل عمران 3/96",
+  "explanation": "تبيّن الآية 96 من سورة آل عمران أن أول بيت وُضع للناس هو الكعبة في مكة.",
+  "review_status": "draft"
+ }
+]

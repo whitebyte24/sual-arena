@@ -1,0 +1,506 @@
+{
+  "lang": "tr",
+  "category": "siyer",
+  "items": [
+    [
+      "Peygamber Efendimiz hangi olayın yaşandığı yıl dünyaya gelmiştir?",
+      "Fil Vakası",
+      "Hendek Savaşı",
+      "Hicret",
+      "Bedir Savaşı",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz, Ebrehe'nin Kâbe'yi yıkmaya geldiği Fil Vakası yılında (yaklaşık 570) dünyaya gelmiştir."
+    ],
+    [
+      "Peygamberimiz'in annesinin adı nedir?",
+      "Âmine",
+      "Hatice",
+      "Fâtıma",
+      "Halîme",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz'in annesi Vehb'in kızı Âmine'dir."
+    ],
+    [
+      "Peygamberimiz'in annesi Âmine hangi yerde vefat etmiştir?",
+      "Ebvâ",
+      "Tâif",
+      "Hayber",
+      "Şam",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Âmine, oğlunu Medine'deki akrabalarına götürüp dönerken Mekke–Medine yolundaki Ebvâ'da vefat etmiştir."
+    ],
+    [
+      "Çocukluğunda Peygamberimiz'e bakan ve onun 'annem' diye andığı Habeşli hanım kimdir?",
+      "Ümmü Eymen",
+      "Ümmü Seleme",
+      "Ümmü Habîbe",
+      "Ümmü Hânî",
+      3,
+      "İbn Sa'd, et-Tabakât",
+      "Ümmü Eymen (Bereke), Peygamberimiz'e çocukluğunda bakmış, Peygamberimiz ona saygı göstermiştir."
+    ],
+    [
+      "Ebû Tâlib'le Şam yolculuğuna çıkan genç Muhammed'in peygamberlik alametlerini fark eden rahip kimdir?",
+      "Bahîrâ",
+      "Varaka",
+      "Nestûr",
+      "Sergios",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Busrâ'da karşılaşılan rahip Bahîrâ, çocukta gelecekteki peygamberliğin işaretlerini gördüğünü söylemiştir."
+    ],
+    [
+      "Peygamberimiz Hz. Hatice ile evlendiğinde kaç yaşındaydı?",
+      "25",
+      "20",
+      "30",
+      "40",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz, Şam ticareti dönüşünden sonra 25 yaşında Hz. Hatice ile evlenmiştir."
+    ],
+    [
+      "Kâbe'nin yeniden inşasında Hacerülesved'in yerine konması tartışmasını Peygamberimiz nasıl çözmüştür?",
+      "Taşı örtüye koyup kabile reislerine tutturarak",
+      "Taşı tek başına yerine koyarak",
+      "Kura çekilmesini sağlayarak",
+      "Taşı başka bir yere koydurarak",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz, taşı bir örtüye koyup her kabile reisine örtünün bir ucunu tutturmuş, taşı kendisi yerine yerleştirmiştir."
+    ],
+    [
+      "İlk vahyin geldiği mağara hangisidir?",
+      "Hirâ",
+      "Sevr",
+      "Ashâb-ı Kehf",
+      "Dârü'l-Erkâm",
+      1,
+      "Buhârî, Bed'ü'l-vahy",
+      "İlk vahiy, Mekke yakınlarındaki Nûr Dağı'nda bulunan Hirâ Mağarası'nda gelmiştir."
+    ],
+    [
+      "Peygamberimiz'e ilk vahiy geldiğinde kaç yaşındaydı?",
+      "40",
+      "25",
+      "33",
+      "63",
+      1,
+      "Buhârî, Bed'ü'l-vahy",
+      "Peygamberimiz'e ilk vahiy 40 yaşında Hirâ Mağarası'nda gelmiştir."
+    ],
+    [
+      "Kabul edilen görüşe göre çocuklar arasında ilk Müslüman olan sahabi kimdir?",
+      "Hz. Ali",
+      "Hz. Zeyd",
+      "Hz. Osman",
+      "Hz. Zübeyr",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Hz. Ali, Müslüman olduğunda henüz çocuk yaştaydı; kaynaklar onu çocukların ilk Müslümanı olarak anar."
+    ],
+    [
+      "Kabul edilen görüşe göre hür erkeklerden ilk Müslüman olan sahabi kimdir?",
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Osman",
+      "Hz. Ali",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Hz. Ebû Bekir, hür erkeklerden ilk iman eden kişi olarak kabul edilir."
+    ],
+    [
+      "Mekke'de gizli davet yaklaşık kaç yıl sürmüştür?",
+      "3",
+      "1",
+      "5",
+      "10",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz yaklaşık üç yıl gizlice davet etmiş, sonra açıktan tebliğe başlamıştır."
+    ],
+    [
+      "Peygamberimiz Mekkelileri açıktan İslam'a ilk hangi yerde davet etmiştir?",
+      "Safâ Tepesi",
+      "Hirâ Mağarası",
+      "Arafat",
+      "Dârü'n-Nedve",
+      2,
+      "Buhârî, Tefsîr; İbn Hişâm, es-Sîre",
+      "Peygamberimiz Safâ Tepesi'ne çıkıp Kureyşliler'i toplayarak onları açıkça Allah'a ve ahirete inanmaya çağırmıştır."
+    ],
+    [
+      "Peygamberimiz'e en şiddetli düşmanlığı gösteren amcası kimdir?",
+      "Ebû Leheb",
+      "Ebû Tâlib",
+      "Hz. Hamza",
+      "Hz. Abbâs",
+      1,
+      "Tebbet 111/1-5",
+      "Ebû Leheb, Peygamberimiz'e düşmanlık etmiş, hakkında Tebbet Sûresi inmiştir."
+    ],
+    [
+      "Bedir'de ölen müşriklerin önde gelenlerinden, Müslümanlara en çok eziyet eden Mekke ileri geleni kimdir?",
+      "Ebû Cehil",
+      "Ebû Süfyân",
+      "Velîd b. Muğîre",
+      "Ebû Tâlib",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Ebû Cehil (Amr b. Hişâm), Müslümanlara eziyet eden başlıca müşrik liderlerindendir ve Bedir'de öldürülmüştür."
+    ],
+    [
+      "İslam tarihinin ilk kadın şehidi olarak bilinen sahabi kimdir?",
+      "Sümeyye",
+      "Hatice",
+      "Rukiyye",
+      "Ümmü Seleme",
+      2,
+      "İbn Sa'd, et-Tabakât",
+      "Yâsir'in eşi ve Ammâr'ın annesi Sümeyye, işkencelere rağmen imanından dönmeyip şehit edilmiştir."
+    ],
+    [
+      "Hz. Ömer'in Müslüman olmasına vesile olan âyetler hangi surenin başındadır?",
+      "Tâhâ",
+      "Yâsîn",
+      "Mülk",
+      "Kehf",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Hz. Ömer, kız kardeşinin evinde okunan Tâhâ Sûresi'nin başındaki âyetleri dinleyip Müslüman olmuştur."
+    ],
+    [
+      "Müşriklerin Müslümanlara ve Haşimoğulları'na üç yıl boyunca boykot uyguladığı sırada sığınılan yer neresidir?",
+      "Şi'b-i Ebî Tâlib",
+      "Dârü'l-Erkâm",
+      "Sevr Mağarası",
+      "Kubâ",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Boykot sırasında Haşimoğulları ve Müslümanlar, Mekke'deki Şi'b-i Ebî Tâlib'de zor günler geçirmiştir."
+    ],
+    [
+      "Peygamberimiz peygamberliğin 10. yılında İslam'ı anlatmak için hangi şehre gitmiş ve orada taşlanmıştır?",
+      "Tâif",
+      "Medine",
+      "Hayber",
+      "Şam",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz Tâif'te davetine karşılık taşlanmış, buna rağmen onlara beddua etmemiştir."
+    ],
+    [
+      "Beş vakit namaz hangi olay sırasında farz kılınmıştır?",
+      "Miraç",
+      "Hicret",
+      "Bedir Savaşı",
+      "Mekke'nin fethi",
+      1,
+      "Buhârî, Salât",
+      "Beş vakit namaz Miraç gecesinde farz kılınmıştır."
+    ],
+    [
+      "Hicret miladî olarak hangi yılda gerçekleşmiştir?",
+      "622",
+      "570",
+      "610",
+      "632",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Hicret 622 yılında gerçekleşmiş, hicrî takvimin başlangıcı olmuştur."
+    ],
+    [
+      "Hicret yolunda Peygamberimiz'i yakalamak isteyen ve atının ayakları kuma batan kişi kimdir?",
+      "Surâka b. Mâlik",
+      "Ebû Cehil",
+      "Velîd b. Muğîre",
+      "Ukbe b. Ebî Muayt",
+      3,
+      "Buhârî, Menâkıbü'l-Ensâr",
+      "Kureyş'in ödülünü kazanmak isteyen Surâka'nın atı defalarca kuma saplanınca o, Peygamberimiz'den güvence istemiştir."
+    ],
+    [
+      "Hicret gecesi Peygamberimiz'in yatağında yatan sahabi kimdir?",
+      "Hz. Ali",
+      "Hz. Ebû Bekir",
+      "Hz. Ömer",
+      "Hz. Zübeyr",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Hz. Ali, müşrikleri oyalamak için Peygamberimiz'in yatağında yatmıştır."
+    ],
+    [
+      "Peygamberimiz'in Medine'ye girişinde bindiği ve Mescid-i Nebevî'nin yerinde çöken devesinin adı nedir?",
+      "Kasvâ",
+      "Ba'îr",
+      "Adbâ",
+      "Behîme",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz'in devesi Kasvâ, mescidin ve evinin yapılacağı yerde çökmüştür."
+    ],
+    [
+      "Bedir Savaşı hicretin kaçıncı yılında yapılmıştır?",
+      "2. yıl",
+      "1. yıl",
+      "3. yıl",
+      "5. yıl",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Bedir Savaşı hicretin 2. yılında Ramazan ayında yapılmıştır."
+    ],
+    [
+      "Bedir'de Müslüman ordusunun sayısı yaklaşık kaçtır?",
+      "313",
+      "133",
+      "513",
+      "1000",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Bedir'e katılan Müslümanların sayısı 313 civarındadır; müşrik ordusu yaklaşık bin kişiydi."
+    ],
+    [
+      "Mekke'nin fethinde Kâbe'nin anahtarı kime teslim edilmiştir?",
+      "Osman b. Talha",
+      "Hz. Ebû Bekir",
+      "Bilâl-i Habeşî",
+      "Hz. Abbâs",
+      3,
+      "İbn Hişâm, es-Sîre; Buhârî, Meğâzî",
+      "Peygamberimiz, Kâbe'nin anahtarını Mekke'nin fethi günü Osman b. Talha'ya geri vermiştir."
+    ],
+    [
+      "Veda Haccı hicretin kaçıncı yılında yapılmıştır?",
+      "10. yıl",
+      "8. yıl",
+      "9. yıl",
+      "11. yıl",
+      2,
+      "Buhârî, Hac",
+      "Peygamberimiz Veda Haccı'nı hicretin 10. yılında yapmış ve kısa süre sonra vefat etmiştir."
+    ],
+    [
+      "Peygamberimiz vefatından sonra hangi eşinin odasında defnedilmiştir?",
+      "Hz. Âişe",
+      "Hz. Hafsa",
+      "Hz. Hatice",
+      "Hz. Zeyneb",
+      2,
+      "Buhârî, Cenâiz",
+      "Peygamberimiz, vefat ettiği yer olan Hz. Âişe'nin odasında defnedilmiştir."
+    ],
+    [
+      "Peygamberimiz'in oğlu İbrâhim'in annesi kimdir?",
+      "Mâriye",
+      "Hatice",
+      "Safiyye",
+      "Cüveyriyye",
+      3,
+      "İbn Sa'd, et-Tabakât",
+      "Oğlu İbrâhim, Mısır'dan gelen Mâriye'den doğmuş ve küçük yaşta vefat etmiştir."
+    ],
+    [
+      "Peygamberimiz'in kaç kızı vardır?",
+      "4",
+      "2",
+      "3",
+      "5",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz'in Zeynep, Rukiyye, Ümmü Gülsüm ve Fâtıma adında dört kızı vardı."
+    ],
+    [
+      "Peygamberimiz'in iki kızıyla evlendiği için 'Zinnûreyn' (iki nur sahibi) lakabıyla anılan halife kimdir?",
+      "Hz. Osman",
+      "Hz. Ali",
+      "Hz. Ömer",
+      "Hz. Ebû Bekir",
+      2,
+      "İbn Sa'd, et-Tabakât",
+      "Hz. Osman, önce Rukiyye ile sonra Ümmü Gülsüm ile evlendiği için Zinnûreyn diye anılır."
+    ],
+    [
+      "Hz. Ömer'e 'hak ile batılı ayıran' anlamında verilen lakap hangisidir?",
+      "Fârûk",
+      "Sıddîk",
+      "Zinnûreyn",
+      "Seyfullâh",
+      1,
+      "İbn Sa'd, et-Tabakât",
+      "Hz. Ömer, hak ile batılı birbirinden ayırdığı için Fârûk lakabıyla anılmıştır."
+    ],
+    [
+      "Hz. Ebû Bekir'e verilen ve 'doğrulayan, tasdik eden' anlamına gelen lakap hangisidir?",
+      "Sıddîk",
+      "Fârûk",
+      "Zinnûreyn",
+      "Emîn",
+      1,
+      "İbn Sa'd, et-Tabakât",
+      "Hz. Ebû Bekir, Miraç'ı hiç tereddüt etmeden doğruladığı için Sıddîk diye anılmıştır."
+    ],
+    [
+      "En çok hadis rivayet eden sahabi kimdir?",
+      "Ebû Hüreyre",
+      "Hz. Âişe",
+      "Enes b. Mâlik",
+      "Abdullah b. Ömer",
+      2,
+      "Hadis rivayet istatistikleri (Ebû Hüreyre)",
+      "Ebû Hüreyre, rivayet ettiği hadis sayısıyla sahabeler arasında ilk sıradadır."
+    ],
+    [
+      "Hayatlarında cennetle müjdelenen on sahabeye ne ad verilir?",
+      "Aşere-i Mübeşşere",
+      "Ashâb-ı Suffe",
+      "Ashâb-ı Bedir",
+      "Hulefâ-yı Râşidîn",
+      2,
+      "Tirmizî, Menâkıb",
+      "Cennetle müjdelenen on sahabeye Aşere-i Mübeşşere denir."
+    ],
+    [
+      "Medine'nin İslam'dan önceki adı nedir?",
+      "Yesrib",
+      "Bekke",
+      "Tâif",
+      "Kubâ",
+      1,
+      "İbn Hişâm, es-Sîre",
+      "Medine, hicretten önce Yesrib adıyla anılıyordu."
+    ],
+    [
+      "Medine'de Ensar'ı oluşturan iki büyük Arap kabilesi hangileridir?",
+      "Evs ve Hazrec",
+      "Kureyş ve Hevâzin",
+      "Benî Kurayza ve Benî Nadîr",
+      "Gatafân ve Sakîf",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Medineli Müslümanlar olan Ensar, Evs ve Hazrec kabilelerinden oluşuyordu."
+    ],
+    [
+      "Habeşistan'a hicret eden Müslümanlara koruma sağlayan Hristiyan hükümdarın unvanı nedir?",
+      "Necâşî",
+      "Kisrâ",
+      "Mukavkıs",
+      "Herakleios",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Habeş hükümdarı Necâşî, hicret eden Müslümanları Kureyş'in elçilerine teslim etmemiştir."
+    ],
+    [
+      "Medine'de münafıkların başı olarak bilinen kişi kimdir?",
+      "Abdullah b. Übey",
+      "Kâ'b b. Eşref",
+      "Huyey b. Ahtab",
+      "Ebû Âmir",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Abdullah b. Übey b. Selûl, Medine'de münafıkların elebaşıydı."
+    ],
+    [
+      "Medine'den ilk sürülen Yahudi kabilesi hangisidir?",
+      "Benî Kaynukā",
+      "Benî Nadîr",
+      "Benî Kurayza",
+      "Hayber Yahudileri",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Bedir'den sonra antlaşmayı bozan Benî Kaynukā, Medine'den ayrılmak zorunda kalmıştır."
+    ],
+    [
+      "Hayber'in fethi hicretin kaçıncı yılında gerçekleşmiştir?",
+      "7. yıl",
+      "5. yıl",
+      "6. yıl",
+      "9. yıl",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Hayber, Hudeybiye'den sonra hicretin 7. yılında fethedilmiştir."
+    ],
+    [
+      "Peygamberimiz'in Bizans İmparatoru Herakleios'a İslam'a davet mektubunu götüren sahabi kimdir?",
+      "Dıhye b. Halîfe",
+      "Amr b. Âs",
+      "Hâtıb b. Ebî Belta'a",
+      "Abdullah b. Huzâfe",
+      3,
+      "Buhârî, Bed'ü'l-vahy",
+      "Peygamberimiz, Herakleios'a mektubunu Dıhye b. Halîfe el-Kelbî ile göndermiştir."
+    ],
+    [
+      "Vahiy kâtiplerinden olan ve Kur'an'ın ilk mushaf haline getirilmesinde görev alan sahabi kimdir?",
+      "Zeyd b. Sâbit",
+      "Ebû Hüreyre",
+      "Bilâl-i Habeşî",
+      "Selmân-ı Fârisî",
+      2,
+      "Buhârî, Fezâilü'l-Kur'ân",
+      "Zeyd b. Sâbit, vahiy kâtipliği yapmış; Hz. Ebû Bekir ve Hz. Osman dönemindeki Kur'an derleme çalışmalarına başkanlık etmiştir."
+    ],
+    [
+      "Zemzem kuyusunu yeniden açtıran Peygamberimiz'in dedesi kimdir?",
+      "Abdülmuttalib",
+      "Hâşim",
+      "Kusay",
+      "Abdümenâf",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Abdülmuttalib, Cürhümlüler'in kapatıp kaybolmasına neden olduğu Zemzem kuyusunu yeniden bulup açtırmıştır."
+    ],
+    [
+      "Peygamberimiz'in vefat ettiği şehir hangisidir?",
+      "Medine",
+      "Mekke",
+      "Tâif",
+      "Kudüs",
+      1,
+      "Buhârî, Meğâzî",
+      "Peygamberimiz hicretin 11. yılında Medine'de vefat etmiştir."
+    ],
+    [
+      "Mescid-i Nebevî'nin yapıldığı arsa kimlere aitti?",
+      "İki yetim çocuğa (Sehl ve Süheyl)",
+      "Ebû Eyyûb el-Ensârî'ye",
+      "Abdullah b. Übey'e",
+      "Benî Kurayza'ya",
+      3,
+      "Buhârî, Salât",
+      "Peygamberimiz, mescidin yapılacağı arsayı Sehl ve Süheyl adındaki iki yetimden satın almıştır."
+    ],
+    [
+      "Peygamberimiz'in Medine'de kardeşlik bağı kurduğu Muhacir ve Ensar arasındaki bu uygulamaya ne ad verilir?",
+      "Muâhât",
+      "Hicret",
+      "Biat",
+      "Hılf",
+      2,
+      "İbn Hişâm, es-Sîre",
+      "Muâhât, Muhacirler ile Ensar'ı kardeş ilan eden dayanışma uygulamasıdır."
+    ],
+    [
+      "Habeşistan'da Necâşî'nin huzurunda Müslümanların sözcülüğünü yapıp Meryem Sûresi'ni okuyan sahabi kimdir?",
+      "Câfer b. Ebî Tâlib",
+      "Abdullah b. Mes'ûd",
+      "Zübeyr b. Avvâm",
+      "Osman b. Maz'ûn",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Câfer b. Ebî Tâlib, Necâşî'nin huzurunda Müslümanların sözcüsü olarak Meryem Sûresi'nden âyetler okumuştur."
+    ],
+    [
+      "Peygamberimiz Medine'ye girmeden önce ilk Cuma namazını hangi vadide kıldırmıştır?",
+      "Rânûnâ Vadisi",
+      "Bedir Kuyusu",
+      "Uhud Dağı",
+      "Ravza Vadisi",
+      3,
+      "İbn Hişâm, es-Sîre",
+      "Peygamberimiz, Kubâ'dan ayrılıp Medine'ye giderken Benî Sâlim yurdundaki Rânûnâ Vadisi'nde ilk Cuma namazını kıldırmıştır."
+    ]
+  ]
+}

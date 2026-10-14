@@ -9,7 +9,7 @@ import { REWARD_DUELS } from '@/features/ads/policy';
 import { grantBonusDuels, loadQuota, remainingDuels, type Quota } from '@/features/duello/quota';
 import { usePremium } from '@/features/premium/entitlement';
 import { allowedCategories, categoryLocked } from '@/features/premium/tiers';
-import { getLang, t } from '@/i18n';
+import { getLang, t, upper } from '@/i18n';
 import { MAX_NAME, getPlayerName, setPlayerName } from '@/lib/identity';
 import { getRemoteConfig } from '@/lib/remoteConfig';
 import { radius, spacing, useTheme } from '@/lib/theme';
@@ -84,7 +84,7 @@ export default function DuelSetup() {
 
       {/* Yarışmacı */}
       <View style={{ gap: spacing.sm }}>
-        <Text style={eyebrow}>{t('duelUi.identity').toLocaleUpperCase('tr')}</Text>
+        <Text style={eyebrow}>{upper(t('duelUi.identity'))}</Text>
         <Card padding={12} style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.md }}>
           <Avatar name={name || '?'} size={52} highlight />
           <View style={{ flex: 1 }}>
@@ -108,7 +108,7 @@ export default function DuelSetup() {
       <View style={{ gap: spacing.sm }}>
         <View style={{ flexDirection: 'row', alignItems: 'baseline', justifyContent: 'space-between' }}>
           <Text style={{ color: theme.text, fontSize: 20, fontWeight: '700' }}>{t('duelUi.pickCategory')}</Text>
-          <Text style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1 }}>{t('duelUi.single').toLocaleUpperCase('tr')}</Text>
+          <Text style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1 }}>{upper(t('duelUi.single'))}</Text>
         </View>
         <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
           {CHOICES.map((c) => (

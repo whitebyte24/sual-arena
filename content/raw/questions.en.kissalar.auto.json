@@ -1,0 +1,1668 @@
+[
+ {
+  "id": "q-en-kissalar-000001",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who refused to prostrate to Adam when the angels were commanded to?",
+  "options": [
+   "Harut",
+   "Marut",
+   "Iblis",
+   "Jibril"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/34",
+  "explanation": "The angels prostrated to Adam, while Iblis refused out of arrogance.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000002",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What were Adam and his wife forbidden to approach in Paradise?",
+  "options": [
+   "A certain tree",
+   "A spring",
+   "A palace",
+   "A gate"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/35",
+  "explanation": "God allowed them to enjoy Paradise but forbade them to approach one particular tree.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000003",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "In the story of Adam's two sons, who killed his brother?",
+  "options": [
+   "Habil (Abel)",
+   "Shith (Seth)",
+   "Idris",
+   "Qabil (Cain)"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ma'idah 5/27-31",
+  "explanation": "The brother whose offering was not accepted killed the other out of jealousy; commentaries name him Qabil.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000004",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What was the name of Adam's wife?",
+  "options": [
+   "Sarah",
+   "Hawwa (Eve)",
+   "Hajar",
+   "Asiyah"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/35; Al-A'raf 7/19",
+  "explanation": "Adam and Hawwa lived in Paradise and were later sent down to earth.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000005",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "About how many years did Nuh (Noah) call his people to God?",
+  "options": [
+   "100",
+   "300",
+   "500",
+   "950"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ankabut 29/14",
+  "explanation": "Surah Al-Ankabut says he stayed among his people for 950 years.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000006",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What was the name of Nuh's son who refused to board the Ark and drowned?",
+  "options": [
+   "Sam",
+   "Kan'an",
+   "Ham",
+   "Yafith"
+  ],
+  "answer_index": 1,
+  "source": "Hud 11/42-43",
+  "explanation": "His son said he would take refuge on a mountain and was drowned.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000007",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "On which mountain did the Ark come to rest after the Flood?",
+  "options": [
+   "Hira",
+   "Uhud",
+   "Sinai",
+   "Al-Judi"
+  ],
+  "answer_index": 3,
+  "source": "Hud 11/44",
+  "explanation": "The Ark settled upon al-Judi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000008",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How many of each kind of animal was Nuh commanded to take aboard the Ark?",
+  "options": [
+   "Three",
+   "Seven",
+   "A pair (two)",
+   "One"
+  ],
+  "answer_index": 2,
+  "source": "Hud 11/40",
+  "explanation": "Nuh was told to take two of every kind.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000009",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "To which people was Prophet Hud sent?",
+  "options": [
+   "Thamud",
+   "'Ad",
+   "Madyan",
+   "Saba"
+  ],
+  "answer_index": 1,
+  "source": "Al-A'raf 7/65",
+  "explanation": "God sent Hud to the people of 'Ad.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000010",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How was the people of 'Ad destroyed?",
+  "options": [
+   "By a flood",
+   "By a rain of stones",
+   "By an earthquake",
+   "By a violent wind"
+  ],
+  "answer_index": 3,
+  "source": "Al-Haqqah 69/6-7",
+  "explanation": "They were destroyed by a furious, bitterly cold wind lasting seven nights and eight days.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000011",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What miracle did Prophet Salih show his people?",
+  "options": [
+   "A staff that became a snake",
+   "Raising the dead",
+   "A she-camel from the rock",
+   "A fire that became cool"
+  ],
+  "answer_index": 2,
+  "source": "Al-A'raf 7/73",
+  "explanation": "The she-camel was 'God's camel'; the Thamud killed her and were destroyed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000012",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "To which people was Prophet Salih sent?",
+  "options": [
+   "Thamud",
+   "'Ad",
+   "Madyan",
+   "Saba"
+  ],
+  "answer_index": 0,
+  "source": "Al-A'raf 7/73",
+  "explanation": "Salih was sent to the people of Thamud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000013",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How were the people of Lut (Lot) destroyed?",
+  "options": [
+   "By a flood",
+   "By famine",
+   "By drowning in the sea",
+   "By a rain of stones"
+  ],
+  "answer_index": 3,
+  "source": "Hud 11/82",
+  "explanation": "Their town was overturned and a rain of baked clay stones fell on them.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000014",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Who among Lut's household did not believe and perished with his people?",
+  "options": [
+   "Lut's wife",
+   "Lut's daughter",
+   "Lut's brother",
+   "Lut's son"
+  ],
+  "answer_index": 0,
+  "source": "At-Tahrim 66/10",
+  "explanation": "The Quran gives the wives of Nuh and Lut as examples of those who betrayed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000015",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which prophet broke the idols and was thrown into the fire by his people?",
+  "options": [
+   "Musa",
+   "Nuh",
+   "Ibrahim (Abraham)",
+   "Yunus"
+  ],
+  "answer_index": 2,
+  "source": "Al-Anbiya 21/57-69",
+  "explanation": "Ibrahim broke the idols, was thrown into the fire, and God made it cool and safe.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000016",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What did God command the fire when Ibrahim was thrown in?",
+  "options": [
+   "'Go out at once'",
+   "'Be coolness and safety for Ibrahim'",
+   "'Burn him'",
+   "'Burn slowly'"
+  ],
+  "answer_index": 1,
+  "source": "Al-Anbiya 21/69",
+  "explanation": "God said: 'O fire, be coolness and safety upon Ibrahim.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000017",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which prophet is called 'Khalilullah' (Friend of God) in the Quran?",
+  "options": [
+   "Ibrahim",
+   "Musa",
+   "Isa",
+   "Dawud"
+  ],
+  "answer_index": 0,
+  "source": "An-Nisa 4/125",
+  "explanation": "God took Ibrahim as a close friend.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000018",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Who were Ibrahim's two prophet sons?",
+  "options": [
+   "Yusuf and Binyamin",
+   "Musa and Harun",
+   "Ismail and Ishaq",
+   "Yahya and Zakariyya"
+  ],
+  "answer_index": 2,
+  "source": "Ibrahim 14/39",
+  "explanation": "Ibrahim thanks God for giving him Ismail and Ishaq in old age.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000019",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "In which surah is Ibrahim's dream of sacrificing his son told?",
+  "options": [
+   "Al-Baqarah",
+   "Maryam",
+   "Hud",
+   "As-Saffat"
+  ],
+  "answer_index": 3,
+  "source": "As-Saffat 37/99-113",
+  "explanation": "As-Saffat tells of his test and the great sacrifice that ransomed his son.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000020",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which two hills did Hajar run between searching for water for her son?",
+  "options": [
+   "Uhud and Hira",
+   "As-Safa and Al-Marwah",
+   "Arafat and Muzdalifah",
+   "Thawr and Nur"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/158",
+  "explanation": "Sa'i between Safa and Marwah in Hajj and Umrah recalls Hajar's search.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000021",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which son did Ibrahim rebuild the foundations of the Kaaba with?",
+  "options": [
+   "Ismail",
+   "Ishaq",
+   "Yusuf",
+   "Yaqub"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/127",
+  "explanation": "Ibrahim and Ismail raised the foundations of the House.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000022",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which prophet was the son of Ishaq?",
+  "options": [
+   "Yusuf",
+   "Yaqub (Jacob)",
+   "Ismail",
+   "Hud"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/133",
+  "explanation": "Yaqub was the son of Ishaq.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000023",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "The name 'Children of Israel' comes from the title of which prophet?",
+  "options": [
+   "Ishaq",
+   "Yusuf",
+   "Yaqub",
+   "Musa"
+  ],
+  "answer_index": 2,
+  "source": "Al Imran 3/93",
+  "explanation": "Israel was a title of Yaqub; the Children of Israel descend from him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000024",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How many stars did Yusuf (Joseph) see prostrating to him in his dream?",
+  "options": [
+   "Seven",
+   "Nine",
+   "Twelve",
+   "Eleven"
+  ],
+  "answer_index": 3,
+  "source": "Yusuf 12/4",
+  "explanation": "He saw eleven stars, the sun and the moon prostrating to him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000025",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who threw Yusuf into the well?",
+  "options": [
+   "His brothers",
+   "His uncles",
+   "His neighbours",
+   "The people of Egypt"
+  ],
+  "answer_index": 0,
+  "source": "Yusuf 12/8-15",
+  "explanation": "His jealous brothers threw him into the well.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000026",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "According to Yusuf's interpretation, how many years of plenty would Egypt have?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "Yusuf 12/47-48",
+  "explanation": "He interpreted the king's dream as seven years of plenty followed by seven of famine.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000027",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What happened to Yaqub's eyes out of grief for his son?",
+  "options": [
+   "He became deaf",
+   "He lost his speech",
+   "They turned white (he lost sight)",
+   "He died of grief"
+  ],
+  "answer_index": 2,
+  "source": "Yusuf 12/84",
+  "explanation": "'His eyes became white from grief.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000028",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How was Yaqub's sight restored?",
+  "options": [
+   "With Zamzam water",
+   "With medicine",
+   "With a prayer only",
+   "Yusuf's shirt was cast on his face"
+  ],
+  "answer_index": 3,
+  "source": "Yusuf 12/93-96",
+  "explanation": "When the bearer of good news placed Yusuf's shirt on his face, he regained his sight.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000029",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which quality is Prophet Ayyub (Job) best known for?",
+  "options": [
+   "Generosity",
+   "Patience",
+   "Strength",
+   "Trade"
+  ],
+  "answer_index": 1,
+  "source": "Al-Anbiya 21/83-84; Sad 38/41-44",
+  "explanation": "He bore illness and hardship patiently and God healed him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000030",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "To which people was Prophet Shu'ayb sent?",
+  "options": [
+   "'Ad",
+   "Thamud",
+   "Saba",
+   "Madyan"
+  ],
+  "answer_index": 3,
+  "source": "Hud 11/84",
+  "explanation": "Shu'ayb was sent to the people of Madyan who cheated in weights and measures.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000031",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What did Shu'ayb warn his people against?",
+  "options": [
+   "Idol worship",
+   "Taking orphans' wealth",
+   "Cheating in weights and measures",
+   "Theft"
+  ],
+  "answer_index": 2,
+  "source": "Hud 11/84-85",
+  "explanation": "He told them to give full measure and weight.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000032",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How was Musa's mother guided to protect her baby from Pharaoh?",
+  "options": [
+   "By inspiration (revelation)",
+   "By a dream",
+   "By a soothsayer",
+   "She received no guidance"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qasas 28/7",
+  "explanation": "God inspired her to nurse him and, if she feared, to cast him into the river.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000033",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Who was the wife of Pharaoh who took in Musa and raised him?",
+  "options": [
+   "Asiyah",
+   "Hajar",
+   "Sarah",
+   "Maryam"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qasas 28/9; At-Tahrim 66/11",
+  "explanation": "Pharaoh's wife said: 'He will be a joy to the eye for me and you.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000034",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which brother did Musa ask to be his helper in the mission?",
+  "options": [
+   "Yusuf",
+   "Yahya",
+   "Khidr",
+   "Harun (Aaron)"
+  ],
+  "answer_index": 3,
+  "source": "Ta-Ha 20/29-32",
+  "explanation": "Musa asked God to make his brother Harun his helper.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000035",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which is one of Musa's best-known miracles?",
+  "options": [
+   "A she-camel from a rock",
+   "Raising the dead",
+   "His staff turning into a snake",
+   "Cooling the fire"
+  ],
+  "answer_index": 2,
+  "source": "Ta-Ha 20/17-21",
+  "explanation": "His staff became a serpent by God's leave, and his hand shone white.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000036",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "On which mountain did God speak to Musa?",
+  "options": [
+   "Uhud",
+   "Tur (Sinai)",
+   "Judi",
+   "Nur"
+  ],
+  "answer_index": 1,
+  "source": "Al-Qasas 28/29-30",
+  "explanation": "Musa saw a fire near Tur and was addressed by God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000037",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which scripture was revealed to Musa?",
+  "options": [
+   "The Tawrah (Torah)",
+   "The Zabur (Psalms)",
+   "The Injil (Gospel)",
+   "The Scrolls"
+  ],
+  "answer_index": 0,
+  "source": "Al-Ma'idah 5/44",
+  "explanation": "God revealed the Tawrah to Musa.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000038",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which scripture was revealed to Dawud (David)?",
+  "options": [
+   "The Tawrah",
+   "The Injil",
+   "The Zabur",
+   "The Quran"
+  ],
+  "answer_index": 2,
+  "source": "An-Nisa 4/163",
+  "explanation": "God gave Dawud the Zabur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000039",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which scripture was revealed to Isa (Jesus)?",
+  "options": [
+   "The Tawrah",
+   "The Injil",
+   "The Zabur",
+   "The Scrolls"
+  ],
+  "answer_index": 1,
+  "source": "Al-Ma'idah 5/46",
+  "explanation": "God revealed the Injil to Isa.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000040",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What happened to the sea when Musa struck it with his staff as the Israelites left?",
+  "options": [
+   "It suddenly dried",
+   "Its waves rose",
+   "It became calm",
+   "It split apart"
+  ],
+  "answer_index": 3,
+  "source": "Ash-Shu'ara 26/63",
+  "explanation": "The sea parted and each part was like a great mountain.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000041",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "How were Pharaoh and his army destroyed?",
+  "options": [
+   "By a storm",
+   "By drowning in the sea",
+   "By an earthquake",
+   "By a rain of stones"
+  ],
+  "answer_index": 1,
+  "source": "Ash-Shu'ara 26/66; Yunus 10/90-92",
+  "explanation": "They followed the Israelites into the sea and drowned.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000042",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Who was Pharaoh's minister who was told to build him a tower?",
+  "options": [
+   "Haman",
+   "Qarun",
+   "As-Samiri",
+   "Abraha"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qasas 28/38",
+  "explanation": "Pharaoh said: 'O Haman, light a fire for bricks and build me a tower.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000043",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who was proud of his wealth, was ungrateful to God, and was swallowed by the earth?",
+  "options": [
+   "Haman",
+   "Pharaoh",
+   "Nimrod",
+   "Qarun (Korah)"
+  ],
+  "answer_index": 3,
+  "source": "Al-Qasas 28/76-81",
+  "explanation": "Qarun took his wealth as his own achievement and was swallowed with his treasures.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000044",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What did part of the Israelites worship in Musa's absence?",
+  "options": [
+   "The sun",
+   "Fire",
+   "A golden calf",
+   "The moon"
+  ],
+  "answer_index": 2,
+  "source": "Ta-Ha 20/85-88",
+  "explanation": "As-Samiri made a golden calf which a group worshipped.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000045",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "In which surah is the killing of Jalut (Goliath) by Dawud told?",
+  "options": [
+   "An-Nisa",
+   "Al-Ma'idah",
+   "Al-Baqarah",
+   "Yusuf"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/249-251",
+  "explanation": "Surah Al-Baqarah tells of Talut's army and Dawud killing Jalut.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000046",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What did God soften for Dawud?",
+  "options": [
+   "Copper",
+   "Gold",
+   "Stone",
+   "Iron"
+  ],
+  "answer_index": 3,
+  "source": "Saba 34/10",
+  "explanation": "God softened iron for Dawud and taught him to make armour.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000047",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who was the father of Sulayman (Solomon)?",
+  "options": [
+   "Dawud",
+   "Yaqub",
+   "Yusuf",
+   "Ibrahim"
+  ],
+  "answer_index": 0,
+  "source": "An-Naml 27/16",
+  "explanation": "Sulayman inherited from Dawud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000048",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which ability did God give Sulayman?",
+  "options": [
+   "Immortality",
+   "Understanding the speech of birds",
+   "Never needing sleep",
+   "Splitting the sea with a staff"
+  ],
+  "answer_index": 1,
+  "source": "An-Naml 27/16",
+  "explanation": "God taught him the speech of birds and subjected the wind and jinn to him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000049",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What alerted the jinn to the death of Sulayman while he leaned on his staff?",
+  "options": [
+   "His throne collapsing",
+   "A voice from the sky",
+   "The sky growing dark",
+   "A creature of the earth eating the staff so he fell"
+  ],
+  "answer_index": 3,
+  "source": "Saba 34/14",
+  "explanation": "He died leaning on his staff; when a creature ate it he fell and the jinn realised he was dead.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000050",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How did Sulayman invite the Queen of Sheba to Islam?",
+  "options": [
+   "With a human messenger",
+   "With a call from a mountain",
+   "With a letter sent by the hoopoe",
+   "With a dream"
+  ],
+  "answer_index": 2,
+  "source": "An-Naml 27/28-30",
+  "explanation": "He sent a letter with the hoopoe.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000051",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "In which surah is the Queen of Sheba's throne brought in the blink of an eye?",
+  "options": [
+   "An-Naml",
+   "Al-Kahf",
+   "Maryam",
+   "Hud"
+  ],
+  "answer_index": 0,
+  "source": "An-Naml 27/38-42",
+  "explanation": "Surah An-Naml tells how her throne was brought before Sulayman's glance returned.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000052",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which prophet was swallowed by a great fish?",
+  "options": [
+   "Ayyub",
+   "Yunus (Jonah)",
+   "Hud",
+   "Zakariyya"
+  ],
+  "answer_index": 1,
+  "source": "As-Saffat 37/139-148",
+  "explanation": "Yunus left his people in anger and was swallowed by the fish.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000053",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What prayer did Yunus make in the belly of the fish?",
+  "options": [
+   "'No god but You, glory to You; I was a wrongdoer'",
+   "'Our Lord, give us good in this world'",
+   "'My Lord, increase me in knowledge'",
+   "'God is enough for us'"
+  ],
+  "answer_index": 0,
+  "source": "Al-Anbiya 21/87",
+  "explanation": "He called out in the darkness with this supplication.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000054",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which prophet is called 'Dhun-Nun' (the Man of the Fish) in the Quran?",
+  "options": [
+   "Musa",
+   "Ilyas",
+   "Yunus",
+   "Nuh"
+  ],
+  "answer_index": 2,
+  "source": "Al-Anbiya 21/87",
+  "explanation": "Dhun-Nun refers to Yunus.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000055",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which prophet took Maryam under his care?",
+  "options": [
+   "Musa",
+   "Zakariyya (Zechariah)",
+   "Ismail",
+   "Yusuf"
+  ],
+  "answer_index": 1,
+  "source": "Al Imran 3/37",
+  "explanation": "Zakariyya cared for Maryam and found provision with her in the sanctuary.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000056",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who was the father of Yahya (John)?",
+  "options": [
+   "Imran",
+   "Harun",
+   "Dawud",
+   "Zakariyya"
+  ],
+  "answer_index": 3,
+  "source": "Maryam 19/2-7",
+  "explanation": "In old age Zakariyya was given Yahya in answer to his prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000057",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Maryam's mother is called the wife of whom in the Quran?",
+  "options": [
+   "Zakariyya",
+   "Yusuf",
+   "Harun",
+   "Imran"
+  ],
+  "answer_index": 3,
+  "source": "Al Imran 3/35",
+  "explanation": "Maryam's mother is mentioned as the wife of Imran; she vowed her child to God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000058",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Which tree did Maryam lean against during childbirth?",
+  "options": [
+   "A date palm",
+   "An olive tree",
+   "A fig tree",
+   "A plane tree"
+  ],
+  "answer_index": 0,
+  "source": "Maryam 19/23-25",
+  "explanation": "The pains of labour took her to the trunk of a date palm.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000059",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What did Isa say in the cradle?",
+  "options": [
+   "'I am the son of God'",
+   "'I am a servant of God'",
+   "'I am an angel'",
+   "He did not speak"
+  ],
+  "answer_index": 1,
+  "source": "Maryam 19/29-30",
+  "explanation": "He said: 'Indeed I am the servant of God; He has given me the Scripture and made me a prophet.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000060",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which miracle did God perform through Isa?",
+  "options": [
+   "Splitting the sea",
+   "Moving mountains",
+   "Raising the dead by God's leave",
+   "Stopping the sun"
+  ],
+  "answer_index": 2,
+  "source": "Al Imran 3/49",
+  "explanation": "He raised the dead and healed the blind and the leper, by God's leave.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000061",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What are Isa's close followers called in the Quran?",
+  "options": [
+   "Ansar",
+   "Muhajirun",
+   "Hawariyyun (the disciples)",
+   "People of the Suffah"
+  ],
+  "answer_index": 2,
+  "source": "Al Imran 3/52",
+  "explanation": "The disciples were his helpers.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000062",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "What did the disciples ask Isa to have sent down from heaven?",
+  "options": [
+   "A table spread with food (ma'idah)",
+   "Fire",
+   "Gold",
+   "Rain"
+  ],
+  "answer_index": 0,
+  "source": "Al-Ma'idah 5/112-115",
+  "explanation": "They asked for a table from heaven; the surah takes its name from it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000063",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What is Dhul-Qarnayn best known for in the Quran?",
+  "options": [
+   "Building the Kaaba",
+   "Building a barrier against Gog and Magog",
+   "Surviving in an Ark",
+   "Splitting the sea"
+  ],
+  "answer_index": 1,
+  "source": "Al-Kahf 18/94-98",
+  "explanation": "He built a barrier of iron and copper against Ya'juj and Ma'juj.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000064",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "For how many years did the People of the Cave sleep?",
+  "options": [
+   "40",
+   "100",
+   "300",
+   "309"
+  ],
+  "answer_index": 3,
+  "source": "Al-Kahf 18/25",
+  "explanation": "Surah Al-Kahf says they stayed three hundred years and added nine.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000065",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which animal was with the People of the Cave?",
+  "options": [
+   "A horse",
+   "A dog",
+   "A sheep",
+   "A dove"
+  ],
+  "answer_index": 1,
+  "source": "Al-Kahf 18/18",
+  "explanation": "Their dog lay at the entrance with its paws stretched out.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000066",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "According to the hadith, who is the servant of God with whom Musa travelled in Surah Al-Kahf?",
+  "options": [
+   "Yusha'",
+   "Harun",
+   "Khidr",
+   "Dhul-Qarnayn"
+  ],
+  "answer_index": 2,
+  "source": "Al-Kahf 18/65-82; Bukhari, Knowledge",
+  "explanation": "The hadith identifies the knowledgeable servant as al-Khidr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000067",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How many prophets are mentioned by name in the Quran?",
+  "options": [
+   "10",
+   "25",
+   "124",
+   "313"
+  ],
+  "answer_index": 1,
+  "source": "Names of the prophets in the Quran",
+  "explanation": "Twenty-five prophets are mentioned by name.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000068",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Which of these prophets is not among the 'Ulul-'Azm' (those of firm resolve)?",
+  "options": [
+   "Nuh",
+   "Ibrahim",
+   "Musa",
+   "Yusuf"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ahqaf 46/35",
+  "explanation": "The scholars list Nuh, Ibrahim, Musa, Isa and Muhammad.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000069",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "How does the Quran describe the raising of Isa?",
+  "options": [
+   "He climbed a ladder",
+   "He disappeared",
+   "He perished in a flood",
+   "God raised him to Himself"
+  ],
+  "answer_index": 3,
+  "source": "An-Nisa 4/157-158",
+  "explanation": "'Rather, God raised him to Himself.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000070",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "How does the Quran describe Idris?",
+  "options": [
+   "God raised him to a high station",
+   "He drowned in the sea",
+   "He sheltered in a cave",
+   "He was exiled to the desert"
+  ],
+  "answer_index": 0,
+  "source": "Maryam 19/56-57",
+  "explanation": "'And We raised him to a high station.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000071",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which prayer did Musa make to ask God to open his heart?",
+  "options": [
+   "'My Lord, grant me a kingdom'",
+   "'My Lord, grant me offspring'",
+   "'My Lord, expand for me my chest'",
+   "'My Lord, admit me to Paradise'"
+  ],
+  "answer_index": 2,
+  "source": "Ta-Ha 20/25-28",
+  "explanation": "As he was sent to Pharaoh he asked: 'My Lord, expand my chest and ease my task.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000072",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which event from Musa's life is told in Surah Al-Qasas?",
+  "options": [
+   "The Hijrah",
+   "His birth and upbringing in Pharaoh's palace",
+   "The Battle of Uhud",
+   "The digging of the Trench"
+  ],
+  "answer_index": 1,
+  "source": "Al-Qasas 28/1-43",
+  "explanation": "Al-Qasas tells of his birth, upbringing and prophethood.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000073",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What title does Musa carry because God spoke to him directly?",
+  "options": [
+   "Khalilullah",
+   "Kalimullah",
+   "Safiyyullah",
+   "Ruhullah"
+  ],
+  "answer_index": 1,
+  "source": "An-Nisa 4/164",
+  "explanation": "'And God spoke to Musa directly.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000074",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What title is given to Isa in connection with the 'Spirit from God'?",
+  "options": [
+   "Kalimullah",
+   "Khalilullah",
+   "Safiyyullah",
+   "Ruhullah"
+  ],
+  "answer_index": 3,
+  "source": "An-Nisa 4/171",
+  "explanation": "The verse calls Isa the Messenger of God, His word and a spirit from Him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000075",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "From what material was Adam created according to the Quran?",
+  "options": [
+   "Fire",
+   "Light",
+   "Clay",
+   "Brightness"
+  ],
+  "answer_index": 2,
+  "source": "Sad 38/71",
+  "explanation": "God told the angels He would create a human from clay.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000076",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Why was Yusuf imprisoned?",
+  "options": [
+   "Because of the scheming of the governor's wife",
+   "Because he stole",
+   "Because he broke idols",
+   "Because he complained about his brothers"
+  ],
+  "answer_index": 0,
+  "source": "Yusuf 12/23-35",
+  "explanation": "She falsely accused him and he was jailed despite signs of his innocence.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000077",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "In which surah does a prophet interpret the dreams of two fellow prisoners?",
+  "options": [
+   "Yusuf",
+   "Al-Kahf",
+   "Hud",
+   "An-Nahl"
+  ],
+  "answer_index": 0,
+  "source": "Yusuf 12/36-41",
+  "explanation": "Surah Yusuf recounts the interpretation of the two prisoners' dreams.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000078",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "For which transgression were a group of Israelites turned into apes?",
+  "options": [
+   "Idol worship",
+   "Breaking the Sabbath",
+   "Abandoning Musa",
+   "Withholding charity"
+  ],
+  "answer_index": 1,
+  "source": "Al-A'raf 7/163-166",
+  "explanation": "The people of the seaside town broke the Sabbath rule and were transformed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000079",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Who warned her people in the Valley of the Ants?",
+  "options": [
+   "A bird",
+   "A jinn",
+   "An ant",
+   "An angel"
+  ],
+  "answer_index": 2,
+  "source": "An-Naml 27/18-19",
+  "explanation": "An ant said: 'O ants, enter your dwellings.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000080",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What act of worship did the mountains and birds join Dawud in?",
+  "options": [
+   "Hajj",
+   "Zakat",
+   "Jihad",
+   "Glorifying God (tasbih)"
+  ],
+  "answer_index": 3,
+  "source": "Sad 38/18-19",
+  "explanation": "The mountains and birds glorified God with Dawud morning and evening.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000081",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Which idol did Prophet Ilyas rebuke his people for worshipping?",
+  "options": [
+   "Al-Lat",
+   "Manat",
+   "Al-'Uzza",
+   "Ba'l"
+  ],
+  "answer_index": 3,
+  "source": "As-Saffat 37/123-125",
+  "explanation": "He said: 'Do you call upon Ba'l and leave the best of creators?'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000082",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Which place with 'lofty pillars' is mentioned in connection with 'Ad?",
+  "options": [
+   "Al-Hijr",
+   "Iram",
+   "Madyan",
+   "Yathrib"
+  ],
+  "answer_index": 1,
+  "source": "Al-Fajr 89/6-8",
+  "explanation": "Surah Al-Fajr mentions 'Iram, possessors of lofty pillars'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000083",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "How were the believers punished in the story of the People of the Trench?",
+  "options": [
+   "They were drowned in the sea",
+   "They were stoned",
+   "They were thrown into blazing pits of fire",
+   "They were imprisoned"
+  ],
+  "answer_index": 2,
+  "source": "Al-Buruj 85/4-8",
+  "explanation": "The surah condemns those who burned believers in trenches.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000084",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Why was the owner of the two gardens in Surah Al-Kahf destroyed?",
+  "options": [
+   "For his arrogance and denial",
+   "For his stinginess",
+   "For his lying",
+   "For his stealing"
+  ],
+  "answer_index": 0,
+  "source": "Al-Kahf 18/32-44",
+  "explanation": "He grew arrogant and denied the Hereafter, so his garden was ruined.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000085",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How did Nuh's people treat him as he built the Ark?",
+  "options": [
+   "They helped him",
+   "They joined him",
+   "They fled",
+   "They mocked him"
+  ],
+  "answer_index": 3,
+  "source": "Hud 11/38",
+  "explanation": "Whenever the leaders passed by, they ridiculed him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000086",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How did Salih describe his she-camel to his people?",
+  "options": [
+   "God's camel",
+   "A sacred camel",
+   "A miraculous camel",
+   "A traveller's camel"
+  ],
+  "answer_index": 0,
+  "source": "Al-A'raf 7/73",
+  "explanation": "He said: 'This is God's she-camel, a sign for you.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000087",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "Which prophet built the Kaaba together with his father?",
+  "options": [
+   "Ishaq",
+   "Yaqub",
+   "Ismail",
+   "Yusuf"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/127",
+  "explanation": "Ibrahim and Ismail raised the foundations of the House.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000088",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who is considered the first prophet?",
+  "options": [
+   "Nuh",
+   "Adam",
+   "Ibrahim",
+   "Idris"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/30-37",
+  "explanation": "Adam, the first human, is generally considered the first prophet.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000089",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "Who is the last of the prophets?",
+  "options": [
+   "Isa",
+   "Muhammad",
+   "Musa",
+   "Nuh"
+  ],
+  "answer_index": 1,
+  "source": "Al-Ahzab 33/40",
+  "explanation": "'But he is the Messenger of God and the Seal of the Prophets.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000090",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "Which of these prophets is not a descendant of Ibrahim?",
+  "options": [
+   "Musa",
+   "Yusuf",
+   "Dawud",
+   "Nuh"
+  ],
+  "answer_index": 3,
+  "source": "Al-An'am 6/84-86",
+  "explanation": "Nuh lived before Ibrahim; the others descend from him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000091",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What punishment seized the people of Shu'ayb?",
+  "options": [
+   "A violent earthquake",
+   "A flood",
+   "A rain of stones",
+   "A storm"
+  ],
+  "answer_index": 0,
+  "source": "Al-A'raf 7/91",
+  "explanation": "The earthquake seized them and they lay motionless in their homes.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000092",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "In which surah is Zakariyya's prayer for a child told?",
+  "options": [
+   "Yusuf",
+   "Al-Kahf",
+   "Maryam",
+   "An-Nahl"
+  ],
+  "answer_index": 2,
+  "source": "Maryam 19/2-6",
+  "explanation": "Surah Maryam tells how he called upon his Lord secretly and was given Yahya.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000093",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What punishment fell on the people of Saba' for their ingratitude?",
+  "options": [
+   "Fire",
+   "A storm",
+   "The flood of 'Arim",
+   "An earthquake"
+  ],
+  "answer_index": 2,
+  "source": "Saba 34/15-16",
+  "explanation": "The flood of the dam destroyed their gardens.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000094",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What did God send against Abraha's army?",
+  "options": [
+   "A storm",
+   "A flood",
+   "An earthquake",
+   "Flocks of birds"
+  ],
+  "answer_index": 3,
+  "source": "Al-Fil 105/3-4",
+  "explanation": "He sent flocks of birds that pelted them with stones of baked clay.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000095",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "What food was sent down to the Israelites in the wilderness?",
+  "options": [
+   "Dates and milk",
+   "Manna and quails",
+   "Honey and figs",
+   "Olives and pomegranates"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/57",
+  "explanation": "God shaded them with clouds and sent down manna and quails.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000096",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "How many springs gushed from the rock when Musa struck it with his staff?",
+  "options": [
+   "3",
+   "7",
+   "12",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/60",
+  "explanation": "Twelve springs gushed forth, and each tribe knew its drinking place.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000097",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "What did Ibrahim serve his angel guests?",
+  "options": [
+   "Cooked fish",
+   "Dates and milk",
+   "A roasted calf",
+   "Honey and bread"
+  ],
+  "answer_index": 2,
+  "source": "Hud 11/69",
+  "explanation": "He soon brought a roasted calf.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-kissalar-000098",
+  "lang": "en",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "How did Maryam respond to her people after Isa was born?",
+  "options": [
+   "She gave a long speech",
+   "She left the city",
+   "She swore an oath",
+   "She vowed silence and pointed to the baby"
+  ],
+  "answer_index": 3,
+  "source": "Maryam 19/26-29",
+  "explanation": "She said she had vowed a fast and would not speak to anyone, and pointed to the baby, who spoke.",
+  "review_status": "draft"
+ }
+]

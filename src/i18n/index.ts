@@ -95,3 +95,11 @@ export function t(key: TKey, params?: Record<string, string | number>): string {
   if (params) for (const [k, v] of Object.entries(params)) out = out.replaceAll(`{${k}}`, String(v));
   return out;
 }
+
+/**
+ * Büyük harf dönüşümü. Hermes (Android) `toLocaleUpperCase(yerel)` bağımsız değişkenini yok sayıp cihaz yerelini kullanabilir
+ * (Türkçe cihazda İngilizce "family" → "FAMİLY"); bu yüzden dönüşümü kendimiz yaparız:
+ * i/ı harflerini elle eşleriz (Türkçede i→İ, ı→I; diğer dillerde i→I), kalanı `toUpperCase()` ile.
+ */
+export const upper = (s: string): string =>
+  (getLang() === 'tr' ? s.replace(/i/g, '\u0130').replace(/\u0131/g, 'I') : s.replace(/i/g, 'I')).toUpperCase();

@@ -49,7 +49,10 @@ export async function signInWithApple(): Promise<AuthResult> {
     });
     if (!cred.identityToken) return 'error';
     const { error } = await supabase.auth.signInWithIdToken({ provider: 'apple', token: cred.identityToken, nonce: raw });
-    return error ? 'error' : 'ok';
+    if (error) return 'error';
+    // Hesap silinirken Apple belirtecini iptal edebilmek için yetkilendirme kodunu sunucuya bırak (başarısızlık girişi bozmaz).
+    if (cred.authorizationCode) supabase.functions.invoke('apple-link', { body: { code: cred.authorizationCode } }).catch(() => {});
+    return 'ok';
   } catch (e) {
     return (e as { code?: string }).code === 'ERR_REQUEST_CANCELED' ? 'cancelled' : 'error';
   }
@@ -95,14 +98,21 @@ export async function signOut(): Promise<void> {
 /**
  * Hesabı kalıcı siler (App Store 5.1.1(v)): sunucuda `delete_my_account()` → oturumu kapat → cihazdaki tüm yerel veriyi temizle.
  * Sunucu başarısızsa HATA fırlatır ve yerel veriye dokunmaz (kullanıcı yanıltılmasın).
- * Not: Mağaza abonelikleri mağaza tarafında ayrıca iptal edilmelidir; Apple ile giriş için token iptali sunucu fonksiyonu gerektirir (docs/setup-accounts.md).
+ * Silme önce Edge Function `delete-account` ile denenir (Apple belirtecini iptal eder, sonra kullanıcıyı siler); fonksiyon
+ * dağıtılmamışsa (404) eski RPC `delete_my_account()` kullanılır. Fonksiyon VAR ama başarısızsa hata fırlatılır
+ * (Apple bağlantısı açıkta kalmasın). Mağaza abonelikleri mağazada ayrıca iptal edilmelidir.
  */
 export async function deleteAccount(): Promise<void> {
   if (supabase) {
     const { data } = await supabase.auth.getSession();
     if (data.session) {
-      const { error } = await supabase.rpc('delete_my_account');
-      if (error) throw error;
+      const { error: fnError } = await supabase.functions.invoke('delete-account');
+      if (fnError) {
+        const status = (fnError as { context?: { status?: number } }).context?.status;
+        if (status !== 404) throw fnError; // fonksiyon var ama başarısız → silme iptal
+        const { error } = await supabase.rpc('delete_my_account'); // fonksiyon dağıtılmamış → RPC
+        if (error) throw error;
+      }
     }
     await signOut();
   }

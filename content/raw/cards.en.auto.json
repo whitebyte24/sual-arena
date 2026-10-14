@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "c-en-000001",
+  "lang": "en",
+  "level": "child",
+  "target": "Kaaba",
+  "forbidden": [
+   "Mecca",
+   "Hajj",
+   "pilgrimage",
+   "qibla"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000002",
+  "lang": "en",
+  "level": "child",
+  "target": "Prayer mat",
+  "forbidden": [
+   "salah",
+   "kneel",
+   "rug",
+   "floor"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000003",
+  "lang": "en",
+  "level": "child",
+  "target": "Prayer beads",
+  "forbidden": [
+   "dhikr",
+   "count",
+   "string",
+   "thirty-three"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000004",
+  "lang": "en",
+  "level": "child",
+  "target": "Iftar",
+  "forbidden": [
+   "fasting",
+   "sunset",
+   "dates",
+   "meal"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000005",
+  "lang": "en",
+  "level": "child",
+  "target": "Suhoor",
+  "forbidden": [
+   "fasting",
+   "dawn",
+   "meal",
+   "Ramadan"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000006",
+  "lang": "en",
+  "level": "child",
+  "target": "Zamzam",
+  "forbidden": [
+   "Kaaba",
+   "water",
+   "well",
+   "Mecca"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000007",
+  "lang": "en",
+  "level": "child",
+  "target": "Adhan",
+  "forbidden": [
+   "muezzin",
+   "minaret",
+   "call",
+   "prayer"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000008",
+  "lang": "en",
+  "level": "child",
+  "target": "Sacrifice",
+  "forbidden": [
+   "Eid",
+   "sheep",
+   "Ibrahim",
+   "slaughter"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000009",
+  "lang": "en",
+  "level": "child",
+  "target": "Quran",
+  "forbidden": [
+   "book",
+   "revelation",
+   "recite",
+   "Muslims"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000010",
+  "lang": "en",
+  "level": "child",
+  "target": "Supplication",
+  "forbidden": [
+   "ask",
+   "God",
+   "hands",
+   "plea"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000011",
+  "lang": "en",
+  "level": "child",
+  "target": "Prayer",
+  "forbidden": [
+   "bow",
+   "prostrate",
+   "qibla",
+   "five"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000012",
+  "lang": "en",
+  "level": "child",
+  "target": "Fasting",
+  "forbidden": [
+   "Ramadan",
+   "hungry",
+   "dawn",
+   "sunset"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000013",
+  "lang": "en",
+  "level": "child",
+  "target": "Charity",
+  "forbidden": [
+   "give",
+   "poor",
+   "needy",
+   "donate"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000014",
+  "lang": "en",
+  "level": "child",
+  "target": "Umrah",
+  "forbidden": [
+   "Kaaba",
+   "ihram",
+   "Mecca",
+   "tawaf"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000015",
+  "lang": "en",
+  "level": "child",
+  "target": "Medina",
+  "forbidden": [
+   "Prophet",
+   "city",
+   "hijrah",
+   "mosque"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000016",
+  "lang": "en",
+  "level": "child",
+  "target": "Mecca",
+  "forbidden": [
+   "Kaaba",
+   "Hajj",
+   "city",
+   "birthplace"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000017",
+  "lang": "en",
+  "level": "child",
+  "target": "Prophet",
+  "forbidden": [
+   "messenger",
+   "God",
+   "revelation",
+   "Muhammad"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000018",
+  "lang": "en",
+  "level": "child",
+  "target": "Angel",
+  "forbidden": [
+   "Jibril",
+   "wings",
+   "light",
+   "God"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000019",
+  "lang": "en",
+  "level": "child",
+  "target": "Paradise",
+  "forbidden": [
+   "Jannah",
+   "garden",
+   "reward",
+   "hereafter"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000020",
+  "lang": "en",
+  "level": "child",
+  "target": "Greeting of peace",
+  "forbidden": [
+   "salam",
+   "hello",
+   "alaykum",
+   "say"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000021",
+  "lang": "en",
+  "level": "child",
+  "target": "Guest",
+  "forbidden": [
+   "host",
+   "visitor",
+   "hospitality",
+   "house"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000022",
+  "lang": "en",
+  "level": "child",
+  "target": "Neighbour",
+  "forbidden": [
+   "next door",
+   "house",
+   "street",
+   "live"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000023",
+  "lang": "en",
+  "level": "child",
+  "target": "Orphan",
+  "forbidden": [
+   "parents",
+   "child",
+   "care",
+   "father"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000024",
+  "lang": "en",
+  "level": "child",
+  "target": "Dates",
+  "forbidden": [
+   "fruit",
+   "palm",
+   "sweet",
+   "iftar"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000025",
+  "lang": "en",
+  "level": "child",
+  "target": "Mosque",
+  "forbidden": [
+   "masjid",
+   "prayer",
+   "minaret",
+   "worship"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000026",
+  "lang": "en",
+  "level": "child",
+  "target": "Gift",
+  "forbidden": [
+   "present",
+   "give",
+   "wrap",
+   "surprise"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000027",
+  "lang": "en",
+  "level": "child",
+  "target": "Kindness",
+  "forbidden": [
+   "nice",
+   "help",
+   "gentle",
+   "good"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000028",
+  "lang": "en",
+  "level": "child",
+  "target": "Friendship",
+  "forbidden": [
+   "companion",
+   "trust",
+   "loyalty",
+   "buddy"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000029",
+  "lang": "en",
+  "level": "child",
+  "target": "Teamwork",
+  "forbidden": [
+   "together",
+   "help",
+   "group",
+   "cooperate"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000030",
+  "lang": "en",
+  "level": "child",
+  "target": "Honesty",
+  "forbidden": [
+   "truth",
+   "lie",
+   "trust",
+   "sincere"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000031",
+  "lang": "en",
+  "level": "child",
+  "target": "Eid",
+  "forbidden": [
+   "festival",
+   "fast",
+   "celebration",
+   "prayer"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000032",
+  "lang": "en",
+  "level": "child",
+  "target": "Ramadan",
+  "forbidden": [
+   "fasting",
+   "month",
+   "iftar",
+   "moon"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000033",
+  "lang": "en",
+  "level": "child",
+  "target": "Crescent",
+  "forbidden": [
+   "moon",
+   "new",
+   "symbol",
+   "shape"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000034",
+  "lang": "en",
+  "level": "child",
+  "target": "Minaret",
+  "forbidden": [
+   "tower",
+   "adhan",
+   "mosque",
+   "muezzin"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000035",
+  "lang": "en",
+  "level": "child",
+  "target": "Dome",
+  "forbidden": [
+   "round",
+   "mosque",
+   "roof",
+   "green"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000036",
+  "lang": "en",
+  "level": "child",
+  "target": "Pilgrim",
+  "forbidden": [
+   "Hajj",
+   "Kaaba",
+   "journey",
+   "Mecca"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000037",
+  "lang": "en",
+  "level": "child",
+  "target": "Wudu",
+  "forbidden": [
+   "wash",
+   "water",
+   "ablution",
+   "prayer"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000038",
+  "lang": "en",
+  "level": "child",
+  "target": "Zakat",
+  "forbidden": [
+   "charity",
+   "poor",
+   "wealth",
+   "annual"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000039",
+  "lang": "en",
+  "level": "child",
+  "target": "Mercy",
+  "forbidden": [
+   "compassion",
+   "kind",
+   "forgive",
+   "Rahman"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000040",
+  "lang": "en",
+  "level": "child",
+  "target": "Gratitude",
+  "forbidden": [
+   "thanks",
+   "thankful",
+   "blessings",
+   "appreciate"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000041",
+  "lang": "en",
+  "level": "child",
+  "target": "Parents",
+  "forbidden": [
+   "mother",
+   "father",
+   "obey",
+   "respect"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000042",
+  "lang": "en",
+  "level": "child",
+  "target": "Cleanliness",
+  "forbidden": [
+   "hygiene",
+   "wash",
+   "tidy",
+   "pure"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000043",
+  "lang": "en",
+  "level": "child",
+  "target": "Smile",
+  "forbidden": [
+   "face",
+   "happy",
+   "charity",
+   "teeth"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000044",
+  "lang": "en",
+  "level": "child",
+  "target": "Forgiveness",
+  "forbidden": [
+   "sorry",
+   "pardon",
+   "mercy",
+   "excuse"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000045",
+  "lang": "en",
+  "level": "child",
+  "target": "Lantern",
+  "forbidden": [
+   "light",
+   "Ramadan",
+   "glass",
+   "candle"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000046",
+  "lang": "en",
+  "level": "child",
+  "target": "Imam",
+  "forbidden": [
+   "lead",
+   "prayer",
+   "mosque",
+   "congregation"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000047",
+  "lang": "en",
+  "level": "child",
+  "target": "Qibla",
+  "forbidden": [
+   "direction",
+   "Kaaba",
+   "face",
+   "prayer"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000048",
+  "lang": "en",
+  "level": "child",
+  "target": "Prostration",
+  "forbidden": [
+   "forehead",
+   "ground",
+   "sujud",
+   "kneel"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000049",
+  "lang": "en",
+  "level": "child",
+  "target": "Sweets",
+  "forbidden": [
+   "candy",
+   "Eid",
+   "sugar",
+   "children"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000050",
+  "lang": "en",
+  "level": "child",
+  "target": "Moon",
+  "forbidden": [
+   "crescent",
+   "night",
+   "sky",
+   "lunar"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000051",
+  "lang": "en",
+  "level": "teen",
+  "target": "Hijrah",
+  "forbidden": [
+   "Medina",
+   "migration",
+   "Mecca",
+   "622"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000052",
+  "lang": "en",
+  "level": "teen",
+  "target": "Badr",
+  "forbidden": [
+   "battle",
+   "313",
+   "Ramadan",
+   "well"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000053",
+  "lang": "en",
+  "level": "teen",
+  "target": "Al-Aqsa",
+  "forbidden": [
+   "Jerusalem",
+   "first qibla",
+   "Isra",
+   "mosque"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000054",
+  "lang": "en",
+  "level": "teen",
+  "target": "Miraj",
+  "forbidden": [
+   "ascension",
+   "heavens",
+   "night",
+   "five prayers"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000055",
+  "lang": "en",
+  "level": "teen",
+  "target": "Night of Power",
+  "forbidden": [
+   "Ramadan",
+   "better than",
+   "thousand months",
+   "Quran"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000056",
+  "lang": "en",
+  "level": "teen",
+  "target": "Ashura",
+  "forbidden": [
+   "Muharram",
+   "fasting",
+   "tenth",
+   "Musa"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000057",
+  "lang": "en",
+  "level": "teen",
+  "target": "Mawlid",
+  "forbidden": [
+   "birth",
+   "Prophet",
+   "Rabi' al-Awwal",
+   "commemoration"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000058",
+  "lang": "en",
+  "level": "teen",
+  "target": "Khutbah",
+  "forbidden": [
+   "Friday",
+   "pulpit",
+   "imam",
+   "sermon"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000059",
+  "lang": "en",
+  "level": "teen",
+  "target": "Fidyah",
+  "forbidden": [
+   "fasting",
+   "feed",
+   "poor",
+   "unable"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000060",
+  "lang": "en",
+  "level": "teen",
+  "target": "Nisab",
+  "forbidden": [
+   "zakat",
+   "wealth",
+   "threshold",
+   "gold"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000061",
+  "lang": "en",
+  "level": "teen",
+  "target": "Black Stone",
+  "forbidden": [
+   "Kaaba",
+   "tawaf",
+   "kiss",
+   "corner"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000062",
+  "lang": "en",
+  "level": "teen",
+  "target": "Mina",
+  "forbidden": [
+   "Hajj",
+   "stoning",
+   "tents",
+   "Arafat"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000063",
+  "lang": "en",
+  "level": "teen",
+  "target": "Muzdalifah",
+  "forbidden": [
+   "Hajj",
+   "Arafat",
+   "night",
+   "pebbles"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000064",
+  "lang": "en",
+  "level": "teen",
+  "target": "Sa'i",
+  "forbidden": [
+   "Safa",
+   "Marwah",
+   "seven",
+   "Hajj"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000065",
+  "lang": "en",
+  "level": "teen",
+  "target": "Khatm",
+  "forbidden": [
+   "Quran",
+   "finish",
+   "recite",
+   "complete"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000066",
+  "lang": "en",
+  "level": "teen",
+  "target": "Hafiz",
+  "forbidden": [
+   "memorise",
+   "Quran",
+   "heart",
+   "recite"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000067",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tajwid",
+  "forbidden": [
+   "recitation",
+   "rules",
+   "Quran",
+   "pronunciation"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000068",
+  "lang": "en",
+  "level": "teen",
+  "target": "Istighfar",
+  "forbidden": [
+   "forgiveness",
+   "sins",
+   "Astaghfirullah",
+   "seek"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000069",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tawbah",
+  "forbidden": [
+   "repentance",
+   "sins",
+   "return",
+   "regret"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000070",
+  "lang": "en",
+  "level": "teen",
+  "target": "Patience",
+  "forbidden": [
+   "wait",
+   "endure",
+   "calm",
+   "hardship"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000071",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tawakkul",
+  "forbidden": [
+   "trust",
+   "reliance",
+   "God",
+   "effort"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000072",
+  "lang": "en",
+  "level": "teen",
+  "target": "Nafila",
+  "forbidden": [
+   "voluntary",
+   "extra",
+   "prayer",
+   "reward"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000073",
+  "lang": "en",
+  "level": "teen",
+  "target": "Friday",
+  "forbidden": [
+   "Jumu'ah",
+   "khutbah",
+   "week",
+   "prayer"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000074",
+  "lang": "en",
+  "level": "teen",
+  "target": "Iqamah",
+  "forbidden": [
+   "adhan",
+   "call",
+   "prayer",
+   "congregation"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000075",
+  "lang": "en",
+  "level": "teen",
+  "target": "Funeral prayer",
+  "forbidden": [
+   "death",
+   "dead",
+   "standing",
+   "burial"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000076",
+  "lang": "en",
+  "level": "teen",
+  "target": "Shroud",
+  "forbidden": [
+   "dead",
+   "funeral",
+   "white",
+   "cloth"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000077",
+  "lang": "en",
+  "level": "teen",
+  "target": "Muhajirun",
+  "forbidden": [
+   "emigrants",
+   "Mecca",
+   "Medina",
+   "hijrah"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000078",
+  "lang": "en",
+  "level": "teen",
+  "target": "Ansar",
+  "forbidden": [
+   "helpers",
+   "Medina",
+   "Aws",
+   "Khazraj"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000079",
+  "lang": "en",
+  "level": "teen",
+  "target": "Sahabah",
+  "forbidden": [
+   "companions",
+   "Prophet",
+   "saw",
+   "believed"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000080",
+  "lang": "en",
+  "level": "teen",
+  "target": "Hudaybiyah",
+  "forbidden": [
+   "treaty",
+   "Mecca",
+   "Quraysh",
+   "sixth year"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000081",
+  "lang": "en",
+  "level": "teen",
+  "target": "Farewell Sermon",
+  "forbidden": [
+   "Arafat",
+   "Prophet",
+   "last",
+   "Hajj"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000082",
+  "lang": "en",
+  "level": "teen",
+  "target": "Cave of Thawr",
+  "forbidden": [
+   "hijrah",
+   "Abu Bakr",
+   "spider",
+   "three days"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000083",
+  "lang": "en",
+  "level": "teen",
+  "target": "Prophet's Mosque",
+  "forbidden": [
+   "Medina",
+   "Rawdah",
+   "green dome",
+   "minarets"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000084",
+  "lang": "en",
+  "level": "teen",
+  "target": "Arafat",
+  "forbidden": [
+   "Hajj",
+   "stand",
+   "ninth",
+   "plain"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000085",
+  "lang": "en",
+  "level": "teen",
+  "target": "Ihram",
+  "forbidden": [
+   "Hajj",
+   "white",
+   "garments",
+   "intention"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000086",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tarawih",
+  "forbidden": [
+   "Ramadan",
+   "night",
+   "prayer",
+   "units"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000087",
+  "lang": "en",
+  "level": "teen",
+  "target": "Hadith",
+  "forbidden": [
+   "Prophet",
+   "saying",
+   "report",
+   "narration"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000088",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tafsir",
+  "forbidden": [
+   "explanation",
+   "Quran",
+   "commentary",
+   "meaning"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000089",
+  "lang": "en",
+  "level": "teen",
+  "target": "Halal",
+  "forbidden": [
+   "permissible",
+   "lawful",
+   "allowed",
+   "food"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000090",
+  "lang": "en",
+  "level": "teen",
+  "target": "Haram",
+  "forbidden": [
+   "forbidden",
+   "prohibited",
+   "unlawful",
+   "sin"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000091",
+  "lang": "en",
+  "level": "teen",
+  "target": "Sunnah",
+  "forbidden": [
+   "Prophet",
+   "practice",
+   "way",
+   "example"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000092",
+  "lang": "en",
+  "level": "teen",
+  "target": "Ummah",
+  "forbidden": [
+   "community",
+   "Muslims",
+   "nation",
+   "together"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000093",
+  "lang": "en",
+  "level": "teen",
+  "target": "Miswak",
+  "forbidden": [
+   "toothstick",
+   "teeth",
+   "Sunnah",
+   "clean"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000094",
+  "lang": "en",
+  "level": "teen",
+  "target": "Ghusl",
+  "forbidden": [
+   "bath",
+   "wash",
+   "impurity",
+   "body"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000095",
+  "lang": "en",
+  "level": "teen",
+  "target": "Tayammum",
+  "forbidden": [
+   "dust",
+   "earth",
+   "wudu",
+   "water"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000096",
+  "lang": "en",
+  "level": "teen",
+  "target": "Qiyam",
+  "forbidden": [
+   "night",
+   "standing",
+   "prayer",
+   "Ramadan"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000097",
+  "lang": "en",
+  "level": "teen",
+  "target": "Dhikr",
+  "forbidden": [
+   "remembrance",
+   "God",
+   "repeat",
+   "beads"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000098",
+  "lang": "en",
+  "level": "teen",
+  "target": "Hamd",
+  "forbidden": [
+   "praise",
+   "glorify",
+   "God",
+   "thanks"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000099",
+  "lang": "en",
+  "level": "teen",
+  "target": "Salawat",
+  "forbidden": [
+   "blessings",
+   "Prophet",
+   "send",
+   "peace"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000100",
+  "lang": "en",
+  "level": "teen",
+  "target": "Sadaqah",
+  "forbidden": [
+   "charity",
+   "give",
+   "reward",
+   "voluntary"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000101",
+  "lang": "en",
+  "level": "adult",
+  "target": "Tawhid",
+  "forbidden": [
+   "oneness",
+   "God",
+   "monotheism",
+   "unity"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000102",
+  "lang": "en",
+  "level": "adult",
+  "target": "Shirk",
+  "forbidden": [
+   "partners",
+   "idols",
+   "God",
+   "associating"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000103",
+  "lang": "en",
+  "level": "adult",
+  "target": "Nifaq",
+  "forbidden": [
+   "hypocrite",
+   "pretend",
+   "faith",
+   "secret"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000104",
+  "lang": "en",
+  "level": "adult",
+  "target": "Iman",
+  "forbidden": [
+   "belief",
+   "heart",
+   "faith",
+   "pillars"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000105",
+  "lang": "en",
+  "level": "adult",
+  "target": "Qadar",
+  "forbidden": [
+   "God",
+   "decree",
+   "destiny",
+   "fate"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000106",
+  "lang": "en",
+  "level": "adult",
+  "target": "Zuhd",
+  "forbidden": [
+   "world",
+   "simple",
+   "detachment",
+   "renounce"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000107",
+  "lang": "en",
+  "level": "adult",
+  "target": "Hikmah",
+  "forbidden": [
+   "wisdom",
+   "God",
+   "knowledge",
+   "wise"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000108",
+  "lang": "en",
+  "level": "adult",
+  "target": "Justice",
+  "forbidden": [
+   "fairness",
+   "law",
+   "court",
+   "equality"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000109",
+  "lang": "en",
+  "level": "adult",
+  "target": "Amanah",
+  "forbidden": [
+   "trust",
+   "entrusted",
+   "safekeeping",
+   "deposit"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000110",
+  "lang": "en",
+  "level": "adult",
+  "target": "Barzakh",
+  "forbidden": [
+   "death",
+   "grave",
+   "resurrection",
+   "between"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000111",
+  "lang": "en",
+  "level": "adult",
+  "target": "Trumpet",
+  "forbidden": [
+   "Israfil",
+   "blow",
+   "Judgement",
+   "horn"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000112",
+  "lang": "en",
+  "level": "adult",
+  "target": "Mahshar",
+  "forbidden": [
+   "gathering",
+   "Judgement",
+   "reckoning",
+   "plain"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000113",
+  "lang": "en",
+  "level": "adult",
+  "target": "Al-Hawd",
+  "forbidden": [
+   "Hereafter",
+   "Prophet",
+   "water",
+   "Paradise"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000114",
+  "lang": "en",
+  "level": "adult",
+  "target": "People of the Suffah",
+  "forbidden": [
+   "mosque",
+   "Medina",
+   "companions",
+   "knowledge"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000115",
+  "lang": "en",
+  "level": "adult",
+  "target": "Rightly Guided Caliphs",
+  "forbidden": [
+   "four",
+   "Abu Bakr",
+   "Umar",
+   "Uthman"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000116",
+  "lang": "en",
+  "level": "adult",
+  "target": "Saqifah",
+  "forbidden": [
+   "caliph",
+   "choice",
+   "Ansar",
+   "Banu Sa'idah"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000117",
+  "lang": "en",
+  "level": "adult",
+  "target": "Ridda",
+  "forbidden": [
+   "apostasy",
+   "Abu Bakr",
+   "wars",
+   "zakat"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000118",
+  "lang": "en",
+  "level": "adult",
+  "target": "Qadisiyyah",
+  "forbidden": [
+   "Persia",
+   "Umar",
+   "battle",
+   "Sa'd"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000119",
+  "lang": "en",
+  "level": "adult",
+  "target": "Yarmuk",
+  "forbidden": [
+   "Byzantines",
+   "Syria",
+   "battle",
+   "Khalid"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000120",
+  "lang": "en",
+  "level": "adult",
+  "target": "House of Wisdom",
+  "forbidden": [
+   "Baghdad",
+   "Abbasid",
+   "translation",
+   "Ma'mun"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000121",
+  "lang": "en",
+  "level": "adult",
+  "target": "Nizamiyyah",
+  "forbidden": [
+   "madrasa",
+   "Seljuk",
+   "Nizam al-Mulk",
+   "Baghdad"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000122",
+  "lang": "en",
+  "level": "adult",
+  "target": "Uthmanic Codex",
+  "forbidden": [
+   "Quran",
+   "copies",
+   "caliph",
+   "standard"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000123",
+  "lang": "en",
+  "level": "adult",
+  "target": "Revelation",
+  "forbidden": [
+   "Jibril",
+   "prophet",
+   "God",
+   "scripture"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000124",
+  "lang": "en",
+  "level": "adult",
+  "target": "Muhkam",
+  "forbidden": [
+   "verse",
+   "clear",
+   "mutashabih",
+   "meaning"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000125",
+  "lang": "en",
+  "level": "adult",
+  "target": "Miracle",
+  "forbidden": [
+   "prophet",
+   "extraordinary",
+   "God",
+   "proof"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000126",
+  "lang": "en",
+  "level": "adult",
+  "target": "Caliphate",
+  "forbidden": [
+   "successor",
+   "state",
+   "Abu Bakr",
+   "leadership"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000127",
+  "lang": "en",
+  "level": "adult",
+  "target": "Bay'ah",
+  "forbidden": [
+   "pledge",
+   "caliph",
+   "loyalty",
+   "hand"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000128",
+  "lang": "en",
+  "level": "adult",
+  "target": "Shura",
+  "forbidden": [
+   "consultation",
+   "opinion",
+   "council",
+   "decision"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000129",
+  "lang": "en",
+  "level": "adult",
+  "target": "Hanif",
+  "forbidden": [
+   "Ibrahim",
+   "monotheist",
+   "Mecca",
+   "upright"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000130",
+  "lang": "en",
+  "level": "adult",
+  "target": "Ijtihad",
+  "forbidden": [
+   "scholar",
+   "ruling",
+   "effort",
+   "jurisprudence"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000131",
+  "lang": "en",
+  "level": "adult",
+  "target": "Wara'",
+  "forbidden": [
+   "scrupulous",
+   "doubtful",
+   "avoid",
+   "piety"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000132",
+  "lang": "en",
+  "level": "adult",
+  "target": "Qana'ah",
+  "forbidden": [
+   "contentment",
+   "enough",
+   "provision",
+   "satisfied"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000133",
+  "lang": "en",
+  "level": "adult",
+  "target": "Ihsan",
+  "forbidden": [
+   "excellence",
+   "beauty",
+   "worship",
+   "Jibril"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000134",
+  "lang": "en",
+  "level": "adult",
+  "target": "Ikhlas",
+  "forbidden": [
+   "sincerity",
+   "purely",
+   "intention",
+   "God"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000135",
+  "lang": "en",
+  "level": "adult",
+  "target": "Taqwa",
+  "forbidden": [
+   "God-consciousness",
+   "fear",
+   "piety",
+   "righteousness"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000136",
+  "lang": "en",
+  "level": "adult",
+  "target": "Riya'",
+  "forbidden": [
+   "show-off",
+   "showing",
+   "deeds",
+   "hidden shirk"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000137",
+  "lang": "en",
+  "level": "adult",
+  "target": "Ghibah",
+  "forbidden": [
+   "backbiting",
+   "speaking",
+   "absent",
+   "brother"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000138",
+  "lang": "en",
+  "level": "adult",
+  "target": "Infaq",
+  "forbidden": [
+   "spending",
+   "charity",
+   "God's way",
+   "wealth"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000139",
+  "lang": "en",
+  "level": "adult",
+  "target": "Silat ar-Rahim",
+  "forbidden": [
+   "relatives",
+   "kinship",
+   "family",
+   "visit"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000140",
+  "lang": "en",
+  "level": "adult",
+  "target": "Day of Judgement",
+  "forbidden": [
+   "resurrection",
+   "reckoning",
+   "hereafter",
+   "end"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000141",
+  "lang": "en",
+  "level": "adult",
+  "target": "Mizan",
+  "forbidden": [
+   "scale",
+   "deeds",
+   "weigh",
+   "balance"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000142",
+  "lang": "en",
+  "level": "adult",
+  "target": "Sirat",
+  "forbidden": [
+   "bridge",
+   "path",
+   "Hereafter",
+   "crossing"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000143",
+  "lang": "en",
+  "level": "adult",
+  "target": "Shafa'ah",
+  "forbidden": [
+   "intercession",
+   "Prophet",
+   "plead",
+   "Judgement"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000144",
+  "lang": "en",
+  "level": "adult",
+  "target": "People of the Cave",
+  "forbidden": [
+   "sleepers",
+   "youth",
+   "Kahf",
+   "309"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000145",
+  "lang": "en",
+  "level": "adult",
+  "target": "Uhud",
+  "forbidden": [
+   "battle",
+   "mountain",
+   "Hamzah",
+   "archers"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000146",
+  "lang": "en",
+  "level": "adult",
+  "target": "The Trench",
+  "forbidden": [
+   "Ahzab",
+   "Salman",
+   "dig",
+   "Medina"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000147",
+  "lang": "en",
+  "level": "adult",
+  "target": "Fitrah",
+  "forbidden": [
+   "nature",
+   "innate",
+   "pure",
+   "creation"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000148",
+  "lang": "en",
+  "level": "adult",
+  "target": "Tazkiyah",
+  "forbidden": [
+   "purification",
+   "soul",
+   "growth",
+   "cleansing"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000149",
+  "lang": "en",
+  "level": "adult",
+  "target": "Khalifah",
+  "forbidden": [
+   "successor",
+   "deputy",
+   "vicegerent",
+   "steward"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-en-000150",
+  "lang": "en",
+  "level": "adult",
+  "target": "Humility",
+  "forbidden": [
+   "modest",
+   "pride",
+   "arrogance",
+   "lowly"
+  ],
+  "review_status": "draft"
+ }
+]

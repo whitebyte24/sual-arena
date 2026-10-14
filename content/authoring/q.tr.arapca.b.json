@@ -1,0 +1,516 @@
+{
+  "lang": "tr",
+  "category": "arapca",
+  "items": [
+    [
+      "Allah'ın isimlerinden 'er-Rahmân' ne anlama gelir?",
+      "Çok merhametli",
+      "Her şeyi bilen",
+      "Güçlü olan",
+      "Gören",
+      1,
+      "Esmâ-i Hüsnâ; Fâtiha 1/3",
+      "er-Rahmân, merhameti her şeyi kuşatan, çok merhametli demektir."
+    ],
+    [
+      "'el-Alîm' ismi ne anlama gelir?",
+      "Her şeyi bilen",
+      "Çok bağışlayan",
+      "Rızık veren",
+      "Yaratan",
+      1,
+      "Esmâ-i Hüsnâ",
+      "el-Alîm, ilmi her şeyi kuşatan demektir."
+    ],
+    [
+      "'es-Semî'' ismi ne anlama gelir?",
+      "İşiten",
+      "Gören",
+      "Bilen",
+      "Yaratan",
+      2,
+      "Esmâ-i Hüsnâ",
+      "es-Semî', her şeyi işiten demektir."
+    ],
+    [
+      "'el-Basîr' ismi ne anlama gelir?",
+      "Gören",
+      "İşiten",
+      "Affeden",
+      "Koruyan",
+      2,
+      "Esmâ-i Hüsnâ",
+      "el-Basîr, her şeyi gören demektir."
+    ],
+    [
+      "'el-Gafûr' ismi ne anlama gelir?",
+      "Çok bağışlayan",
+      "Çok güçlü",
+      "Çok zengin",
+      "Çok yüksek",
+      1,
+      "Esmâ-i Hüsnâ",
+      "el-Gafûr, günahları çokça bağışlayan demektir."
+    ],
+    [
+      "'er-Rezzâk' ismi ne anlama gelir?",
+      "Rızık veren",
+      "Yaratan",
+      "Öldüren",
+      "Gören",
+      1,
+      "Esmâ-i Hüsnâ; Zâriyât 51/58",
+      "er-Rezzâk, bütün canlılara rızık veren demektir."
+    ],
+    [
+      "'el-Hâlik' ismi ne anlama gelir?",
+      "Yaratan",
+      "Rızık veren",
+      "Bilen",
+      "Koruyan",
+      1,
+      "Esmâ-i Hüsnâ",
+      "el-Hâlik, yoktan var eden, yaratan demektir."
+    ],
+    [
+      "'el-Hakîm' ismi ne anlama gelir?",
+      "Hikmet sahibi",
+      "Çok güçlü",
+      "Çok cömert",
+      "Çok sabırlı",
+      2,
+      "Esmâ-i Hüsnâ",
+      "el-Hakîm, her işi hikmetle yapan demektir."
+    ],
+    [
+      "'el-Kerîm' ismi ne anlama gelir?",
+      "Çok cömert",
+      "Hükmeden",
+      "Dirilten",
+      "Gizli olan",
+      1,
+      "Esmâ-i Hüsnâ",
+      "el-Kerîm, çok cömert ve değerli demektir."
+    ],
+    [
+      "'el-Vedûd' ismi ne anlama gelir?",
+      "Çok seven",
+      "Çok kızan",
+      "Çok bilen",
+      "Çok güçlü",
+      1,
+      "Esmâ-i Hüsnâ; Bürûc 85/14",
+      "el-Vedûd, kullarını seven ve sevilmeye lâyık olan demektir."
+    ],
+    [
+      "'el-Latîf' ismi ne anlama gelir?",
+      "Lütfedici, ince işler yapan",
+      "Çok katı",
+      "Güçlü ve galip",
+      "Hesap soran",
+      2,
+      "Esmâ-i Hüsnâ",
+      "el-Latîf, lütuf sahibi ve en ince işleri bilen demektir."
+    ],
+    [
+      "'es-Sabûr' ismi ne anlama gelir?",
+      "Çok sabırlı",
+      "Çok güçlü",
+      "Çok bilen",
+      "Çok gören",
+      1,
+      "Esmâ-i Hüsnâ",
+      "es-Sabûr, cezada acele etmeyen, çok sabırlı demektir."
+    ],
+    [
+      "'el-Afüvv' ismi ne anlama gelir?",
+      "Çok affeden",
+      "Gizlice gören",
+      "Rızık veren",
+      "Hesaba çeken",
+      1,
+      "Esmâ-i Hüsnâ",
+      "el-Afüvv, suçları silip affeden demektir."
+    ],
+    [
+      "'el-Hayy' ismi ne anlama gelir?",
+      "Diri",
+      "Güçlü",
+      "Zengin",
+      "Yüce",
+      1,
+      "Esmâ-i Hüsnâ; Bakara 2/255",
+      "el-Hayy, ezelî ve ebedî hayat sahibi demektir."
+    ],
+    [
+      "'el-Vâhid' ve 'el-Ahad' isimleri neyi ifade eder?",
+      "Birlik, tek oluş",
+      "Güç",
+      "Merhamet",
+      "Zenginlik",
+      1,
+      "Esmâ-i Hüsnâ; İhlâs 112/1",
+      "Her iki isim de Allah'ın birliğini bildirir."
+    ],
+    [
+      "'es-Samed' ismi ne anlama gelir?",
+      "Herkesin muhtaç olduğu, kendisi muhtaç olmayan",
+      "Gören",
+      "Yaratan",
+      "Bağışlayan",
+      3,
+      "Esmâ-i Hüsnâ; İhlâs 112/2",
+      "es-Samed, yaratılmışların muhtaç olduğu, Kendisi ise hiçbir şeye muhtaç olmayan demektir."
+    ],
+    [
+      "'el-Evvel' ismi ne anlama gelir?",
+      "İlk, başlangıcı olmayan",
+      "Son",
+      "Gizli",
+      "Açık",
+      2,
+      "Esmâ-i Hüsnâ; Hadîd 57/3",
+      "el-Evvel, kendisinden önce hiçbir şey olmayan, ilk demektir."
+    ],
+    [
+      "'el-Âhir' ismi ne anlama gelir?",
+      "Son, sonu olmayan",
+      "İlk",
+      "Açık",
+      "Gizli",
+      2,
+      "Esmâ-i Hüsnâ; Hadîd 57/3",
+      "el-Âhir, her şey yok olsa da baki kalan demektir."
+    ],
+    [
+      "'er-Raûf' ismi ne anlama gelir?",
+      "Çok şefkatli",
+      "Çok güçlü",
+      "Çok bilen",
+      "Çok gören",
+      2,
+      "Esmâ-i Hüsnâ; Bakara 2/143",
+      "er-Raûf, kullarına karşı pek şefkatli olan demektir."
+    ],
+    [
+      "'Allâhü ekber' sözü ne anlama gelir?",
+      "Allah en büyüktür",
+      "Allah bağışlayıcıdır",
+      "Allah birdir",
+      "Allah gören ve işitendir",
+      1,
+      "Buhârî, Ezân",
+      "Allâhü ekber, Allah'ın her şeyden büyük olduğunu bildirir."
+    ],
+    [
+      "'İnşallâh' sözü ne anlama gelir?",
+      "Allah dilerse",
+      "Allah'a hamdolsun",
+      "Allah korusun",
+      "Allah'a şükür",
+      1,
+      "Kehf 18/23-24",
+      "İnşallâh, gelecekteki bir işin ancak Allah'ın dilemesiyle olacağını belirtir."
+    ],
+    [
+      "'Mâşâallâh' sözü ne anlama gelir?",
+      "Allah'ın dilediği olur, Allah ne güzel yaratmış",
+      "Allah bağışlasın",
+      "Allah razı olsun",
+      "Allah korusun",
+      2,
+      "Kehf 18/39",
+      "Mâşâallâh, güzel bir şey karşısında kullanılan takdir ifadesidir."
+    ],
+    [
+      "'Estağfirullâh' sözü ne anlama gelir?",
+      "Allah'tan bağışlanma dilerim",
+      "Allah'a hamd ederim",
+      "Allah'ı tenzih ederim",
+      "Allah'a sığınırım",
+      1,
+      "Buhârî, Deavât",
+      "Estağfirullâh, 'Allah'tan bağışlanma dilerim' demektir."
+    ],
+    [
+      "'Sübhânallâh' sözü ne anlama gelir?",
+      "Allah'ı her türlü eksiklikten uzak tutarım",
+      "Allah'a hamdolsun",
+      "Allah'tan bağışlanma dilerim",
+      "Allah dilerse",
+      2,
+      "Buhârî, Deavât",
+      "Sübhânallâh, Allah'ın her türlü noksanlıktan münezzeh olduğunu ifade eder."
+    ],
+    [
+      "'Elhamdülillâh' sözü ne anlama gelir?",
+      "Hamd Allah'a mahsustur",
+      "Allah en büyüktür",
+      "Allah bağışlasın",
+      "Allah razı olsun",
+      1,
+      "Fâtiha 1/2",
+      "Elhamdülillâh, her türlü övgünün Allah'a ait olduğunu bildirir."
+    ],
+    [
+      "'Hasbünallâh' sözü ne anlama gelir?",
+      "Allah bize yeter",
+      "Allah bizi bağışlasın",
+      "Allah en büyüktür",
+      "Allah'ın adıyla",
+      1,
+      "Âl-i İmrân 3/173",
+      "Hasbünallâh ve ni'me'l-vekîl: Allah bize yeter, O ne güzel vekildir."
+    ],
+    [
+      "'Lâ havle ve lâ kuvvete illâ billâh' sözü ne anlama gelir?",
+      "Güç ve kuvvet ancak Allah'tandır",
+      "Allah en büyüktür",
+      "Hamd Allah'a aittir",
+      "Allah dilerse",
+      1,
+      "Buhârî, Deavât",
+      "Güç ve kuvvet yalnızca Allah'tan olup O'nun yardımıyla mümkündür."
+    ],
+    [
+      "'Bismillâh' sözü ne anlama gelir?",
+      "Allah'ın adıyla",
+      "Allah'a hamd",
+      "Allah en büyüktür",
+      "Allah bağışlasın",
+      1,
+      "Fâtiha 1/1",
+      "Bismillâh, 'Allah'ın adıyla' demektir."
+    ],
+    [
+      "'İnnâ lillâhi ve innâ ileyhi râci'ûn' sözü ne anlama gelir?",
+      "Biz Allah'a aitiz ve O'na döneceğiz",
+      "Allah bağışlasın",
+      "Hamd Allah'a aittir",
+      "Allah dilerse",
+      1,
+      "Bakara 2/156",
+      "Bu söz, musibet anında söylenir; tüm varlığın Allah'a ait olduğunu ve O'na döneceğini bildirir."
+    ],
+    [
+      "'Cezâkallâhu hayran' sözü ne anlama gelir?",
+      "Allah seni hayırla mükâfatlandırsın",
+      "Allah seni bağışlasın",
+      "Allah seni korusun",
+      "Allah seni affetsin",
+      1,
+      "Tirmizî, Birr",
+      "Teşekkür yerine kullanılan bu dua, iyiliğin Allah'tan karşılık bulması dilekidir."
+    ],
+    [
+      "'Âmîn' kelimesi ne anlama gelir?",
+      "Kabul eyle",
+      "Hamd olsun",
+      "Allah en büyüktür",
+      "Allah bağışlasın",
+      1,
+      "Buhârî, Ezân",
+      "Âmîn, duanın sonunda 'Allah'ım kabul eyle' anlamında söylenir."
+    ],
+    [
+      "Arapça 'kitâb' kelimesi ne anlama gelir?",
+      "Kitap",
+      "Kalem",
+      "Defter",
+      "Kapı",
+      1,
+      "Arapça sözlükler",
+      "Kitâb, 'kitap' demektir."
+    ],
+    [
+      "Arapça 'kalem' kelimesi ne anlama gelir?",
+      "Yazı kalemi",
+      "Yazı tahtası",
+      "Sandık",
+      "Dağ",
+      1,
+      "Arapça sözlükler",
+      "Kalem, yazı yazmaya yarayan araç demektir."
+    ],
+    [
+      "Arapça 'bâb' kelimesi ne anlama gelir?",
+      "Kapı",
+      "Ev",
+      "Pencere",
+      "Duvar",
+      1,
+      "Arapça sözlükler",
+      "Bâb, 'kapı' demektir."
+    ],
+    [
+      "Arapça 'beyt' kelimesi ne anlama gelir?",
+      "Ev",
+      "Kapı",
+      "Yol",
+      "Bahçe",
+      1,
+      "Arapça sözlükler",
+      "Beyt, 'ev' demektir."
+    ],
+    [
+      "Arapça 'mâ'' kelimesi ne anlama gelir?",
+      "Su",
+      "Ateş",
+      "Toprak",
+      "Rüzgâr",
+      1,
+      "Arapça sözlükler",
+      "Mâ', 'su' demektir."
+    ],
+    [
+      "Arapça 'şems' kelimesi ne anlama gelir?",
+      "Güneş",
+      "Ay",
+      "Yıldız",
+      "Gök",
+      1,
+      "Arapça sözlükler",
+      "Şems, 'güneş' demektir; Şems Sûresi bu adı taşır."
+    ],
+    [
+      "Arapça 'kamer' kelimesi ne anlama gelir?",
+      "Ay",
+      "Güneş",
+      "Yıldız",
+      "Bulut",
+      1,
+      "Arapça sözlükler",
+      "Kamer, 'ay' demektir; Kamer Sûresi bu adı taşır."
+    ],
+    [
+      "Arapça 'semâ' kelimesi ne anlama gelir?",
+      "Gök",
+      "Yer",
+      "Deniz",
+      "Dağ",
+      1,
+      "Arapça sözlükler",
+      "Semâ, 'gök' demektir."
+    ],
+    [
+      "Arapça 'leyl' kelimesi ne anlama gelir?",
+      "Gece",
+      "Gündüz",
+      "Sabah",
+      "Akşam",
+      1,
+      "Arapça sözlükler",
+      "Leyl, 'gece' demektir; Leyl Sûresi bu adı taşır."
+    ],
+    [
+      "Arapça 'yevm' kelimesi ne anlama gelir?",
+      "Gün",
+      "Gece",
+      "Ay",
+      "Yıl",
+      1,
+      "Arapça sözlükler",
+      "Yevm, 'gün' demektir."
+    ],
+    [
+      "Arapça 'ilm' kelimesi ne anlama gelir?",
+      "Bilgi",
+      "Zenginlik",
+      "Güç",
+      "Sabır",
+      1,
+      "Arapça sözlükler",
+      "İlm, bilgi demektir."
+    ],
+    [
+      "Arapça 'kalb' kelimesi ne anlama gelir?",
+      "Kalp",
+      "Akıl",
+      "El",
+      "Göz",
+      1,
+      "Arapça sözlükler",
+      "Kalb, 'kalp' demektir."
+    ],
+    [
+      "Arapça 'ibn' ve 'bint' kelimeleri ne anlama gelir?",
+      "Oğul ve kız",
+      "Baba ve anne",
+      "Kardeş ve arkadaş",
+      "Dede ve nine",
+      2,
+      "Arapça sözlükler",
+      "İbn 'oğul', bint 'kız' demektir; isimlerde 'oğlu' ve 'kızı' anlamıyla kullanılır."
+    ],
+    [
+      "Arapça 'ümm' kelimesi ne anlama gelir?",
+      "Anne",
+      "Baba",
+      "Kız kardeş",
+      "Teyze",
+      1,
+      "Arapça sözlükler",
+      "Ümm, 'anne' demektir."
+    ],
+    [
+      "Arapça 'ahî' kelimesi ne anlama gelir?",
+      "Kardeşim",
+      "Babam",
+      "Oğlum",
+      "Dostum",
+      3,
+      "Arapça sözlükler",
+      "Ahî, 'kardeşim' demektir."
+    ],
+    [
+      "Arapça 'seb'a' sayısı kaçı ifade eder?",
+      "7",
+      "3",
+      "5",
+      "10",
+      1,
+      "Arapça sayılar",
+      "Seb'a, yedi demektir."
+    ],
+    [
+      "Arapça 'selâse' sayısı kaçı ifade eder?",
+      "3",
+      "2",
+      "4",
+      "5",
+      1,
+      "Arapça sayılar",
+      "Selâse, üç demektir."
+    ],
+    [
+      "Arapça 'aşara' sayısı kaçı ifade eder?",
+      "10",
+      "5",
+      "8",
+      "9",
+      1,
+      "Arapça sayılar",
+      "Aşara, on demektir."
+    ],
+    [
+      "Arap alfabesinde kaç harf vardır?",
+      "28",
+      "24",
+      "29",
+      "32",
+      1,
+      "Arap alfabesi",
+      "Arap alfabesi 28 harften oluşur."
+    ],
+    [
+      "Arapça hangi yönde yazılır?",
+      "Sağdan sola",
+      "Soldan sağa",
+      "Yukarıdan aşağıya",
+      "Aşağıdan yukarıya",
+      1,
+      "Arap yazısı",
+      "Arapça sağdan sola doğru yazılır."
+    ]
+  ]
+}

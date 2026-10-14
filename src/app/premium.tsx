@@ -20,7 +20,6 @@ const BENEFITS: { key: TKey; icon: 'cancel' | 'infinity' | 'shape-outline' | 'co
   { key: 'premium.benefits.unlimitedDuels', icon: 'infinity' },
   { key: 'premium.benefits.allCategories', icon: 'shape-outline' },
   { key: 'premium.benefits.allDecks', icon: 'comment-text-multiple-outline' },
-  { key: 'premium.benefits.leagueRewards', icon: 'trophy-outline' },
 ];
 
 export default function Paywall() {

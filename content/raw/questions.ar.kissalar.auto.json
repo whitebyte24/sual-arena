@@ -1,0 +1,1685 @@
+[
+ {
+  "id": "q-ar-kissalar-000001",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من الذي رفض السجود لآدم عليه السلام حين أمر الله الملائكة بالسجود؟",
+  "options": [
+   "هاروت",
+   "ماروت",
+   "جبريل",
+   "إبليس"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/34",
+  "explanation": "سجدت الملائكة لآدم واستكبر إبليس فلم يسجد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000002",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الشيء الذي نُهي آدم وزوجه عن الاقتراب منه في الجنة؟",
+  "options": [
+   "نبع ماء",
+   "قصر",
+   "شجرة معينة",
+   "باب"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/35",
+  "explanation": "أباح الله لآدم وزوجه كل شيء في الجنة ونهاهما عن الاقتراب من شجرة بعينها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000003",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من الذي قتل أخاه في قصة ابني آدم؟",
+  "options": [
+   "قابيل",
+   "هابيل",
+   "شيث",
+   "إدريس"
+  ],
+  "answer_index": 0,
+  "source": "المائدة 5/27-31",
+  "explanation": "قتل أحد ابني آدم أخاه حسداً بعد أن تُقبّل قربان أخيه، وذُكر في كتب التفسير أنه قابيل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000004",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من زوج آدم عليه السلام؟",
+  "options": [
+   "سارة",
+   "حواء",
+   "هاجر",
+   "آسية"
+  ],
+  "answer_index": 1,
+  "source": "البقرة 2/35؛ الأعراف 7/19",
+  "explanation": "زوج آدم عليه السلام هي حواء، وقد سكنا الجنة ثم أُهبطا إلى الأرض.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000005",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم لبث نوح عليه السلام في قومه يدعوهم إلى الله تقريباً؟",
+  "options": [
+   "100",
+   "300",
+   "500",
+   "950"
+  ],
+  "answer_index": 3,
+  "source": "العنكبوت 29/14",
+  "explanation": "أخبرت سورة العنكبوت أن نوحاً لبث في قومه ألف سنة إلا خمسين عاماً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000006",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما اسم ابن نوح عليه السلام الذي رفض ركوب السفينة وغرق؟",
+  "options": [
+   "سام",
+   "حام",
+   "كنعان",
+   "يافث"
+  ],
+  "answer_index": 2,
+  "source": "هود 11/42-43",
+  "explanation": "رفض ابن نوح الركوب وقال: سآوي إلى جبل يعصمني من الماء فغرق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000007",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "على أي جبل استقرت سفينة نوح عليه السلام بعد الطوفان؟",
+  "options": [
+   "حراء",
+   "الجودي",
+   "أحد",
+   "سيناء"
+  ],
+  "answer_index": 1,
+  "source": "هود 11/44",
+  "explanation": "قال تعالى: «واستوت على الجودي».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000008",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم من كل صنف من الحيوانات أُمر نوح عليه السلام أن يحمل في السفينة؟",
+  "options": [
+   "زوجين (اثنين)",
+   "ثلاثة",
+   "سبعة",
+   "واحداً"
+  ],
+  "answer_index": 0,
+  "source": "هود 11/40",
+  "explanation": "أُمر نوح أن يحمل من كل صنف زوجين اثنين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000009",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "إلى أي قوم أُرسل هود عليه السلام؟",
+  "options": [
+   "ثمود",
+   "مدين",
+   "سبأ",
+   "عاد"
+  ],
+  "answer_index": 3,
+  "source": "الأعراف 7/65",
+  "explanation": "أرسل الله هوداً إلى قوم عاد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000010",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كيف أُهلك قوم عاد؟",
+  "options": [
+   "بالطوفان",
+   "بريح صرصر عاتية",
+   "بحجارة من السماء",
+   "بالزلزال"
+  ],
+  "answer_index": 1,
+  "source": "الحاقة 69/6-7",
+  "explanation": "أُهلكوا بريح صرصر شديدة سخّرها الله عليهم سبع ليال وثمانية أيام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000011",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما المعجزة التي جاء بها صالح عليه السلام لقومه؟",
+  "options": [
+   "عصا تحولت إلى ثعبان",
+   "إحياء الموتى",
+   "ناقة خرجت من الصخر",
+   "برودة النار"
+  ],
+  "answer_index": 2,
+  "source": "الأعراف 7/73",
+  "explanation": "كانت معجزة صالح ناقة الله، فعقروها فأُهلكوا.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000012",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "إلى أي قوم أُرسل صالح عليه السلام؟",
+  "options": [
+   "ثمود",
+   "عاد",
+   "مدين",
+   "سبأ"
+  ],
+  "answer_index": 0,
+  "source": "الأعراف 7/73",
+  "explanation": "أُرسل صالح عليه السلام إلى قوم ثمود.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000013",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كيف أُهلك قوم لوط عليه السلام؟",
+  "options": [
+   "بالطوفان",
+   "بالقحط",
+   "بمطر من حجارة",
+   "بالغرق في البحر"
+  ],
+  "answer_index": 2,
+  "source": "هود 11/82",
+  "explanation": "جعل الله عالي قريتهم سافلها وأمطر عليهم حجارة من سجيل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000014",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "من الكافرة التي هلكت مع قوم لوط من أهله؟",
+  "options": [
+   "ابنة لوط",
+   "أخو لوط",
+   "ابن لوط",
+   "امرأة لوط"
+  ],
+  "answer_index": 3,
+  "source": "التحريم 66/10",
+  "explanation": "ضربت سورة التحريم مثلاً بامرأتي نوح ولوط اللتين خانتا.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000015",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من النبي الذي كسر الأصنام وألقاه قومه في النار؟",
+  "options": [
+   "إبراهيم عليه السلام",
+   "موسى عليه السلام",
+   "نوح عليه السلام",
+   "يونس عليه السلام"
+  ],
+  "answer_index": 0,
+  "source": "الأنبياء 21/57-69",
+  "explanation": "كسر إبراهيم الأصنام فألقاه قومه في النار فجعلها الله برداً وسلاماً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000016",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ماذا أمر الله النار حين أُلقي فيها إبراهيم عليه السلام؟",
+  "options": [
+   "اخمدي فوراً",
+   "كوني برداً وسلاماً على إبراهيم",
+   "احرقيه",
+   "كوني بطيئة"
+  ],
+  "answer_index": 1,
+  "source": "الأنبياء 21/69",
+  "explanation": "قال تعالى: «يا نار كوني برداً وسلاماً على إبراهيم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000017",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من النبي الذي لقّبه القرآن «خليل الله»؟",
+  "options": [
+   "موسى عليه السلام",
+   "عيسى عليه السلام",
+   "إبراهيم عليه السلام",
+   "داود عليه السلام"
+  ],
+  "answer_index": 2,
+  "source": "النساء 4/125",
+  "explanation": "ذكرت سورة النساء أن الله اتخذ إبراهيم خليلاً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000018",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من ابنا إبراهيم عليه السلام النبيان؟",
+  "options": [
+   "إسماعيل وإسحاق",
+   "يوسف وبنيامين",
+   "موسى وهارون",
+   "يحيى وزكريا"
+  ],
+  "answer_index": 0,
+  "source": "إبراهيم 14/39",
+  "explanation": "شكر إبراهيم ربه أن وهب له على الكبر إسماعيل وإسحاق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000019",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "في أي سورة ذُكرت رؤيا إبراهيم عليه السلام بذبح ابنه؟",
+  "options": [
+   "البقرة",
+   "مريم",
+   "هود",
+   "الصافات"
+  ],
+  "answer_index": 3,
+  "source": "الصافات 37/99-113",
+  "explanation": "تروي سورة الصافات امتحان إبراهيم بذبح ابنه وفدائه بذبح عظيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000020",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الجبلان اللذان سعت بينهما هاجر تبحث عن الماء لابنها؟",
+  "options": [
+   "أحد وحراء",
+   "الصفا والمروة",
+   "عرفات ومزدلفة",
+   "ثور والنور"
+  ],
+  "answer_index": 1,
+  "source": "البقرة 2/158",
+  "explanation": "السعي بين الصفا والمروة في الحج والعمرة تذكّر بسعي هاجر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000021",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من الذي رفع قواعد الكعبة مع إبراهيم عليه السلام؟",
+  "options": [
+   "إسحاق",
+   "يوسف",
+   "إسماعيل",
+   "يعقوب"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/127",
+  "explanation": "رفع إبراهيم وإسماعيل قواعد البيت يدعوان الله أن يتقبل منهما.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000022",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما النبي الذي هو ابن إسحاق عليه السلام؟",
+  "options": [
+   "يوسف",
+   "إسماعيل",
+   "هود",
+   "يعقوب"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/133",
+  "explanation": "يعقوب عليه السلام ابن إسحاق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000023",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "اسم «بني إسرائيل» ينسب إلى لقب أي نبي؟",
+  "options": [
+   "يعقوب",
+   "إسحاق",
+   "يوسف",
+   "موسى"
+  ],
+  "answer_index": 0,
+  "source": "آل عمران 3/93",
+  "explanation": "إسرائيل لقب يعقوب عليه السلام، وبنو إسرائيل من ذريته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000024",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم كوكباً رأى يوسف عليه السلام في رؤياه ساجدين له؟",
+  "options": [
+   "7",
+   "9",
+   "11",
+   "12"
+  ],
+  "answer_index": 2,
+  "source": "يوسف 12/4",
+  "explanation": "رأى يوسف أحد عشر كوكباً والشمس والقمر ساجدين له.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000025",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من الذين ألقوا يوسف عليه السلام في البئر؟",
+  "options": [
+   "إخوته",
+   "أعمامه",
+   "جيرانه",
+   "أهل مصر"
+  ],
+  "answer_index": 0,
+  "source": "يوسف 12/8-15",
+  "explanation": "حسده إخوته فألقوه في الجب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000026",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم سنة من الرخاء أخبر يوسف عليه السلام أنها ستأتي على مصر؟",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "يوسف 12/47-48",
+  "explanation": "فسّر يوسف رؤيا الملك بسبع سنين رخاء تتبعها سبع شداد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000027",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ماذا أصاب عيني يعقوب عليه السلام من حزنه على ابنه؟",
+  "options": [
+   "أصيب بالصمم",
+   "ابيضّتا من الحزن",
+   "فقد النطق",
+   "مات حزناً"
+  ],
+  "answer_index": 1,
+  "source": "يوسف 12/84",
+  "explanation": "قال تعالى: «وابيضت عيناه من الحزن».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000028",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كيف عاد البصر إلى يعقوب عليه السلام؟",
+  "options": [
+   "بماء زمزم",
+   "بدواء",
+   "بدعاء فقط",
+   "بإلقاء قميص يوسف على وجهه"
+  ],
+  "answer_index": 3,
+  "source": "يوسف 12/93-96",
+  "explanation": "ألقى البشير قميص يوسف على وجه يعقوب فارتد بصيراً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000029",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "بأي صفة اشتهر أيوب عليه السلام؟",
+  "options": [
+   "الصبر",
+   "الكرم",
+   "القوة",
+   "التجارة"
+  ],
+  "answer_index": 0,
+  "source": "الأنبياء 21/83-84؛ ص 38/41-44",
+  "explanation": "صبر أيوب على البلاء الشديد فكشف الله ضره.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000030",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "إلى أي قوم أُرسل شعيب عليه السلام؟",
+  "options": [
+   "عاد",
+   "ثمود",
+   "مدين",
+   "سبأ"
+  ],
+  "answer_index": 2,
+  "source": "هود 11/84",
+  "explanation": "أُرسل شعيب إلى أهل مدين الذين كانوا يبخسون المكيال والميزان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000031",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "عمّ حذّر شعيب عليه السلام قومه؟",
+  "options": [
+   "عبادة الأصنام",
+   "أكل مال اليتيم",
+   "السرقة",
+   "نقص المكيال والميزان"
+  ],
+  "answer_index": 3,
+  "source": "هود 11/84-85",
+  "explanation": "دعاهم شعيب إلى الوفاء بالمكيال والميزان وعدم البخس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000032",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كيف أوحى الله لأم موسى أن تحمي ابنها من فرعون؟",
+  "options": [
+   "برؤيا",
+   "بالوحي",
+   "عن طريق كاهن",
+   "لم يوح إليها"
+  ],
+  "answer_index": 1,
+  "source": "القصص 28/7",
+  "explanation": "أوحى الله إلى أم موسى أن ترضعه فإذا خافت عليه ألقته في اليم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000033",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من زوجة فرعون التي التقطت موسى وربّته؟",
+  "options": [
+   "آسية",
+   "هاجر",
+   "سارة",
+   "مريم"
+  ],
+  "answer_index": 0,
+  "source": "القصص 28/9؛ التحريم 66/11",
+  "explanation": "قالت امرأة فرعون: «قرة عين لي ولك لا تقتلوه».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000034",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من أخو موسى عليه السلام الذي طلب أن يكون معاونه في الدعوة؟",
+  "options": [
+   "يوسف",
+   "يحيى",
+   "هارون",
+   "الخضر"
+  ],
+  "answer_index": 2,
+  "source": "طه 20/29-32",
+  "explanation": "سأل موسى ربه أن يجعل أخاه هارون وزيراً له.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000035",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما إحدى معجزات موسى عليه السلام المشهورة؟",
+  "options": [
+   "ناقة من الصخر",
+   "عصاه التي تحولت إلى ثعبان",
+   "إحياء الموتى",
+   "برودة النار"
+  ],
+  "answer_index": 1,
+  "source": "طه 20/17-21",
+  "explanation": "كانت عصا موسى تنقلب ثعباناً بإذن الله ويده تخرج بيضاء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000036",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "على أي جبل كلّم الله موسى عليه السلام؟",
+  "options": [
+   "أحد",
+   "الجودي",
+   "النور",
+   "الطور (سيناء)"
+  ],
+  "answer_index": 3,
+  "source": "القصص 28/29-30",
+  "explanation": "رأى موسى ناراً بجانب الطور فكلمه الله هناك.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000037",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الكتاب الذي أنزله الله على موسى عليه السلام؟",
+  "options": [
+   "الزبور",
+   "التوراة",
+   "الإنجيل",
+   "الصحف"
+  ],
+  "answer_index": 1,
+  "source": "المائدة 5/44",
+  "explanation": "أنزل الله التوراة على موسى عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000038",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الكتاب الذي أنزله الله على داود عليه السلام؟",
+  "options": [
+   "الزبور",
+   "التوراة",
+   "الإنجيل",
+   "القرآن"
+  ],
+  "answer_index": 0,
+  "source": "النساء 4/163",
+  "explanation": "آتى الله داود الزبور.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000039",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الكتاب الذي أنزله الله على عيسى عليه السلام؟",
+  "options": [
+   "التوراة",
+   "الزبور",
+   "الصحف",
+   "الإنجيل"
+  ],
+  "answer_index": 3,
+  "source": "المائدة 5/46",
+  "explanation": "أنزل الله الإنجيل على عيسى عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000040",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ماذا حدث للبحر حين ضرب موسى عليه السلام بعصاه عند خروج بني إسرائيل؟",
+  "options": [
+   "جفّ فجأة",
+   "ارتفعت أمواجه",
+   "انفلق",
+   "هدأ"
+  ],
+  "answer_index": 2,
+  "source": "الشعراء 26/63",
+  "explanation": "ضرب موسى البحر بعصاه فانفلق فكان كل فرق كالطود العظيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000041",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "كيف أُهلك فرعون وجنوده؟",
+  "options": [
+   "بالريح",
+   "بالزلزال",
+   "بحجارة من السماء",
+   "بالغرق في البحر"
+  ],
+  "answer_index": 3,
+  "source": "الشعراء 26/66؛ يونس 10/90-92",
+  "explanation": "لحق فرعون وجنوده ببني إسرائيل في البحر فأُغرقوا.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000042",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما اسم وزير فرعون الذي طلب منه أن يبني له صرحاً؟",
+  "options": [
+   "قارون",
+   "هامان",
+   "السامري",
+   "أبرهة"
+  ],
+  "answer_index": 1,
+  "source": "القصص 28/38",
+  "explanation": "قال فرعون: «فأوقد لي يا هامان على الطين فاجعل لي صرحاً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000043",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من الذي بغى على قومه واغتر بماله فخسف الله به الأرض؟",
+  "options": [
+   "هامان",
+   "فرعون",
+   "قارون",
+   "النمرود"
+  ],
+  "answer_index": 2,
+  "source": "القصص 28/76-81",
+  "explanation": "اغتر قارون بماله فخسف الله به وبداره الأرض.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000044",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ماذا عبد بنو إسرائيل في غياب موسى عليه السلام؟",
+  "options": [
+   "عجلاً من ذهب",
+   "الشمس",
+   "النار",
+   "القمر"
+  ],
+  "answer_index": 0,
+  "source": "طه 20/85-88",
+  "explanation": "صنع السامري عجلاً من حليّهم فعبده فريق منهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000045",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم سنة تاه بنو إسرائيل في الأرض عقاباً لهم على رفضهم دخول الأرض المقدسة؟",
+  "options": [
+   "10",
+   "20",
+   "40",
+   "70"
+  ],
+  "answer_index": 2,
+  "source": "المائدة 5/26",
+  "explanation": "قال تعالى: «فإنها محرمة عليهم أربعين سنة يتيهون في الأرض».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000046",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "في أي سورة ذُكر قتل داود لجالوت؟",
+  "options": [
+   "النساء",
+   "المائدة",
+   "يوسف",
+   "البقرة"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/249-251",
+  "explanation": "تحكي سورة البقرة قصة طالوت وقتل داود لجالوت.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000047",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما الذي ألانه الله لداود عليه السلام؟",
+  "options": [
+   "النحاس",
+   "الذهب",
+   "الحديد",
+   "الحجر"
+  ],
+  "answer_index": 2,
+  "source": "سبأ 34/10",
+  "explanation": "ألان الله لداود الحديد وعلّمه صنع الدروع.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000048",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من والد سليمان عليه السلام؟",
+  "options": [
+   "يعقوب عليه السلام",
+   "داود عليه السلام",
+   "يوسف عليه السلام",
+   "إبراهيم عليه السلام"
+  ],
+  "answer_index": 1,
+  "source": "النمل 27/16",
+  "explanation": "ورث سليمان داود عليهما السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000049",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما إحدى الخصائص التي آتاها الله لسليمان عليه السلام؟",
+  "options": [
+   "فهم منطق الطير",
+   "الخلود",
+   "عدم النوم",
+   "شق البحر بالعصا"
+  ],
+  "answer_index": 0,
+  "source": "النمل 27/16",
+  "explanation": "علّم الله سليمان منطق الطير وسخّر له الريح والجن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000050",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما الذي دلّ الجن على موت سليمان عليه السلام؟",
+  "options": [
+   "سقوط عرشه",
+   "أكل دابة الأرض لعصاه فخرّ",
+   "صوت من السماء",
+   "ظلمة السماء"
+  ],
+  "answer_index": 1,
+  "source": "سبأ 34/14",
+  "explanation": "مات سليمان متكئاً على عصاه فأكلتها دابة الأرض فخرّ، فعلم الجن أنه مات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000051",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "بأي وسيلة دعا سليمان عليه السلام ملكة سبأ إلى الإسلام؟",
+  "options": [
+   "رسول بشري",
+   "نداء من فوق الجبل",
+   "رؤيا",
+   "كتاب أرسله مع الهدهد"
+  ],
+  "answer_index": 3,
+  "source": "النمل 27/28-30",
+  "explanation": "أرسل سليمان كتاباً مع الهدهد إلى ملكة سبأ.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000052",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "في أي سورة ذُكر إحضار عرش ملكة سبأ قبل أن يرتد إلى سليمان طرفه؟",
+  "options": [
+   "الكهف",
+   "مريم",
+   "النمل",
+   "هود"
+  ],
+  "answer_index": 2,
+  "source": "النمل 27/38-42",
+  "explanation": "تروي سورة النمل إحضار عرش بلقيس في طرفة عين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000053",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "أي نبي ابتلعه الحوت؟",
+  "options": [
+   "أيوب عليه السلام",
+   "يونس عليه السلام",
+   "هود عليه السلام",
+   "زكريا عليه السلام"
+  ],
+  "answer_index": 1,
+  "source": "الصافات 37/139-148",
+  "explanation": "غادر يونس قومه غاضباً فالتقمه الحوت.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000054",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما الدعاء الذي دعا به يونس عليه السلام في بطن الحوت؟",
+  "options": [
+   "ربنا آتنا في الدنيا حسنة",
+   "رب زدني علماً",
+   "حسبنا الله ونعم الوكيل",
+   "لا إله إلا أنت سبحانك إني كنت من الظالمين"
+  ],
+  "answer_index": 3,
+  "source": "الأنبياء 21/87",
+  "explanation": "نادى يونس في الظلمات: «لا إله إلا أنت سبحانك إني كنت من الظالمين».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000055",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من النبي الذي سمّاه القرآن «ذا النون»؟",
+  "options": [
+   "موسى عليه السلام",
+   "إلياس عليه السلام",
+   "يونس عليه السلام",
+   "نوح عليه السلام"
+  ],
+  "answer_index": 2,
+  "source": "الأنبياء 21/87",
+  "explanation": "ذا النون أي صاحب الحوت، وهو يونس عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000056",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من النبي الذي كفل مريم عليها السلام؟",
+  "options": [
+   "زكريا عليه السلام",
+   "موسى عليه السلام",
+   "إسماعيل عليه السلام",
+   "يوسف عليه السلام"
+  ],
+  "answer_index": 0,
+  "source": "آل عمران 3/37",
+  "explanation": "كفل زكريا مريم، وكان يجد عندها رزقاً في المحراب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000057",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من والد يحيى عليه السلام؟",
+  "options": [
+   "عمران",
+   "هارون",
+   "زكريا عليه السلام",
+   "داود عليه السلام"
+  ],
+  "answer_index": 2,
+  "source": "مريم 19/2-7",
+  "explanation": "رزق الله زكريا يحيى على الكبر استجابة لدعائه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000058",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما اسم زوج السيدة التي نذرت ما في بطنها لله وهي أم مريم؟",
+  "options": [
+   "زكريا",
+   "يوسف",
+   "هارون",
+   "عمران"
+  ],
+  "answer_index": 3,
+  "source": "آل عمران 3/35",
+  "explanation": "ذكرت سورة آل عمران امرأة عمران التي نذرت ما في بطنها لله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000059",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ما الشجرة التي لجأت إليها مريم عليها السلام عند الولادة؟",
+  "options": [
+   "النخلة",
+   "الزيتونة",
+   "التينة",
+   "الدلب"
+  ],
+  "answer_index": 0,
+  "source": "مريم 19/23-25",
+  "explanation": "ألجأها المخاض إلى جذع النخلة فتساقط عليها رطباً جنياً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000060",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ماذا قال عيسى عليه السلام في المهد؟",
+  "options": [
+   "إني ابن الله",
+   "إني عبد الله",
+   "إني ملك",
+   "لم يتكلم"
+  ],
+  "answer_index": 1,
+  "source": "مريم 19/29-30",
+  "explanation": "قال عيسى في المهد: «إني عبد الله آتاني الكتاب وجعلني نبياً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000061",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما المعجزة التي أجراها الله على يد عيسى عليه السلام؟",
+  "options": [
+   "شق البحر",
+   "تسيير الجبال",
+   "إحياء الموتى بإذن الله",
+   "إيقاف الشمس"
+  ],
+  "answer_index": 2,
+  "source": "آل عمران 3/49",
+  "explanation": "أحيا عيسى الموتى وأبرأ الأكمه والأبرص بإذن الله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000062",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ماذا يسمى أنصار عيسى عليه السلام في القرآن؟",
+  "options": [
+   "الحواريون",
+   "الأنصار",
+   "المهاجرون",
+   "أهل الصفة"
+  ],
+  "answer_index": 0,
+  "source": "آل عمران 3/52",
+  "explanation": "الحواريون هم أنصار عيسى عليه السلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000063",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "ماذا طلب الحواريون من عيسى عليه السلام أن ينزّله من السماء؟",
+  "options": [
+   "نار",
+   "مائدة",
+   "ذهب",
+   "مطر"
+  ],
+  "answer_index": 1,
+  "source": "المائدة 5/112-115",
+  "explanation": "طلبوا مائدة من السماء فسُميت السورة بها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000064",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما أشهر ما قام به ذو القرنين في القرآن؟",
+  "options": [
+   "بناء الكعبة",
+   "النجاة بسفينة",
+   "شق البحر",
+   "بناء سد ضد يأجوج ومأجوج"
+  ],
+  "answer_index": 3,
+  "source": "الكهف 18/94-98",
+  "explanation": "بنى ذو القرنين سداً من زبر الحديد والنحاس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000065",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم سنة لبث أصحاب الكهف في كهفهم؟",
+  "options": [
+   "40",
+   "100",
+   "300",
+   "309"
+  ],
+  "answer_index": 3,
+  "source": "الكهف 18/25",
+  "explanation": "ذكرت سورة الكهف أنهم لبثوا ثلاثمائة سنين وازدادوا تسعاً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000066",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما الحيوان الذي كان مع أصحاب الكهف؟",
+  "options": [
+   "حصان",
+   "شاة",
+   "كلب",
+   "حمامة"
+  ],
+  "answer_index": 2,
+  "source": "الكهف 18/18",
+  "explanation": "كان كلبهم باسطاً ذراعيه بالوصيد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000067",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من العبد الصالح الذي سافر معه موسى عليه السلام في سورة الكهف كما جاء في الحديث؟",
+  "options": [
+   "يوشع",
+   "الخضر",
+   "هارون",
+   "ذو القرنين"
+  ],
+  "answer_index": 1,
+  "source": "الكهف 18/65-82؛ البخاري، العلم",
+  "explanation": "جاء في الحديث الصحيح أن العبد الصالح هو الخضر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000068",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم عدد الأنبياء الذين ذُكروا بأسمائهم في القرآن الكريم؟",
+  "options": [
+   "10",
+   "25",
+   "124",
+   "313"
+  ],
+  "answer_index": 1,
+  "source": "أسماء الأنبياء في القرآن",
+  "explanation": "ذُكر في القرآن خمسة وعشرون نبياً بأسمائهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000069",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "أيّ هؤلاء الأنبياء ليس من أولي العزم؟",
+  "options": [
+   "نوح عليه السلام",
+   "يوسف عليه السلام",
+   "إبراهيم عليه السلام",
+   "موسى عليه السلام"
+  ],
+  "answer_index": 1,
+  "source": "الأحقاف 46/35",
+  "explanation": "أولو العزم عند الجمهور: نوح وإبراهيم وموسى وعيسى ومحمد عليهم الصلاة والسلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000070",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ماذا يقول القرآن عن رفع عيسى عليه السلام؟",
+  "options": [
+   "صعد بسلم",
+   "اختفى",
+   "رفعه الله إليه",
+   "هلك بالطوفان"
+  ],
+  "answer_index": 2,
+  "source": "النساء 4/157-158",
+  "explanation": "قال تعالى: «بل رفعه الله إليه».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000071",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "كيف وصف القرآن إدريس عليه السلام؟",
+  "options": [
+   "رفعه الله مكاناً علياً",
+   "غرق في البحر",
+   "لجأ إلى كهف",
+   "نُفي إلى الصحراء"
+  ],
+  "answer_index": 0,
+  "source": "مريم 19/56-57",
+  "explanation": "قال تعالى: «ورفعناه مكاناً علياً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000072",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما الدعاء الذي طلب به موسى عليه السلام شرح صدره؟",
+  "options": [
+   "رب هب لي ملكاً",
+   "رب هب لي من لدنك ذرية",
+   "رب أدخلني الجنة",
+   "رب اشرح لي صدري"
+  ],
+  "answer_index": 3,
+  "source": "طه 20/25-28",
+  "explanation": "قال موسى حين أُرسل إلى فرعون: «رب اشرح لي صدري ويسر لي أمري».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000073",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "أي حدث من حياة موسى عليه السلام تحكيه سورة القصص؟",
+  "options": [
+   "الهجرة",
+   "غزوة أحد",
+   "حفر الخندق",
+   "ولادته ونشأته في قصر فرعون"
+  ],
+  "answer_index": 3,
+  "source": "القصص 28/1-43",
+  "explanation": "تحكي سورة القصص ولادة موسى ونشأته في قصر فرعون ونبوته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000074",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما لقب موسى عليه السلام لأن الله كلّمه مباشرة؟",
+  "options": [
+   "كليم الله",
+   "خليل الله",
+   "صفي الله",
+   "روح الله"
+  ],
+  "answer_index": 0,
+  "source": "النساء 4/164",
+  "explanation": "قال تعالى: «وكلم الله موسى تكليماً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000075",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما لقب عيسى عليه السلام المنسوب إلى الروح؟",
+  "options": [
+   "كليم الله",
+   "روح الله",
+   "خليل الله",
+   "صفي الله"
+  ],
+  "answer_index": 1,
+  "source": "النساء 4/171",
+  "explanation": "وصفت الآية عيسى بأنه رسول الله وكلمته وروح منه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000076",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من أي مادة خُلق آدم عليه السلام كما في القرآن؟",
+  "options": [
+   "نار",
+   "نور",
+   "طين",
+   "ضوء"
+  ],
+  "answer_index": 2,
+  "source": "ص 38/71",
+  "explanation": "أخبر الله الملائكة أنه خالق بشراً من طين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000077",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "لماذا سُجن يوسف عليه السلام؟",
+  "options": [
+   "لأنه سرق",
+   "بسبب كيد امرأة العزيز",
+   "لأنه كسر الأصنام",
+   "لأنه اشتكى إخوته"
+  ],
+  "answer_index": 1,
+  "source": "يوسف 12/23-35",
+  "explanation": "افترت عليه امرأة العزيز فسُجن رغم ظهور براءته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000078",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "أي سورة تروي تفسير نبيّ لرؤيا صاحبيه في السجن؟",
+  "options": [
+   "الكهف",
+   "هود",
+   "يوسف",
+   "النحل"
+  ],
+  "answer_index": 2,
+  "source": "يوسف 12/36-41",
+  "explanation": "تروي سورة يوسف تفسيره لرؤيا صاحبي السجن.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000079",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "بأي ذنب مُسخ جماعة من بني إسرائيل قردة؟",
+  "options": [
+   "اعتدائهم في السبت",
+   "عبادة الأصنام",
+   "ترك موسى",
+   "منع الزكاة"
+  ],
+  "answer_index": 0,
+  "source": "الأعراف 7/163-166",
+  "explanation": "تعدّى أهل القرية في السبت فمُسخوا قردة خاسئين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000080",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من الذي حذّر قومه في وادي النمل؟",
+  "options": [
+   "طائر",
+   "جني",
+   "ملك",
+   "نملة"
+  ],
+  "answer_index": 3,
+  "source": "النمل 27/18-19",
+  "explanation": "قالت نملة: «يا أيها النمل ادخلوا مساكنكم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000081",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما العبادة التي كانت الجبال والطير تشارك فيها داود عليه السلام؟",
+  "options": [
+   "الحج",
+   "الزكاة",
+   "الجهاد",
+   "التسبيح"
+  ],
+  "answer_index": 3,
+  "source": "ص 38/18-19",
+  "explanation": "سخّر الله الجبال والطير يسبحن مع داود بالعشي والإشراق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000082",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "أي صنم أنكر إلياس عليه السلام على قومه عبادته؟",
+  "options": [
+   "بعل",
+   "اللات",
+   "مناة",
+   "العزى"
+  ],
+  "answer_index": 0,
+  "source": "الصافات 37/123-125",
+  "explanation": "قال إلياس لقومه: «أتدعون بعلاً وتذرون أحسن الخالقين».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000083",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما اسم المكان ذي «العماد» الذي ذُكر مع قوم عاد؟",
+  "options": [
+   "الحجر",
+   "إرم",
+   "مدين",
+   "يثرب"
+  ],
+  "answer_index": 1,
+  "source": "الفجر 89/6-8",
+  "explanation": "ذكرت سورة الفجر «إرم ذات العماد».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000084",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "كيف عُذّب المؤمنون في قصة أصحاب الأخدود؟",
+  "options": [
+   "غرقوا في البحر",
+   "رُجموا بالحجارة",
+   "أُلقوا في خنادق مشتعلة بالنار",
+   "سُجنوا"
+  ],
+  "answer_index": 2,
+  "source": "البروج 85/4-8",
+  "explanation": "لعنت سورة البروج الذين أحرقوا المؤمنين في الأخدود.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000085",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "لماذا أُهلك صاحب الجنتين في سورة الكهف؟",
+  "options": [
+   "لبخله",
+   "لكذبه",
+   "لتكبره وإنكاره",
+   "لسرقته"
+  ],
+  "answer_index": 2,
+  "source": "الكهف 18/32-44",
+  "explanation": "تكبر صاحب الجنتين وأنكر الآخرة فأُهلكت جنته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000086",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كيف عامل قوم نوح عليه السلام حين رأوه يصنع السفينة؟",
+  "options": [
+   "ساعدوه",
+   "انضموا إليه",
+   "هربوا",
+   "سخروا منه"
+  ],
+  "answer_index": 3,
+  "source": "هود 11/38",
+  "explanation": "كلما مر عليه ملأ من قومه سخروا منه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000087",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "بماذا وصف صالح عليه السلام ناقته لقومه؟",
+  "options": [
+   "ناقة مقدسة",
+   "ناقة الله",
+   "ناقة معجزة",
+   "ناقة المسافرين"
+  ],
+  "answer_index": 1,
+  "source": "الأعراف 7/73",
+  "explanation": "قال لهم صالح: «هذه ناقة الله لكم آية».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000088",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "من النبي الذي بنى مع أبيه الكعبة؟",
+  "options": [
+   "إسماعيل",
+   "إسحاق",
+   "يعقوب",
+   "يوسف"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/127",
+  "explanation": "رفع إبراهيم وإسماعيل قواعد البيت.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000089",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من أول الأنبياء على الراجح؟",
+  "options": [
+   "آدم عليه السلام",
+   "نوح عليه السلام",
+   "إبراهيم عليه السلام",
+   "إدريس عليه السلام"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/30-37",
+  "explanation": "آدم عليه السلام أول البشر وأول الأنبياء عند الجمهور.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000090",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 1,
+  "question": "من خاتم الأنبياء؟",
+  "options": [
+   "عيسى عليه السلام",
+   "محمد ﷺ",
+   "موسى عليه السلام",
+   "نوح عليه السلام"
+  ],
+  "answer_index": 1,
+  "source": "الأحزاب 33/40",
+  "explanation": "قال تعالى: «ولكن رسول الله وخاتم النبيين».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000091",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "أيّ هؤلاء الأنبياء ليس من ذرية إبراهيم عليه السلام؟",
+  "options": [
+   "موسى عليه السلام",
+   "يوسف عليه السلام",
+   "داود عليه السلام",
+   "نوح عليه السلام"
+  ],
+  "answer_index": 3,
+  "source": "الأنعام 6/84-86",
+  "explanation": "نوح عليه السلام قبل إبراهيم، والآخرون من ذريته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000092",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما العذاب الذي أخذ قوم شعيب عليه السلام؟",
+  "options": [
+   "الطوفان",
+   "حجارة",
+   "الرجفة",
+   "الريح"
+  ],
+  "answer_index": 2,
+  "source": "الأعراف 7/91",
+  "explanation": "أخذتهم الرجفة فأصبحوا في دارهم جاثمين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000093",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "في أي سورة ذُكر دعاء زكريا عليه السلام ربّه أن يرزقه الولد؟",
+  "options": [
+   "يوسف",
+   "الكهف",
+   "النحل",
+   "مريم"
+  ],
+  "answer_index": 3,
+  "source": "مريم 19/2-6",
+  "explanation": "نادى زكريا ربه نداءً خفياً فبُشّر بيحيى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000094",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما العقاب الذي نزل بقوم سبأ لما كفروا النعمة؟",
+  "options": [
+   "حريق",
+   "ريح",
+   "سيل العرم",
+   "زلزال"
+  ],
+  "answer_index": 2,
+  "source": "سبأ 34/15-16",
+  "explanation": "أرسل الله عليهم سيل العرم فخرّب سدّهم وبساتينهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000095",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما الذي أرسله الله على جيش أبرهة؟",
+  "options": [
+   "ريحاً",
+   "طيراً أبابيل",
+   "سيلاً",
+   "زلزالاً"
+  ],
+  "answer_index": 1,
+  "source": "الفيل 105/3-4",
+  "explanation": "أرسل الله على جيش أبرهة طيراً أبابيل ترميهم بحجارة من سجيل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000096",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "ما الطعام الذي أنزله الله على بني إسرائيل في التيه؟",
+  "options": [
+   "المن والسلوى",
+   "التمر واللبن",
+   "العسل والتين",
+   "الزيتون والرمان"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/57",
+  "explanation": "ظلّل الله عليهم الغمام وأنزل عليهم المن والسلوى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000097",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 2,
+  "question": "كم عيناً انفجرت حين ضرب موسى عليه السلام الحجر بعصاه؟",
+  "options": [
+   "3",
+   "7",
+   "12",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/60",
+  "explanation": "انفجرت اثنتا عشرة عيناً، قد علم كل أناس مشربهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000098",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "ما الطعام الذي قدّمه إبراهيم عليه السلام لضيوفه من الملائكة؟",
+  "options": [
+   "سمك مطبوخ",
+   "تمر ولبن",
+   "عجل حنيذ (مشوي)",
+   "عسل وخبز"
+  ],
+  "answer_index": 2,
+  "source": "هود 11/69",
+  "explanation": "جاء إبراهيم بعجل حنيذ ولم يلبث أن قدمه لضيوفه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-kissalar-000099",
+  "lang": "ar",
+  "category": "kissalar",
+  "difficulty": 3,
+  "question": "كيف ردّت مريم عليها السلام على قومها بعد ولادتها لعيسى؟",
+  "options": [
+   "نذرت الصمت وأشارت إلى الطفل",
+   "ألقت خطبة طويلة",
+   "غادرت المدينة",
+   "حلفت يميناً"
+  ],
+  "answer_index": 0,
+  "source": "مريم 19/26-29",
+  "explanation": "قالت: إني نذرت للرحمن صوماً فلن أكلم اليوم إنسياً، وأشارت إلى الطفل فتكلم.",
+  "review_status": "draft"
+ }
+]

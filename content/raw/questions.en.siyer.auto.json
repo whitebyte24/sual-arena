@@ -1,0 +1,1668 @@
+[
+ {
+  "id": "q-en-siyer-000001",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What was the name of the Prophet's father, who died before he was born?",
+  "options": [
+   "Abdullah",
+   "Abu Talib",
+   "Abdul-Muttalib",
+   "Zubayr"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet's father was Abdullah ibn Abdul-Muttalib, who died in Medina before the Prophet's birth.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000002",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who cared for the Prophet after his mother died, until he was eight years old?",
+  "options": [
+   "Hashim",
+   "Qusay",
+   "Wahb",
+   "His grandfather Abdul-Muttalib"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "After the death of his mother Aminah, the Prophet was taken in by his grandfather Abdul-Muttalib.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000003",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which uncle took the Prophet into his home and protected him after his grandfather's death?",
+  "options": [
+   "Hamzah",
+   "Abbas",
+   "Abu Talib",
+   "Harith"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abu Talib raised and protected the Prophet until his own death.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000004",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who was the Prophet's foster mother, with whom he spent his early childhood?",
+  "options": [
+   "Umm Ayman",
+   "Halimah",
+   "Shayma",
+   "Suwaybah"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Halimah as-Sa'diyyah nursed the Prophet and he lived with her tribe for the first years.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000005",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What title did the people of Mecca give the Prophet in his youth because of his honesty?",
+  "options": [
+   "Al-Amin (the Trustworthy)",
+   "As-Siddiq",
+   "Al-Faruq",
+   "Al-Hadi"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Meccans called Muhammad al-Amin.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000006",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who comforted the Prophet after the first revelation and was the first to believe in him?",
+  "options": [
+   "Aisha",
+   "Fatimah",
+   "Khadijah",
+   "Sawdah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Khadijah was the first to believe in the Prophet.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000007",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which of the Prophet's daughters continued his lineage through Hasan and Husayn?",
+  "options": [
+   "Zaynab",
+   "Ruqayyah",
+   "Umm Kulthum",
+   "Fatimah"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Fatimah was the mother of Hasan and Husayn.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000008",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who was the first muezzin of Islam?",
+  "options": [
+   "Ammar ibn Yasir",
+   "Bilal ibn Rabah",
+   "Salman al-Farisi",
+   "Abu Dharr al-Ghifari"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Adhan",
+  "explanation": "The Prophet's muezzin Bilal gave the first call to prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000009",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who accompanied the Prophet on the Hijrah from Mecca to Medina?",
+  "options": [
+   "Abu Bakr",
+   "Umar",
+   "Uthman",
+   "Ali"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abu Bakr was the Prophet's companion on the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000010",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In which cave did the Prophet and Abu Bakr hide for three days during the Hijrah?",
+  "options": [
+   "The Cave of Hira",
+   "The Cave of Uhud",
+   "The Cave of Arafat",
+   "The Cave of Thawr"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "They sheltered in the Cave of Thawr to escape the Quraysh.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000011",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What are the Muslims who left their homes and property in Mecca for Medina called?",
+  "options": [
+   "Ansar",
+   "Tabi'un",
+   "Muhajirun",
+   "People of the Suffah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Those who migrated from Mecca are the Muhajirun.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000012",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What are the Muslims of Medina who hosted and shared everything with the migrants called?",
+  "options": [
+   "Muhajirun",
+   "Ansar",
+   "Hawariyyun",
+   "Mujahidun"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The people of Medina who supported the migrants are the Ansar (helpers).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000013",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which was the first mosque the Prophet helped build on his way to Medina?",
+  "options": [
+   "The Prophet's Mosque",
+   "Masjid al-Qiblatayn",
+   "Quba Mosque",
+   "Masjid ad-Dirar"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet took part in building the Quba Mosque.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000014",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which mosque did the Prophet build after reaching Medina, serving as the centre of the community?",
+  "options": [
+   "Al-Aqsa Mosque",
+   "The Sacred Mosque",
+   "Masjid ash-Shajarah",
+   "The Prophet's Mosque (Masjid an-Nabawi)"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Salat",
+  "explanation": "Masjid an-Nabawi was the centre of the new Muslim community.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000015",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which uncle of the Prophet, known as the 'Lion of God', was martyred at Uhud?",
+  "options": [
+   "Hamzah",
+   "Abbas",
+   "Ja'far",
+   "Zubayr"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Hamzah ibn Abdul-Muttalib was martyred at Uhud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000016",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "At what age did the Prophet pass away in Medina?",
+  "options": [
+   "58",
+   "60",
+   "63",
+   "65"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Maghazi",
+  "explanation": "The Prophet passed away at the age of 63 in the 11th year after the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000017",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What is the area between the Prophet's grave and his pulpit in Medina called?",
+  "options": [
+   "Rawdah",
+   "Al-Baqi'",
+   "Maqam Ibrahim",
+   "Black Stone"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Salat",
+  "explanation": "The area between his house and his pulpit is called the Rawdah (garden of Paradise).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000018",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What is the Prophet's famous address at Arafat, a few months before his death, called?",
+  "options": [
+   "The Sermon of Aqabah",
+   "The Sermon of Medina",
+   "The Farewell Sermon",
+   "The Sermon of Tabuk"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Hajj",
+  "explanation": "The Farewell Sermon was given during the Farewell Pilgrimage.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000019",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "To which great Arab tribe of Mecca did the Prophet belong?",
+  "options": [
+   "Aws",
+   "Khazraj",
+   "Thaqif",
+   "Quraysh"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet belonged to the Quraysh.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000020",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "To which clan of the Quraysh did the Prophet belong?",
+  "options": [
+   "Banu Umayyah",
+   "Banu Hashim",
+   "Banu Makhzum",
+   "Banu Taym"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet belonged to the clan of Banu Hashim.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000021",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which pact for protecting the wronged did the Prophet join in his youth?",
+  "options": [
+   "Dar an-Nadwah",
+   "Dar al-Arqam",
+   "Quraysh Council",
+   "Hilf al-Fudul"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Hilf al-Fudul was a pledge to uphold justice and protect the wronged.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000022",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which house in Mecca did the early Muslims use as a secret gathering place?",
+  "options": [
+   "Dar an-Nadwah",
+   "Dar az-Ziyafah",
+   "Dar al-Arqam",
+   "Dar al-Hikmah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Dar al-Arqam was where the first Muslims gathered and learned.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000023",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "To which land did the persecuted Muslims make their first migration, with the Prophet's permission?",
+  "options": [
+   "Yemen",
+   "Abyssinia",
+   "Ta'if",
+   "Egypt"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The first migration was to Abyssinia.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000024",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What is the year in which the Prophet lost both Khadijah and Abu Talib called?",
+  "options": [
+   "The Year of Sorrow",
+   "The Year of Separation",
+   "The Year of Hijrah",
+   "The Year of Trial"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Both died in the tenth year of the prophethood: the Year of Sorrow.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000025",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who suggested digging a trench around Medina at the Battle of the Trench?",
+  "options": [
+   "Suhayb ar-Rumi",
+   "Miqdad ibn Amr",
+   "Salman al-Farisi",
+   "Abu Ubaydah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Salman al-Farisi proposed the trench.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000026",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What are the pledges of allegiance made by the people of Medina to the Prophet before the Hijrah called?",
+  "options": [
+   "The Pledge of Ridwan",
+   "The Pledges of Aqabah",
+   "The Pledge of Hudaybiyah",
+   "The Pledge of Uhud"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Pledges of Aqabah paved the way for the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000027",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which treaty in the 6th year after the Hijrah gave a ten-year peace and opened the way to the conquest of Mecca?",
+  "options": [
+   "The Constitution of Medina",
+   "The Aqabah Agreement",
+   "The Pact of Ta'if",
+   "The Treaty of Hudaybiyah"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Shurut",
+  "explanation": "The Treaty of Hudaybiyah led to peace and later to the conquest of Mecca.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000028",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which pledge was given under a tree after the news that Uthman had been killed at Hudaybiyah?",
+  "options": [
+   "The Pledge of Ridwan",
+   "The Pledge of Aqabah",
+   "The Pledge of Quba",
+   "The Pledge of Suffah"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Maghazi",
+  "explanation": "The Pledge of Ridwan was given beneath the tree at Hudaybiyah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000029",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What was the brotherhood between the Muhajirun and the Ansar in Medina called?",
+  "options": [
+   "Hilf",
+   "Jizyah",
+   "Mu'akhah",
+   "Shura"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet paired migrants and helpers as brothers.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000030",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What was the covered area at the back of the Prophet's Mosque where homeless companions studied called?",
+  "options": [
+   "Dar al-Arqam",
+   "Suffah",
+   "Riwaq",
+   "Mihrab"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The People of the Suffah lived and studied there.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000031",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What are military expeditions the Prophet personally led called?",
+  "options": [
+   "Ghazwah",
+   "Sariyyah",
+   "Ribat",
+   "Detachment"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Expeditions led personally by the Prophet are called ghazwah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000032",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What are military expeditions the Prophet sent under another commander called?",
+  "options": [
+   "Ghazwah",
+   "Tabuk",
+   "Jund",
+   "Sariyyah"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Expeditions led by a commander he appointed are called sariyyah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000033",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which battle in the 3rd year after the Hijrah was Hamzah martyred?",
+  "options": [
+   "Badr",
+   "The Trench",
+   "Uhud",
+   "Hunayn"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Hamzah was martyred in the Battle of Uhud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000034",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "With whom did the Prophet stay for about seven months until his house was completed in Medina?",
+  "options": [
+   "Sa'd ibn Mu'adh",
+   "Abu Ayyub al-Ansari",
+   "As'ad ibn Zurarah",
+   "Sa'd ibn Ubadah"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abu Ayyub al-Ansari hosted the Prophet in Medina.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000035",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Whom did the Prophet appoint to lead the prayer during his final illness?",
+  "options": [
+   "Abu Bakr",
+   "Ali",
+   "Umar",
+   "Uthman"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Adhan",
+  "explanation": "Abu Bakr led the prayers in the Prophet's last illness.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000036",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which commander received the title 'Sword of God' from the Prophet and saved the army at Mu'tah?",
+  "options": [
+   "Amr ibn al-As",
+   "Sa'd ibn Abi Waqqas",
+   "Usamah ibn Zayd",
+   "Khalid ibn al-Walid"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Maghazi",
+  "explanation": "Khalid ibn al-Walid took command and withdrew the army at Mu'tah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000037",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In which year after the Hijrah was Mecca conquered?",
+  "options": [
+   "6th",
+   "7th",
+   "8th",
+   "9th"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The conquest of Mecca took place in the 8th year after the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000038",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which mosque is where the qiblah changed from Jerusalem to the Kaaba during prayer?",
+  "options": [
+   "Quba Mosque",
+   "Masjid al-Jumu'ah",
+   "Masjid al-Ghamamah",
+   "Masjid al-Qiblatayn"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Salat",
+  "explanation": "At Masjid al-Qiblatayn the prayer direction was changed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000039",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What is the first written constitution agreed on in Medina between Muslims, Jews and other tribes called?",
+  "options": [
+   "The Aqabah Document",
+   "The Constitution of Medina",
+   "The Hudaybiyah Document",
+   "The Najran Covenant"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Constitution of Medina set out rights and duties of the communities.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000040",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "To which sacred mosque was the Prophet taken on the Night Journey (Isra)?",
+  "options": [
+   "Al-Aqsa Mosque",
+   "Quba Mosque",
+   "Masjid al-Khayf",
+   "Masjid al-Ghamamah"
+  ],
+  "answer_index": 0,
+  "source": "Al-Isra 17/1",
+  "explanation": "On the Night Journey the Prophet travelled to Al-Aqsa.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000041",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In which battle against the Byzantines were Zayd ibn Harithah, Ja'far ibn Abi Talib and Abdullah ibn Rawahah martyred in succession?",
+  "options": [
+   "The Battle of Yarmuk",
+   "The Battle of Mu'tah",
+   "The Expedition of Tabuk",
+   "The Battle of Nahavand"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Maghazi",
+  "explanation": "All three commanders fell in turn at Mu'tah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000042",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which was the last expedition the Prophet led in person, at a time of heat and drought, against a Byzantine threat?",
+  "options": [
+   "Khaybar",
+   "The Siege of Ta'if",
+   "Hunayn",
+   "Tabuk"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Tabuk was the last expedition the Prophet led.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000043",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who was given the banner at Khaybar and is known for conquering the fortress of Qamus?",
+  "options": [
+   "Ali",
+   "Hamzah",
+   "Zubayr ibn al-Awwam",
+   "Sa'd ibn Abi Waqqas"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Ali ibn Abi Talib conquered Qamus.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000044",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which battle, soon after the conquest of Mecca, did the Muslims first falter in due to relying on their numbers?",
+  "options": [
+   "Badr",
+   "Awtas",
+   "Hunayn",
+   "Khaybar"
+  ],
+  "answer_index": 2,
+  "source": "Al-Tawbah 9/25",
+  "explanation": "At Hunayn the Muslims were at first shaken by overconfidence in their numbers.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000045",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who was the young commander appointed by the Prophet to lead an army that Abu Bakr later sent out?",
+  "options": [
+   "Abdullah ibn Umar",
+   "Mu'adh ibn Jabal",
+   "Mus'ab ibn Umayr",
+   "Usamah ibn Zayd"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Usamah ibn Zayd led the army the Prophet had prepared.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000046",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which companion was sent as the first teacher to Medina after the first pledge of Aqabah?",
+  "options": [
+   "Mu'adh ibn Jabal",
+   "Abdullah ibn Mas'ud",
+   "Mus'ab ibn Umayr",
+   "Abu Dharr al-Ghifari"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Mus'ab ibn Umayr taught Islam to the people of Medina.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000047",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which Jewish tribe of Medina broke its treaty and sided with the Quraysh during the Battle of the Trench?",
+  "options": [
+   "Banu Qaynuqa",
+   "Banu Qurayzah",
+   "Banu Nadir",
+   "Banu Harith"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Banu Qurayzah broke the treaty during the Trench.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000048",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which mosque did the hypocrites build to harm the Quba Mosque and cause division, and which the Prophet had destroyed?",
+  "options": [
+   "Masjid ad-Dirar",
+   "Masjid al-Fath",
+   "Masjid as-Sabaqah",
+   "Masjid al-Ijabah"
+  ],
+  "answer_index": 0,
+  "source": "At-Tawbah 9/107",
+  "explanation": "Masjid ad-Dirar was built to cause harm and division.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000049",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which expedition did the wounded Muslim army undertake the day after Uhud to pursue the Quraysh?",
+  "options": [
+   "Dhat ar-Riqa'",
+   "Banu Mustaliq",
+   "Badr al-Maw'id",
+   "Hamra' al-Asad"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The pursuit after Uhud is known as the expedition of Hamra' al-Asad.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000050",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which eventful year was the Prophet born?",
+  "options": [
+   "The Year of the Trench",
+   "The Year of the Hijrah",
+   "The Year of the Elephant",
+   "The Year of Badr"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet was born in the Year of the Elephant, when Abraha marched against the Kaaba (about 570).",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000051",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What was the name of the Prophet's mother?",
+  "options": [
+   "Aminah",
+   "Khadijah",
+   "Fatimah",
+   "Halimah"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet's mother was Aminah bint Wahb.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000052",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Where did Aminah, the Prophet's mother, die?",
+  "options": [
+   "Ta'if",
+   "Abwa",
+   "Khaybar",
+   "Syria"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "She died at Abwa between Mecca and Medina on the way back from visiting relatives.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000053",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which Abyssinian woman cared for the Prophet in his childhood and whom he called 'my mother'?",
+  "options": [
+   "Umm Ayman",
+   "Umm Salamah",
+   "Umm Habibah",
+   "Umm Hani"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Umm Ayman (Barakah) took care of the Prophet and he honoured her.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000054",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which monk recognised signs of prophethood in the young Muhammad during a journey to Syria with Abu Talib?",
+  "options": [
+   "Waraqah",
+   "Bahira",
+   "Nestor",
+   "Sergius"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The monk Bahira at Busra recognised the signs.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000055",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "How old was the Prophet when he married Khadijah?",
+  "options": [
+   "20",
+   "25",
+   "30",
+   "40"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet married Khadijah at the age of 25.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000056",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "How did the Prophet settle the dispute over placing the Black Stone when the Kaaba was rebuilt?",
+  "options": [
+   "By placing it alone without consulting anyone",
+   "By drawing lots",
+   "By placing it on a cloak held by the clan leaders",
+   "By placing it elsewhere"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "He put the stone on a cloak, had each clan leader hold an edge, and set it in place himself.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000057",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which cave did the first revelation come?",
+  "options": [
+   "Thawr",
+   "Hira",
+   "The Cave of the Sleepers",
+   "Dar al-Arqam"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Bad' al-Wahy",
+  "explanation": "The first revelation came in the Cave of Hira on Jabal an-Nur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000058",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "How old was the Prophet when the first revelation came?",
+  "options": [
+   "25",
+   "33",
+   "40",
+   "63"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Bad' al-Wahy",
+  "explanation": "The Prophet was 40 years old when the first revelation came.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000059",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who is regarded as the first child to accept Islam?",
+  "options": [
+   "Zayd",
+   "Uthman",
+   "Ali",
+   "Zubayr"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Ali was a boy when he accepted Islam and is regarded as the first child to do so.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000060",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who is regarded as the first free man to accept Islam?",
+  "options": [
+   "Umar",
+   "Uthman",
+   "Ali",
+   "Abu Bakr"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abu Bakr is regarded as the first free man to believe.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000061",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "About how many years did the secret preaching in Mecca last?",
+  "options": [
+   "1",
+   "3",
+   "5",
+   "10"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Prophet preached secretly for about three years before going public.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000062",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "On which hill did the Prophet first publicly call the Meccans to Islam?",
+  "options": [
+   "Hira",
+   "Arafat",
+   "As-Safa",
+   "Dar an-Nadwah"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Tafsir; Ibn Hisham, al-Sirah",
+  "explanation": "He climbed as-Safa and called the Quraysh to the worship of God alone.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000063",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which uncle of the Prophet was most hostile towards him?",
+  "options": [
+   "Abu Talib",
+   "Abu Lahab",
+   "Hamzah",
+   "Abbas"
+  ],
+  "answer_index": 1,
+  "source": "Al-Masad 111/1-5",
+  "explanation": "Abu Lahab opposed the Prophet and Surah Al-Masad was revealed about him.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000064",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which Meccan leader who was killed at Badr was among the worst persecutors of the Muslims?",
+  "options": [
+   "Abu Jahl",
+   "Abu Sufyan",
+   "Walid ibn al-Mughirah",
+   "Abu Talib"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abu Jahl (Amr ibn Hisham) persecuted the Muslims and was killed at Badr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000065",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who was the first woman martyr in Islam?",
+  "options": [
+   "Khadijah",
+   "Ruqayyah",
+   "Sumayyah",
+   "Umm Salamah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Sumayyah, wife of Yasir and mother of Ammar, died under torture without giving up her faith.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000066",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "The verses that led Umar to Islam were from the beginning of which surah?",
+  "options": [
+   "Ya-Sin",
+   "Ta-Ha",
+   "Al-Mulk",
+   "Al-Kahf"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Umar heard the beginning of Surah Ta-Ha at his sister's house and accepted Islam.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000067",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Where did the Muslims and Banu Hashim live during the three-year boycott?",
+  "options": [
+   "The Valley (Shi'b) of Abu Talib",
+   "Dar al-Arqam",
+   "The Cave of Thawr",
+   "Quba"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "They endured the boycott in the Shi'b of Abu Talib in Mecca.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000068",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "To which city did the Prophet go in the tenth year of his mission to invite people, where he was stoned?",
+  "options": [
+   "Medina",
+   "Khaybar",
+   "Damascus",
+   "Ta'if"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "In Ta'if he was stoned yet he did not curse the people.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000069",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which event were the five daily prayers made obligatory?",
+  "options": [
+   "The Hijrah",
+   "The Battle of Badr",
+   "The Mi'raj (Ascension)",
+   "The conquest of Mecca"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Salat",
+  "explanation": "The five daily prayers were ordained during the Night of the Ascension.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000070",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which year CE did the Hijrah take place?",
+  "options": [
+   "570",
+   "610",
+   "622",
+   "632"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Hijrah took place in 622, the start of the Islamic calendar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000071",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Who tried to catch the Prophet on the Hijrah and whose horse sank into the ground?",
+  "options": [
+   "Abu Jahl",
+   "Walid ibn al-Mughirah",
+   "Uqbah ibn Abi Mu'ayt",
+   "Suraqah ibn Malik"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Manaqib al-Ansar",
+  "explanation": "Suraqah wanted the Quraysh's reward but his horse sank repeatedly, so he sought the Prophet's pardon.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000072",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Who slept in the Prophet's bed on the night of the Hijrah?",
+  "options": [
+   "Ali",
+   "Abu Bakr",
+   "Umar",
+   "Zubayr"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Ali slept in the Prophet's bed to mislead the Quraysh.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000073",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "What was the name of the Prophet's camel that knelt at the site of the Prophet's Mosque?",
+  "options": [
+   "Ba'ir",
+   "Adba",
+   "Bahimah",
+   "Qaswa"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Qaswa knelt where the mosque and the Prophet's house were built.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000074",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In which year after the Hijrah did the Battle of Badr take place?",
+  "options": [
+   "1st",
+   "2nd",
+   "3rd",
+   "5th"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Badr took place in the 2nd year after the Hijrah, in Ramadan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000075",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "About how many Muslims fought at Badr?",
+  "options": [
+   "133",
+   "313",
+   "513",
+   "1000"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "About 313 Muslims fought, against roughly a thousand polytheists.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000076",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "To whom did the Prophet hand over the key of the Kaaba at the conquest of Mecca?",
+  "options": [
+   "Abu Bakr",
+   "Uthman ibn Talhah",
+   "Bilal",
+   "Abbas"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah; Bukhari, Maghazi",
+  "explanation": "The Prophet returned the key to Uthman ibn Talhah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000077",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In which year after the Hijrah did the Farewell Pilgrimage take place?",
+  "options": [
+   "8th",
+   "9th",
+   "10th",
+   "11th"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Hajj",
+  "explanation": "The Farewell Pilgrimage took place in the 10th year, shortly before his passing.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000078",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "In whose room was the Prophet buried?",
+  "options": [
+   "Hafsah",
+   "Aisha",
+   "Khadijah",
+   "Zaynab"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Jana'iz",
+  "explanation": "He was buried in the room where he passed away, Aisha's room.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000079",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Who was the mother of the Prophet's son Ibrahim?",
+  "options": [
+   "Khadijah",
+   "Safiyyah",
+   "Mariyah",
+   "Juwayriyyah"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Ibrahim was born to Mariyah the Copt and died in infancy.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000080",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "How many daughters did the Prophet have?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "He had four daughters: Zaynab, Ruqayyah, Umm Kulthum and Fatimah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000081",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which caliph is called 'Dhun-Nurayn' (Possessor of Two Lights) for marrying two of the Prophet's daughters?",
+  "options": [
+   "Ali",
+   "Uthman",
+   "Umar",
+   "Abu Bakr"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Uthman married Ruqayyah and later Umm Kulthum.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000082",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which title meaning 'the one who distinguishes truth from falsehood' was given to Umar?",
+  "options": [
+   "As-Siddiq",
+   "Dhun-Nurayn",
+   "Sayfullah",
+   "Al-Faruq"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Umar was called al-Faruq.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000083",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "Which title meaning 'the truthful' was given to Abu Bakr?",
+  "options": [
+   "As-Siddiq",
+   "Al-Faruq",
+   "Dhun-Nurayn",
+   "Al-Amin"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Sa'd, at-Tabaqat",
+  "explanation": "Abu Bakr was called as-Siddiq for believing the Prophet without hesitation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000084",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Who narrated the largest number of hadiths among the companions?",
+  "options": [
+   "Aisha",
+   "Anas ibn Malik",
+   "Abu Hurayrah",
+   "Abdullah ibn Umar"
+  ],
+  "answer_index": 2,
+  "source": "Hadith narration statistics",
+  "explanation": "Abu Hurayrah narrated the most hadiths.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000085",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What are the ten companions who were given the glad tidings of Paradise during their lives called?",
+  "options": [
+   "People of the Suffah",
+   "People of Badr",
+   "Al-'Asharah al-Mubashsharah",
+   "The Rightly Guided Caliphs"
+  ],
+  "answer_index": 2,
+  "source": "Tirmidhi, Manaqib",
+  "explanation": "They are known as the Ten Promised Paradise.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000086",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "What was Medina called before Islam?",
+  "options": [
+   "Bakkah",
+   "Yathrib",
+   "Ta'if",
+   "Quba"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Medina was called Yathrib before the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000087",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which two Arab tribes made up the Ansar of Medina?",
+  "options": [
+   "Quraysh and Hawazin",
+   "Banu Qurayzah and Banu Nadir",
+   "Ghatafan and Thaqif",
+   "Aws and Khazraj"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Ansar came from the Aws and the Khazraj.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000088",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "What title did the Christian king who sheltered the Muslim migrants in Abyssinia hold?",
+  "options": [
+   "Najashi (Negus)",
+   "Kisra",
+   "Muqawqis",
+   "Heraclius"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "The Negus did not hand the Muslims over to the Quraysh's envoys.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000089",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Who was known as the leader of the hypocrites in Medina?",
+  "options": [
+   "Ka'b ibn al-Ashraf",
+   "Abdullah ibn Ubayy",
+   "Huyayy ibn Akhtab",
+   "Abu Amir"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abdullah ibn Ubayy ibn Salul led the hypocrites.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000090",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which Jewish tribe was expelled from Medina first?",
+  "options": [
+   "Banu Nadir",
+   "Banu Qurayzah",
+   "Banu Qaynuqa",
+   "The Jews of Khaybar"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Banu Qaynuqa broke the pact after Badr and was exiled.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000091",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "In which year after the Hijrah was Khaybar conquered?",
+  "options": [
+   "5th",
+   "6th",
+   "7th",
+   "9th"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Khaybar fell in the 7th year after Hudaybiyah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000092",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which companion carried the Prophet's letter to Heraclius, the Byzantine emperor?",
+  "options": [
+   "Amr ibn al-As",
+   "Hatib ibn Abi Balta'ah",
+   "Abdullah ibn Hudhafah",
+   "Dihyah ibn Khalifah"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Bad' al-Wahy",
+  "explanation": "Dihyah al-Kalbi delivered the letter to Heraclius.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000093",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which scribe of the revelation led the effort to collect the Quran into a single volume?",
+  "options": [
+   "Zayd ibn Thabit",
+   "Abu Hurayrah",
+   "Bilal",
+   "Salman al-Farisi"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Fada'il al-Qur'an",
+  "explanation": "Zayd ibn Thabit led the compilation under Abu Bakr and Uthman.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000094",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 2,
+  "question": "Which grandfather of the Prophet re-dug the well of Zamzam?",
+  "options": [
+   "Hashim",
+   "Qusay",
+   "Abd Manaf",
+   "Abdul-Muttalib"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Abdul-Muttalib reopened Zamzam.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000095",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 1,
+  "question": "In which city did the Prophet pass away?",
+  "options": [
+   "Mecca",
+   "Ta'if",
+   "Medina",
+   "Jerusalem"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Maghazi",
+  "explanation": "He passed away in Medina in the 11th year after the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000096",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "In which valley did the Prophet lead his first Friday prayer before entering Medina?",
+  "options": [
+   "The well of Badr",
+   "Wadi Ranuna",
+   "Mount Uhud",
+   "Wadi ar-Rawdah"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "He led the first Friday prayer in Wadi Ranuna among Banu Salim.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000097",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Who owned the land where the Prophet's Mosque was built?",
+  "options": [
+   "Abu Ayyub al-Ansari",
+   "Two orphan boys (Sahl and Suhayl)",
+   "Abdullah ibn Ubayy",
+   "Banu Qurayzah"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Salat",
+  "explanation": "The Prophet bought the land from the orphans Sahl and Suhayl.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-siyer-000098",
+  "lang": "en",
+  "category": "siyer",
+  "difficulty": 3,
+  "question": "Which companion spoke for the Muslims before the Negus and recited from Surah Maryam?",
+  "options": [
+   "Abdullah ibn Mas'ud",
+   "Zubayr ibn al-Awwam",
+   "Uthman ibn Maz'un",
+   "Ja'far ibn Abi Talib"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Hisham, al-Sirah",
+  "explanation": "Ja'far spoke for the Muslims and recited verses of Surah Maryam.",
+  "review_status": "draft"
+ }
+]

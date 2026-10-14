@@ -39,7 +39,7 @@ import {
   type Settings,
 } from '@/features/soyleme/engine';
 import { addSeen, loadSeen } from '@/features/soyleme/storage';
-import { t } from '@/i18n';
+import { t, upper } from '@/i18n';
 import { glow, radius, spacing, useTheme, type Theme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
 import { confirm } from '@/ui/confirm';
@@ -235,7 +235,7 @@ export default function SoylemePlay() {
           <Divider />
           <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 6 }}>
             <Icon name="cancel" size={14} color={theme.textMuted} />
-            <Text style={{ color: theme.textMuted, fontSize: 12, fontWeight: '700', letterSpacing: 1.2 }}>{t('soyleme.play.forbidden').toLocaleUpperCase('tr')}</Text>
+            <Text style={{ color: theme.textMuted, fontSize: 12, fontWeight: '700', letterSpacing: 1.2 }}>{upper(t('soyleme.play.forbidden'))}</Text>
           </View>
           <View style={{ gap: spacing.sm, marginTop: 4 }}>
             {card?.forbidden.map((w) => (

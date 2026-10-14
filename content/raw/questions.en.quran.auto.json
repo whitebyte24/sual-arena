@@ -1,0 +1,1651 @@
+[
+ {
+  "id": "q-en-quran-000001",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which is the last surah of the Quran in the standard order of the Mushaf?",
+  "options": [
+   "Al-Falaq",
+   "Al-Ikhlas",
+   "Al-Kafirun",
+   "An-Nas"
+  ],
+  "answer_index": 3,
+  "source": "Mushaf order; An-Nas 114/1-6",
+  "explanation": "An-Nas, with 6 verses, is the 114th and last surah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000002",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah with only 3 verses is known as the shortest surah by wording?",
+  "options": [
+   "Al-Kawthar",
+   "Al-Ikhlas",
+   "Al-Ma'un",
+   "Quraysh"
+  ],
+  "answer_index": 0,
+  "source": "Al-Kawthar 108/1-3",
+  "explanation": "Al-Kawthar has 3 verses and is the shortest surah by number of words.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000003",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which blessed night was the Quran first revealed?",
+  "options": [
+   "The Night of Bara'ah",
+   "The Night of Power (Laylat al-Qadr)",
+   "The Night of Ascension",
+   "The Night of Raghaib"
+  ],
+  "answer_index": 1,
+  "source": "Al-Qadr 97/1; Al-Baqarah 2/185",
+  "explanation": "The Quran began to be revealed in the Night of Power in the month of Ramadan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000004",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Under which caliph was the Quran first collected into a single written volume?",
+  "options": [
+   "Umar",
+   "Uthman",
+   "Abu Bakr",
+   "Ali"
+  ],
+  "answer_index": 2,
+  "source": "Bukhari, Fada'il al-Qur'an",
+  "explanation": "The Quran was first compiled into one copy in the time of Abu Bakr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000005",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Under which caliph were standard copies of the Quran made and sent to the main Muslim cities?",
+  "options": [
+   "Uthman",
+   "Abu Bakr",
+   "Umar",
+   "Ali"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, Fada'il al-Qur'an",
+  "explanation": "Uthman had copies made from the compiled text and sent them to the major centres.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000006",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which is the second surah of the Quran?",
+  "options": [
+   "Al Imran",
+   "An-Nisa",
+   "Al-Fatihah",
+   "Al-Baqarah"
+  ],
+  "answer_index": 3,
+  "source": "Mushaf order",
+  "explanation": "Al-Baqarah follows Al-Fatihah and is the longest surah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000007",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which basic belief does Surah Al-Ikhlas emphasise?",
+  "options": [
+   "Divine decree",
+   "The Hereafter",
+   "The oneness of God (tawhid)",
+   "Belief in angels"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ikhlas 112/1-4",
+  "explanation": "Al-Ikhlas declares that God is One, Eternal, and without child or equal.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000008",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah, recited in every unit of prayer, is called 'The Opening of the Book'?",
+  "options": [
+   "Al-Baqarah",
+   "Al-Fatihah",
+   "Al-Kawthar",
+   "Al-Falaq"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Adhan; Mushaf order",
+  "explanation": "Al-Fatihah is recited in every unit of the prayer.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000009",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is Ayat al-Kursi (verse 255) found?",
+  "options": [
+   "Al-Baqarah",
+   "Al Imran",
+   "An-Nisa",
+   "Al-Ma'idah"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/255",
+  "explanation": "Ayat al-Kursi is verse 255 of Surah Al-Baqarah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000010",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "How many parts (juz') is the Quran divided into?",
+  "options": [
+   "20",
+   "25",
+   "30",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "Mushaf layout",
+  "explanation": "The Quran is divided into 30 equal parts called juz'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000011",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which prophet has a surah named after him among the following?",
+  "options": [
+   "Dawud (David)",
+   "Yunus (Jonah)",
+   "Ilyas (Elijah)",
+   "Dhul-Kifl"
+  ],
+  "answer_index": 1,
+  "source": "Yunus 10",
+  "explanation": "Surah Yunus is the 10th surah; the other three prophets have no surah named after them.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000012",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "How many verses does Surah Al-Fatihah have?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer_index": 2,
+  "source": "Al-Fatihah 1/1-7",
+  "explanation": "Al-Fatihah consists of seven verses.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000013",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which angel brought revelation to the Prophet Muhammad (peace be upon him)?",
+  "options": [
+   "Mika'il (Michael)",
+   "Jibril (Gabriel)",
+   "Israfil",
+   "Azrael"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/97",
+  "explanation": "Jibril is the angel entrusted with delivering revelation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000014",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "The longest verse of the Quran, the verse on debt contracts, is in which surah?",
+  "options": [
+   "An-Nisa",
+   "Al-Ma'idah",
+   "Al-An'am",
+   "Al-Baqarah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Baqarah 2/282",
+  "explanation": "The verse on documenting debts is the longest verse of the Quran.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000015",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which two surahs at the end of the Quran teach seeking refuge in God?",
+  "options": [
+   "Al-Kafirun and Al-Ikhlas",
+   "Al-Asr and Al-Kawthar",
+   "Al-Falaq and An-Nas",
+   "Al-Fil and Quraysh"
+  ],
+  "answer_index": 2,
+  "source": "Al-Falaq 113; An-Nas 114",
+  "explanation": "Al-Falaq and An-Nas are called al-Mu'awwidhatayn, the two surahs of refuge.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000016",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah tells a single story and calls it 'the best of stories'?",
+  "options": [
+   "Yusuf",
+   "Al-Kahf",
+   "Maryam",
+   "Ta-Ha"
+  ],
+  "answer_index": 0,
+  "source": "Yusuf 12/3",
+  "explanation": "Surah Yusuf recounts the story of Prophet Yusuf from beginning to end.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000017",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "What are the surahs revealed in Mecca before the Hijrah called?",
+  "options": [
+   "Madani",
+   "Haramiyyah",
+   "Qudumi",
+   "Makki"
+  ],
+  "answer_index": 3,
+  "source": "Ulum al-Qur'an (Zarqani, Manahil al-'Irfan)",
+  "explanation": "Surahs revealed before the Hijrah are called Makki; those after are called Madani.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000018",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "What are the surahs revealed after the Hijrah called?",
+  "options": [
+   "Makki",
+   "Qudsi",
+   "Madani",
+   "Safari"
+  ],
+  "answer_index": 2,
+  "source": "Ulum al-Qur'an (Suyuti, al-Itqan)",
+  "explanation": "Madani surahs were revealed in Medina after the Hijrah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000019",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah is named after the bee and speaks of its inspiration and the healing it provides?",
+  "options": [
+   "An-Nahl",
+   "Al-Baqarah",
+   "An-Naml",
+   "Al-Ankabut"
+  ],
+  "answer_index": 0,
+  "source": "An-Nahl 16/68-69",
+  "explanation": "An-Nahl means 'the bee'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000020",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah does a second Bismillah appear inside the text itself (verse 30)?",
+  "options": [
+   "An-Nahl",
+   "An-Naml",
+   "An-Nur",
+   "An-Najm"
+  ],
+  "answer_index": 1,
+  "source": "An-Naml 27/30",
+  "explanation": "The letter of Sulayman to the Queen of Sheba begins with 'In the name of God' in verse 30.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000021",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which companion is the only one mentioned by name in the Quran?",
+  "options": [
+   "Abu Bakr",
+   "Ali ibn Abi Talib",
+   "Uthman ibn Affan",
+   "Zayd ibn Harithah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Ahzab 33/37",
+  "explanation": "Zayd ibn Harithah is the only companion named in the Quran.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000022",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "According to Surah Al-Qadr, the Night of Power is better than what?",
+  "options": [
+   "A thousand months",
+   "A hundred months",
+   "A thousand days",
+   "Seventy years"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qadr 97/3",
+  "explanation": "Surah Al-Qadr says the Night of Power is better than a thousand months.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000023",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is the story of the People of the Cave told?",
+  "options": [
+   "Maryam",
+   "Al-Anbiya",
+   "Al-Kahf",
+   "Saba"
+  ],
+  "answer_index": 2,
+  "source": "Al-Kahf 18/9-26",
+  "explanation": "Surah Al-Kahf tells the story of the youth who slept in the cave.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000024",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah describes people on the Day of Judgement as 'scattered moths'?",
+  "options": [
+   "Az-Zalzalah",
+   "Al-Qari'ah",
+   "Al-'Adiyat",
+   "At-Takathur"
+  ],
+  "answer_index": 1,
+  "source": "Al-Qari'ah 101/4",
+  "explanation": "Al-Qari'ah describes the terrors of the Day of Judgement.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000025",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah begins by swearing by time and names the qualities of the believers who are not at loss?",
+  "options": [
+   "At-Tin",
+   "Al-Layl",
+   "Al-Fajr",
+   "Al-'Asr"
+  ],
+  "answer_index": 3,
+  "source": "Al-'Asr 103/1-3",
+  "explanation": "Al-'Asr is only three verses long and sums up the way to success.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000026",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah tells how Abraha's army that came to destroy the Kaaba was destroyed?",
+  "options": [
+   "Quraysh",
+   "Al-Fil",
+   "Al-Ma'un",
+   "Al-Masad"
+  ],
+  "answer_index": 1,
+  "source": "Al-Fil 105/1-5",
+  "explanation": "Al-Fil recounts the Year of the Elephant.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000027",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah opens by saying angels are made messengers with two, three or four wings?",
+  "options": [
+   "As-Saffat",
+   "Az-Zukhruf",
+   "Fatir",
+   "Ad-Dukhan"
+  ],
+  "answer_index": 2,
+  "source": "Fatir 35/1",
+  "explanation": "The first verse of Surah Fatir mentions angels with wings in twos, threes and fours.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000028",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which wise man in the Quran advises his son not to associate partners with God and to pray?",
+  "options": [
+   "Luqman",
+   "Talut",
+   "Dhul-Qarnayn",
+   "Haman"
+  ],
+  "answer_index": 0,
+  "source": "Luqman 31/13-19",
+  "explanation": "Surah Luqman records the advice of Luqman to his son.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000029",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is 'Which of the favours of your Lord will you deny?' repeated 31 times?",
+  "options": [
+   "Al-Waqi'ah",
+   "Al-Hadid",
+   "Ar-Rahman",
+   "Al-Mulk"
+  ],
+  "answer_index": 2,
+  "source": "Ar-Rahman 55/13-77",
+  "explanation": "Surah Ar-Rahman repeats this refrain 31 times.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000030",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah exposes the hypocrites for their lying and double standards?",
+  "options": [
+   "Al-Mujadila",
+   "Al-Munafiqun",
+   "Al-Hashr",
+   "Al-Mumtahanah"
+  ],
+  "answer_index": 1,
+  "source": "Al-Munafiqun 63/1-4",
+  "explanation": "Al-Munafiqun describes the hypocrites of Medina.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000031",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah begins by addressing the Prophet as 'You who are wrapped up' and tells him to rise and warn?",
+  "options": [
+   "Al-Muddaththir",
+   "Al-Mujadila",
+   "Al-Mumtahanah",
+   "Al-Mulk"
+  ],
+  "answer_index": 0,
+  "source": "Al-Muddaththir 74/1-2",
+  "explanation": "Al-Muddaththir begins with 'O you who is covered, arise and warn'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000032",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah discusses the Battle of Uhud and the test of the believers?",
+  "options": [
+   "An-Nisa",
+   "Al-An'am",
+   "At-Tawbah",
+   "Al Imran"
+  ],
+  "answer_index": 3,
+  "source": "Al Imran 3/121-175",
+  "explanation": "Surah Al Imran contains the account of Uhud.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000033",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah answers those who mocked the Prophet as 'cut off' by saying the one cut off is the one who hates him?",
+  "options": [
+   "Al-Kawthar",
+   "Al-Ikhlas",
+   "Al-Kafirun",
+   "Al-Falaq"
+  ],
+  "answer_index": 0,
+  "source": "Al-Kawthar 108/3",
+  "explanation": "Al-Kawthar declares that the one who hates the Prophet is the one cut off.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000034",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah says the earth will be shaken with a mighty quake and will bring out its burdens?",
+  "options": [
+   "Al-Qari'ah",
+   "Az-Zalzalah",
+   "Al-Inshiqaq",
+   "Al-Infitar"
+  ],
+  "answer_index": 1,
+  "source": "Az-Zalzalah 99/1-2",
+  "explanation": "Az-Zalzalah describes the Day of Judgement quake.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000035",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah explains the shares of inheritance in the most detail?",
+  "options": [
+   "Al-An'am",
+   "Al-A'raf",
+   "Al-Ma'idah",
+   "An-Nisa"
+  ],
+  "answer_index": 3,
+  "source": "An-Nisa 4/11-12, 176",
+  "explanation": "An-Nisa sets out the Islamic rules of inheritance.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000036",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah are the three companions who stayed behind from the Tabuk expedition and were forgiven mentioned?",
+  "options": [
+   "Al-Anfal",
+   "Al-Ahzab",
+   "At-Tawbah",
+   "Al-Fath"
+  ],
+  "answer_index": 2,
+  "source": "At-Tawbah 9/118",
+  "explanation": "At-Tawbah mentions the three who repented sincerely and were forgiven.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000037",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah is named 'Iron' and speaks of its great strength and benefits?",
+  "options": [
+   "An-Nur",
+   "Ash-Shura",
+   "Al-Hadid",
+   "An-Naml"
+  ],
+  "answer_index": 2,
+  "source": "Al-Hadid 57/25",
+  "explanation": "Al-Hadid says God sent down iron, in which is great might and benefits.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000038",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah divides people on the Day of Judgement into three groups according to their deeds?",
+  "options": [
+   "Al-Qiyamah",
+   "Al-Haqqah",
+   "At-Tur",
+   "Al-Waqi'ah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Waqi'ah 56/7-10",
+  "explanation": "Al-Waqi'ah describes the companions of the right, of the left, and the foremost.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000039",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah announces the ruin of Abu Lahab, the Prophet's enemy?",
+  "options": [
+   "Al-Fil",
+   "Al-Masad",
+   "Al-Ma'un",
+   "Quraysh"
+  ],
+  "answer_index": 1,
+  "source": "Al-Masad 111/1-5",
+  "explanation": "Al-Masad (also Tabbat) says the hands of Abu Lahab will perish.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000040",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "How many surahs begin with the letters Ha-Mim (the 'Hawamim' surahs)?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer_index": 2,
+  "source": "Ulum al-Qur'an (surahs 40-46)",
+  "explanation": "There are seven Ha-Mim surahs from Ghafir to Al-Ahqaf.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000041",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "How many verses does Surah Yusuf have?",
+  "options": [
+   "101",
+   "111",
+   "121",
+   "131"
+  ],
+  "answer_index": 1,
+  "source": "Yusuf 12/1-111",
+  "explanation": "Surah Yusuf has 111 verses.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000042",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah describes the believers' patience during the Battle of the Trench against the allied armies?",
+  "options": [
+   "Al-Anfal",
+   "At-Tawbah",
+   "Al-Ahzab",
+   "Al-Hashr"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ahzab 33/9-25",
+  "explanation": "Al-Ahzab recounts the siege of Medina by the confederate armies.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000043",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah says you will find no change in God's way (sunnatullah)?",
+  "options": [
+   "Fatir",
+   "Ya-Sin",
+   "Al-Hajj",
+   "Luqman"
+  ],
+  "answer_index": 0,
+  "source": "Fatir 35/43",
+  "explanation": "Fatir 43 states that you will never find any change in God's way.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000044",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah gives rulings about the spoils of the Battle of Badr and the ransom of prisoners?",
+  "options": [
+   "At-Tawbah",
+   "Al-Anfal",
+   "Al-Baqarah",
+   "An-Nisa"
+  ],
+  "answer_index": 1,
+  "source": "Al-Anfal 8/1, 41, 67-71",
+  "explanation": "Al-Anfal deals with the spoils of war after Badr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000045",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah tells the story of the People of the Trench, where believers were thrown into fire?",
+  "options": [
+   "At-Tariq",
+   "Al-A'la",
+   "Al-Ghashiyah",
+   "Al-Buruj"
+  ],
+  "answer_index": 3,
+  "source": "Al-Buruj 85/4-9",
+  "explanation": "Al-Buruj condemns those who burned the believers in trenches.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000046",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "In which surah is the Prophet exonerated of the slander against Aisha, mother of the believers?",
+  "options": [
+   "Al-Ahzab",
+   "An-Nisa",
+   "An-Nur",
+   "At-Talaq"
+  ],
+  "answer_index": 2,
+  "source": "An-Nur 24/11-20",
+  "explanation": "Surah An-Nur announces the innocence of Aisha.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000047",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "What name does the Quran give to the day of Badr, the day the criterion between truth and falsehood was shown?",
+  "options": [
+   "Yawm al-Jam'",
+   "Yawm al-Furqan",
+   "Yawm al-Fath",
+   "Yawm al-Ahzab"
+  ],
+  "answer_index": 1,
+  "source": "Al-Anfal 8/41",
+  "explanation": "The day of Badr is called Yawm al-Furqan, the day of discrimination.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000048",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "What is the longest surah of the Quran?",
+  "options": [
+   "Al-Baqarah",
+   "Al Imran",
+   "An-Nisa",
+   "Al-A'raf"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/1-286",
+  "explanation": "Al-Baqarah has 286 verses and is the longest surah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000049",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "How many surahs does the Quran have in total?",
+  "options": [
+   "99",
+   "110",
+   "114",
+   "120"
+  ],
+  "answer_index": 2,
+  "source": "Mushaf order; Al-Fatihah 1/1 to An-Nas 114/6",
+  "explanation": "The Mushaf has 114 surahs, from Al-Fatihah to An-Nas.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000050",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah does not begin with the Basmalah?",
+  "options": [
+   "Al-Anfal",
+   "At-Tawbah",
+   "Al-Ma'idah",
+   "Yunus"
+  ],
+  "answer_index": 1,
+  "source": "At-Tawbah 9/1; An-Naml 27/30",
+  "explanation": "At-Tawbah is the only surah that does not start with the Basmalah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000051",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "From which surah were the first verses revealed to the Prophet?",
+  "options": [
+   "Al-'Alaq",
+   "Al-Muddaththir",
+   "Al-Fatihah",
+   "Al-Muzzammil"
+  ],
+  "answer_index": 0,
+  "source": "Al-'Alaq 96/1-5",
+  "explanation": "The first five verses of Al-'Alaq begin with 'Read'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000052",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah has a name meaning 'the spider'?",
+  "options": [
+   "An-Naml",
+   "An-Nahl",
+   "Al-Ankabut",
+   "Al-Qasas"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ankabut 29/41",
+  "explanation": "Verse 41 compares those who take protectors besides God to a spider's house.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000053",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah has a name meaning 'the ant'?",
+  "options": [
+   "An-Naml",
+   "An-Nahl",
+   "Al-Ankabut",
+   "Al-Fil"
+  ],
+  "answer_index": 0,
+  "source": "An-Naml 27/18",
+  "explanation": "In verse 18 an ant warns its colony about Sulayman's army.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000054",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which bird brought Prophet Sulayman news of the Queen of Sheba?",
+  "options": [
+   "The crow",
+   "The dove",
+   "The eagle",
+   "The hoopoe (hudhud)"
+  ],
+  "answer_index": 3,
+  "source": "An-Naml 27/20-22",
+  "explanation": "The hoopoe reported its discovery of the land of Sheba to Sulayman.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000055",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "How does Surah Al-Muzzammil say the Quran should be recited?",
+  "options": [
+   "Very quickly",
+   "Only silently",
+   "In slow, measured recitation (tartil)",
+   "Only in the morning"
+  ],
+  "answer_index": 2,
+  "source": "Al-Muzzammil 73/4",
+  "explanation": "The Quran says to recite it with measured recitation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000056",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "What is the complete recitation of the Quran from beginning to end called?",
+  "options": [
+   "Tajwid",
+   "Khatm",
+   "Tilawah",
+   "Translation"
+  ],
+  "answer_index": 1,
+  "source": "Terms of the Quranic sciences",
+  "explanation": "Completing a reading of the whole Quran is called a khatm.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000057",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "What is a person who has memorised the entire Quran called?",
+  "options": [
+   "Muezzin",
+   "Preacher",
+   "Mujahid",
+   "Hafiz"
+  ],
+  "answer_index": 3,
+  "source": "Terms of the Quranic sciences",
+  "explanation": "One who has memorised the whole Quran is a hafiz.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000058",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "What science teaches the correct pronunciation rules for reciting the Quran?",
+  "options": [
+   "Tafsir",
+   "Tajwid",
+   "Kalam",
+   "Fiqh"
+  ],
+  "answer_index": 1,
+  "source": "Terms of the Quranic sciences",
+  "explanation": "Tajwid teaches the rules of correct and beautiful recitation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000059",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "What is the science of explaining the meaning of the Quran's verses called?",
+  "options": [
+   "Tajwid",
+   "Sirah",
+   "Tafsir",
+   "Hadith"
+  ],
+  "answer_index": 2,
+  "source": "Terms of the Quranic sciences",
+  "explanation": "Tafsir is the explanation of the meanings and rulings of the Quran.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000060",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Over roughly how many years was the Quran revealed?",
+  "options": [
+   "10",
+   "15",
+   "23",
+   "40"
+  ],
+  "answer_index": 2,
+  "source": "Sirah and Quranic sciences",
+  "explanation": "The revelation lasted about 23 years, from the start of the mission until the Prophet's passing.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000061",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "In which surah does Isa (Jesus) give the glad tidings of a messenger named 'Ahmad' who would come after him?",
+  "options": [
+   "Al-Jumu'ah",
+   "At-Taghabun",
+   "Al-Hadid",
+   "As-Saff"
+  ],
+  "answer_index": 3,
+  "source": "As-Saff 61/6",
+  "explanation": "In verse 6 Isa says he brings glad tidings of a messenger whose name is Ahmad.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000062",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah begins by swearing by the fig and the olive?",
+  "options": [
+   "At-Tin",
+   "Ash-Shams",
+   "Ad-Duha",
+   "Al-Fajr"
+  ],
+  "answer_index": 0,
+  "source": "At-Tin 95/1",
+  "explanation": "Surah At-Tin begins 'By the fig and the olive'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000063",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah begins by swearing by the sun and its brightness?",
+  "options": [
+   "At-Tin",
+   "Ash-Shams",
+   "Al-Layl",
+   "Al-Fajr"
+  ],
+  "answer_index": 1,
+  "source": "Ash-Shams 91/1",
+  "explanation": "Surah Ash-Shams begins with an oath by the sun and its morning brightness.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000064",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah begins by swearing by the morning brightness?",
+  "options": [
+   "At-Tin",
+   "Ash-Shams",
+   "Ad-Duha",
+   "Al-Qadr"
+  ],
+  "answer_index": 2,
+  "source": "Ad-Duha 93/1",
+  "explanation": "Ad-Duha begins with an oath by the forenoon.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000065",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah begins 'Nun. By the pen and what they write'?",
+  "options": [
+   "Al-'Alaq",
+   "At-Tur",
+   "Al-Qalam",
+   "An-Najm"
+  ],
+  "answer_index": 2,
+  "source": "Al-Qalam 68/1",
+  "explanation": "Al-Qalam begins with an oath by the pen and what is written with it.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000066",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is the verse 'You have your religion and I have mine' found?",
+  "options": [
+   "An-Nasr",
+   "Al-Ma'un",
+   "Quraysh",
+   "Al-Kafirun"
+  ],
+  "answer_index": 3,
+  "source": "Al-Kafirun 109/6",
+  "explanation": "The last verse of Al-Kafirun sets out freedom of belief and separation from idolatry.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000067",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is the verse 'He neither begot nor was begotten' found?",
+  "options": [
+   "Al-Ikhlas",
+   "Al-Falaq",
+   "An-Nas",
+   "Al-Kawthar"
+  ],
+  "answer_index": 0,
+  "source": "Al-Ikhlas 112/3",
+  "explanation": "Verse 3 of Al-Ikhlas denies that God has a child or a parent.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000068",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which surah begins 'When the help of God and victory come'?",
+  "options": [
+   "Al-Fath",
+   "An-Nasr",
+   "Al-Qadr",
+   "Az-Zalzalah"
+  ],
+  "answer_index": 1,
+  "source": "An-Nasr 110/1",
+  "explanation": "An-Nasr announces God's help and victory, understood as the conquest of Mecca.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000069",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which prophet's name appears most often in the Quran?",
+  "options": [
+   "Ibrahim (Abraham)",
+   "Nuh (Noah)",
+   "Musa (Moses)",
+   "Isa (Jesus)"
+  ],
+  "answer_index": 2,
+  "source": "Count of prophets' names in the Quran",
+  "explanation": "Musa and his story are mentioned more than any other prophet.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000070",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which is the only month named in the Quran?",
+  "options": [
+   "Muharram",
+   "Ramadan",
+   "Rajab",
+   "Dhul-Hijjah"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2/185",
+  "explanation": "Ramadan is the only month mentioned by name, as the month in which the Quran was revealed.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000071",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is fasting prescribed for the believers?",
+  "options": [
+   "Al-Baqarah",
+   "An-Nisa",
+   "Al-Ma'idah",
+   "Al-Hujurat"
+  ],
+  "answer_index": 0,
+  "source": "Al-Baqarah 2/183",
+  "explanation": "Verse 183 says that fasting was prescribed for the believers as for those before them.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000072",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah are believers told to hold firmly to the rope of God together?",
+  "options": [
+   "Al-Ma'idah",
+   "Al-Hujurat",
+   "An-Nisa",
+   "Al Imran"
+  ],
+  "answer_index": 3,
+  "source": "Al Imran 3/103",
+  "explanation": "Verse 103 of Al Imran calls Muslims to hold fast together to God's rope.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000073",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "What are Surah Al-Falaq and Surah An-Nas called together?",
+  "options": [
+   "Al-Hawamim",
+   "Al-Musabbihat",
+   "Az-Zahrawan",
+   "Al-Mu'awwidhatayn"
+  ],
+  "answer_index": 3,
+  "source": "Al-Falaq 113/1-5; An-Nas 114/1-6",
+  "explanation": "They are called the two surahs of seeking refuge.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000074",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "What are Surah Al-Baqarah and Surah Al Imran called together?",
+  "options": [
+   "Al-Mu'awwidhatayn",
+   "Az-Zahrawan",
+   "Al-Musabbihat",
+   "Al-Hawamim"
+  ],
+  "answer_index": 1,
+  "source": "Al-Baqarah 2; Al Imran 3",
+  "explanation": "They are known together as 'the two radiant ones'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000075",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "According to the preferred view, which was the first surah revealed in Medina after the Hijrah?",
+  "options": [
+   "Al-Anfal",
+   "An-Nur",
+   "Al-Baqarah",
+   "At-Tawbah"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/1",
+  "explanation": "Books on the Quranic sciences list Al-Baqarah as the first Medinan surah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000076",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which of the following surahs is Madani?",
+  "options": [
+   "An-Nisa",
+   "Al-Kahf",
+   "Yusuf",
+   "Maryam"
+  ],
+  "answer_index": 0,
+  "source": "Makki–Madani classification; An-Nisa 4",
+  "explanation": "An-Nisa was revealed in Medina; the other three are Makki.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000077",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which of the following surahs is Makki?",
+  "options": [
+   "Al-Ma'idah",
+   "An-Nisa",
+   "Al-Kahf",
+   "Al-Anfal"
+  ],
+  "answer_index": 2,
+  "source": "Makki–Madani classification; Al-Kahf 18",
+  "explanation": "Al-Kahf was revealed in Mecca; the other three are Madani.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000078",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the verse 'God is the Light of the heavens and the earth' found?",
+  "options": [
+   "Al-Hadid",
+   "Az-Zumar",
+   "Al-Furqan",
+   "An-Nur"
+  ],
+  "answer_index": 3,
+  "source": "An-Nur 24/35",
+  "explanation": "Verse 35 of An-Nur is known as the Verse of Light.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000079",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "What is the number of Surah Al-Mulk in the Mushaf?",
+  "options": [
+   "67",
+   "68",
+   "69",
+   "71"
+  ],
+  "answer_index": 0,
+  "source": "Al-Mulk 67/1",
+  "explanation": "Al-Mulk is the 67th surah and has 30 verses.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000080",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the verse 'The believers are but brothers' found?",
+  "options": [
+   "Al-Hujurat",
+   "An-Nur",
+   "Al-Ma'idah",
+   "Al-Mulk"
+  ],
+  "answer_index": 0,
+  "source": "Al-Hujurat 49/10",
+  "explanation": "Verse 10 of Al-Hujurat states that believers are brothers and calls for reconciliation.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000081",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "How many verses does Surah Ya-Sin have?",
+  "options": [
+   "63",
+   "73",
+   "83",
+   "93"
+  ],
+  "answer_index": 2,
+  "source": "Ya-Sin 36/1-83",
+  "explanation": "Surah Ya-Sin has 83 verses.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000082",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "Which surah is the second longest in the Quran by number of verses?",
+  "options": [
+   "Al Imran",
+   "Al-A'raf",
+   "An-Nisa",
+   "Ash-Shu'ara"
+  ],
+  "answer_index": 3,
+  "source": "Ash-Shu'ara 26/227",
+  "explanation": "After Al-Baqarah comes Ash-Shu'ara with 227 verses; Al Imran has 200.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000083",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah are believers told to leave trade and hurry to remember God when called to prayer?",
+  "options": [
+   "Al-Munafiqun",
+   "Al-Jumu'ah",
+   "As-Saff",
+   "At-Taghabun"
+  ],
+  "answer_index": 1,
+  "source": "Al-Jumu'ah 62/9",
+  "explanation": "Verse 9 of Al-Jumu'ah tells believers to leave business and go to the remembrance of God.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000084",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is 'This day I have perfected your religion for you' found?",
+  "options": [
+   "Al-Baqarah",
+   "An-Nisa",
+   "Al-Ma'idah",
+   "Al-An'am"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ma'idah 5/3",
+  "explanation": "Verse 3 of Al-Ma'idah announces the perfection of the religion and the completion of God's favour.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000085",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which surah begins with the Night Journey from the Sacred Mosque to the Farthest Mosque?",
+  "options": [
+   "Al-Isra",
+   "An-Najm",
+   "Al-Kahf",
+   "Ta-Ha"
+  ],
+  "answer_index": 0,
+  "source": "Al-Isra 17/1",
+  "explanation": "Al-Isra begins with 'Glory to Him who took His servant by night'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000086",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "In which surah is the Lote Tree of the Furthest Boundary (Sidrat al-Muntaha) mentioned?",
+  "options": [
+   "Al-Isra",
+   "Al-Qadr",
+   "An-Najm",
+   "At-Tin"
+  ],
+  "answer_index": 2,
+  "source": "An-Najm 53/14",
+  "explanation": "Verse 14 of An-Najm mentions Sidrat al-Muntaha.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000087",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "How many verses does Surah Al-Qadr have?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "source": "Al-Qadr 97/1-5",
+  "explanation": "Surah Al-Qadr consists of five verses.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000088",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the prayer 'My Lord, increase me in knowledge' found?",
+  "options": [
+   "Al-Kahf",
+   "Al-Mulk",
+   "An-Nahl",
+   "Ta-Ha"
+  ],
+  "answer_index": 3,
+  "source": "Ta-Ha 20/114",
+  "explanation": "Verse 114 of Ta-Ha teaches the prayer 'My Lord, increase me in knowledge'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000089",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "In which surah is 'You alone we worship and You alone we ask for help' found?",
+  "options": [
+   "Al-Baqarah",
+   "Al-Ikhlas",
+   "An-Nas",
+   "Al-Fatihah"
+  ],
+  "answer_index": 3,
+  "source": "Al-Fatihah 1/5",
+  "explanation": "Verse 5 of Al-Fatihah declares that worship and help are for God alone.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000090",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 1,
+  "question": "Which is the first surah after Al-Fatihah to begin with the disjointed letters Alif-Lam-Mim?",
+  "options": [
+   "An-Nisa",
+   "Al-Ma'idah",
+   "Al-Baqarah",
+   "Al-An'am"
+  ],
+  "answer_index": 2,
+  "source": "Al-Baqarah 2/1",
+  "explanation": "Al-Baqarah begins with Alif-Lam-Mim.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000091",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "Which name of the Quran means 'the criterion that separates truth from falsehood'?",
+  "options": [
+   "Al-Huda",
+   "Al-Furqan",
+   "Mushaf",
+   "Al-Kitab"
+  ],
+  "answer_index": 1,
+  "source": "Al-Furqan 25/1",
+  "explanation": "Al-Furqan is one of the Quran's names and also the title of a surah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000092",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the instruction to call to the way of your Lord with wisdom and good counsel found?",
+  "options": [
+   "An-Nahl",
+   "Yunus",
+   "Al-Kahf",
+   "An-Nur"
+  ],
+  "answer_index": 0,
+  "source": "An-Nahl 16/125",
+  "explanation": "Verse 125 of An-Nahl sets out the method of inviting with wisdom and good counsel.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000093",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the Prophet described as being of 'a great moral character'?",
+  "options": [
+   "Al-Qalam",
+   "Al-Ahzab",
+   "Al-Fath",
+   "An-Nur"
+  ],
+  "answer_index": 0,
+  "source": "Al-Qalam 68/4",
+  "explanation": "Al-Qalam 4: 'And indeed, you are of a great moral character.'",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000094",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the Messenger of God called 'an excellent example'?",
+  "options": [
+   "Al-Fath",
+   "Al-Hujurat",
+   "Al-Ahzab",
+   "Muhammad"
+  ],
+  "answer_index": 2,
+  "source": "Al-Ahzab 33/21",
+  "explanation": "Al-Ahzab 21 describes the Messenger of God as an excellent model.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000095",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah is the Prophet described as sent only as a mercy to the worlds?",
+  "options": [
+   "Al-Isra",
+   "Al-Fath",
+   "Al-Kahf",
+   "Al-Anbiya"
+  ],
+  "answer_index": 3,
+  "source": "Al-Anbiya 21/107",
+  "explanation": "Al-Anbiya 107 says the Prophet was sent as a mercy to all the worlds.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000096",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 2,
+  "question": "In which surah was Ibrahim told to proclaim the Hajj to the people?",
+  "options": [
+   "Al-Baqarah",
+   "Al-Hajj",
+   "Al Imran",
+   "Al-Ma'idah"
+  ],
+  "answer_index": 1,
+  "source": "Al-Hajj 22/27",
+  "explanation": "Al-Hajj 27 commands Ibrahim to announce the pilgrimage to people.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-quran-000097",
+  "lang": "en",
+  "category": "quran",
+  "difficulty": 3,
+  "question": "In which surah does it say the first house established for mankind is the one at Bakkah (Mecca)?",
+  "options": [
+   "Al-Hajj",
+   "Al-Baqarah",
+   "Al Imran",
+   "Al-Ma'idah"
+  ],
+  "answer_index": 2,
+  "source": "Al Imran 3/96",
+  "explanation": "Al Imran 96 says the first house of worship set up for people is the blessed Kaaba.",
+  "review_status": "draft"
+ }
+]

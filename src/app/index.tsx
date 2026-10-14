@@ -7,7 +7,7 @@ import { currentStreak } from '@/features/gunluk/daily';
 import { loadDaily } from '@/features/gunluk/store';
 import { isLeagueAvailable } from '@/features/lig/remote';
 import { usePremium } from '@/features/premium/entitlement';
-import { getLang, t, type TKey } from '@/i18n';
+import { getLang, t, type TKey, upper } from '@/i18n';
 import { MAX_ROOM_PLAYERS } from '@/lib/config';
 import { dateKey } from '@/lib/date';
 import { glow, radius, spacing, useTheme } from '@/lib/theme';
@@ -72,7 +72,7 @@ export default function Home() {
             {t('app.name')}
           </Text>
           <Text numberOfLines={1} style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1.2 }}>
-            {t('home.menuLabel').toLocaleUpperCase('tr')}
+            {upper(t('home.menuLabel'))}
           </Text>
         </View>
         <Pressable
@@ -119,7 +119,7 @@ export default function Home() {
         <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.md }}>
           <View style={{ flex: 1, gap: 6 }}>
             <Text style={{ color: theme.accent, fontSize: 12, fontWeight: '700', letterSpacing: 1.2 }}>
-              {t('home.hero.eyebrow').toLocaleUpperCase('tr')}
+              {upper(t('home.hero.eyebrow'))}
             </Text>
             <Text style={{ color: theme.text, fontSize: 22, fontWeight: '800', lineHeight: 29 }}>{t('home.hero.title')}</Text>
             <Text style={{ color: theme.textMuted, fontSize: 14, lineHeight: 20 }}>{t('home.hero.body')}</Text>

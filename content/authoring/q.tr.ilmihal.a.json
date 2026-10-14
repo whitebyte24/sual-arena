@@ -1,0 +1,966 @@
+{
+  "lang": "tr",
+  "category": "ilmihal",
+  "items": [
+    [
+      "İslam'ın şartları kaç tanedir?",
+      "5",
+      "4",
+      "6",
+      "7",
+      1,
+      "Buhârî, Îmân; Müslim, Îmân",
+      "Kelime-i şehadet, namaz, zekât, oruç ve hac İslam'ın beş şartıdır."
+    ],
+    [
+      "İmanın şartları kaç tanedir?",
+      "6",
+      "5",
+      "4",
+      "7",
+      1,
+      "Müslim, Îmân (Cibrîl hadisi)",
+      "Allah'a, meleklere, kitaplara, peygamberlere, ahiret gününe ve kadere iman, imanın altı şartıdır."
+    ],
+    [
+      "Müslüman olmak isteyen kişinin söylemesi gereken ifade hangisidir?",
+      "Kelime-i şehadet",
+      "Besmele",
+      "Tekbir",
+      "Tesbih",
+      1,
+      "Buhârî, Îmân",
+      "Kelime-i şehadet, Allah'tan başka ilah olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şahitliktir."
+    ],
+    [
+      "Günde kaç vakit namaz kılınır?",
+      "5",
+      "3",
+      "4",
+      "6",
+      1,
+      "Buhârî, Salât",
+      "Sabah, öğle, ikindi, akşam ve yatsı olmak üzere günde beş vakit namaz kılınır."
+    ],
+    [
+      "Beş vakit namazdan hangisinin farzı 3 rekâttır?",
+      "Akşam",
+      "Sabah",
+      "İkindi",
+      "Yatsı",
+      1,
+      "Buhârî, Salât",
+      "Akşam namazının farzı üç rekâttır."
+    ],
+    [
+      "Sabah namazının farzı kaç rekâttır?",
+      "2",
+      "3",
+      "4",
+      "5",
+      1,
+      "Buhârî, Salât",
+      "Sabah namazının farzı iki rekâttır."
+    ],
+    [
+      "Öğle namazının farzı kaç rekâttır?",
+      "4",
+      "2",
+      "3",
+      "5",
+      1,
+      "Buhârî, Salât",
+      "Öğle namazının farzı dört rekâttır."
+    ],
+    [
+      "Cuma namazının farzı kaç rekâttır?",
+      "2",
+      "3",
+      "4",
+      "6",
+      2,
+      "Cuma 62/9",
+      "Cuma namazının farzı hutbeden sonra iki rekâttır."
+    ],
+    [
+      "Namazda alnın yere konmasına ne ad verilir?",
+      "Secde",
+      "Rükû",
+      "Kıyam",
+      "Selâm",
+      1,
+      "Namaz terimleri",
+      "Namazda alın, burun ve diğer organlarla yere kapanmaya secde denir."
+    ],
+    [
+      "Namazda belin eğilerek ellerin dizlere konmasına ne ad verilir?",
+      "Rükû",
+      "Secde",
+      "Kıyam",
+      "Ka'de",
+      1,
+      "Namaz terimleri",
+      "Namazda eğilmeye rükû denir."
+    ],
+    [
+      "Namazda oturma durumuna ne ad verilir?",
+      "Ka'de",
+      "Kıyam",
+      "Rükû",
+      "Secde",
+      2,
+      "Namaz terimleri",
+      "Namazda oturuşa ka'de denir."
+    ],
+    [
+      "Namaza başlarken söylenen ilk tekbire ne ad verilir?",
+      "İftitah tekbiri",
+      "Kunût tekbiri",
+      "Teşrîk tekbiri",
+      "Bayram tekbiri",
+      2,
+      "Namaz terimleri",
+      "Namaza başlarken 'Allâhü ekber' diyerek alınan tekbire iftitah (açılış) tekbiri denir."
+    ],
+    [
+      "Müslümanların namazda yöneldiği yer neresidir?",
+      "Kâbe",
+      "Mescid-i Aksâ",
+      "Mescid-i Nebevî",
+      "Arafat",
+      1,
+      "Bakara 2/144",
+      "Müslümanlar namazda Mekke'deki Kâbe'ye (kıble) yönelir."
+    ],
+    [
+      "Müslümanların ilk kıblesi neresidir?",
+      "Mescid-i Aksâ",
+      "Kâbe",
+      "Mescid-i Nebevî",
+      "Kubâ Mescidi",
+      2,
+      "Buhârî, Îmân",
+      "Hicretten sonra yaklaşık on altı-on yedi ay Mescid-i Aksâ'ya doğru namaz kılınmış, sonra kıble Kâbe olmuştur."
+    ],
+    [
+      "Abdestte hangi organ yıkanmaz, mesh edilir?",
+      "Baş",
+      "Yüz",
+      "Eller",
+      "Ayaklar",
+      2,
+      "Mâide 5/6",
+      "Abdestte yüz, kollar ve ayaklar yıkanır; baş ise mesh edilir."
+    ],
+    [
+      "Su bulunmadığında veya kullanılamadığında abdest yerine geçen uygulama nedir?",
+      "Teyemmüm",
+      "Gusül",
+      "Mesh",
+      "İstincâ",
+      2,
+      "Mâide 5/6",
+      "Su bulunmadığında temiz toprakla teyemmüm yapılır."
+    ],
+    [
+      "Cünüplük gibi hâllerden sonra bütün bedenin yıkanmasına ne ad verilir?",
+      "Gusül",
+      "Abdest",
+      "Teyemmüm",
+      "Mesh",
+      1,
+      "Mâide 5/6",
+      "Boy abdesti de denilen gusül, bütün vücudun yıkanmasıdır."
+    ],
+    [
+      "Namaz vaktinin girdiğini duyuran çağrıya ne denir?",
+      "Ezan",
+      "Kamet",
+      "Tekbir",
+      "Salâ",
+      1,
+      "Buhârî, Ezân",
+      "Namaz vaktini bildiren çağrıya ezan denir."
+    ],
+    [
+      "Farz namaza başlamadan hemen önce okunan çağrıya ne denir?",
+      "Kamet (ikamet)",
+      "Ezan",
+      "Salâ",
+      "Tahmîd",
+      2,
+      "Buhârî, Ezân",
+      "Cemaatle kılınan farz namazdan hemen önce okunan çağrıya kamet denir."
+    ],
+    [
+      "İslam tarihinde ilk ezanı okuyan sahabi kimdir?",
+      "Bilâl-i Habeşî",
+      "Ebû Hüreyre",
+      "Abdullah b. Mes'ûd",
+      "Zeyd b. Sâbit",
+      1,
+      "Buhârî, Ezân",
+      "Peygamberimiz'in müezzini Bilâl-i Habeşî, ilk ezanı okumuştur."
+    ],
+    [
+      "Cuma namazından önce okunan konuşmaya ne denir?",
+      "Hutbe",
+      "Va'z",
+      "Dua",
+      "Mevlid",
+      1,
+      "Cuma 62/9",
+      "Cuma namazından önce imamın okuduğu hutbe, namazın şartlarındandır."
+    ],
+    [
+      "Yılda kaç bayram namazı kılınır?",
+      "2",
+      "1",
+      "3",
+      "4",
+      2,
+      "Buhârî, Îdeyn",
+      "Ramazan Bayramı ve Kurban Bayramı olmak üzere yılda iki bayram namazı kılınır."
+    ],
+    [
+      "Cenaze namazında hangi hareket yapılmaz?",
+      "Rükû ve secde",
+      "Kıyam",
+      "Selam",
+      "Tekbir",
+      2,
+      "Buhârî, Cenâiz",
+      "Cenaze namazı ayakta ve tekbirlerle kılınır; rükû ve secde yoktur."
+    ],
+    [
+      "Oruç hangi ayda tutulur?",
+      "Ramazan",
+      "Şaban",
+      "Muharrem",
+      "Recep",
+      1,
+      "Bakara 2/185",
+      "Oruç, Ramazan ayında farzdır."
+    ],
+    [
+      "Ramazan'da sabaha doğru yenen yemeğe ne ad verilir?",
+      "Sahur",
+      "İftar",
+      "Kandil",
+      "Davet",
+      1,
+      "Buhârî, Savm",
+      "Orucun başlamasından önceki yemeğe sahur denir."
+    ],
+    [
+      "Akşam vakti orucun açıldığı yemeğe ne denir?",
+      "İftar",
+      "Sahur",
+      "Arefe",
+      "Fitre",
+      1,
+      "Buhârî, Savm",
+      "Güneş batınca orucu açmaya iftar denir."
+    ],
+    [
+      "Orucun başlama vakti olan, tan yerinin ağarmaya başladığı vakit nedir?",
+      "İmsak",
+      "Kerahet",
+      "İşrak",
+      "Zeval",
+      2,
+      "Bakara 2/187",
+      "Fecr (tan ağarması) ile oruç başlar; bu vakte imsak denir."
+    ],
+    [
+      "Ramazan Bayramı'ndan önce verilen sadakanın adı nedir?",
+      "Fitre",
+      "Kurban",
+      "Zekât",
+      "Fidye",
+      2,
+      "Buhârî, Zekât",
+      "Ramazan Bayramı namazından önce verilen sadakaya sadaka-i fıtır (fitre) denir."
+    ],
+    [
+      "Ramazan Bayramı hangi ayın birinci günü başlar?",
+      "Şevvâl",
+      "Zilhicce",
+      "Muharrem",
+      "Rebîülevvel",
+      1,
+      "Hicrî takvim",
+      "Ramazan Bayramı Şevvâl ayının ilk günüdür."
+    ],
+    [
+      "Kurban Bayramı hangi ayın onuncu gününde başlar?",
+      "Zilhicce",
+      "Şevvâl",
+      "Muharrem",
+      "Safer",
+      1,
+      "Hicrî takvim",
+      "Kurban Bayramı Zilhicce ayının onuncu gününde başlar."
+    ],
+    [
+      "Zekât verilebilecek sınıfların sayısı Kur'an'da kaç olarak sayılmıştır?",
+      "8",
+      "3",
+      "5",
+      "10",
+      3,
+      "Tevbe 9/60",
+      "Tevbe Sûresi 60. âyet, zekâtın verileceği sekiz sınıfı sayar."
+    ],
+    [
+      "Zekât, maldan belirli bir miktarın verilmesini ifade eder; bu asgari miktara ne denir?",
+      "Nisap",
+      "Fidye",
+      "Sadaka",
+      "İnfak",
+      2,
+      "Zekât ilmihali",
+      "Zekâtın farz olması için gereken asgari mal miktarına nisap denir."
+    ],
+    [
+      "Ölümden sonra da sevap kazandıran sadaka türüne ne denir?",
+      "Sadaka-i câriye",
+      "Fitre",
+      "Zekât",
+      "Fidye",
+      2,
+      "Müslim, Vasiyet",
+      "Hayrı sürekli devam eden bağış ve hizmetler sadaka-i câriye olarak anılır."
+    ],
+    [
+      "Hac ibadeti hangi ayda yapılır?",
+      "Zilhicce",
+      "Ramazan",
+      "Şevvâl",
+      "Muharrem",
+      2,
+      "Bakara 2/197",
+      "Hac, Zilhicce ayında belirli günlerde yapılır."
+    ],
+    [
+      "Haccın en önemli rüknü olan ve arefe günü yapılan ibadet nedir?",
+      "Arafat'ta vakfe",
+      "Şeytan taşlama",
+      "Kurban kesme",
+      "Sa'y",
+      2,
+      "Tirmizî, Hac",
+      "Hac Arafat'tır; arefe günü Arafat'ta bulunmak haccın en önemli rüknüdür."
+    ],
+    [
+      "Hac ve umrede Kâbe'nin etrafında yedi kez dönmeye ne ad verilir?",
+      "Tavaf",
+      "Sa'y",
+      "Vakfe",
+      "İhram",
+      1,
+      "Hac 22/29",
+      "Kâbe'yi yedi kez dolaşmaya tavaf denir."
+    ],
+    [
+      "Hac ve umrede Safâ ile Merve arasında yedi kez gidip gelmeye ne ad verilir?",
+      "Sa'y",
+      "Tavaf",
+      "Vakfe",
+      "İfâda",
+      2,
+      "Bakara 2/158",
+      "Safâ ile Merve arasında gidip gelmeye sa'y denir."
+    ],
+    [
+      "Hac veya umre için giyilen özel kıyafete ve bu niyet haline ne ad verilir?",
+      "İhram",
+      "Tavaf",
+      "Sa'y",
+      "Zemzem",
+      1,
+      "Hac ilmihali",
+      "Hac ve umre niyetiyle girilen özel kıyafet ve hâl ihramdır."
+    ],
+    [
+      "Hac sırasında şeytan taşlama ibadeti nerede yapılır?",
+      "Mina",
+      "Arafat",
+      "Müzdelife",
+      "Safâ",
+      2,
+      "Hac ilmihali",
+      "Şeytan taşlama (rami), Mina'da yapılır."
+    ],
+    [
+      "Kâbe'nin köşesinde bulunan ve tavafın başlangıcı sayılan siyah taşın adı nedir?",
+      "Hacerülesved",
+      "Makam-ı İbrâhîm",
+      "Hatîm",
+      "Mültezem",
+      2,
+      "Buhârî, Hac",
+      "Hacerülesved, tavafın başlangıç noktasıdır."
+    ],
+    [
+      "Kâbe'yi örten siyah örtüye ne ad verilir?",
+      "Kisve",
+      "Hırka",
+      "Seccade",
+      "Sancak",
+      3,
+      "Hac ilmihali",
+      "Kâbe'nin üzerini örten siyah örtüye kisve denir."
+    ],
+    [
+      "Mekke'de bulunan ve Hz. Hâcer ile İsmâîl'e nasip olan mübarek suyun adı nedir?",
+      "Zemzem",
+      "Kevser",
+      "Selsebil",
+      "Sidre",
+      1,
+      "Buhârî, Enbiyâ",
+      "Zemzem, Mescid-i Harâm'da Kâbe'nin yakınında bulunan kutsal su kaynağıdır."
+    ],
+    [
+      "Umre hakkında hangisi doğrudur?",
+      "Yılın her döneminde yapılabilir",
+      "Yalnızca arefe günü yapılır",
+      "Sadece Ramazan'da yapılır",
+      "Sadece Kurban Bayramı'nda yapılır",
+      2,
+      "Hac ilmihali",
+      "Haccın belirli günleri vardır; umre ise yılın her döneminde yapılabilen bir ziyarettir."
+    ],
+    [
+      "Kâbe'nin bulunduğu şehir neresidir?",
+      "Mekke",
+      "Medine",
+      "Kudüs",
+      "Tâif",
+      1,
+      "Âl-i İmrân 3/96",
+      "Kâbe, Mekke'deki Mescid-i Harâm'dadır."
+    ],
+    [
+      "Müslümanlar için kutsal sayılan 'üç mescit' hangileridir?",
+      "Mescid-i Harâm, Mescid-i Nebevî, Mescid-i Aksâ",
+      "Kubâ, Kıbleteyn, Dırâr",
+      "Süleymaniye, Selimiye, Sultanahmet",
+      "Emevî, Kurtuba, Ezher",
+      3,
+      "Buhârî, Salât fî Mescidi Mekke",
+      "Hadiste, ziyaret için yola çıkılacak üç mescit olarak bu üçü bildirilir."
+    ],
+    [
+      "Allah'ın güzel isimleri anlamına gelen 'Esmâ-i Hüsnâ' sayısı hangisidir?",
+      "99",
+      "40",
+      "77",
+      "114",
+      2,
+      "Buhârî, Tevhîd",
+      "Hadiste Allah'ın doksan dokuz ismi olduğu bildirilir."
+    ],
+    [
+      "Vahyi peygamberlere ulaştırmakla görevli melek kimdir?",
+      "Cebrâil",
+      "Mîkâil",
+      "İsrâfîl",
+      "Azrâil",
+      1,
+      "Bakara 2/97",
+      "Cebrâil, vahiy meleğidir."
+    ],
+    [
+      "Sûr'a üfürmekle görevli melek kimdir?",
+      "İsrâfîl",
+      "Cebrâil",
+      "Mîkâil",
+      "Azrâil",
+      2,
+      "Buhârî, Rikâk",
+      "İsrâfîl, kıyamet kopacağı zaman sûra üfürecek olan melektir."
+    ],
+    [
+      "Can almakla görevli melek hangi adla bilinir?",
+      "Azrâil",
+      "Mîkâil",
+      "Cebrâil",
+      "İsrâfîl",
+      2,
+      "Secde 32/11",
+      "Kur'an'da 'ölüm meleği' olarak anılan melek halk arasında Azrâil adıyla bilinir."
+    ],
+    [
+      "Yağmur ve rızıkla ilişkilendirilen melek kimdir?",
+      "Mîkâil",
+      "Cebrâil",
+      "İsrâfîl",
+      "Azrâil",
+      2,
+      "Bakara 2/98",
+      "Bakara 98. âyette Cebrâil ile birlikte anılan Mîkâil, rızık ve yağmurla görevli kabul edilir."
+    ],
+    [
+      "Kabirde sual soran meleklere ne denir?",
+      "Münker ve Nekîr",
+      "Kirâmen Kâtibîn",
+      "Hafaza",
+      "Zebâni",
+      1,
+      "Tirmizî, Cenâiz",
+      "Kabirde sorgu yapan meleklere Münker ve Nekîr denir."
+    ],
+    [
+      "İnsanın amellerini yazan meleklere ne ad verilir?",
+      "Kirâmen Kâtibîn",
+      "Münker ve Nekîr",
+      "Zebâni",
+      "Hafaza",
+      1,
+      "İnfitâr 82/10-12",
+      "İnfitâr Sûresi, insanın yaptıklarını yazan değerli yazıcı melekleri bildirir."
+    ],
+    [
+      "Dört büyük ilahî kitaptan biri olmayan hangisidir?",
+      "Sünen",
+      "Tevrat",
+      "Zebur",
+      "İncil",
+      3,
+      "Nisâ 4/136",
+      "Tevrat, Zebur, İncil ve Kur'an dört büyük kitaptır; Sünen hadis kitaplarının genel adıdır."
+    ],
+    [
+      "Hz. İbrâhîm'e verilen küçük ilahî kitaplara ne ad verilir?",
+      "Suhuf",
+      "Zebur",
+      "Tevrat",
+      "İncil",
+      3,
+      "A'lâ 87/18-19",
+      "Hz. İbrâhîm'e indirilen sahifelere suhuf denir."
+    ],
+    [
+      "Peygamberimiz'in sözlerine, fiillerine ve onayladıklarına ne denir?",
+      "Sünnet (hadis)",
+      "Meâl",
+      "Tefsir",
+      "Siyer",
+      2,
+      "Ahzâb 33/21",
+      "Peygamberimiz'in söz, fiil ve onayları sünnetin kaynağıdır."
+    ],
+    [
+      "Peygamberimiz'i hayatta iken görüp iman eden ve imanla ölen kişilere ne denir?",
+      "Sahâbe",
+      "Tâbiîn",
+      "Muhaddis",
+      "Havâri",
+      1,
+      "Buhârî, Fezâilü Ashâbi'n-Nebî",
+      "Peygamberimiz'i görüp iman edenlere sahabi, onları görenlere tâbiîn denir."
+    ],
+    [
+      "Sahabeyi gören ve onlardan öğrenen nesle ne ad verilir?",
+      "Tâbiîn",
+      "Sahâbe",
+      "Havâri",
+      "Ensâr",
+      1,
+      "İslam tarihi terimleri",
+      "Sahabeyi gören ve onlardan ilim alan nesle tâbiîn denir."
+    ],
+    [
+      "Evlilikte erkeğin kadına vermekle yükümlü olduğu mal veya hak nedir?",
+      "Mehir",
+      "Nafaka",
+      "Çeyiz",
+      "Bedel",
+      2,
+      "Nisâ 4/4",
+      "Mehir, nikâh sebebiyle kadına verilen haktır."
+    ],
+    [
+      "Kur'an'da faizin yasaklandığı âyet hangi surede yer alır?",
+      "Bakara",
+      "Fâtiha",
+      "Meryem",
+      "Kehf",
+      2,
+      "Bakara 2/275",
+      "Bakara 275. âyet, Allah'ın alışverişi helal, faizi haram kıldığını bildirir."
+    ],
+    [
+      "Kur'an'da içki ve kumarın yasaklandığı âyet hangi surede yer alır?",
+      "Mâide",
+      "Nûr",
+      "Yûsuf",
+      "Mülk",
+      3,
+      "Mâide 5/90",
+      "Mâide 90. âyet, içki, kumar, putlar ve fal oklarını şeytan işi pislik olarak bildirir."
+    ],
+    [
+      "Kur'an'da domuz etinin haram kılındığı âyetlerden biri hangi surededir?",
+      "Bakara",
+      "Meryem",
+      "Kehf",
+      "Yûsuf",
+      2,
+      "Bakara 2/173",
+      "Bakara 173. âyet, leş, kan, domuz eti ve Allah'tan başkası adına kesileni haram kılar."
+    ],
+    [
+      "Anne babaya iyi davranmanın emredildiği ve 'öf' bile dememenin istendiği âyet hangi surede yer alır?",
+      "İsrâ",
+      "Nûr",
+      "Mülk",
+      "Kalem",
+      2,
+      "İsrâ 17/23",
+      "İsrâ 23. âyet, anne babaya iyilik etmeyi ve onlara 'öf' bile dememeyi emreder."
+    ],
+    [
+      "Kur'an'da gıybetin ('arkadan çekiştirmenin') yasaklandığı âyet hangi surede yer alır?",
+      "Hucurât",
+      "Nahl",
+      "Kehf",
+      "Nûr",
+      2,
+      "Hucurât 49/12",
+      "Hucurât 12. âyet, gıybeti ölü kardeşin etini yemeye benzetir."
+    ],
+    [
+      "İsraf konusunda 'yiyin için fakat israf etmeyin' buyuran âyet hangi surededir?",
+      "A'râf",
+      "Mülk",
+      "Kalem",
+      "Duhâ",
+      3,
+      "A'râf 7/31",
+      "A'râf 31. âyet, yiyip içmeyi ama israf etmemeyi emreder."
+    ],
+    [
+      "Yemeğe başlarken ne söylenir?",
+      "Bismillâh",
+      "Elhamdülillâh",
+      "Sübhânallâh",
+      "Allâhü ekber",
+      1,
+      "Buhârî, Et'ime",
+      "Yemeğe besmeleyle başlanır."
+    ],
+    [
+      "Yemekten sonra hangi söz söylenir?",
+      "Elhamdülillâh",
+      "Bismillâh",
+      "Allâhü ekber",
+      "Lâ havle",
+      1,
+      "Buhârî, Et'ime",
+      "Yemek sonrasında Allah'a hamd edilir."
+    ],
+    [
+      "'Sübhânallâh' demeye ne ad verilir?",
+      "Tesbih",
+      "Tekbir",
+      "Tahmid",
+      "Tehlil",
+      1,
+      "Zikir terimleri",
+      "Sübhânallâh demek tesbih, Elhamdülillâh demek tahmid, Allâhü ekber demek tekbirdir."
+    ],
+    [
+      "'Elhamdülillâh' demeye ne ad verilir?",
+      "Tahmid",
+      "Tesbih",
+      "Tekbir",
+      "Tehlil",
+      1,
+      "Zikir terimleri",
+      "Elhamdülillâh demek, Allah'a hamd etmek yani tahmiddir."
+    ],
+    [
+      "'Allâhü ekber' demeye ne ad verilir?",
+      "Tekbir",
+      "Tesbih",
+      "Tahmid",
+      "Tehlil",
+      2,
+      "Zikir terimleri",
+      "Allâhü ekber demek tekbirdir."
+    ],
+    [
+      "'Lâ ilâhe illallâh' demeye ne ad verilir?",
+      "Tehlil",
+      "Tesbih",
+      "Tahmid",
+      "Tekbir",
+      2,
+      "Zikir terimleri",
+      "Lâ ilâhe illallâh demek tehlil, yani tevhid cümlesini söylemektir."
+    ],
+    [
+      "'Bismillâhirrahmânirrahîm' ifadesine ne ad verilir?",
+      "Besmele",
+      "Hamdele",
+      "Hasbele",
+      "Salvele",
+      1,
+      "Zikir terimleri",
+      "Bismillâhirrahmânirrahîm diyerek başlamak besmele çekmek demektir."
+    ],
+    [
+      "Müslümanların birbirini karşılarken söylediği selam hangisidir?",
+      "Es-selâmü aleyküm",
+      "Hayırlı sabahlar",
+      "Allaha ısmarladık",
+      "Tebrikler",
+      1,
+      "Müslim, Îmân",
+      "Müslümanlar birbirlerine 'Es-selâmü aleyküm' diyerek selam verir."
+    ],
+    [
+      "Selama karşılık nasıl verilir?",
+      "Ve aleyküm selâm",
+      "Hoş geldin",
+      "Eyvallah",
+      "Sağ ol",
+      1,
+      "Nisâ 4/86",
+      "Selam alındığında daha güzeliyle veya aynısıyla karşılık verilir."
+    ],
+    [
+      "Komşuluk hakkı konusunda Peygamberimiz ne buyurmuştur?",
+      "Şerrinden komşusunun güvende olmadığı kimse cennete giremez",
+      "Komşuya zarar vermek serbesttir",
+      "Komşuluk dinde önemsizdir",
+      "Komşuya selam vermek gerekmez",
+      2,
+      "Müslim, Îmân",
+      "Peygamberimiz, komşusu şerrinden emin olmayan kimsenin cennete giremeyeceğini bildirmiştir."
+    ],
+    [
+      "Yetimin malını haksız yere yemek hakkında Kur'an ne bildirir?",
+      "Karınlarına ateş doldurmuş olurlar",
+      "Hiçbir sorumluluğu yoktur",
+      "Büyük sevap kazandırır",
+      "Ancak çok az günahtır",
+      3,
+      "Nisâ 4/10",
+      "Nisâ 10. âyet, yetim malını haksızca yiyenlerin karınlarına ateş yemiş olacağını bildirir."
+    ],
+    [
+      "Aşûre Günü hangi ayın onuncu günüdür?",
+      "Muharrem",
+      "Safer",
+      "Recep",
+      "Şaban",
+      2,
+      "Buhârî, Savm",
+      "Aşûre günü Muharrem ayının onuncu günüdür; Peygamberimiz o gün oruç tutmuştur."
+    ],
+    [
+      "'Haram aylar' içinde yer alan ay hangisidir?",
+      "Zilkade",
+      "Ramazan",
+      "Şevvâl",
+      "Rebîülâhir",
+      3,
+      "Tevbe 9/36",
+      "Zilkade, Zilhicce, Muharrem ve Recep haram aylardır."
+    ],
+    [
+      "Müslümanın yılda bir kez, Ramazan'da özel olarak aradığı gece hangisidir?",
+      "Kadir Gecesi",
+      "Berât Gecesi",
+      "Regâib Gecesi",
+      "Mevlid Gecesi",
+      2,
+      "Kadir 97/1-5",
+      "Kadir Gecesi, bin aydan hayırlı olarak bildirilir ve Ramazan'ın son on gecesinde aranır."
+    ],
+    [
+      "Ramazan ayında geceleri kılınan ek namaza ne denir?",
+      "Teravih",
+      "Duhâ",
+      "Evvâbîn",
+      "Tahiyyetü'l-mescid",
+      2,
+      "Buhârî, Salât-ı Terâvîh",
+      "Ramazan geceleri kılınan namaza teravih denir."
+    ],
+    [
+      "Kur'an okurken 'euzü besmele' çekmek ne anlama gelir?",
+      "Allah'a sığınıp Besmele ile başlamak",
+      "Kur'an'ı bitirmek",
+      "Kur'an'ı öğretmek",
+      "Kur'an'ı dinlemek",
+      2,
+      "Nahl 16/98",
+      "Kur'an okumaya başlarken 'kovulmuş şeytandan Allah'a sığınırım' denir."
+    ],
+    [
+      "Peygamberimiz'in yedi kat gökleri geçtiği ve Mescid-i Aksâ'dan göğe yükseldiği mucizeye ne ad verilir?",
+      "Miraç",
+      "İsrâ",
+      "Hicret",
+      "Fetih",
+      2,
+      "Necm 53/13-18",
+      "İsrâ, Mescid-i Harâm'dan Mescid-i Aksâ'ya; Miraç ise oradan göğe yükselişidir."
+    ],
+    [
+      "Kur'an'ı okurken manasını anlamak için hazırlanan çeviriye ne ad verilir?",
+      "Meâl",
+      "Tefsir",
+      "Mushaf",
+      "Hatim",
+      2,
+      "Kur'an ilimleri terimleri",
+      "Kur'an'ın anlamını başka dile aktaran çeviriye meâl denir."
+    ],
+    [
+      "Müslüman ölüsünün yıkanması, kefenlenmesi ve namazının kılınmasından sonra yapılan işlem nedir?",
+      "Defin",
+      "Hacc",
+      "Sa'y",
+      "Tavaf",
+      3,
+      "Buhârî, Cenâiz",
+      "Cenaze yıkanır, kefenlenir, namazı kılınır ve defnedilir."
+    ],
+    [
+      "Abdest almadan önce söylenen ifade hangisidir?",
+      "Besmele",
+      "Tekbir",
+      "Tesbih",
+      "Salavat",
+      1,
+      "Ebû Dâvûd, Tahâret",
+      "Abdeste Besmele çekerek başlanır."
+    ],
+    [
+      "Peygamberimiz'in cuma günü için tavsiye ettiği temizlik uygulaması nedir?",
+      "Gusül (boy abdesti)",
+      "Teyemmüm",
+      "Mesh",
+      "İstincâ",
+      2,
+      "Buhârî, Cuma",
+      "Peygamberimiz cuma günü gusül almayı ve temizlenmeyi tavsiye etmiştir."
+    ],
+    [
+      "Oruç tutarken yemek içmekten kaçınmanın yanında nelerden de sakınılır?",
+      "Yalan ve boş sözden",
+      "Çalışmaktan",
+      "Çocuklarla ilgilenmekten",
+      "Dua etmekten",
+      2,
+      "Buhârî, Savm",
+      "Oruç yalnızca yeme içmeyi değil, yalan ve boş sözleri de terk etmeyi gerektirir."
+    ],
+    [
+      "Güneş doğmadan önce kılınan farz namaz hangisidir?",
+      "Sabah",
+      "Öğle",
+      "İkindi",
+      "Yatsı",
+      1,
+      "Buhârî, Salât",
+      "Sabah namazı fecirden güneş doğuncaya kadar olan vakitte kılınır."
+    ],
+    [
+      "Yatsı namazının farzı kaç rekâttır?",
+      "4",
+      "2",
+      "3",
+      "5",
+      1,
+      "Buhârî, Salât",
+      "Yatsı namazının farzı dört rekâttır."
+    ],
+    [
+      "Hac, gücü yetenlere ömürde kaç kez farzdır?",
+      "1",
+      "2",
+      "5",
+      "10",
+      1,
+      "Âl-i İmrân 3/97",
+      "Hac, gücü yetenlere ömürde bir kez farzdır."
+    ],
+    [
+      "Altın, gümüş ve ticaret mallarında zekât oranı nedir?",
+      "Kırkta bir (%2,5)",
+      "Onda bir",
+      "Beşte bir",
+      "Yüzde on",
+      2,
+      "Buhârî, Zekât",
+      "Nisaba ulaşan altın, gümüş, para ve ticaret mallarından kırkta bir (%2,5) zekât verilir."
+    ],
+    [
+      "Kurban kesme ibadeti hangi peygamberin sünneti olarak anılır?",
+      "Hz. İbrâhîm",
+      "Hz. Nûh",
+      "Hz. Mûsâ",
+      "Hz. Îsâ",
+      1,
+      "Sâffât 37/102-107",
+      "Kurban, Hz. İbrâhîm'in oğlunu kurban etme imtihanının anısına yapılan bir ibadettir."
+    ],
+    [
+      "Kur'an'da namazın belirli vakitlerde farz kılındığını bildiren âyet hangi surededir?",
+      "Nisâ",
+      "Tâhâ",
+      "Yûsuf",
+      "Kehf",
+      3,
+      "Nisâ 4/103",
+      "Nisâ 103. âyet, namazın müminlere vakitleri belli bir farz olduğunu bildirir."
+    ],
+    [
+      "Cemaatle namazı yöneten kişiye ne ad verilir?",
+      "İmam",
+      "Müezzin",
+      "Hatip",
+      "Hâfız",
+      1,
+      "Buhârî, Ezân",
+      "Cemaatle namazı öne geçip yöneten kişiye imam denir."
+    ],
+    [
+      "Namaz sırasında aşağıdakilerden hangisi namazı bozar?",
+      "Kasten konuşmak",
+      "Fâtiha okumak",
+      "Rükûya gitmek",
+      "Kıbleye dönük durmak",
+      1,
+      "Müslim, Mesâcid",
+      "Namazda insan konuşması yapmak namazı bozar; Kur'an okumak ve zikretmek ise namazın parçasıdır."
+    ],
+    [
+      "Su bulunmadığında teyemmümde ne kullanılır?",
+      "Temiz toprak",
+      "Kum yerine tuz",
+      "Ateş külü",
+      "Temiz kâğıt",
+      2,
+      "Mâide 5/6",
+      "Teyemmüm, temiz toprakla (yer yüzeyiyle) yapılır."
+    ],
+    [
+      "Cennetin bekçisi olarak anılan melek hangisidir?",
+      "Rıdvân",
+      "Mîkâil",
+      "Cebrâil",
+      "İsrâfîl",
+      3,
+      "Zümer 39/73",
+      "Cennet kapıları açılınca bekçileri müminleri selamlayacak; kaynaklarda cennet bekçisi Rıdvân adıyla anılır."
+    ]
+  ]
+}

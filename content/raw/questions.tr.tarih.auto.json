@@ -1,0 +1,1651 @@
+[
+ {
+  "id": "q-tr-tarih-000001",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Peygamberimiz'in vefatından sonra ilk halife seçimi hangi mekânda yapılmıştır?",
+  "options": [
+   "Mescid-i Nebevî minberi",
+   "Dârü'n-Nedve",
+   "Sakîfe-i Benî Sâide",
+   "Kubâ Mescidi"
+  ],
+  "answer_index": 2,
+  "source": "İbn Hişâm, es-Sîre; Taberî, Târîh",
+  "explanation": "Peygamberimiz'in vefatından sonra Ensar ve Muhacirler Sakîfe-i Benî Sâide'de toplanıp Hz. Ebû Bekir'i halife seçmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000002",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Dört Halife döneminin ilk halifesi kimdir?",
+  "options": [
+   "Hz. Ömer",
+   "Hz. Ebû Bekir",
+   "Hz. Osman",
+   "Hz. Ali"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "İlk halife Hz. Ebû Bekir'dir; sonra Hz. Ömer, Hz. Osman ve Hz. Ali gelmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000003",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ebû Bekir döneminde yalancı peygamberlik iddia edenlere karşı yapılan savaşlara ne denir?",
+  "options": [
+   "Fetih savaşları",
+   "Haçlı seferleri",
+   "Cemel Vakası",
+   "Ridde savaşları"
+  ],
+  "answer_index": 3,
+  "source": "Taberî, Târîh",
+  "explanation": "Peygamberimiz'in vefatından sonra zekâtı vermeyenlere ve yalancı peygamberlere karşı yapılan savaşlara ridde savaşları denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000004",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Yalancı peygamberlerden Müseylime hangi savaşta öldürülmüştür?",
+  "options": [
+   "Yemâme",
+   "Cemel",
+   "Sıffîn",
+   "Mûte"
+  ],
+  "answer_index": 0,
+  "source": "Taberî, Târîh",
+  "explanation": "Müseylime, Hz. Ebû Bekir döneminde Yemâme Savaşı'nda öldürülmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000005",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Yemâme Savaşı'nda çok sayıda hâfızın şehit olması hangi gelişmeye yol açmıştır?",
+  "options": [
+   "Kur'an'ın mushaf halinde toplanmasına",
+   "Hicret'e",
+   "Cizye alınmasına",
+   "Divan teşkilatına"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, Fezâilü'l-Kur'ân",
+  "explanation": "Hâfızların şehit olması üzerine Hz. Ömer'in önerisiyle Kur'an, Hz. Ebû Bekir döneminde toplanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000006",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ebû Bekir yaklaşık kaç yıl halifelik yapmıştır?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Ebû Bekir yaklaşık iki yıl üç ay halifelik yapmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000007",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ömer yaklaşık kaç yıl halifelik yapmıştır?",
+  "options": [
+   "2",
+   "5",
+   "10",
+   "20"
+  ],
+  "answer_index": 2,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Ömer yaklaşık on yıl halifelik yapmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000008",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Hicrî takvimin başlangıcı olarak hangi olay esas alınmıştır?",
+  "options": [
+   "Doğum",
+   "İlk vahiy",
+   "Hicret",
+   "Mekke'nin fethi"
+  ],
+  "answer_index": 2,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Ömer döneminde Hicret, hicrî takvimin başlangıcı olarak kabul edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000009",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Hicrî takvimde yılın ilk ayı hangisidir?",
+  "options": [
+   "Ramazan",
+   "Muharrem",
+   "Rebîülevvel",
+   "Şevval"
+  ],
+  "answer_index": 1,
+  "source": "İslam takvimi (Kamerî aylar)",
+  "explanation": "Hicrî yıl Muharrem ayıyla başlar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000010",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ömer döneminde Sasânî İran'a karşı kazanılan ve Irak'ın fethini sağlayan savaş hangisidir?",
+  "options": [
+   "Yermük",
+   "Cemel",
+   "Kâdisiye",
+   "Hendek"
+  ],
+  "answer_index": 2,
+  "source": "Taberî, Târîh",
+  "explanation": "Kâdisiye Savaşı (636), Sasânî ordusuna karşı kazanılmış ve İran'ın fethinin yolunu açmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000011",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Bizans ordusuna karşı kazanılan ve Şam'ın fethini sağlayan savaş hangisidir?",
+  "options": [
+   "Kâdisiye",
+   "Uhud",
+   "Huneyn",
+   "Yermük"
+  ],
+  "answer_index": 3,
+  "source": "Taberî, Târîh",
+  "explanation": "Yermük Savaşı (636), Bizans'a karşı kazanılan ve Suriye'nin fethinde belirleyici olan savaştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000012",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Kudüs hangi halife döneminde barış yoluyla fethedilmiştir?",
+  "options": [
+   "Hz. Ömer",
+   "Hz. Ebû Bekir",
+   "Hz. Osman",
+   "Hz. Ali"
+  ],
+  "answer_index": 0,
+  "source": "Taberî, Târîh",
+  "explanation": "Kudüs, 638'de Hz. Ömer döneminde, şehrin patriği ile yapılan anlaşmayla teslim alınmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000013",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Mısır'ı fetheden komutan kimdir?",
+  "options": [
+   "Amr b. Âs",
+   "Halid b. Velid",
+   "Sa'd b. Ebî Vakkās",
+   "Ebû Ubeyde"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Mısır, Hz. Ömer döneminde Amr b. Âs komutasındaki ordu tarafından fethedilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000014",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "İran'ın kesin fethini sağlayan ve 'Fetihlerin Fethi' denilen savaş hangisidir?",
+  "options": [
+   "Kâdisiye",
+   "Nihâvend",
+   "Yermük",
+   "Mûte"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Nihâvend Savaşı (642), Sasânîlerin direncini kırmış ve 'fetihlerin fethi' diye anılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000015",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ömer'i şehit eden kişi kimdir?",
+  "options": [
+   "İbn Mülcem",
+   "Müseylime",
+   "Ebû Lü'lüe",
+   "Ebû Cehil"
+  ],
+  "answer_index": 2,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Ömer, sabah namazında Ebû Lü'lüe tarafından hançerlenmiş ve şehit olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000016",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Hz. Osman döneminde yapılan ve Kur'an'ın standart nüshalarını çoğaltan çalışma nedir?",
+  "options": [
+   "Cizye düzeni",
+   "Divan teşkilatı",
+   "Hicrî takvim",
+   "Mushaf-ı Osman'ın çoğaltılması"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Fezâilü'l-Kur'ân",
+  "explanation": "Hz. Osman, Kur'an'ı tek nüsha düzeninde çoğaltıp merkezlere göndermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000017",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Osman'ın şehadetinin ardından halife seçilen kişi kimdir?",
+  "options": [
+   "Hz. Ali",
+   "Hz. Ebû Bekir",
+   "Muâviye",
+   "Talha b. Ubeydullah"
+  ],
+  "answer_index": 0,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Osman'dan sonra Hz. Ali halife seçilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000018",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Âişe'nin de bulunduğu taraf ile Hz. Ali arasında yapılan savaşın adı nedir?",
+  "options": [
+   "Sıffîn",
+   "Nihâvend",
+   "Yemâme",
+   "Cemel Vakası"
+  ],
+  "answer_index": 3,
+  "source": "Taberî, Târîh",
+  "explanation": "Cemel Vakası (656), Basra yakınlarında Hz. Ali ile Hz. Âişe'nin ordusu arasında yapılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000019",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ali ile Muâviye arasında yapılan savaş hangisidir?",
+  "options": [
+   "Cemel",
+   "Kâdisiye",
+   "Sıffîn",
+   "Yermük"
+  ],
+  "answer_index": 2,
+  "source": "Taberî, Târîh",
+  "explanation": "Sıffîn Savaşı (657), Hz. Ali ile Şam valisi Muâviye arasında yapılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000020",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ali'yi şehit eden kişi kimdir?",
+  "options": [
+   "Ebû Lü'lüe",
+   "İbn Mülcem",
+   "Müseylime",
+   "Velîd b. Utbe"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Ali, Kûfe'de sabah namazına giderken Hâricî İbn Mülcem tarafından yaralanıp şehit olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000021",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Hz. Ali döneminde ayrılarak ayrı bir grup oluşturan topluluğa ne ad verilir?",
+  "options": [
+   "Ensâr",
+   "Hâricîler",
+   "Muhâcirûn",
+   "Mürcie"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Sıffîn'deki hakem olayını kabul etmeyip Hz. Ali'den ayrılanlara Hâricîler denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000022",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Emevî Devleti'nin kurucusu kimdir?",
+  "options": [
+   "Muâviye b. Ebî Süfyân",
+   "Abdülmelik",
+   "Yezîd",
+   "Mervân"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Emevî Devleti, Hz. Hasan'ın hilafeti bırakmasıyla 661'de Muâviye tarafından kurulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000023",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Emevîlerin başkenti neresidir?",
+  "options": [
+   "Bağdat",
+   "Kahire",
+   "Şam",
+   "Kûfe"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Emevîlerin başkenti Şam'dı.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000024",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Hz. Hüseyin hangi olayda şehit edilmiştir?",
+  "options": [
+   "Sıffîn",
+   "Cemel",
+   "Hendek",
+   "Kerbelâ"
+  ],
+  "answer_index": 3,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Hüseyin, 680'de Kerbelâ'da Emevî ordusu karşısında şehit düşmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000025",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Kudüs'teki Kubbetü's-Sahra hangi halife döneminde yapılmıştır?",
+  "options": [
+   "Hârûn Reşîd",
+   "Muâviye",
+   "Abdülmelik b. Mervân",
+   "Mansûr"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Kubbetü's-Sahra, Emevî halifesi Abdülmelik döneminde 691'de tamamlanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000026",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Şam'daki Emevî Camii'ni yaptıran halife kimdir?",
+  "options": [
+   "Muâviye",
+   "Yezîd",
+   "Hişâm",
+   "Velîd b. Abdülmelik"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Şam'daki Emevî Camii, Velîd b. Abdülmelik döneminde yaptırılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000027",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "İspanya'nın fethine başlayan ve adı Cebelitarık'a verilen komutan kimdir?",
+  "options": [
+   "Târık b. Ziyâd",
+   "Mûsâ b. Nusayr",
+   "Ukbe b. Nâfi",
+   "Amr b. Âs"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Târık b. Ziyâd, 711'de Cebelitarık'tan Endülüs'e geçmiştir; boğazın adı 'Târık'ın dağı' anlamına gelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000028",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Kuzey Afrika'da Kayrevan şehrini kuran komutan kimdir?",
+  "options": [
+   "Târık b. Ziyâd",
+   "Ukbe b. Nâfi",
+   "Amr b. Âs",
+   "Mûsâ b. Nusayr"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Ukbe b. Nâfi, Kuzey Afrika'da Kayrevan şehrini kurmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000029",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Adaletiyle tanınan ve 'beşinci halife' diye anılan Emevî halifesi kimdir?",
+  "options": [
+   "Muâviye",
+   "Velîd",
+   "Ömer b. Abdülazîz",
+   "Hişâm"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Ömer b. Abdülazîz, adaleti ve sade yaşamıyla meşhurdur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000030",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Abbâsî Devleti'nin kurucusu kimdir?",
+  "options": [
+   "Ebü'l-Abbâs es-Seffâh",
+   "Hârûn Reşîd",
+   "Mansûr",
+   "Me'mûn"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Abbâsî Devleti, 750'de Ebü'l-Abbâs es-Seffâh tarafından kurulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000031",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Bağdat şehrini kuran Abbâsî halifesi kimdir?",
+  "options": [
+   "Hârûn Reşîd",
+   "Me'mûn",
+   "Mu'tasım",
+   "Mansûr"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Bağdat, halife Mansûr tarafından 762'de kurulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000032",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Abbâsîlerin başkenti hangi şehirdir?",
+  "options": [
+   "Şam",
+   "Bağdat",
+   "Kahire",
+   "Kurtuba"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Abbâsîler başkent olarak Bağdat'ı kullanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000033",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Bağdat'taki ilim merkezi olan ve tercüme faaliyetleriyle ünlenen kurum hangisidir?",
+  "options": [
+   "Beytü'l-hikme",
+   "Nizâmiye",
+   "Dârü'l-erkâm",
+   "Suffe"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Beytü'l-hikme, özellikle Me'mûn döneminde tercüme ve bilim faaliyetlerinin merkeziydi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000034",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Cebir biliminin öncüsü olan ve 'algoritma' kelimesine adı kaynaklık eden bilgin kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "el-Fârâbî",
+   "Birûnî",
+   "el-Hârizmî"
+  ],
+  "answer_index": 3,
+  "source": "el-Hârizmî, el-Cebr ve'l-Mukābele",
+  "explanation": "el-Hârizmî, cebir ilminin kurucusu kabul edilir; adından 'algoritma' kelimesi türemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000035",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'el-Kānûn fi't-Tıb' adlı eseriyle Batı'da uzun süre okutulan hekim kimdir?",
+  "options": [
+   "el-Hârizmî",
+   "İbn Sînâ",
+   "İbn Haldun",
+   "İbnü'l-Heysem"
+  ],
+  "answer_index": 1,
+  "source": "İbn Sînâ, el-Kānûn fi't-Tıb",
+  "explanation": "İbn Sînâ'nın el-Kānûn'u yüzyıllarca Avrupa üniversitelerinde tıp ders kitabı olarak okutulmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000036",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Optik bilimine katkılarıyla bilinen ve 'Kitâbü'l-Menâzır' adlı eseri yazan bilgin kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "Birûnî",
+   "İbnü'l-Heysem",
+   "el-Kindî"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Heysem, Kitâbü'l-Menâzır",
+  "explanation": "İbnü'l-Heysem, görme ve ışık konusundaki çalışmalarıyla modern optiğin öncülerindendir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000037",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'Mukaddime' adlı eseriyle bilinen tarih ve toplum bilgini kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "İbn Rüşd",
+   "İbn Haldun",
+   "Gazâlî"
+  ],
+  "answer_index": 2,
+  "source": "İbn Haldun, Mukaddime",
+  "explanation": "İbn Haldun, Mukaddime'sinde toplumların yükseliş ve çöküşünü inceler.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000038",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'İhyâ-u Ulûmi'd-Dîn' adlı eseriyle tanınan âlim kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "İbn Rüşd",
+   "Fârâbî",
+   "İmâm Gazâlî"
+  ],
+  "answer_index": 3,
+  "source": "Gazâlî, İhyâ-u Ulûmi'd-Dîn",
+  "explanation": "Gazâlî, ahlak ve tasavvufu işleyen İhyâ'sıyla meşhurdur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000039",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "'Sahîh-i Buhârî' adlı hadis kitabının müellifi kimdir?",
+  "options": [
+   "Muhammed b. İsmâîl el-Buhârî",
+   "Müslim b. Haccâc",
+   "Mâlik b. Enes",
+   "Ebû Dâvud"
+  ],
+  "answer_index": 0,
+  "source": "Buhârî, el-Câmiu's-sahîh",
+  "explanation": "Buhârî'nin Sahîh'i, hadis literatüründe en güvenilir kaynaklar arasında sayılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000040",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'Muvatta' adlı eserin sahibi olan âlim kimdir?",
+  "options": [
+   "İmâm Şâfiî",
+   "İmâm Mâlik",
+   "İmâm Ahmed",
+   "İmâm Ebû Hanîfe"
+  ],
+  "answer_index": 1,
+  "source": "Mâlik b. Enes, el-Muvatta",
+  "explanation": "Muvatta, İmâm Mâlik'in Medine'de derlediği hadis ve fıkıh kitabıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000041",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hadis literatüründe 'Kütüb-i Sitte' ifadesi kaç temel hadis kitabını anlatır?",
+  "options": [
+   "4",
+   "6",
+   "9",
+   "12"
+  ],
+  "answer_index": 1,
+  "source": "Hadis usulü terimleri (Kütüb-i Sitte)",
+  "explanation": "Kütüb-i Sitte, 'altı kitap' demektir; Buhârî, Müslim, Ebû Dâvûd, Tirmizî, Nesâî ve İbn Mâce'nin eserleridir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000042",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Endülüs Emevî Devleti'ni kuran kişi kimdir?",
+  "options": [
+   "Târık b. Ziyâd",
+   "Mûsâ b. Nusayr",
+   "I. Abdurrahman (ed-Dâhil)",
+   "III. Abdurrahman"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Abbâsîlerden kaçan I. Abdurrahman, 756'da Endülüs'te Emevî Devleti'ni kurmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000043",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Endülüs Emevî Devleti'nin başkenti neresiydi?",
+  "options": [
+   "Gırnata",
+   "İşbîliye",
+   "Toledo",
+   "Kurtuba"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Endülüs Emevîlerinin başkenti Kurtuba'ydı.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000044",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Gırnata'da bulunan ve Nasrîler döneminde yapılan saray hangisidir?",
+  "options": [
+   "Topkapı",
+   "Elhamra",
+   "Dolmabahçe",
+   "Medînetüzzehrâ"
+  ],
+  "answer_index": 1,
+  "source": "Nasrîler tarihi",
+  "explanation": "Elhamra Sarayı, Gırnata'da Nasrîler döneminde inşa edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000045",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Endülüs'te son Müslüman şehir hangi yıl düşmüştür?",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 3,
+  "source": "Endülüs tarihi",
+  "explanation": "Gırnata, 1492'de Kastilya ve Aragon krallarına teslim olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000046",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Mısır'da Kahire şehrini kuran Fâtımî komutanı kimdir?",
+  "options": [
+   "Salâhaddîn",
+   "Baybars",
+   "Cevher es-Sıkıllî",
+   "Kutuz"
+  ],
+  "answer_index": 2,
+  "source": "Makrîzî, el-Hıtat",
+  "explanation": "Cevher es-Sıkıllî, 969'da Fâtımîler adına Kahire'yi kurmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000047",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Kahire'de kurulan ve dünyanın en eski eğitim kurumlarından sayılan ilim merkezi hangisidir?",
+  "options": [
+   "Nizâmiye",
+   "el-Ezher",
+   "Beytü'l-hikme",
+   "Süleymaniye"
+  ],
+  "answer_index": 1,
+  "source": "Makrîzî, el-Hıtat",
+  "explanation": "el-Ezher, Fâtımîler döneminde Kahire'de kurulmuş ve günümüze kadar ilim merkezi olmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000048",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Haçlılardan Kudüs'ü geri alan komutan kimdir?",
+  "options": [
+   "Baybars",
+   "Alp Arslan",
+   "Kılıç Arslan",
+   "Salâhaddîn-i Eyyûbî"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Salâhaddîn-i Eyyûbî, 1187'de Hattîn Zaferi'nin ardından Kudüs'ü Haçlılardan geri almıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000049",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Selahaddîn-i Eyyûbî'nin Haçlılara karşı kesin zafer kazandığı savaş hangisidir?",
+  "options": [
+   "Malazgirt",
+   "Hattîn",
+   "Ayn Câlût",
+   "Mohaç"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Hattîn Savaşı (1187), Haçlı ordusunun büyük yenilgisi ile sonuçlanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000050",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Moğol ordusunun Bağdat'ı yağmaladığı ve Abbâsî Devleti'ni sona erdirdiği yıl hangisidir?",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Hülâgû komutasındaki Moğollar 1258'de Bağdat'ı alıp Abbâsî halifeliğine son vermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000051",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Moğolları ilk kez yenen Memlük zaferi hangisidir?",
+  "options": [
+   "Ayn Câlût",
+   "Hattîn",
+   "Malazgirt",
+   "Kösedağ"
+  ],
+  "answer_index": 0,
+  "source": "Makrîzî, es-Sülûk",
+  "explanation": "Memlükler 1260'da Ayn Câlût'ta Moğolları yenmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000052",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "İslam'ı kabul eden ilk Türk devleti olarak kabul edilen devlet hangisidir?",
+  "options": [
+   "Gazneliler",
+   "Selçuklular",
+   "Osmanlılar",
+   "Karahanlılar"
+  ],
+  "answer_index": 3,
+  "source": "Türk-İslam tarihi",
+  "explanation": "Karahanlılar, Satuk Buğra Han döneminde İslam'ı kabul eden ilk Türk devleti kabul edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000053",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Malazgirt Savaşı hangi yılda yapılmıştır?",
+  "options": [
+   "1071",
+   "1099",
+   "1243",
+   "1453"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Alp Arslan, Malazgirt'te Bizans ordusunu 1071'de yenmiş ve Anadolu'nun kapılarını açmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000054",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Malazgirt Savaşı'nda Bizans'ı yenen Selçuklu sultanı kimdir?",
+  "options": [
+   "Tuğrul Bey",
+   "Melikşah",
+   "Sencer",
+   "Alp Arslan"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Alp Arslan, Bizans imparatoru Romanos Diogenes'i esir almıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000055",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Selçuklu veziri Nizâmülmülk'ün kurduğu ve ilim merkezi olan medreseler hangi adla bilinir?",
+  "options": [
+   "Suffe",
+   "Nizâmiye Medreseleri",
+   "Dârü'l-hadîs",
+   "Sıbyan mektepleri"
+  ],
+  "answer_index": 1,
+  "source": "Nizâmülmülk, Siyâset-nâme",
+  "explanation": "Nizâmülmülk, Bağdat başta olmak üzere birçok şehirde Nizâmiye Medreseleri açtırmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000056",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Anadolu Selçuklu Devleti'nin başkenti hangi şehirdir?",
+  "options": [
+   "Bursa",
+   "Edirne",
+   "Konya",
+   "İstanbul"
+  ],
+  "answer_index": 2,
+  "source": "Anadolu Selçuklu tarihi",
+  "explanation": "Anadolu Selçuklu Devleti'nin başkenti Konya'dır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000057",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "'Mesnevî' adlı eseri yazan mutasavvıf ve şair kimdir?",
+  "options": [
+   "Yûnus Emre",
+   "Ahmed Yesevî",
+   "Mevlânâ Celâleddîn-i Rûmî",
+   "Hâfız-ı Şîrâzî"
+  ],
+  "answer_index": 2,
+  "source": "Mevlânâ, Mesnevî",
+  "explanation": "Mesnevî, Mevlânâ'nın Konya'da yazdığı büyük manzum eserdir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000058",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'Dîvân-ı Hikmet' adlı eserin sahibi Türk mutasavvıfı kimdir?",
+  "options": [
+   "Ahmed Yesevî",
+   "Yûnus Emre",
+   "Mevlânâ",
+   "Kaşgarlı Mahmud"
+  ],
+  "answer_index": 0,
+  "source": "Ahmed Yesevî, Dîvân-ı Hikmet",
+  "explanation": "Ahmed Yesevî, Türkistan'da yaşamış ve Dîvân-ı Hikmet'i yazmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000059",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Osmanlı Devleti hangi yıl kurulmuştur (geleneksel olarak)?",
+  "options": [
+   "1071",
+   "1299",
+   "1453",
+   "1517"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı kuruluş tarihi",
+  "explanation": "Osmanlı Devleti, geleneksel olarak 1299'da Osman Gazi tarafından kurulmuş kabul edilir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000060",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+  "options": [
+   "Orhan Gazi",
+   "Osman Gazi",
+   "I. Murad",
+   "Yıldırım Bayezid"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı kuruluş tarihi",
+  "explanation": "Osmanlı Devleti'nin kurucusu Osman Gazi'dir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000061",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "İstanbul'u 1453'te fetheden Osmanlı sultanı kimdir?",
+  "options": [
+   "Yavuz Sultan Selim",
+   "Kanunî Sultan Süleyman",
+   "Fatih Sultan Mehmed",
+   "I. Murad"
+  ],
+  "answer_index": 2,
+  "source": "Osmanlı tarihi",
+  "explanation": "İstanbul, 29 Mayıs 1453'te II. Mehmed (Fatih) tarafından fethedilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000062",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "İstanbul'un fethinden önce Osmanlı'nın başkenti hangi şehirdi?",
+  "options": [
+   "Bursa",
+   "Konya",
+   "Ankara",
+   "Edirne"
+  ],
+  "answer_index": 3,
+  "source": "Osmanlı tarihi",
+  "explanation": "Edirne, İstanbul'un fethine kadar Osmanlı'nın başkentiydi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000063",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Yavuz Sultan Selim 1517'de hangi ülkeyi fethederek Memlük Devleti'ne son vermiştir?",
+  "options": [
+   "Mısır",
+   "İran",
+   "Macaristan",
+   "Hindistan"
+  ],
+  "answer_index": 0,
+  "source": "Osmanlı tarihi",
+  "explanation": "Yavuz Sultan Selim, Ridâniye Savaşı'ndan sonra 1517'de Mısır'ı Osmanlı topraklarına katmış ve Memlük Devleti sona ermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000064",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Kanunî Sultan Süleyman döneminde kazanılan ve Macaristan'ın büyük kısmını Osmanlı'ya katan savaş hangisidir?",
+  "options": [
+   "Çaldıran",
+   "Mohaç",
+   "Ridâniye",
+   "Preveze"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı tarihi",
+  "explanation": "Mohaç Meydan Muharebesi (1526) Macar ordusunun yenilgisiyle sonuçlanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000065",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Osmanlı donanmasının Haçlı donanmasını yendiği Preveze Deniz Savaşı hangi komutan tarafından kazanılmıştır?",
+  "options": [
+   "Piri Reis",
+   "Barbaros Hayreddin Paşa",
+   "Turgut Reis",
+   "Kılıç Ali Paşa"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı tarihi",
+  "explanation": "Preveze Deniz Savaşı (1538), Barbaros Hayreddin Paşa komutasında kazanılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000066",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Süleymaniye Camii'ni yapan mimar kimdir?",
+  "options": [
+   "Mimar Sinan",
+   "Mimar Kemaleddin",
+   "Vedat Tek",
+   "Davut Ağa"
+  ],
+  "answer_index": 0,
+  "source": "Osmanlı mimarisi",
+  "explanation": "Süleymaniye Camii, Mimar Sinan'ın kalfalık eseri olarak bilinir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000067",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Mimar Sinan'ın 'ustalık eseri' olarak nitelediği cami hangisidir?",
+  "options": [
+   "Süleymaniye Camii",
+   "Şehzade Camii",
+   "Selimiye Camii",
+   "Sultanahmet Camii"
+  ],
+  "answer_index": 2,
+  "source": "Osmanlı mimarisi",
+  "explanation": "Sinan, Edirne'deki Selimiye Camii'ni ustalık eseri olarak ifade etmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000068",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Dünya haritasını çizen ve 'Kitâb-ı Bahriyye' adlı eseri yazan Osmanlı denizcisi kimdir?",
+  "options": [
+   "Barbaros Hayreddin",
+   "Turgut Reis",
+   "Seydi Ali Reis",
+   "Piri Reis"
+  ],
+  "answer_index": 3,
+  "source": "Osmanlı denizcilik tarihi",
+  "explanation": "Piri Reis, 1513 tarihli dünya haritası ve Kitâb-ı Bahriyye'siyle tanınır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000069",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'Seyahatname' adlı eseri yazan Osmanlı gezgini kimdir?",
+  "options": [
+   "Piri Reis",
+   "Evliya Çelebi",
+   "İbn Battûta",
+   "Kâtip Çelebi"
+  ],
+  "answer_index": 1,
+  "source": "Evliya Çelebi, Seyahatname",
+  "explanation": "Evliya Çelebi, yaklaşık kırk yıl süren gezilerini on ciltlik Seyahatname'de anlatmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000070",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "'Rihle' adlı seyahatnamesiyle tanınan Faslı gezgin kimdir?",
+  "options": [
+   "İbn Battûta",
+   "Evliya Çelebi",
+   "Piri Reis",
+   "İbn Cübeyr"
+  ],
+  "answer_index": 0,
+  "source": "İbn Battûta, Rihle",
+  "explanation": "İbn Battûta, seyahat ettiği ülkeleri Rihle adlı eserinde anlatmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000071",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Semerkant'ta rasathane kurdurup astronomi çalışmalarını destekleyen Timurlu hükümdarı kimdir?",
+  "options": [
+   "Timur",
+   "Alp Arslan",
+   "Sultan Sencer",
+   "Uluğ Bey"
+  ],
+  "answer_index": 3,
+  "source": "Timurlular tarihi",
+  "explanation": "Uluğ Bey, Semerkant'ta kurduğu rasathane ile astronomi çalışmaları yaptırmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000072",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Kuzey Afrika'da kurulan Memlük Devleti hangi şehirden yönetilmiştir?",
+  "options": [
+   "Bağdat",
+   "Şam",
+   "Kahire",
+   "Kurtuba"
+  ],
+  "answer_index": 2,
+  "source": "Memlükler tarihi",
+  "explanation": "Memlük Devleti başkent olarak Kahire'yi kullanmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000073",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Ebû Eyyûb el-Ensârî hangi şehrin surları önünde vefat etmiştir?",
+  "options": [
+   "Kudüs",
+   "Şam",
+   "İstanbul",
+   "Kurtuba"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Ebû Eyyûb el-Ensârî, Emevîlerin İstanbul kuşatması sırasında vefat etmiş ve surlar yakınına defnedilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000074",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Hz. Osman döneminde ilk İslam donanmasıyla fethedilen ada hangisidir?",
+  "options": [
+   "Kıbrıs",
+   "Girit",
+   "Rodos",
+   "Sicilya"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Muâviye komutasındaki ilk İslam donanması, Hz. Osman döneminde Kıbrıs'ı ele geçirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000075",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Hz. Hasan'ın hilafeti Muâviye'ye bırakıp ümmetin birliğini sağladığı yıla ne ad verilir?",
+  "options": [
+   "Âmü'l-Fîl",
+   "Âmü'l-Hüzn",
+   "Âmü'r-Remâde",
+   "Âmü'l-Cemâa"
+  ],
+  "answer_index": 3,
+  "source": "Taberî, Târîh",
+  "explanation": "41 yılı, Müslümanların birleştiği 'Âmü'l-Cemâa' (birlik yılı) olarak anılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000076",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Hz. Ömer döneminde devlet gelirlerinin kayıt altına alındığı idari teşkilata ne ad verilir?",
+  "options": [
+   "Zekât",
+   "Divan",
+   "Cizye",
+   "Fey"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Hz. Ömer, askerlerin maaşlarını ve devlet gelirlerini düzenlemek için divan teşkilatını kurmuştur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000077",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Kurtuba'da yapılan ve bugün katedrale çevrilmiş olan eski cami hangisidir?",
+  "options": [
+   "Süleymaniye",
+   "Selimiye",
+   "Ayasofya",
+   "Kurtuba Ulu Camii"
+  ],
+  "answer_index": 3,
+  "source": "Endülüs mimarisi",
+  "explanation": "Kurtuba Ulu Camii, I. Abdurrahman döneminde başlanıp genişletilen önemli Endülüs eseridir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000078",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Haçlıların Kudüs'ü ele geçirdiği yıl hangisidir?",
+  "options": [
+   "1071",
+   "1099",
+   "1187",
+   "1258"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Birinci Haçlı Seferi sonucunda Haçlılar 1099'da Kudüs'ü ele geçirmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000079",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Anadolu Selçuklularının Moğollara yenildiği savaş hangisidir?",
+  "options": [
+   "Kösedağ",
+   "Malazgirt",
+   "Miryokefalon",
+   "Ayn Câlût"
+  ],
+  "answer_index": 0,
+  "source": "Anadolu Selçuklu tarihi",
+  "explanation": "1243'te Kösedağ'da Moğollara yenilen Anadolu Selçukluları zayıflamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000080",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Bağdat'ın Selçuklular tarafından Büveyhîlerden alındığı yıl yaklaşık hangisidir?",
+  "options": [
+   "750",
+   "1055",
+   "1071",
+   "1258"
+  ],
+  "answer_index": 1,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Tuğrul Bey 1055'te Bağdat'a girmiş, Abbâsî halifesinin koruyuculuğunu üstlenmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000081",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Selçuklu Devleti'nin kurucusu kabul edilen sultan kimdir?",
+  "options": [
+   "Alp Arslan",
+   "Melikşah",
+   "Tuğrul Bey",
+   "Sencer"
+  ],
+  "answer_index": 2,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Tuğrul Bey, Selçuklu Devleti'nin kurucusu ve ilk sultanıdır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000082",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Osmanlı'da 'Kanunî' lakabıyla anılan padişah kimdir?",
+  "options": [
+   "II. Mehmed",
+   "I. Süleyman",
+   "I. Selim",
+   "II. Bayezid"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı tarihi",
+  "explanation": "I. Süleyman, kanunları düzenlemesiyle Kanunî unvanını almıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000083",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Osmanlı Devleti'nde 'Yıldırım' lakabıyla anılan padişah kimdir?",
+  "options": [
+   "I. Bayezid",
+   "II. Mehmed",
+   "I. Selim",
+   "I. Murad"
+  ],
+  "answer_index": 0,
+  "source": "Osmanlı tarihi",
+  "explanation": "Hızlı hareketleri nedeniyle I. Bayezid 'Yıldırım' lakabıyla anılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000084",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "İslam dünyasında Nizâmiye gibi eğitim ve öğretimin yapıldığı okullara ne denir?",
+  "options": [
+   "Kervansaray",
+   "Bimarhane",
+   "Zâviye",
+   "Medrese"
+  ],
+  "answer_index": 3,
+  "source": "İslam medeniyeti tarihi",
+  "explanation": "Medrese, İslam dünyasında yüksek öğretim kurumuna verilen addır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000085",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "İslam medeniyetinde hastane karşılığı olarak kullanılan yapı hangisidir?",
+  "options": [
+   "Dârüşşifâ (Bimarhane)",
+   "Medrese",
+   "Kervansaray",
+   "Zâviye"
+  ],
+  "answer_index": 0,
+  "source": "İslam medeniyeti tarihi",
+  "explanation": "Dârüşşifâ veya bimarhane, tıbbi bakımın verildiği hastane yapısıydı.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000086",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "İslam coğrafyacısı ve haritacısı olup 'Nüzhetü'l-Müştâk' adlı eseri yazan âlim kimdir?",
+  "options": [
+   "İbn Haldun",
+   "el-İdrîsî",
+   "el-Birûnî",
+   "İbn Hurdâzbih"
+  ],
+  "answer_index": 1,
+  "source": "el-İdrîsî, Nüzhetü'l-Müştâk",
+  "explanation": "el-İdrîsî, II. Roger için dünya haritası ve coğrafya kitabı hazırlamıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000087",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Doğumu 973'e dayanan ve Hindistan'ı da inceleyen çok yönlü İslam bilgini kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "el-Fârâbî",
+   "İbn Rüşd",
+   "el-Birûnî"
+  ],
+  "answer_index": 3,
+  "source": "el-Birûnî, Kitâbü'l-Hind",
+  "explanation": "el-Birûnî, astronomi, matematik, coğrafya ve tarih alanında eserler vermiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000088",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Aristoteles'in şârihi olarak bilinen ve 'İkinci Öğretmen' lakabıyla anılan filozof kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "İbn Rüşd",
+   "el-Fârâbî",
+   "el-Kindî"
+  ],
+  "answer_index": 2,
+  "source": "el-Fârâbî, el-Medînetü'l-fâzıla",
+  "explanation": "el-Fârâbî, Aristoteles'in 'Birinci Öğretmen' olarak anılması üzerine 'İkinci Öğretmen' diye anılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000089",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Endülüs'te yaşamış ve Aristoteles şerhleriyle Avrupa'yı etkileyen filozof ve hekim kimdir?",
+  "options": [
+   "İbn Sînâ",
+   "el-Fârâbî",
+   "İbn Rüşd",
+   "el-Kindî"
+  ],
+  "answer_index": 2,
+  "source": "İbn Rüşd, Tehâfütü't-Tehâfüt",
+  "explanation": "İbn Rüşd, Kurtuba'da yaşamış ve Aristoteles şerhleriyle Avrupa düşüncesini etkilemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000090",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Abbâsî halifesi Me'mûn döneminde kurulan ve gökbilimi çalışmalarının yapıldığı yapı nedir?",
+  "options": [
+   "Rasathane",
+   "Medrese",
+   "Kervansaray",
+   "Han"
+  ],
+  "answer_index": 0,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Me'mûn döneminde Bağdat ve Şam'da rasathaneler kurulmuş, gök cisimleri incelenmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000091",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Abbâsîlerin 'altın çağında' Beytü'l-hikme'yi geliştirip bilginleri destekleyen halife kimdir?",
+  "options": [
+   "Muâviye",
+   "Velîd",
+   "Yezîd",
+   "Me'mûn"
+  ],
+  "answer_index": 3,
+  "source": "İbnü'l-Esîr, el-Kâmil",
+  "explanation": "Halife Me'mûn, Beytü'l-hikme'yi geliştirmiş ve tercüme faaliyetlerini desteklemiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000092",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Osmanlı'nın İznik'i fethedip ilk medreseyi açtığı dönemde hükümdar kimdir?",
+  "options": [
+   "Osman Gazi",
+   "Orhan Gazi",
+   "I. Murad",
+   "Yıldırım Bayezid"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı tarihi",
+  "explanation": "Orhan Gazi döneminde İznik fethedilmiş ve burada ilk Osmanlı medresesi açılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000093",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Kosova Savaşı sırasında şehit düşen Osmanlı sultanı kimdir?",
+  "options": [
+   "Osman Gazi",
+   "Orhan Gazi",
+   "I. Murad",
+   "I. Bayezid"
+  ],
+  "answer_index": 2,
+  "source": "Osmanlı tarihi",
+  "explanation": "Hüdâvendigâr lakaplı I. Murad, 1389 Kosova Savaşı'nda şehit düşmüştür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000094",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Timur ile Yıldırım Bayezid arasındaki savaş hangi şehir yakınlarında yapılmıştır?",
+  "options": [
+   "Bursa",
+   "Ankara",
+   "Edirne",
+   "Konya"
+  ],
+  "answer_index": 1,
+  "source": "Osmanlı tarihi",
+  "explanation": "Ankara Savaşı (1402), Timur ile Yıldırım Bayezid arasında yapılmıştır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000095",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Hz. Osman'ın şehit edildiği yıl hangisidir?",
+  "options": [
+   "632",
+   "656",
+   "661",
+   "680"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Hz. Osman, 656'da evinde kuşatılarak şehit edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000096",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Kudüs'ün Hz. Ömer döneminde fethedildiği yıl hangisidir?",
+  "options": [
+   "622",
+   "638",
+   "711",
+   "1071"
+  ],
+  "answer_index": 1,
+  "source": "Taberî, Târîh",
+  "explanation": "Kudüs, 638'de anlaşmayla Müslümanlara teslim edilmiştir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-tarih-000097",
+  "lang": "tr",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Amr b. Âs'ın Mısır'da kurduğu ilk İslam şehri hangisidir?",
+  "options": [
+   "Kahire",
+   "Fustat",
+   "İskenderiye",
+   "Kayrevan"
+  ],
+  "answer_index": 1,
+  "source": "Makrîzî, el-Hıtat",
+  "explanation": "Amr b. Âs, Mısır'ın fethinden sonra Fustat şehrini kurmuş ve burada bir cami yaptırmıştır.",
+  "review_status": "draft"
+ }
+]

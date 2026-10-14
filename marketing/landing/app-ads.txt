@@ -1,0 +1,4 @@
+# app-ads.txt — alan adı kökünde yayınlanır: https://sualarena.app/app-ads.txt
+# AdMob'da yayıncı kimliğini al (ca-app-pub-XXXXXXXXXXXXXXXX → pub-XXXXXXXXXXXXXXXX) ve aşağıdaki satırı AÇ.
+# Satırı doldurmadan yayınlama: geçersiz kimlik reklam doğrulamasını bozar.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

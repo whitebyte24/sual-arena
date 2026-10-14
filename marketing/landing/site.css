@@ -1,0 +1,63 @@
+:root {
+  --bg: #0b1b33;
+  --bg-2: #10264a;
+  --card: #132c52;
+  --text: #eef3fb;
+  --muted: #a9b8d0;
+  --emerald: #0e9f6e;
+  --emerald-2: #12c488;
+  --gold: #e0b04a;
+  --line: rgba(255, 255, 255, 0.1);
+  --radius: 18px;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 80% -10%, #16396b 0%, transparent 60%), var(--bg);
+  color: var(--text);
+  font: 16px/1.65 system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Noto Naskh Arabic', Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+[dir='rtl'] body { font-size: 17px; line-height: 1.85; }
+a { color: var(--gold); }
+.wrap { width: min(1040px, 100% - 32px); margin-inline: auto; }
+header.top { display: flex; align-items: center; justify-content: space-between; padding: 20px 0; gap: 12px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; letter-spacing: 0.2px; color: var(--text); text-decoration: none; font-size: 20px; }
+.brand .dot { width: 34px; height: 34px; border-radius: 10px; background: linear-gradient(135deg, var(--emerald), var(--gold)); display: inline-block; }
+.langs { display: flex; gap: 6px; }
+.langs button { background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; cursor: pointer; font: inherit; font-size: 14px; }
+.langs button[aria-pressed='true'] { background: var(--emerald); color: #fff; border-color: var(--emerald); }
+.js [data-lang]:not(.active) { display: none !important; }
+.hero { padding: 48px 0 32px; text-align: center; }
+.hero h1 { font-size: clamp(30px, 6vw, 52px); line-height: 1.15; margin: 0 0 14px; }
+.hero p.lead { color: var(--muted); font-size: clamp(17px, 2.4vw, 20px); max-width: 640px; margin: 0 auto 28px; }
+.badge { display: inline-block; background: rgba(224, 176, 74, 0.14); color: var(--gold); border: 1px solid rgba(224, 176, 74, 0.4); border-radius: 999px; padding: 4px 14px; font-size: 14px; margin-bottom: 18px; }
+form.wait { display: flex; gap: 10px; max-width: 520px; margin: 0 auto; flex-wrap: wrap; }
+form.wait input[type='email'] { flex: 1 1 240px; padding: 14px 16px; border-radius: 14px; border: 1px solid var(--line); background: var(--bg-2); color: var(--text); font: inherit; }
+button.cta, a.cta { background: linear-gradient(135deg, var(--emerald), var(--emerald-2)); color: #fff; border: 0; border-radius: 14px; padding: 14px 24px; font: inherit; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; }
+.hp { position: absolute; inset-inline-start: -9999px; }
+.note { color: var(--muted); font-size: 14px; margin-top: 10px; min-height: 22px; }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); margin: 32px 0; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; }
+.card h3 { margin: 0 0 6px; font-size: 18px; color: var(--gold); }
+.card p { margin: 0; color: var(--muted); }
+.stores { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 24px 0; }
+.stores .soon { border: 1px dashed var(--line); border-radius: 14px; padding: 12px 22px; color: var(--muted); }
+section.band { padding: 28px 0; }
+section.band h2 { font-size: 26px; margin: 0 0 8px; }
+footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 0 48px; color: var(--muted); font-size: 14px; display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
+footer nav a { margin-inline-end: 16px; }
+/* Hukuki sayfalar */
+article.doc { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: clamp(20px, 4vw, 40px); margin: 12px 0 0; }
+article.doc h1 { margin-top: 0; font-size: clamp(26px, 4vw, 34px); }
+article.doc h2 { font-size: 20px; margin: 28px 0 6px; color: var(--gold); }
+article.doc p, article.doc li { color: #dbe5f5; }
+article.doc ul { padding-inline-start: 22px; }
+.meta { color: var(--muted); font-size: 14px; }
+table.data { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 15px; }
+table.data th, table.data td { text-align: start; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+table.data th { color: var(--gold); font-weight: 600; }
+.todo { background: rgba(224, 176, 74, 0.15); padding: 0 4px; border-radius: 4px; }
+@media (max-width: 480px) { .hero { padding-top: 24px; } }

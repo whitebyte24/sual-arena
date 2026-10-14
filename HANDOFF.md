@@ -41,13 +41,13 @@ Bu dosya Claude Code ↔ Antigravity arasındaki tek iletişim kanalıdır. Önc
 - **Kabul:** Her anahtar için "uygun / değişsin" kararı. Değişenler için öneri.
 
 ## Görev 4 — Mağaza ekran görüntüsü ve tanıtım görselleri
-- Plan `store/screenshot-plan.md` (Faz 9'da Claude Code yazar): 1) Düello anı 2) Söyleme! aile modu 3) Günlük Soru serisi 4) Ramazan Ligi 5) Arkadaş odası 6) Arapça arayüz.
+- Plan `store/screenshots.md` (yazıldı): 1) Düello anı 2) Söyleme! aile modu 3) Günlük Soru serisi 4) Ramazan Ligi 5) Arkadaş odası 6) Arapça arayüz.
 - Çıktı: `store/screenshots/<ios|android>/<tr|ar|en>/0N.png`. iOS 6.9" (1290×2796) ve Android telefon (1080×1920+).
 - Renkler/maskot: `docs/design-tokens.md`. Ekran görüntüsündeki her şey uygulamada gerçekten bulunmalı. "Reklamsız" ifadesi yalnızca Premium bağlamında.
 - **Başlangıç koşulu:** Faz 5+ ekranları çalışır halde (Claude Code bildirir).
 
 ## Görev 5 — Pazarlama içerikleri
-`marketing/` altına: `launch-plan.md`, `short-video-scripts.md` (40 adet, 15–30 sn), `creator-outreach.md` (TR/AR), `kurs-outreach.md`, `referral.md`, `landing/index.html` (TR/AR/EN, bekleme listesi).
+`marketing/` altına: `launch-plan.md`, `short-video-scripts.md` (40 adet, 15–30 sn), `creator-outreach.md` (TR/AR), `kurs-outreach.md`, `referral.md`. (`landing/` Claude Code tarafından yazıldı; dokunma.)
 - Ton: sıcak, saygılı, esprili ama dinle alay yok. "Tabu" yok, "çocuklar için" yok ("aile").
 - `landing/` içinde `app-ads.txt` yer tutucusu bırak (yayıncı kimliği AdMob'dan gelecek).
 - **Kabul:** Her dosya brief'e uygun; tarihler 8 Ekim 2026 → Ramazan sonu (~9 Mart 2027) aralığında.
@@ -67,9 +67,9 @@ Bu dosya Claude Code ↔ Antigravity arasındaki tek iletişim kanalıdır. Önc
 ## Durum
 | Görev | Durum |
 |---|---|
-| 1 Soru bankası | **pilot parti teslim edildi + Claude incelemesi yapıldı** (bkz. marketing/content-stats.md §5); sıradaki: insan editör örnekleri → sonra kalan kategoriler (tarih, ilmihal, kıssalar, arapça) |
-| 2 Kartlar | **pilot parti teslim edildi + incelendi** (2 kart düzeltildi) |
+| 1 Soru bankası | **Claude 2026-10-14'te TR 592 / AR 582 / EN 580 soru üretti (draft; insan onayı bekliyor).** Pilot parti: (bkz. marketing/content-stats.md §5); sıradaki: insan editör örnekleri → sonra kalan kategoriler (tarih, ilmihal, kıssalar, arapça) |
+| 2 Kartlar | **dil başına 150 kart (TR/AR/EN) Claude tarafından üretildi (draft)**; pilot 100 kart incelendi |
 | 3 AR kontrol | **HAZIR** — `locales/ar.json` (250 anahtar) ve `locales/native/ar.json` incelenebilir; RTL ekran görüntüsü için web önizlemesi: `npm start` → Hesap → Dil |
 | 4 Görseller | Faz 5+ sonrası |
-| 5 Pazarlama | başlatılabilir (öncelik düşük) |
+| 5 Pazarlama | **TAMAMLANDI (Claude, 2026-10-14)** — launch-plan, 40 video, creator/kurs outreach, referral yazıldı; aşağıdaki eski not tarihsel. (eski:) **HAZIR** — prompt: `docs/antigravity-prompt-marketing.md`. Landing + gizlilik/koşullar/hesap silme + `app-ads.txt` Claude Code'da yazıldı (dokunma); Antigravity: launch-plan, 40 video, creator/kurs outreach, referral (+ Görev 3 AR önerileri). `npm run store:check` marketing/ yasak ifadelerini ve 40 senaryoyu denetler |
 | 6 E2E test | Faz 10 öncesi |

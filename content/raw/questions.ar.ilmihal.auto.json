@@ -1,0 +1,1617 @@
+[
+ {
+  "id": "q-ar-ilmihal-000001",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم عدد أركان الإسلام؟",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، الإيمان؛ مسلم، الإيمان",
+  "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000002",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم عدد أركان الإيمان؟",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 2,
+  "source": "مسلم، الإيمان (حديث جبريل)",
+  "explanation": "الإيمان بالله وملائكته وكتبه ورسله واليوم الآخر والقدر هي أركان الإيمان الستة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000003",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ما الكلمة التي ينطق بها من أراد الدخول في الإسلام؟",
+  "options": [
+   "البسملة",
+   "التكبير",
+   "التسبيح",
+   "الشهادتان"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الإيمان",
+  "explanation": "الشهادتان: أشهد أن لا إله إلا الله وأن محمداً رسول الله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000004",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم عدد الصلوات المفروضة في اليوم والليلة؟",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الصلاة",
+  "explanation": "الصلوات المفروضة خمس: الفجر والظهر والعصر والمغرب والعشاء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000005",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كم ركعة في فرض صلاة المغرب؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، الصلاة",
+  "explanation": "صلاة المغرب ثلاث ركعات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000006",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم ركعة في فرض صلاة الفجر؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الصلاة",
+  "explanation": "صلاة الفجر ركعتان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000007",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم ركعة في فرض صلاة الظهر؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الصلاة",
+  "explanation": "صلاة الظهر أربع ركعات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000008",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كم ركعة في فرض صلاة الجمعة؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer_index": 0,
+  "source": "الجمعة 62/9",
+  "explanation": "صلاة الجمعة ركعتان بعد الخطبة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000009",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى وضع الجبهة على الأرض في الصلاة؟",
+  "options": [
+   "السجود",
+   "الركوع",
+   "القيام",
+   "التسليم"
+  ],
+  "answer_index": 0,
+  "source": "مصطلحات الصلاة",
+  "explanation": "السجود وضع الجبهة وبقية الأعضاء على الأرض.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000010",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى انحناء الظهر ووضع اليدين على الركبتين في الصلاة؟",
+  "options": [
+   "السجود",
+   "القيام",
+   "التشهد",
+   "الركوع"
+  ],
+  "answer_index": 3,
+  "source": "مصطلحات الصلاة",
+  "explanation": "الركوع الانحناء في الصلاة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000011",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا تسمى الجلسة التي يُقرأ فيها التشهد في الصلاة؟",
+  "options": [
+   "القيام",
+   "القعود (جلسة التشهد)",
+   "الركوع",
+   "السجود"
+  ],
+  "answer_index": 1,
+  "source": "مصطلحات الصلاة",
+  "explanation": "الجلوس في الصلاة للتشهد يسمى القعدة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000012",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا تسمى التكبيرة الأولى التي يُبتدأ بها الصلاة؟",
+  "options": [
+   "تكبيرة القنوت",
+   "تكبيرات التشريق",
+   "تكبيرة الإحرام",
+   "تكبيرات العيد"
+  ],
+  "answer_index": 2,
+  "source": "مصطلحات الصلاة",
+  "explanation": "يقول المصلي «الله أكبر» ليدخل في الصلاة، وتسمى تكبيرة الإحرام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000013",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "إلى أي جهة يتجه المسلمون في الصلاة؟",
+  "options": [
+   "المسجد الأقصى",
+   "المسجد النبوي",
+   "الكعبة",
+   "عرفات"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/144",
+  "explanation": "يتجه المسلمون في الصلاة إلى الكعبة في مكة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000014",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما القبلة الأولى للمسلمين؟",
+  "options": [
+   "الكعبة",
+   "المسجد النبوي",
+   "مسجد قباء",
+   "المسجد الأقصى"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الإيمان",
+  "explanation": "صلى المسلمون إلى بيت المقدس نحو ستة عشر شهراً ثم حُوّلت القبلة إلى الكعبة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000015",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "أي عضو في الوضوء يُمسح ولا يُغسل؟",
+  "options": [
+   "الرأس",
+   "الوجه",
+   "اليدان",
+   "الرجلان"
+  ],
+  "answer_index": 0,
+  "source": "المائدة 5/6",
+  "explanation": "في الوضوء يُغسل الوجه واليدان والرجلان ويُمسح الرأس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000016",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يحل محل الوضوء عند فقد الماء؟",
+  "options": [
+   "الغسل",
+   "التيمم",
+   "المسح",
+   "الاستنجاء"
+  ],
+  "answer_index": 1,
+  "source": "المائدة 5/6",
+  "explanation": "يتيمم المسلم بالتراب الطاهر عند عدم وجود الماء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000017",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى غسل البدن كله بعد الجنابة؟",
+  "options": [
+   "الوضوء",
+   "التيمم",
+   "المسح",
+   "الغسل"
+  ],
+  "answer_index": 3,
+  "source": "المائدة 5/6",
+  "explanation": "الغسل تعميم الماء على الجسد كله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000018",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى النداء الذي يعلن دخول وقت الصلاة؟",
+  "options": [
+   "الأذان",
+   "الإقامة",
+   "التكبير",
+   "التلبية"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الأذان",
+  "explanation": "الأذان نداء للإعلام بدخول وقت الصلاة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000019",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى النداء الذي يُقال قبيل الشروع في الصلاة المفروضة جماعة؟",
+  "options": [
+   "الأذان",
+   "الإقامة",
+   "التلبية",
+   "التحميد"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، الأذان",
+  "explanation": "تُقال الإقامة قبيل الصلاة إعلاماً بقيامها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000020",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "من أول من أذّن في الإسلام؟",
+  "options": [
+   "أبو هريرة",
+   "عبد الله بن مسعود",
+   "بلال بن رباح",
+   "زيد بن ثابت"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الأذان",
+  "explanation": "كان بلال الحبشي أول مؤذن في الإسلام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000021",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ما الذي يُلقى قبل صلاة الجمعة؟",
+  "options": [
+   "الموعظة",
+   "الدعاء",
+   "المولد",
+   "الخطبة"
+  ],
+  "answer_index": 3,
+  "source": "الجمعة 62/9",
+  "explanation": "تُلقى الخطبة قبل صلاة الجمعة وهي من شروطها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000022",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كم صلاة عيد تُصلى في السنة؟",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، العيدين",
+  "explanation": "صلاة عيد الفطر وعيد الأضحى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000023",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "أي حركة لا تكون في صلاة الجنازة؟",
+  "options": [
+   "القيام",
+   "التسليم",
+   "الركوع والسجود",
+   "التكبير"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الجنائز",
+  "explanation": "تُؤدى صلاة الجنازة قياماً بتكبيرات دون ركوع ولا سجود.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000024",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "في أي شهر يُفرض الصيام؟",
+  "options": [
+   "رمضان",
+   "شعبان",
+   "محرم",
+   "رجب"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/185",
+  "explanation": "الصيام فرض في شهر رمضان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000025",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا تسمى الوجبة التي تؤكل قبل الفجر في رمضان؟",
+  "options": [
+   "الإفطار",
+   "السحور",
+   "العشاء",
+   "الغداء"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، الصوم",
+  "explanation": "السحور الأكل قبل الفجر للصائم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000026",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا تسمى الوجبة التي يُفطر بها الصائم عند المغرب؟",
+  "options": [
+   "السحور",
+   "العشاء",
+   "الفدية",
+   "الإفطار"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الصوم",
+  "explanation": "الإفطار هو كسر الصيام عند غروب الشمس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000027",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما الوقت الذي يبدأ به الإمساك عن الطعام والشراب في الصيام؟",
+  "options": [
+   "طلوع الفجر الصادق",
+   "غروب الشمس",
+   "زوال الشمس",
+   "الضحى"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/187",
+  "explanation": "يبدأ الصيام من طلوع الفجر الصادق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000028",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما الصدقة التي تُخرج قبل صلاة عيد الفطر؟",
+  "options": [
+   "الأضحية",
+   "الزكاة",
+   "زكاة الفطر",
+   "الفدية"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الزكاة",
+  "explanation": "تُخرج زكاة الفطر قبل صلاة العيد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000029",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "في أي شهر يقع عيد الفطر؟",
+  "options": [
+   "شوال",
+   "ذو الحجة",
+   "محرم",
+   "ربيع الأول"
+  ],
+  "answer_index": 0,
+  "source": "التقويم الهجري",
+  "explanation": "عيد الفطر في أول شوال.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000030",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "في أي يوم من ذي الحجة عيد الأضحى؟",
+  "options": [
+   "الأول",
+   "الخامس",
+   "العشرين",
+   "العاشر"
+  ],
+  "answer_index": 3,
+  "source": "التقويم الهجري",
+  "explanation": "يوافق عيد الأضحى العاشر من ذي الحجة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000031",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "كم صنفاً من مصارف الزكاة ذكره القرآن؟",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "التوبة 9/60",
+  "explanation": "ذكرت آية التوبة ثمانية أصناف لمستحقي الزكاة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000032",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى أقل مقدار من المال تجب فيه الزكاة؟",
+  "options": [
+   "الفدية",
+   "الصدقة",
+   "النصاب",
+   "الإنفاق"
+  ],
+  "answer_index": 2,
+  "source": "فقه الزكاة",
+  "explanation": "النصاب هو الحد الأدنى من المال الذي تجب فيه الزكاة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000033",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا تسمى الصدقة التي يستمر ثوابها بعد الموت؟",
+  "options": [
+   "الصدقة الجارية",
+   "زكاة الفطر",
+   "الزكاة",
+   "الفدية"
+  ],
+  "answer_index": 0,
+  "source": "مسلم، الوصية",
+  "explanation": "الصدقة الجارية ما يستمر نفعه وثوابه كبناء مسجد أو حفر بئر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000034",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "في أي شهر يُؤدى الحج؟",
+  "options": [
+   "رمضان",
+   "شوال",
+   "ذو الحجة",
+   "محرم"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/197",
+  "explanation": "الحج في أشهر معلومات، وأعماله الرئيسة في ذي الحجة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000035",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما ركن الحج الأعظم الذي يؤدى يوم عرفة؟",
+  "options": [
+   "رمي الجمرات",
+   "الوقوف بعرفة",
+   "ذبح الهدي",
+   "السعي"
+  ],
+  "answer_index": 1,
+  "source": "الترمذي، الحج",
+  "explanation": "قال النبي ﷺ: «الحج عرفة».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000036",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى الدوران حول الكعبة سبع مرات؟",
+  "options": [
+   "السعي",
+   "الوقوف",
+   "الإحرام",
+   "الطواف"
+  ],
+  "answer_index": 3,
+  "source": "الحج 22/29",
+  "explanation": "الطواف بالبيت العتيق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000037",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى المشي بين الصفا والمروة سبع مرات؟",
+  "options": [
+   "السعي",
+   "الطواف",
+   "الوقوف",
+   "الإفاضة"
+  ],
+  "answer_index": 0,
+  "source": "البقرة 2/158",
+  "explanation": "السعي بين الصفا والمروة من مناسك الحج والعمرة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000038",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى لباس الحاج والمعتمر وحالة النية؟",
+  "options": [
+   "الطواف",
+   "السعي",
+   "زمزم",
+   "الإحرام"
+  ],
+  "answer_index": 3,
+  "source": "فقه الحج",
+  "explanation": "الإحرام نية الدخول في النسك ولبس ثياب الإحرام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000039",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "أين يتم رمي الجمرات في الحج؟",
+  "options": [
+   "عرفة",
+   "منى",
+   "مزدلفة",
+   "الصفا"
+  ],
+  "answer_index": 1,
+  "source": "فقه الحج",
+  "explanation": "يرمي الحجاج الجمرات في منى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000040",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما الحجر الذي في ركن الكعبة وهو بداية الطواف؟",
+  "options": [
+   "مقام إبراهيم",
+   "الحِجر",
+   "الحجر الأسود",
+   "الملتزم"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الحج",
+  "explanation": "الحجر الأسود نقطة بدء الطواف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000041",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "ماذا يسمى الغطاء الأسود الذي يكسو الكعبة؟",
+  "options": [
+   "الكسوة",
+   "العباءة",
+   "السجادة",
+   "الراية"
+  ],
+  "answer_index": 0,
+  "source": "فقه الحج",
+  "explanation": "تُكسى الكعبة بكسوة سوداء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000042",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ما الماء المبارك الذي نبع في مكة لهاجر وإسماعيل؟",
+  "options": [
+   "الكوثر",
+   "السلسبيل",
+   "السدرة",
+   "زمزم"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الأنبياء",
+  "explanation": "ماء زمزم عند الكعبة في المسجد الحرام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000043",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "أي العبارات صحيحة عن العمرة؟",
+  "options": [
+   "تُؤدى في يوم عرفة فقط",
+   "تُؤدى في رمضان فقط",
+   "تُؤدى في أي وقت من السنة",
+   "تُؤدى في عيد الأضحى فقط"
+  ],
+  "answer_index": 2,
+  "source": "فقه الحج",
+  "explanation": "للحج أيام محددة والعمرة تؤدى في سائر العام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000044",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "في أي مدينة تقع الكعبة؟",
+  "options": [
+   "المدينة المنورة",
+   "مكة المكرمة",
+   "القدس",
+   "الطائف"
+  ],
+  "answer_index": 1,
+  "source": "آل عمران 3/96",
+  "explanation": "الكعبة في المسجد الحرام بمكة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000045",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "أي المساجد الثلاثة التي تُشد إليها الرحال؟",
+  "options": [
+   "قباء والقبلتين وضرار",
+   "المسجد الحرام والمسجد النبوي والمسجد الأقصى",
+   "السليمانية والسليمية والسلطان أحمد",
+   "الأموي وقرطبة والأزهر"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، فضل الصلاة في مسجد مكة",
+  "explanation": "ورد في الحديث شدّ الرحال إلى ثلاثة مساجد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000046",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كم عدد أسماء الله الحسنى المشهورة؟",
+  "options": [
+   "40",
+   "77",
+   "99",
+   "114"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، التوحيد",
+  "explanation": "ورد في الحديث أن لله تسعة وتسعين اسماً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000047",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "من الملك المكلف بالوحي؟",
+  "options": [
+   "ميكائيل",
+   "إسرافيل",
+   "عزرائيل",
+   "جبريل"
+  ],
+  "answer_index": 3,
+  "source": "البقرة 2/97",
+  "explanation": "جبريل عليه السلام ملك الوحي.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000048",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "من الملك الموكل بالنفخ في الصور؟",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "إسرافيل",
+   "عزرائيل"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الرقاق",
+  "explanation": "إسرافيل هو الملك الذي ينفخ في الصور يوم القيامة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000049",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "بأي اسم يُعرف ملك الموت عند الناس؟",
+  "options": [
+   "ميكائيل",
+   "عزرائيل",
+   "جبريل",
+   "إسرافيل"
+  ],
+  "answer_index": 1,
+  "source": "السجدة 32/11",
+  "explanation": "سمّاه القرآن «ملك الموت» ويُعرف عند الناس بعزرائيل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000050",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "أي ملك يُرتبط ذكره بالمطر والرزق؟",
+  "options": [
+   "جبريل",
+   "إسرافيل",
+   "ميكائيل",
+   "عزرائيل"
+  ],
+  "answer_index": 2,
+  "source": "البقرة 2/98",
+  "explanation": "ذكرت آية البقرة ميكائيل مع جبريل، ويُعدّ الموكل بالقطر والرزق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000051",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى الملكان اللذان يسألان الميت في القبر؟",
+  "options": [
+   "منكر ونكير",
+   "الكرام الكاتبون",
+   "الحفظة",
+   "الزبانية"
+  ],
+  "answer_index": 0,
+  "source": "الترمذي، الجنائز",
+  "explanation": "منكر ونكير ملكان يسألان الميت في قبره.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000052",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى الملكان اللذان يكتبان أعمال الإنسان؟",
+  "options": [
+   "منكر ونكير",
+   "الزبانية",
+   "الحفظة",
+   "الكرام الكاتبون"
+  ],
+  "answer_index": 3,
+  "source": "الانفطار 82/10-12",
+  "explanation": "ذكرت سورة الانفطار كراماً كاتبين يعلمون ما يفعل الإنسان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000053",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "أي مما يلي ليس من الكتب السماوية الكبرى؟",
+  "options": [
+   "التوراة",
+   "الزبور",
+   "الإنجيل",
+   "السنن"
+  ],
+  "answer_index": 3,
+  "source": "النساء 4/136",
+  "explanation": "التوراة والزبور والإنجيل والقرآن كتب سماوية، والسنن كتب حديث.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000054",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "ما اسم الكتب الصغيرة التي أُنزلت على إبراهيم عليه السلام؟",
+  "options": [
+   "الصحف",
+   "الزبور",
+   "التوراة",
+   "الإنجيل"
+  ],
+  "answer_index": 0,
+  "source": "الأعلى 87/18-19",
+  "explanation": "أُنزلت على إبراهيم عليه السلام صحف عُرفت بصحف إبراهيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000055",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا تسمى أقوال النبي ﷺ وأفعاله وتقريراته؟",
+  "options": [
+   "التفسير",
+   "السنة",
+   "السيرة",
+   "الترجمة"
+  ],
+  "answer_index": 1,
+  "source": "الأحزاب 33/21",
+  "explanation": "السنة هي ما صدر عن النبي ﷺ من قول أو فعل أو تقرير.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000056",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى من لقي النبي ﷺ مؤمناً به ومات على الإيمان؟",
+  "options": [
+   "التابعي",
+   "المحدث",
+   "الصحابي",
+   "الحواري"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، فضائل أصحاب النبي",
+  "explanation": "من لقي النبي ﷺ مؤمناً به صحابي.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000057",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى الجيل الذي لقي الصحابة وأخذ عنهم؟",
+  "options": [
+   "الصحابة",
+   "الحواريون",
+   "الأنصار",
+   "التابعون"
+  ],
+  "answer_index": 3,
+  "source": "مصطلح الحديث",
+  "explanation": "التابعون هم من لقي الصحابة وأخذ عنهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000058",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما المال الذي يجب على الزوج تقديمه للزوجة عند الزواج؟",
+  "options": [
+   "المهر",
+   "النفقة",
+   "الجهاز",
+   "الهدية"
+  ],
+  "answer_index": 0,
+  "source": "النساء 4/4",
+  "explanation": "المهر حق للمرأة بسبب عقد النكاح.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000059",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "في أي سورة جاء تحريم الربا؟",
+  "options": [
+   "الفاتحة",
+   "البقرة",
+   "مريم",
+   "الكهف"
+  ],
+  "answer_index": 1,
+  "source": "البقرة 2/275",
+  "explanation": "قال تعالى: «وأحل الله البيع وحرم الربا».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000060",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "في أي سورة جاء تحريم الخمر والميسر؟",
+  "options": [
+   "النور",
+   "يوسف",
+   "المائدة",
+   "الملك"
+  ],
+  "answer_index": 2,
+  "source": "المائدة 5/90",
+  "explanation": "عدّت الآية الخمر والميسر والأنصاب والأزلام رجساً من عمل الشيطان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000061",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "في أي سورة جاء تحريم لحم الخنزير؟",
+  "options": [
+   "مريم",
+   "البقرة",
+   "الكهف",
+   "يوسف"
+  ],
+  "answer_index": 1,
+  "source": "البقرة 2/173",
+  "explanation": "حرمت الآية الميتة والدم ولحم الخنزير وما أُهل به لغير الله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000062",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "في أي سورة أمر الله بالإحسان إلى الوالدين وعدم قول «أف» لهما؟",
+  "options": [
+   "النور",
+   "الملك",
+   "الإسراء",
+   "القلم"
+  ],
+  "answer_index": 2,
+  "source": "الإسراء 17/23",
+  "explanation": "قال تعالى: «فلا تقل لهما أف ولا تنهرهما».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000063",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "في أي سورة نُهي عن الغيبة وشُبهت بأكل لحم الأخ ميتاً؟",
+  "options": [
+   "النحل",
+   "الكهف",
+   "النور",
+   "الحجرات"
+  ],
+  "answer_index": 3,
+  "source": "الحجرات 49/12",
+  "explanation": "قال تعالى: «ولا يغتب بعضكم بعضاً أيحب أحدكم أن يأكل لحم أخيه ميتاً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000064",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "في أي سورة جاء: «وكلوا واشربوا ولا تسرفوا»؟",
+  "options": [
+   "الأعراف",
+   "الملك",
+   "القلم",
+   "الضحى"
+  ],
+  "answer_index": 0,
+  "source": "الأعراف 7/31",
+  "explanation": "تأمر الآية بالأكل والشرب دون إسراف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000065",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يقول المسلم عند بدء الطعام؟",
+  "options": [
+   "بسم الله",
+   "الحمد لله",
+   "سبحان الله",
+   "الله أكبر"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الأطعمة",
+  "explanation": "يُبدأ الطعام بالتسمية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000066",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يقول المسلم بعد الانتهاء من الطعام؟",
+  "options": [
+   "بسم الله",
+   "الله أكبر",
+   "لا حول ولا قوة إلا بالله",
+   "الحمد لله"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الأطعمة",
+  "explanation": "يحمد المسلم الله بعد الطعام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000067",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى قول «سبحان الله»؟",
+  "options": [
+   "التكبير",
+   "التسبيح",
+   "التحميد",
+   "التهليل"
+  ],
+  "answer_index": 1,
+  "source": "مصطلحات الذكر",
+  "explanation": "قول سبحان الله تسبيح، والحمد لله تحميد، والله أكبر تكبير.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000068",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى قول «الحمد لله»؟",
+  "options": [
+   "التسبيح",
+   "التكبير",
+   "التحميد",
+   "التهليل"
+  ],
+  "answer_index": 2,
+  "source": "مصطلحات الذكر",
+  "explanation": "قول الحمد لله تحميد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000069",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى قول «الله أكبر»؟",
+  "options": [
+   "التسبيح",
+   "التحميد",
+   "التهليل",
+   "التكبير"
+  ],
+  "answer_index": 3,
+  "source": "مصطلحات الذكر",
+  "explanation": "قول الله أكبر تكبير.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000070",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى قول «لا إله إلا الله»؟",
+  "options": [
+   "التهليل",
+   "التسبيح",
+   "التحميد",
+   "التكبير"
+  ],
+  "answer_index": 0,
+  "source": "مصطلحات الذكر",
+  "explanation": "قول لا إله إلا الله تهليل.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000071",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا تسمى عبارة «بسم الله الرحمن الرحيم»؟",
+  "options": [
+   "الحمدلة",
+   "البسملة",
+   "الحسبلة",
+   "الحوقلة"
+  ],
+  "answer_index": 1,
+  "source": "مصطلحات الذكر",
+  "explanation": "البسملة قول بسم الله الرحمن الرحيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000072",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ما تحية المسلمين عند اللقاء؟",
+  "options": [
+   "صباح الخير",
+   "مع السلامة",
+   "السلام عليكم",
+   "تهانينا"
+  ],
+  "answer_index": 2,
+  "source": "مسلم، الإيمان",
+  "explanation": "يحيي المسلمون بعضهم بقول السلام عليكم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000073",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كيف يُرد على السلام؟",
+  "options": [
+   "أهلاً بك",
+   "وعليكم السلام",
+   "بارك الله فيك",
+   "شكراً"
+  ],
+  "answer_index": 1,
+  "source": "النساء 4/86",
+  "explanation": "يُرد السلام بأحسن منه أو بمثله.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000074",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا قال النبي ﷺ في حق الجار؟",
+  "options": [
+   "إيذاء الجار مباح",
+   "الجوار غير مهم في الدين",
+   "لا يجب السلام على الجار",
+   "لا يدخل الجنة من لا يأمن جاره بوائقه"
+  ],
+  "answer_index": 3,
+  "source": "مسلم، الإيمان",
+  "explanation": "أخبر النبي ﷺ أن من لا يأمن جاره شره لا يدخل الجنة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000075",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "ماذا ذكر القرآن عن آكلي مال اليتيم ظلماً؟",
+  "options": [
+   "لا حرج عليهم",
+   "لهم ثواب كبير",
+   "يأكلون في بطونهم ناراً",
+   "ذنبهم صغير"
+  ],
+  "answer_index": 2,
+  "source": "النساء 4/10",
+  "explanation": "قال تعالى: «إنما يأكلون في بطونهم ناراً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000076",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "اليوم العاشر من أي شهر هو عاشوراء؟",
+  "options": [
+   "المحرم",
+   "صفر",
+   "رجب",
+   "شعبان"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الصوم",
+  "explanation": "عاشوراء العاشر من المحرم وقد صامه النبي ﷺ.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000077",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "أي الأشهر التالية من الأشهر الحرم؟",
+  "options": [
+   "رمضان",
+   "شوال",
+   "ذو القعدة",
+   "ربيع الآخر"
+  ],
+  "answer_index": 2,
+  "source": "التوبة 9/36",
+  "explanation": "الأشهر الحرم: ذو القعدة وذو الحجة والمحرم ورجب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000078",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ما الليلة التي تُلتمس في العشر الأواخر من رمضان؟",
+  "options": [
+   "ليلة البراءة",
+   "ليلة القدر",
+   "ليلة الرغائب",
+   "ليلة المولد"
+  ],
+  "answer_index": 1,
+  "source": "القدر 97/1-5",
+  "explanation": "ليلة القدر خير من ألف شهر وتُلتمس في العشر الأواخر من رمضان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000079",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا تسمى الصلاة التي تُصلى في ليالي رمضان؟",
+  "options": [
+   "التراويح",
+   "الضحى",
+   "الأوابين",
+   "تحية المسجد"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، صلاة التراويح",
+  "explanation": "التراويح صلاة قيام رمضان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000080",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا نقول عند الاستعاذة قبل قراءة القرآن؟",
+  "options": [
+   "سبحان الله",
+   "الحمد لله",
+   "الله أكبر",
+   "أعوذ بالله من الشيطان الرجيم"
+  ],
+  "answer_index": 3,
+  "source": "النحل 16/98",
+  "explanation": "قال تعالى: «فإذا قرأت القرآن فاستعذ بالله من الشيطان الرجيم».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000081",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يسمى صعود النبي ﷺ إلى السماوات من المسجد الأقصى؟",
+  "options": [
+   "الإسراء",
+   "الهجرة",
+   "الفتح",
+   "المعراج"
+  ],
+  "answer_index": 3,
+  "source": "النجم 53/13-18",
+  "explanation": "الإسراء من المسجد الحرام إلى الأقصى، والمعراج من الأقصى إلى السماوات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000082",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "ماذا تسمى الترجمة التي تنقل معنى القرآن إلى لغة أخرى؟",
+  "options": [
+   "التفسير",
+   "المصحف",
+   "ترجمة المعاني",
+   "الختمة"
+  ],
+  "answer_index": 2,
+  "source": "علوم القرآن",
+  "explanation": "ترجمة معاني القرآن تنقل المعنى لا اللفظ المعجز.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000083",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يُقال عند بدء الوضوء؟",
+  "options": [
+   "الله أكبر",
+   "بسم الله",
+   "سبحان الله",
+   "اللهم صلّ"
+  ],
+  "answer_index": 1,
+  "source": "أبو داود، الطهارة",
+  "explanation": "يُسمّى الله عند بدء الوضوء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000084",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "ما التوجيه النبوي في يوم الجمعة المتعلق بالطهارة؟",
+  "options": [
+   "الاغتسال",
+   "التيمم",
+   "المسح",
+   "الاستنجاء"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الجمعة",
+  "explanation": "أرشد النبي ﷺ إلى الاغتسال يوم الجمعة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000085",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "عمّ يمتنع الصائم إضافة إلى الطعام والشراب؟",
+  "options": [
+   "العمل",
+   "رعاية الأولاد",
+   "الكذب والكلام الباطل",
+   "الدعاء"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الصوم",
+  "explanation": "الصيام عن الكذب والباطل كما هو عن المفطرات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000086",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "أي صلاة تُؤدى قبل شروق الشمس؟",
+  "options": [
+   "الفجر",
+   "الظهر",
+   "العصر",
+   "العشاء"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الصلاة",
+  "explanation": "تُصلى الفجر بعد طلوع الفجر وقبل الشروق.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000087",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم ركعة في فرض صلاة العشاء؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "source": "البخاري، الصلاة",
+  "explanation": "صلاة العشاء أربع ركعات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000088",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "كم مرة يجب الحج على المستطيع؟",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 0,
+  "source": "آل عمران 3/97",
+  "explanation": "الحج واجب على المستطيع مرة في العمر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000089",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "كم نسبة الزكاة في الذهب والفضة وعروض التجارة؟",
+  "options": [
+   "العشر",
+   "ربع العشر (2.5%)",
+   "الخمس",
+   "عشرة بالمئة"
+  ],
+  "answer_index": 1,
+  "source": "البخاري، الزكاة",
+  "explanation": "تجب في الذهب والفضة وعروض التجارة إذا بلغت النصاب ربع العشر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000090",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "إلى أي نبي تنسب سنة الأضحية؟",
+  "options": [
+   "نوح عليه السلام",
+   "موسى عليه السلام",
+   "عيسى عليه السلام",
+   "إبراهيم عليه السلام"
+  ],
+  "answer_index": 3,
+  "source": "الصافات 37/102-107",
+  "explanation": "الأضحية تذكّر بفداء إسماعيل بذبح عظيم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000091",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "في أي سورة جاء أن الصلاة كتاب موقوت على المؤمنين؟",
+  "options": [
+   "طه",
+   "يوسف",
+   "النساء",
+   "الكهف"
+  ],
+  "answer_index": 2,
+  "source": "النساء 4/103",
+  "explanation": "قال تعالى: «إن الصلاة كانت على المؤمنين كتاباً موقوتاً».",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000092",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "ماذا يسمى من يتقدم الجماعة في الصلاة؟",
+  "options": [
+   "الإمام",
+   "المؤذن",
+   "الخطيب",
+   "الحافظ"
+  ],
+  "answer_index": 0,
+  "source": "البخاري، الأذان",
+  "explanation": "الإمام هو من يؤم المصلين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000093",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 1,
+  "question": "أي مما يلي يبطل الصلاة؟",
+  "options": [
+   "قراءة الفاتحة",
+   "الركوع",
+   "الكلام عمداً",
+   "استقبال القبلة"
+  ],
+  "answer_index": 2,
+  "source": "مسلم، المساجد",
+  "explanation": "الكلام في الصلاة يبطلها بخلاف الذكر والقراءة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000094",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 2,
+  "question": "ماذا يُستعمل في التيمم عند فقد الماء؟",
+  "options": [
+   "ملح بدل الماء",
+   "التراب الطاهر",
+   "رماد النار",
+   "الورق"
+  ],
+  "answer_index": 1,
+  "source": "المائدة 5/6",
+  "explanation": "يتيمم المسلم بالتراب الطاهر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-ilmihal-000095",
+  "lang": "ar",
+  "category": "ilmihal",
+  "difficulty": 3,
+  "question": "من الملك الذي يُذكر خازناً للجنة؟",
+  "options": [
+   "رضوان",
+   "ميكائيل",
+   "جبريل",
+   "إسرافيل"
+  ],
+  "answer_index": 0,
+  "source": "الزمر 39/73",
+  "explanation": "يُذكر في الأثر أن خازن الجنة رضوان عليه السلام.",
+  "review_status": "draft"
+ }
+]

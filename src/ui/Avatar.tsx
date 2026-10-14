@@ -1,3 +1,4 @@
+import { upper } from '@/i18n';
 import { View } from 'react-native';
 import { useTheme } from '@/lib/theme';
 import { Icon } from './Icon';
@@ -8,7 +9,7 @@ export function initials(name: string): string {
   if (parts.length === 0) return '?';
   const first = Array.from(parts[0])[0] ?? '?';
   const second = parts.length > 1 ? (Array.from(parts[parts.length - 1])[0] ?? '') : (Array.from(parts[0])[1] ?? '');
-  return (first + second).toLocaleUpperCase('tr');
+  return upper(first + second);
 }
 
 /** Aniconic avatar: harf mührü (monogram) altın çerçevede. Bot için altıgen simgesi. Yüz/figür YOK. */

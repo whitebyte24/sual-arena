@@ -1,0 +1,1685 @@
+[
+ {
+  "id": "q-tr-arapca-000001",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'selâm' kelimesinin temel anlamı nedir?",
+  "options": [
+   "Teşekkür",
+   "Sevgi",
+   "Güç",
+   "Esenlik, barış"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Selâm, kök olarak esenlik ve selametlik anlamına gelir; Allah'ın isimlerinden biridir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000002",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Sabır' kelimesinin Arapçadaki temel anlamı nedir?",
+  "options": [
+   "Hızla koşmak",
+   "Kendini tutmak, dayanmak",
+   "Çok yemek",
+   "Yüksek ses çıkarmak"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Sabır, kendini tutmak, güçlüklere katlanmak ve acele etmemek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000003",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Şükür' kelimesi ne anlama gelir?",
+  "options": [
+   "Korku",
+   "Kıskançlık",
+   "Nimeti verene karşı minnet ve teşekkür",
+   "Öfke"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Şükür, nimeti bilip verene teşekkür etmek ve nimeti doğru kullanmaktır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000004",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Tevekkül' kelimesi hangi anlama gelir?",
+  "options": [
+   "Çalışıp sonucu Allah'a bırakmak",
+   "Çalışmamak",
+   "Çok yemek",
+   "Uzun yolculuk"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Tevekkül, gereken sebeplere başvurduktan sonra sonucu Allah'a emanet etmektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000005",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Tövbe' kelimesinin Arapçadaki temel anlamı nedir?",
+  "options": [
+   "Susmak",
+   "Gülmek",
+   "Yürümek",
+   "Geri dönmek"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Tövbe, günahtan Allah'a doğru geri dönüş demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000006",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'İstiğfar' kelimesi ne anlama gelir?",
+  "options": [
+   "Dua etmemek",
+   "Yemek yemek",
+   "Bağışlanma dilemek",
+   "Yolculuğa çıkmak"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "İstiğfar, Allah'tan bağışlanma ve örtülme dilemek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000007",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Zikir' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Yazmak",
+   "Anmak, hatırlamak",
+   "Satmak",
+   "Uyumak"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Zikir, Allah'ı dille ve kalple anmak, hatırlamak demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000008",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Hicret' kelimesi hangi anlama gelir?",
+  "options": [
+   "Terk edip göç etmek",
+   "Ziyaret etmek",
+   "Savaşmak",
+   "Evlenmek"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Hicret, bir yeri terk edip başka bir yere göç etmektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000009",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Cihad' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Çaba göstermek, gayret",
+   "Yolculuk",
+   "Alışveriş",
+   "Ziyafet"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Cihad, kök olarak 'güç ve gayret sarf etmek' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000010",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Hac' kelimesi sözlükte ne anlama gelir?",
+  "options": [
+   "Sevmek",
+   "Satın almak",
+   "Dua etmek",
+   "Kastetmek, yönelmek"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Hac, kök olarak 'bir yeri ziyaret etmeyi kastetmek' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000011",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Zekât' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Kazanmak",
+   "Temizlenmek ve artmak",
+   "Harcamak",
+   "Saklamak"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Zekât, malı ve nefsi temizleyip bereketlendirmek anlamlarını taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000012",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Oruç' karşılığı olan 'savm' kelimesi sözlükte ne demektir?",
+  "options": [
+   "Çok yemek",
+   "Çok uyumak",
+   "Bir şeyden kendini alıkoymak",
+   "Hızlı yürümek"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Savm, bir şeyden kendini alıkoymak demektir; oruç yeme içmeden uzak durmayı ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000013",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Salât' kelimesinin sözlük anlamlarından biri hangisidir?",
+  "options": [
+   "Yürümek",
+   "Yazı yazmak",
+   "Sevmek",
+   "Dua"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Salât, kök olarak 'dua' demektir; terim olarak namaz anlamını taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000014",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Mescid' kelimesi ne anlama gelir?",
+  "options": [
+   "Ders verilen yer",
+   "Secde edilen yer",
+   "Alışveriş yeri",
+   "Dinlenme yeri"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Mescid, 'secde yeri' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000015",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Minber' kelimesi hangi anlama gelir?",
+  "options": [
+   "Yüksek yer",
+   "Alçak yer",
+   "Yemek yeri",
+   "Su kaynağı"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Minber, camide hutbe okunan yüksek mekâna verilen addır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000016",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Kıble' kelimesi hangi anlama gelir?",
+  "options": [
+   "Oturulan yer",
+   "Yürünen yol",
+   "Yönelinen yer",
+   "Yatılan yer"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Kıble, yönelinen taraf demektir; Müslümanlar namazda Kâbe'ye yönelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000017",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Kur'an' kelimesi sözlükte neyi ifade eder?",
+  "options": [
+   "Okunan",
+   "Yazılan",
+   "Yürüyen",
+   "Gizlenen"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Kur'an, 'okumak' kökünden gelir; 'çokça okunan' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000018",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Âyet' kelimesi sözlükte ne anlama gelir?",
+  "options": [
+   "Kitap",
+   "Alâmet, delil",
+   "Savaş",
+   "Yemek"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Âyet, alâmet ve delil demektir; Kur'an cümlelerine âyet denir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000019",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Sure' kelimesi sözlükte ne anlama gelir?",
+  "options": [
+   "Kitap",
+   "Cüz",
+   "Hizb",
+   "Yüksek mertebe, sur"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "Sûre, 'yüksek mertebe' veya 'şehir surları' gibi anlamlar taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000020",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Hadis' kelimesi sözlükte ne demektir?",
+  "options": [
+   "Yol",
+   "Namaz",
+   "Söz, haber",
+   "Şehir"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Hadis, söz ve haber demektir; Peygamberimiz'in söz ve fiilleri için kullanılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000021",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Sünnet' kelimesi sözlükte neyi ifade eder?",
+  "options": [
+   "Kitap",
+   "Ölçü",
+   "Zaman",
+   "Yol, uygulama"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "Sünnet, izlenen yol ve uygulama anlamına gelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000022",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Resûl' kelimesi ne anlama gelir?",
+  "options": [
+   "Komutan",
+   "Kral",
+   "Elçi",
+   "Köle"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Resûl, gönderilen elçi demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000023",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Nebî' kelimesi ne anlama gelir?",
+  "options": [
+   "Haber veren",
+   "Yürüyen",
+   "Savaşan",
+   "Yazan"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Nebî, Allah'tan haber getiren ve haber veren kişi anlamındadır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000024",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Ümmet' kelimesi ne anlama gelir?",
+  "options": [
+   "Orman",
+   "Topluluk",
+   "Dağ",
+   "Kervan"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Ümmet, ortak bir inanç veya amaç etrafında toplanan topluluktur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000025",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Halife' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Vekil, arkadan gelen",
+   "Komutan",
+   "Hâkim",
+   "Elçi"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Halife, 'yerine geçen, vekil' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000026",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'İmam' kelimesi ne anlama gelir?",
+  "options": [
+   "Müezzin",
+   "Bekçi",
+   "Kâtip",
+   "Önder"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "İmam, önde giden, önder demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000027",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Sahâbe' kelimesi ne anlama gelir?",
+  "options": [
+   "Komşular",
+   "Akrabalar",
+   "Arkadaşlar",
+   "Düşmanlar"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Sahâbe, 'sâhib' kökünden olup arkadaşlar anlamındadır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000028",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Ensâr' kelimesi ne anlama gelir?",
+  "options": [
+   "Muhâcirler",
+   "Yardımcılar",
+   "Elçiler",
+   "Komutanlar"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Ensâr, Peygamberimiz'e yardım eden Medineli Müslümanlardır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000029",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Muhâcir' kelimesi ne anlama gelir?",
+  "options": [
+   "Yardım eden",
+   "Elçi",
+   "Göç eden",
+   "Komşu"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Muhâcir, hicret eden demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000030",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Tevhid' kelimesi hangi anlama gelir?",
+  "options": [
+   "Birlemek, bir saymak",
+   "Çoğaltmak",
+   "Bölmek",
+   "Satmak"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Tevhid, Allah'ı bir bilmek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000031",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Şirk' kelimesi hangi anlama gelir?",
+  "options": [
+   "Dua etmek",
+   "Ortak koşmak",
+   "Hamd etmek",
+   "Yardım etmek"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Şirk, Allah'a ortak koşmak demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000032",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Küfür' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Açmak",
+   "Taşımak",
+   "Yıkamak",
+   "Örtmek"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Küfür, örtmek demektir; hakkı inkâr eden kişi onu örtmüş sayılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000033",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'İhsan' kelimesi ne anlama gelir?",
+  "options": [
+   "Kötülük",
+   "Kıskançlık",
+   "İyilik, güzel yapmak",
+   "Hızla gitmek"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "İhsan, güzel ve iyi yapmak demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000034",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Rab' kelimesinin temel anlamı nedir?",
+  "options": [
+   "Köle",
+   "Misafir",
+   "Savaşçı",
+   "Terbiye eden, besleyen"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Rab, terbiye edip yetiştiren, sahip olan anlamına gelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000035",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Cennet' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Dağ",
+   "Bahçe",
+   "Deniz",
+   "Çöl"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Cennet, kök olarak 'bahçe, örtülü yer' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000036",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Ahiret' kelimesi hangi anlama gelir?",
+  "options": [
+   "Sonraki (öbür dünya)",
+   "Önceki",
+   "Ortadaki",
+   "Uzak"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Ahiret, 'son ve sonraki' anlamından ölümden sonraki hayatı ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000037",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Dünya' kelimesi sözlükte neyi ifade eder?",
+  "options": [
+   "Uzak olan",
+   "Büyük olan",
+   "Yakın olan",
+   "Gizli olan"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Dünya, 'en yakın' anlamındadır; ahiretin karşıtı olarak yakın hayattır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000038",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Kıyamet' kelimesi hangi anlama gelir?",
+  "options": [
+   "Oturuş",
+   "Kalkış, ayağa kalkma",
+   "Yürüyüş",
+   "Uyku"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Kıyamet, 'kalkmak' kökünden olup insanların diriltilip ayağa kalkacağı günü anlatır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000039",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Mizan' kelimesi ne anlama gelir?",
+  "options": [
+   "Terazi",
+   "Ölçek kabı",
+   "Cetvel",
+   "Kalem"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Mizan, terazi demektir; kıyamette amellerin tartılacağı ölçüyü ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000040",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Sırât' kelimesi hangi anlama gelir?",
+  "options": [
+   "Köprü yeri",
+   "Ev",
+   "Kale",
+   "Yol"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "Sırât, geniş ve açık yol demektir; Fâtiha'daki 'sırât-ı müstakîm' dosdoğru yoldur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000041",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Mahşer' kelimesi ne anlama gelir?",
+  "options": [
+   "Dağılma yeri",
+   "Toplanma yeri",
+   "Savaş alanı",
+   "Pazar yeri"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Mahşer, insanların hesap için toplanacağı yer demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000042",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Vahiy' kelimesinin sözlük anlamı nedir?",
+  "options": [
+   "Yüksek sesle okumak",
+   "Yazmak",
+   "Gizlice bildirmek",
+   "Çizmek"
+  ],
+  "answer_index": 2,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Vahiy, hızlı ve gizli bir şekilde bildirmek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000043",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Cin' kelimesi sözlükte ne anlama gelir?",
+  "options": [
+   "Gizli olan",
+   "Yüksek olan",
+   "Parlak olan",
+   "Büyük olan"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Cin, gözle görülmeyen, gizli olan varlık anlamındadır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000044",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Melek' kelimesinin temel anlamı hangisidir?",
+  "options": [
+   "Savaşçı",
+   "Hükümdar",
+   "Tüccar",
+   "Elçi (görevli)"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Melek, kök anlamıyla gönderilen, görevli elçi anlamına gelir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000045",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Nur' kelimesi ne anlama gelir?",
+  "options": [
+   "Gölge",
+   "Karanlık",
+   "Işık",
+   "Su"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Nur, ışık demektir; Kur'an'da Allah'ın nuru ve iman nuru anlatılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000046",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Hamd' kelimesi ne anlama gelir?",
+  "options": [
+   "Yalvarmak",
+   "Sormak",
+   "Gizlemek",
+   "Övgü, şükran"
+  ],
+  "answer_index": 3,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Hamd, güzel özelliği sebebiyle övmek demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000047",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Tesbih' kelimesinin anlamı nedir?",
+  "options": [
+   "Allah'ı noksanlıklardan uzak tutarak yüceltmek",
+   "Allah'tan yardım istemek",
+   "Peygamberi övmek",
+   "Dua etmeyi bırakmak"
+  ],
+  "answer_index": 0,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Tesbih, 'Sübhânallâh' diyerek Allah'ı her eksiklikten uzak tutmaktır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000048",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'Sadaka' kelimesinin kökünde hangi anlam vardır?",
+  "options": [
+   "Zenginlik",
+   "Doğruluk",
+   "Hızla gitmek",
+   "Konuşmak"
+  ],
+  "answer_index": 1,
+  "source": "Râgıb el-İsfahânî, el-Müfredât",
+  "explanation": "Sadaka, 'sıdk' (doğruluk) kökünden gelir; imanın doğruluğunu göstermesi anlamı taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000049",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Allah'ın isimlerinden 'er-Rahmân' ne anlama gelir?",
+  "options": [
+   "Her şeyi bilen",
+   "Güçlü olan",
+   "Çok merhametli",
+   "Gören"
+  ],
+  "answer_index": 2,
+  "source": "Esmâ-i Hüsnâ; Fâtiha 1/3",
+  "explanation": "er-Rahmân, merhameti her şeyi kuşatan, çok merhametli demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000050",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Alîm' ismi ne anlama gelir?",
+  "options": [
+   "Çok bağışlayan",
+   "Rızık veren",
+   "Yaratan",
+   "Her şeyi bilen"
+  ],
+  "answer_index": 3,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Alîm, ilmi her şeyi kuşatan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000051",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'es-Semî'' ismi ne anlama gelir?",
+  "options": [
+   "Gören",
+   "İşiten",
+   "Bilen",
+   "Yaratan"
+  ],
+  "answer_index": 1,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "es-Semî', her şeyi işiten demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000052",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'el-Basîr' ismi ne anlama gelir?",
+  "options": [
+   "Gören",
+   "İşiten",
+   "Affeden",
+   "Koruyan"
+  ],
+  "answer_index": 0,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Basîr, her şeyi gören demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000053",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Gafûr' ismi ne anlama gelir?",
+  "options": [
+   "Çok bağışlayan",
+   "Çok güçlü",
+   "Çok zengin",
+   "Çok yüksek"
+  ],
+  "answer_index": 0,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Gafûr, günahları çokça bağışlayan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000054",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'er-Rezzâk' ismi ne anlama gelir?",
+  "options": [
+   "Yaratan",
+   "Rızık veren",
+   "Öldüren",
+   "Gören"
+  ],
+  "answer_index": 1,
+  "source": "Esmâ-i Hüsnâ; Zâriyât 51/58",
+  "explanation": "er-Rezzâk, bütün canlılara rızık veren demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000055",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Hâlik' ismi ne anlama gelir?",
+  "options": [
+   "Rızık veren",
+   "Bilen",
+   "Koruyan",
+   "Yaratan"
+  ],
+  "answer_index": 3,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Hâlik, yoktan var eden, yaratan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000056",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'el-Hakîm' ismi ne anlama gelir?",
+  "options": [
+   "Çok güçlü",
+   "Çok cömert",
+   "Hikmet sahibi",
+   "Çok sabırlı"
+  ],
+  "answer_index": 2,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Hakîm, her işi hikmetle yapan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000057",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Kerîm' ismi ne anlama gelir?",
+  "options": [
+   "Hükmeden",
+   "Çok cömert",
+   "Dirilten",
+   "Gizli olan"
+  ],
+  "answer_index": 1,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Kerîm, çok cömert ve değerli demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000058",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Vedûd' ismi ne anlama gelir?",
+  "options": [
+   "Çok seven",
+   "Çok kızan",
+   "Çok bilen",
+   "Çok güçlü"
+  ],
+  "answer_index": 0,
+  "source": "Esmâ-i Hüsnâ; Bürûc 85/14",
+  "explanation": "el-Vedûd, kullarını seven ve sevilmeye lâyık olan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000059",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'el-Latîf' ismi ne anlama gelir?",
+  "options": [
+   "Çok katı",
+   "Güçlü ve galip",
+   "Hesap soran",
+   "Lütfedici, ince işler yapan"
+  ],
+  "answer_index": 3,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Latîf, lütuf sahibi ve en ince işleri bilen demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000060",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'es-Sabûr' ismi ne anlama gelir?",
+  "options": [
+   "Çok güçlü",
+   "Çok bilen",
+   "Çok sabırlı",
+   "Çok gören"
+  ],
+  "answer_index": 2,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "es-Sabûr, cezada acele etmeyen, çok sabırlı demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000061",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Afüvv' ismi ne anlama gelir?",
+  "options": [
+   "Çok affeden",
+   "Gizlice gören",
+   "Rızık veren",
+   "Hesaba çeken"
+  ],
+  "answer_index": 0,
+  "source": "Esmâ-i Hüsnâ",
+  "explanation": "el-Afüvv, suçları silip affeden demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000062",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Hayy' ismi ne anlama gelir?",
+  "options": [
+   "Güçlü",
+   "Zengin",
+   "Yüce",
+   "Diri"
+  ],
+  "answer_index": 3,
+  "source": "Esmâ-i Hüsnâ; Bakara 2/255",
+  "explanation": "el-Hayy, ezelî ve ebedî hayat sahibi demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000063",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'el-Vâhid' ve 'el-Ahad' isimleri neyi ifade eder?",
+  "options": [
+   "Güç",
+   "Merhamet",
+   "Birlik, tek oluş",
+   "Zenginlik"
+  ],
+  "answer_index": 2,
+  "source": "Esmâ-i Hüsnâ; İhlâs 112/1",
+  "explanation": "Her iki isim de Allah'ın birliğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000064",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "'es-Samed' ismi ne anlama gelir?",
+  "options": [
+   "Gören",
+   "Herkesin muhtaç olduğu, kendisi muhtaç olmayan",
+   "Yaratan",
+   "Bağışlayan"
+  ],
+  "answer_index": 1,
+  "source": "Esmâ-i Hüsnâ; İhlâs 112/2",
+  "explanation": "es-Samed, yaratılmışların muhtaç olduğu, Kendisi ise hiçbir şeye muhtaç olmayan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000065",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'el-Evvel' ismi ne anlama gelir?",
+  "options": [
+   "İlk, başlangıcı olmayan",
+   "Son",
+   "Gizli",
+   "Açık"
+  ],
+  "answer_index": 0,
+  "source": "Esmâ-i Hüsnâ; Hadîd 57/3",
+  "explanation": "el-Evvel, kendisinden önce hiçbir şey olmayan, ilk demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000066",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'el-Âhir' ismi ne anlama gelir?",
+  "options": [
+   "İlk",
+   "Açık",
+   "Gizli",
+   "Son, sonu olmayan"
+  ],
+  "answer_index": 3,
+  "source": "Esmâ-i Hüsnâ; Hadîd 57/3",
+  "explanation": "el-Âhir, her şey yok olsa da baki kalan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000067",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'er-Raûf' ismi ne anlama gelir?",
+  "options": [
+   "Çok güçlü",
+   "Çok bilen",
+   "Çok şefkatli",
+   "Çok gören"
+  ],
+  "answer_index": 2,
+  "source": "Esmâ-i Hüsnâ; Bakara 2/143",
+  "explanation": "er-Raûf, kullarına karşı pek şefkatli olan demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000068",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Allâhü ekber' sözü ne anlama gelir?",
+  "options": [
+   "Allah bağışlayıcıdır",
+   "Allah en büyüktür",
+   "Allah birdir",
+   "Allah gören ve işitendir"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Ezân",
+  "explanation": "Allâhü ekber, Allah'ın her şeyden büyük olduğunu bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000069",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'İnşallâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah dilerse",
+   "Allah'a hamdolsun",
+   "Allah korusun",
+   "Allah'a şükür"
+  ],
+  "answer_index": 0,
+  "source": "Kehf 18/23-24",
+  "explanation": "İnşallâh, gelecekteki bir işin ancak Allah'ın dilemesiyle olacağını belirtir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000070",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Mâşâallâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah bağışlasın",
+   "Allah'ın dilediği olur, Allah ne güzel yaratmış",
+   "Allah razı olsun",
+   "Allah korusun"
+  ],
+  "answer_index": 1,
+  "source": "Kehf 18/39",
+  "explanation": "Mâşâallâh, güzel bir şey karşısında kullanılan takdir ifadesidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000071",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Estağfirullâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah'a hamd ederim",
+   "Allah'ı tenzih ederim",
+   "Allah'tan bağışlanma dilerim",
+   "Allah'a sığınırım"
+  ],
+  "answer_index": 2,
+  "source": "Buhârî, Deavât",
+  "explanation": "Estağfirullâh, 'Allah'tan bağışlanma dilerim' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000072",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "'Sübhânallâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah'a hamdolsun",
+   "Allah'tan bağışlanma dilerim",
+   "Allah dilerse",
+   "Allah'ı her türlü eksiklikten uzak tutarım"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Deavât",
+  "explanation": "Sübhânallâh, Allah'ın her türlü noksanlıktan münezzeh olduğunu ifade eder.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000073",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Elhamdülillâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah en büyüktür",
+   "Hamd Allah'a mahsustur",
+   "Allah bağışlasın",
+   "Allah razı olsun"
+  ],
+  "answer_index": 1,
+  "source": "Fâtiha 1/2",
+  "explanation": "Elhamdülillâh, her türlü övgünün Allah'a ait olduğunu bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000074",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Hasbünallâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah bizi bağışlasın",
+   "Allah en büyüktür",
+   "Allah bize yeter",
+   "Allah'ın adıyla"
+  ],
+  "answer_index": 2,
+  "source": "Âl-i İmrân 3/173",
+  "explanation": "Hasbünallâh ve ni'me'l-vekîl: Allah bize yeter, O ne güzel vekildir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000075",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Lâ havle ve lâ kuvvete illâ billâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah en büyüktür",
+   "Hamd Allah'a aittir",
+   "Allah dilerse",
+   "Güç ve kuvvet ancak Allah'tandır"
+  ],
+  "answer_index": 3,
+  "source": "Buhârî, Deavât",
+  "explanation": "Güç ve kuvvet yalnızca Allah'tan olup O'nun yardımıyla mümkündür.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000076",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Bismillâh' sözü ne anlama gelir?",
+  "options": [
+   "Allah'ın adıyla",
+   "Allah'a hamd",
+   "Allah en büyüktür",
+   "Allah bağışlasın"
+  ],
+  "answer_index": 0,
+  "source": "Fâtiha 1/1",
+  "explanation": "Bismillâh, 'Allah'ın adıyla' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000077",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'İnnâ lillâhi ve innâ ileyhi râci'ûn' sözü ne anlama gelir?",
+  "options": [
+   "Biz Allah'a aitiz ve O'na döneceğiz",
+   "Allah bağışlasın",
+   "Hamd Allah'a aittir",
+   "Allah dilerse"
+  ],
+  "answer_index": 0,
+  "source": "Bakara 2/156",
+  "explanation": "Bu söz, musibet anında söylenir; tüm varlığın Allah'a ait olduğunu ve O'na döneceğini bildirir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000078",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Cezâkallâhu hayran' sözü ne anlama gelir?",
+  "options": [
+   "Allah seni bağışlasın",
+   "Allah seni korusun",
+   "Allah seni affetsin",
+   "Allah seni hayırla mükâfatlandırsın"
+  ],
+  "answer_index": 3,
+  "source": "Tirmizî, Birr",
+  "explanation": "Teşekkür yerine kullanılan bu dua, iyiliğin Allah'tan karşılık bulması dilekidir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000079",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "'Âmîn' kelimesi ne anlama gelir?",
+  "options": [
+   "Hamd olsun",
+   "Kabul eyle",
+   "Allah en büyüktür",
+   "Allah bağışlasın"
+  ],
+  "answer_index": 1,
+  "source": "Buhârî, Ezân",
+  "explanation": "Âmîn, duanın sonunda 'Allah'ım kabul eyle' anlamında söylenir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000080",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'kitâb' kelimesi ne anlama gelir?",
+  "options": [
+   "Kalem",
+   "Defter",
+   "Kitap",
+   "Kapı"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Kitâb, 'kitap' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000081",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'kalem' kelimesi ne anlama gelir?",
+  "options": [
+   "Yazı kalemi",
+   "Yazı tahtası",
+   "Sandık",
+   "Dağ"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Kalem, yazı yazmaya yarayan araç demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000082",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'bâb' kelimesi ne anlama gelir?",
+  "options": [
+   "Ev",
+   "Kapı",
+   "Pencere",
+   "Duvar"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Bâb, 'kapı' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000083",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'beyt' kelimesi ne anlama gelir?",
+  "options": [
+   "Kapı",
+   "Yol",
+   "Bahçe",
+   "Ev"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "Beyt, 'ev' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000084",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'mâ'' kelimesi ne anlama gelir?",
+  "options": [
+   "Ateş",
+   "Toprak",
+   "Su",
+   "Rüzgâr"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Mâ', 'su' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000085",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'şems' kelimesi ne anlama gelir?",
+  "options": [
+   "Ay",
+   "Yıldız",
+   "Gök",
+   "Güneş"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "Şems, 'güneş' demektir; Şems Sûresi bu adı taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000086",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'kamer' kelimesi ne anlama gelir?",
+  "options": [
+   "Ay",
+   "Güneş",
+   "Yıldız",
+   "Bulut"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Kamer, 'ay' demektir; Kamer Sûresi bu adı taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000087",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'semâ' kelimesi ne anlama gelir?",
+  "options": [
+   "Yer",
+   "Gök",
+   "Deniz",
+   "Dağ"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "Semâ, 'gök' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000088",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'leyl' kelimesi ne anlama gelir?",
+  "options": [
+   "Gündüz",
+   "Sabah",
+   "Gece",
+   "Akşam"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Leyl, 'gece' demektir; Leyl Sûresi bu adı taşır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000089",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'yevm' kelimesi ne anlama gelir?",
+  "options": [
+   "Gün",
+   "Gece",
+   "Ay",
+   "Yıl"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Yevm, 'gün' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000090",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'ilm' kelimesi ne anlama gelir?",
+  "options": [
+   "Zenginlik",
+   "Bilgi",
+   "Güç",
+   "Sabır"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sözlükler",
+  "explanation": "İlm, bilgi demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000091",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'kalb' kelimesi ne anlama gelir?",
+  "options": [
+   "Akıl",
+   "El",
+   "Kalp",
+   "Göz"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Kalb, 'kalp' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000092",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 2,
+  "question": "Arapça 'ibn' ve 'bint' kelimeleri ne anlama gelir?",
+  "options": [
+   "Baba ve anne",
+   "Kardeş ve arkadaş",
+   "Dede ve nine",
+   "Oğul ve kız"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sözlükler",
+  "explanation": "İbn 'oğul', bint 'kız' demektir; isimlerde 'oğlu' ve 'kızı' anlamıyla kullanılır.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000093",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'ümm' kelimesi ne anlama gelir?",
+  "options": [
+   "Baba",
+   "Kız kardeş",
+   "Anne",
+   "Teyze"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sözlükler",
+  "explanation": "Ümm, 'anne' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000094",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 3,
+  "question": "Arapça 'ahî' kelimesi ne anlama gelir?",
+  "options": [
+   "Kardeşim",
+   "Babam",
+   "Oğlum",
+   "Dostum"
+  ],
+  "answer_index": 0,
+  "source": "Arapça sözlükler",
+  "explanation": "Ahî, 'kardeşim' demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000095",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'seb'a' sayısı kaçı ifade eder?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer_index": 2,
+  "source": "Arapça sayılar",
+  "explanation": "Seb'a, yedi demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000096",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'selâse' sayısı kaçı ifade eder?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "source": "Arapça sayılar",
+  "explanation": "Selâse, üç demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000097",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça 'aşara' sayısı kaçı ifade eder?",
+  "options": [
+   "5",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer_index": 3,
+  "source": "Arapça sayılar",
+  "explanation": "Aşara, on demektir.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000098",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arap alfabesinde kaç harf vardır?",
+  "options": [
+   "24",
+   "28",
+   "29",
+   "32"
+  ],
+  "answer_index": 1,
+  "source": "Arap alfabesi",
+  "explanation": "Arap alfabesi 28 harften oluşur.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-tr-arapca-000099",
+  "lang": "tr",
+  "category": "arapca",
+  "difficulty": 1,
+  "question": "Arapça hangi yönde yazılır?",
+  "options": [
+   "Soldan sağa",
+   "Sağdan sola",
+   "Yukarıdan aşağıya",
+   "Aşağıdan yukarıya"
+  ],
+  "answer_index": 1,
+  "source": "Arap yazısı",
+  "explanation": "Arapça sağdan sola doğru yazılır.",
+  "review_status": "draft"
+ }
+]

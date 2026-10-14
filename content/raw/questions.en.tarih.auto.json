@@ -1,0 +1,1583 @@
+[
+ {
+  "id": "q-en-tarih-000001",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Where was the first caliph chosen after the Prophet's passing?",
+  "options": [
+   "Saqifah of Banu Sa'idah",
+   "The pulpit of the Prophet's Mosque",
+   "Dar an-Nadwah",
+   "Quba Mosque"
+  ],
+  "answer_index": 0,
+  "source": "Ibn Hisham, al-Sirah; Tabari, Tarikh",
+  "explanation": "The Ansar and Muhajirun gathered at the Saqifah of Banu Sa'idah and pledged allegiance to Abu Bakr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000002",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Who was the first of the Rightly Guided Caliphs?",
+  "options": [
+   "Umar",
+   "Abu Bakr",
+   "Uthman",
+   "Ali"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "The Rightly Guided Caliphs were Abu Bakr, Umar, Uthman and Ali.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000003",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What are the wars Abu Bakr fought against those who left Islam and refused zakat called?",
+  "options": [
+   "The conquest wars",
+   "The Crusades",
+   "The Battle of the Camel",
+   "The Ridda Wars"
+  ],
+  "answer_index": 3,
+  "source": "Tabari, Tarikh",
+  "explanation": "They are known as the Ridda wars.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000004",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "In which battle was the false prophet Musaylimah killed?",
+  "options": [
+   "The Camel",
+   "Siffin",
+   "Yamamah",
+   "Mu'tah"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "Musaylimah was killed at the Battle of Yamamah under Abu Bakr.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000005",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What did the death of many Quran memorisers at Yamamah lead to?",
+  "options": [
+   "The Hijrah",
+   "The imposition of jizyah",
+   "Founding the diwan",
+   "Collecting the Quran into one volume"
+  ],
+  "answer_index": 3,
+  "source": "Bukhari, Fada'il al-Qur'an",
+  "explanation": "Umar urged Abu Bakr to have the Quran compiled.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000006",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "About how many years did Abu Bakr rule as caliph?",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "He ruled about two years and three months.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000007",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "About how many years did Umar rule as caliph?",
+  "options": [
+   "2",
+   "5",
+   "10",
+   "20"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "Umar ruled about ten years.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000008",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which event was taken as the starting point of the Hijri calendar?",
+  "options": [
+   "The Prophet's birth",
+   "The first revelation",
+   "The Hijrah",
+   "The conquest of Mecca"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "In Umar's time the Hijrah was chosen as the beginning of the Hijri calendar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000009",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "What is the first month of the Hijri year?",
+  "options": [
+   "Ramadan",
+   "Muharram",
+   "Rabi' al-Awwal",
+   "Shawwal"
+  ],
+  "answer_index": 1,
+  "source": "The Islamic calendar",
+  "explanation": "The Hijri year begins with Muharram.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000010",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which battle under Umar defeated the Sasanians and opened Iraq?",
+  "options": [
+   "Yarmuk",
+   "The Camel",
+   "The Trench",
+   "Qadisiyyah"
+  ],
+  "answer_index": 3,
+  "source": "Tabari, Tarikh",
+  "explanation": "The Battle of Qadisiyyah (636) opened the way to Persia.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000011",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which decisive battle against the Byzantines led to the conquest of Syria?",
+  "options": [
+   "Qadisiyyah",
+   "Uhud",
+   "Yarmuk",
+   "Hunayn"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "Yarmuk (636) was decisive in the conquest of the Levant.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000012",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Under which caliph was Jerusalem taken peacefully?",
+  "options": [
+   "Umar",
+   "Abu Bakr",
+   "Uthman",
+   "Ali"
+  ],
+  "answer_index": 0,
+  "source": "Tabari, Tarikh",
+  "explanation": "Jerusalem surrendered in 638 by agreement with its patriarch.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000013",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which commander conquered Egypt?",
+  "options": [
+   "Khalid ibn al-Walid",
+   "Sa'd ibn Abi Waqqas",
+   "Abu Ubaydah",
+   "Amr ibn al-As"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Amr ibn al-As conquered Egypt under Umar.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000014",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which battle in 642 broke Sasanian resistance and was called 'the Victory of Victories'?",
+  "options": [
+   "Nahavand",
+   "Qadisiyyah",
+   "Yarmuk",
+   "Mu'tah"
+  ],
+  "answer_index": 0,
+  "source": "Tabari, Tarikh",
+  "explanation": "Nahavand (642) ended organised Sasanian resistance.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000015",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who assassinated Caliph Umar?",
+  "options": [
+   "Ibn Muljam",
+   "Musaylimah",
+   "Abu Lu'lu'ah",
+   "Abu Jahl"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "Umar was stabbed during the dawn prayer by Abu Lu'lu'ah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000016",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which achievement of Uthman standardised the Quran?",
+  "options": [
+   "Founding the diwan",
+   "Copying the Mushaf and sending it to the main cities",
+   "Imposing jizyah",
+   "The Hijri calendar"
+  ],
+  "answer_index": 1,
+  "source": "Bukhari, Fada'il al-Qur'an",
+  "explanation": "Uthman had standard copies made and sent to the provinces.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000017",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who became caliph after Uthman was killed?",
+  "options": [
+   "Abu Bakr",
+   "Ali",
+   "Mu'awiyah",
+   "Talhah ibn Ubaydullah"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "Ali ibn Abi Talib succeeded Uthman.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000018",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What was the battle between Ali and the army that included Aisha called?",
+  "options": [
+   "The Battle of the Camel",
+   "Siffin",
+   "Nahavand",
+   "Yamamah"
+  ],
+  "answer_index": 0,
+  "source": "Tabari, Tarikh",
+  "explanation": "The Battle of the Camel (656) took place near Basra.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000019",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What was the battle between Ali and Mu'awiyah called?",
+  "options": [
+   "The Camel",
+   "Qadisiyyah",
+   "Siffin",
+   "Yarmuk"
+  ],
+  "answer_index": 2,
+  "source": "Tabari, Tarikh",
+  "explanation": "The Battle of Siffin took place in 657.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000020",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who assassinated Caliph Ali?",
+  "options": [
+   "Abu Lu'lu'ah",
+   "Musaylimah",
+   "Walid ibn Utbah",
+   "Ibn Muljam"
+  ],
+  "answer_index": 3,
+  "source": "Tabari, Tarikh",
+  "explanation": "Ibn Muljam, a Kharijite, struck him as he went to dawn prayer in Kufa.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000021",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "What is the group that broke away from Ali after the arbitration called?",
+  "options": [
+   "The Ansar",
+   "The Muhajirun",
+   "The Murji'ah",
+   "The Khawarij"
+  ],
+  "answer_index": 3,
+  "source": "Tabari, Tarikh",
+  "explanation": "They rejected arbitration at Siffin and left Ali's army.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000022",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Who founded the Umayyad dynasty?",
+  "options": [
+   "Mu'awiyah ibn Abi Sufyan",
+   "Abd al-Malik",
+   "Yazid",
+   "Marwan"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Mu'awiyah founded the Umayyad state in 661.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000023",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "What was the capital of the Umayyads?",
+  "options": [
+   "Baghdad",
+   "Cairo",
+   "Damascus",
+   "Kufa"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The Umayyad capital was Damascus.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000024",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "At which place was Husayn ibn Ali martyred?",
+  "options": [
+   "Siffin",
+   "Karbala",
+   "The Camel",
+   "The Trench"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "Husayn was martyred at Karbala in 680.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000025",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which caliph built the Dome of the Rock in Jerusalem?",
+  "options": [
+   "Harun al-Rashid",
+   "Abd al-Malik ibn Marwan",
+   "Mu'awiyah",
+   "Al-Mansur"
+  ],
+  "answer_index": 1,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Abd al-Malik completed the Dome of the Rock in 691.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000026",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which caliph built the Umayyad Mosque in Damascus?",
+  "options": [
+   "Mu'awiyah",
+   "Yazid",
+   "Al-Walid ibn Abd al-Malik",
+   "Hisham"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The Umayyad Mosque was built under Al-Walid I.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000027",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which commander began the conquest of Spain, and a mountain bears his name?",
+  "options": [
+   "Musa ibn Nusayr",
+   "Uqbah ibn Nafi'",
+   "Amr ibn al-As",
+   "Tariq ibn Ziyad"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Tariq crossed in 711; Gibraltar comes from 'Jabal Tariq'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000028",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which commander founded the city of Kairouan in North Africa?",
+  "options": [
+   "Uqbah ibn Nafi'",
+   "Tariq ibn Ziyad",
+   "Amr ibn al-As",
+   "Musa ibn Nusayr"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Uqbah ibn Nafi' founded Kairouan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000029",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which Umayyad caliph, known for justice, is called 'the fifth caliph'?",
+  "options": [
+   "Umar ibn Abd al-Aziz",
+   "Mu'awiyah",
+   "Al-Walid",
+   "Hisham"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Umar ibn Abd al-Aziz was known for justice and simplicity.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000030",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who founded the Abbasid dynasty?",
+  "options": [
+   "Harun al-Rashid",
+   "Al-Mansur",
+   "Abu al-Abbas as-Saffah",
+   "Al-Ma'mun"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The Abbasid state was founded in 750 by as-Saffah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000031",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which Abbasid caliph founded Baghdad?",
+  "options": [
+   "Harun al-Rashid",
+   "Al-Ma'mun",
+   "Al-Mu'tasim",
+   "Al-Mansur"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Al-Mansur founded Baghdad in 762.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000032",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "What was the Abbasid capital?",
+  "options": [
+   "Damascus",
+   "Baghdad",
+   "Cairo",
+   "Cordoba"
+  ],
+  "answer_index": 1,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The Abbasids ruled from Baghdad.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000033",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which institution in Baghdad was famed for translation and learning?",
+  "options": [
+   "The Nizamiyyah",
+   "Dar al-Arqam",
+   "The Suffah",
+   "The House of Wisdom (Bayt al-Hikmah)"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The House of Wisdom flourished especially under al-Ma'mun.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000034",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which scholar is a founder of algebra and gave his name to the word 'algorithm'?",
+  "options": [
+   "Al-Khwarizmi",
+   "Ibn Sina",
+   "Al-Farabi",
+   "Al-Biruni"
+  ],
+  "answer_index": 0,
+  "source": "Al-Khwarizmi, al-Jabr wa'l-Muqabalah",
+  "explanation": "His name gave us 'algorithm'.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000035",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which physician wrote 'The Canon of Medicine'?",
+  "options": [
+   "Al-Khwarizmi",
+   "Ibn Sina (Avicenna)",
+   "Ibn Khaldun",
+   "Ibn al-Haytham"
+  ],
+  "answer_index": 1,
+  "source": "Ibn Sina, al-Qanun fi't-Tibb",
+  "explanation": "It was a medical textbook in European universities for centuries.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000036",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which scholar wrote the 'Book of Optics' (Kitab al-Manazir)?",
+  "options": [
+   "Ibn Sina",
+   "Al-Biruni",
+   "Ibn al-Haytham",
+   "Al-Kindi"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Haytham, Kitab al-Manazir",
+  "explanation": "He is regarded as a pioneer of optics.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000037",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who wrote the 'Muqaddimah', the work on history and society?",
+  "options": [
+   "Ibn Sina",
+   "Ibn Rushd",
+   "Ibn Khaldun",
+   "Al-Ghazali"
+  ],
+  "answer_index": 2,
+  "source": "Ibn Khaldun, Muqaddimah",
+  "explanation": "He analysed how societies rise and fall.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000038",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who wrote 'The Revival of the Religious Sciences' (Ihya' 'Ulum ad-Din)?",
+  "options": [
+   "Ibn Sina",
+   "Imam Al-Ghazali",
+   "Ibn Rushd",
+   "Al-Farabi"
+  ],
+  "answer_index": 1,
+  "source": "Al-Ghazali, Ihya' 'Ulum ad-Din",
+  "explanation": "Al-Ghazali's Ihya' is a famous work on ethics and spirituality.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000039",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Who compiled the hadith collection known as Sahih al-Bukhari?",
+  "options": [
+   "Muhammad ibn Isma'il al-Bukhari",
+   "Muslim ibn al-Hajjaj",
+   "Malik ibn Anas",
+   "Abu Dawud"
+  ],
+  "answer_index": 0,
+  "source": "Bukhari, al-Jami' as-Sahih",
+  "explanation": "It is regarded as one of the most reliable hadith collections.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000040",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who wrote 'al-Muwatta'?",
+  "options": [
+   "Imam ash-Shafi'i",
+   "Imam Ahmad",
+   "Imam Abu Hanifah",
+   "Imam Malik"
+  ],
+  "answer_index": 3,
+  "source": "Malik, al-Muwatta'",
+  "explanation": "Imam Malik compiled al-Muwatta' in Medina.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000041",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "How many books make up the 'Six Books' (Kutub as-Sittah) of hadith?",
+  "options": [
+   "4",
+   "6",
+   "9",
+   "12"
+  ],
+  "answer_index": 1,
+  "source": "The Six Books",
+  "explanation": "They are the collections of Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i and Ibn Majah.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000042",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Who founded the Umayyad state in Andalusia?",
+  "options": [
+   "Abd ar-Rahman I (ad-Dakhil)",
+   "Tariq ibn Ziyad",
+   "Musa ibn Nusayr",
+   "Abd ar-Rahman III"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Abd ar-Rahman I founded it in 756 after escaping the Abbasids.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000043",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What was the capital of the Umayyads in Andalusia?",
+  "options": [
+   "Granada",
+   "Cordoba",
+   "Seville",
+   "Toledo"
+  ],
+  "answer_index": 1,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Cordoba was the capital.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000044",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which famous palace in Granada was built under the Nasrids?",
+  "options": [
+   "Topkapi",
+   "Dolmabahce",
+   "Madinat az-Zahra",
+   "The Alhambra"
+  ],
+  "answer_index": 3,
+  "source": "History of Andalusia",
+  "explanation": "The Alhambra is a great monument of Andalusia.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000045",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "In which year did Granada, the last Muslim stronghold in Spain, fall?",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 3,
+  "source": "History of Andalusia",
+  "explanation": "Granada surrendered in 1492.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000046",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which Fatimid commander founded Cairo?",
+  "options": [
+   "Saladin",
+   "Baybars",
+   "Jawhar as-Siqilli",
+   "Qutuz"
+  ],
+  "answer_index": 2,
+  "source": "Maqrizi, al-Khitat",
+  "explanation": "Jawhar as-Siqilli founded Cairo in 969.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000047",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which scholarly centre in Cairo is among the oldest educational institutions in the world?",
+  "options": [
+   "Al-Azhar",
+   "Nizamiyyah",
+   "House of Wisdom",
+   "Suleymaniye"
+  ],
+  "answer_index": 0,
+  "source": "Maqrizi, al-Khitat",
+  "explanation": "Al-Azhar was founded under the Fatimids in Cairo.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000048",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which commander recaptured Jerusalem from the Crusaders?",
+  "options": [
+   "Baybars",
+   "Alp Arslan",
+   "Kilij Arslan",
+   "Saladin (Salah ad-Din)"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Saladin took Jerusalem in 1187 after Hattin.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000049",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "In which battle did Saladin win a decisive victory over the Crusaders?",
+  "options": [
+   "Manzikert",
+   "Ain Jalut",
+   "Mohacs",
+   "Hattin"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Hattin (1187) was a great defeat for the Crusader army.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000050",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "In which year did the Mongols sack Baghdad and end the Abbasid caliphate?",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 1,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Hulagu's Mongols took Baghdad in 1258.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000051",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which battle was the first major defeat of the Mongols by the Mamluks?",
+  "options": [
+   "Hattin",
+   "Manzikert",
+   "Ain Jalut",
+   "Kose Dagh"
+  ],
+  "answer_index": 2,
+  "source": "Maqrizi, as-Suluk",
+  "explanation": "The Mamluks defeated the Mongols at Ain Jalut in 1260.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000052",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which state is regarded as the first Turkic state to accept Islam?",
+  "options": [
+   "The Karakhanids",
+   "The Ghaznavids",
+   "The Seljuks",
+   "The Ottomans"
+  ],
+  "answer_index": 0,
+  "source": "Turkic–Islamic history",
+  "explanation": "The Karakhanids under Satuq Bughra Khan are regarded as the first.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000053",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "In which year was the Battle of Manzikert?",
+  "options": [
+   "1071",
+   "1099",
+   "1243",
+   "1453"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Alp Arslan defeated the Byzantines at Manzikert in 1071.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000054",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which Seljuk sultan won at Manzikert?",
+  "options": [
+   "Tughril Beg",
+   "Malik-Shah",
+   "Sanjar",
+   "Alp Arslan"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Alp Arslan captured the Byzantine emperor Romanos Diogenes.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000055",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What are the schools founded by the Seljuk vizier Nizam al-Mulk called?",
+  "options": [
+   "The Nizamiyyah madrasas",
+   "The Suffah",
+   "Dar al-Hadith",
+   "The kuttabs"
+  ],
+  "answer_index": 0,
+  "source": "Nizam al-Mulk, Siyasatnama",
+  "explanation": "He founded the Nizamiyyah madrasas in Baghdad and many other cities.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000056",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "What was the capital of the Seljuk Sultanate of Rum?",
+  "options": [
+   "Bursa",
+   "Konya",
+   "Edirne",
+   "Istanbul"
+  ],
+  "answer_index": 1,
+  "source": "History of the Seljuks of Rum",
+  "explanation": "Konya was the capital.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000057",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Who wrote the Mathnawi?",
+  "options": [
+   "Yunus Emre",
+   "Ahmad Yasawi",
+   "Jalal ad-Din Rumi",
+   "Hafez of Shiraz"
+  ],
+  "answer_index": 2,
+  "source": "Rumi, Mathnawi",
+  "explanation": "Rumi wrote the Mathnawi in Konya.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000058",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "In which year is the Ottoman state traditionally said to have been founded?",
+  "options": [
+   "1071",
+   "1299",
+   "1453",
+   "1517"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman history",
+  "explanation": "Osman Gazi is traditionally credited with founding it in 1299.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000059",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Who founded the Ottoman state?",
+  "options": [
+   "Orhan Gazi",
+   "Osman Gazi",
+   "Murad I",
+   "Bayezid I"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman history",
+  "explanation": "The founder was Osman Gazi.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000060",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which Ottoman sultan conquered Constantinople in 1453?",
+  "options": [
+   "Mehmed II (the Conqueror)",
+   "Selim I",
+   "Suleiman the Magnificent",
+   "Murad I"
+  ],
+  "answer_index": 0,
+  "source": "Ottoman history",
+  "explanation": "Mehmed II took Constantinople on 29 May 1453.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000061",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What was the Ottoman capital before the conquest of Istanbul?",
+  "options": [
+   "Edirne",
+   "Bursa",
+   "Konya",
+   "Ankara"
+  ],
+  "answer_index": 0,
+  "source": "Ottoman history",
+  "explanation": "Edirne was the capital until 1453.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000062",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which country did Selim I conquer in 1517, ending the Mamluk state?",
+  "options": [
+   "Iran",
+   "Egypt",
+   "Hungary",
+   "India"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman history",
+  "explanation": "After the Battle of Ridaniyya Selim I annexed Egypt in 1517 and the Mamluk state came to an end.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000063",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which battle under Suleiman the Magnificent added most of Hungary to the Ottomans?",
+  "options": [
+   "Chaldiran",
+   "Ridaniyya",
+   "Preveza",
+   "Mohacs"
+  ],
+  "answer_index": 3,
+  "source": "Ottoman history",
+  "explanation": "The Battle of Mohacs (1526) defeated the Hungarian army.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000064",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which commander won the naval battle of Preveza?",
+  "options": [
+   "Piri Reis",
+   "Turgut Reis",
+   "Barbarossa Hayreddin Pasha",
+   "Kilic Ali Pasha"
+  ],
+  "answer_index": 2,
+  "source": "Ottoman history",
+  "explanation": "Barbarossa Hayreddin won at Preveza in 1538.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000065",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which architect built the Suleymaniye Mosque?",
+  "options": [
+   "Mimar Kemaleddin",
+   "Mimar Sinan",
+   "Vedat Tek",
+   "Davud Agha"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman architecture",
+  "explanation": "Suleymaniye is regarded as Sinan's journeyman work.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000066",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which mosque did Sinan call his masterpiece?",
+  "options": [
+   "The Suleymaniye",
+   "The Sehzade Mosque",
+   "The Selimiye Mosque in Edirne",
+   "The Sultan Ahmed Mosque"
+  ],
+  "answer_index": 2,
+  "source": "Ottoman architecture",
+  "explanation": "He described the Selimiye in Edirne as his masterpiece.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000067",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which Moroccan traveller wrote the 'Rihla'?",
+  "options": [
+   "Evliya Celebi",
+   "Piri Reis",
+   "Ibn Jubayr",
+   "Ibn Battuta"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Battuta, Rihla",
+  "explanation": "Ibn Battuta recorded his travels in the Rihla.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000068",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which Timurid ruler built an observatory in Samarkand?",
+  "options": [
+   "Ulugh Beg",
+   "Timur",
+   "Alp Arslan",
+   "Sultan Sanjar"
+  ],
+  "answer_index": 0,
+  "source": "History of the Timurids",
+  "explanation": "Ulugh Beg built the observatory at Samarkand.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000069",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "From which city did the Mamluk state rule?",
+  "options": [
+   "Baghdad",
+   "Damascus",
+   "Cordoba",
+   "Cairo"
+  ],
+  "answer_index": 3,
+  "source": "History of the Mamluks",
+  "explanation": "The Mamluks ruled from Cairo.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000070",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Outside the walls of which city did the companion Abu Ayyub al-Ansari die?",
+  "options": [
+   "Constantinople",
+   "Jerusalem",
+   "Damascus",
+   "Cordoba"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "He died during the Umayyad siege and was buried near its walls.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000071",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which island was conquered with the first Muslim fleet under Uthman?",
+  "options": [
+   "Crete",
+   "Rhodes",
+   "Cyprus",
+   "Sicily"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Mu'awiyah led the first fleet to Cyprus.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000072",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "What is the year in which Hasan handed the caliphate to Mu'awiyah and the community reunited called?",
+  "options": [
+   "The Year of the Elephant",
+   "The Year of Unity ('Am al-Jama'ah)",
+   "The Year of Sorrow",
+   "The Year of Ashes"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "The year 41 AH is remembered as the Year of Unity.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000073",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "What was the administrative office Umar founded to record stipends and revenue?",
+  "options": [
+   "Zakat",
+   "Jizyah",
+   "The diwan",
+   "Fay'"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Umar established the diwan to organise stipends and state income.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000074",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which mosque in Cordoba was later turned into a cathedral?",
+  "options": [
+   "The Suleymaniye",
+   "The Selimiye",
+   "Hagia Sophia",
+   "The Great Mosque of Cordoba"
+  ],
+  "answer_index": 3,
+  "source": "Andalusian architecture",
+  "explanation": "Abd ar-Rahman I began the Great Mosque, later enlarged.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000075",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "In which year did the Crusaders capture Jerusalem?",
+  "options": [
+   "1071",
+   "1099",
+   "1187",
+   "1258"
+  ],
+  "answer_index": 1,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "The First Crusade took Jerusalem in 1099.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000076",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "In which battle were the Seljuks of Rum defeated by the Mongols?",
+  "options": [
+   "Kose Dagh",
+   "Manzikert",
+   "Myriokephalon",
+   "Ain Jalut"
+  ],
+  "answer_index": 0,
+  "source": "History of the Seljuks of Rum",
+  "explanation": "They lost to the Mongols at Kose Dagh in 1243.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000077",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Who founded the Seljuk state?",
+  "options": [
+   "Tughril Beg",
+   "Alp Arslan",
+   "Malik-Shah",
+   "Sanjar"
+  ],
+  "answer_index": 0,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Tughril Beg was its founder and first sultan.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000078",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which Ottoman sultan was called 'the Lawgiver' (Kanuni)?",
+  "options": [
+   "Mehmed II",
+   "Selim I",
+   "Bayezid II",
+   "Suleiman I"
+  ],
+  "answer_index": 3,
+  "source": "Ottoman history",
+  "explanation": "He was called Kanuni for organising the laws.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000079",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "Which Ottoman sultan was nicknamed 'Yildirim' (Thunderbolt)?",
+  "options": [
+   "Mehmed II",
+   "Bayezid I",
+   "Selim I",
+   "Murad I"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman history",
+  "explanation": "He was called Yildirim for his swift movements.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000080",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "What are the schools of higher learning in the Islamic world called?",
+  "options": [
+   "Khans",
+   "Ribats",
+   "Madrasas",
+   "Zawiyas"
+  ],
+  "answer_index": 2,
+  "source": "Islamic civilisation",
+  "explanation": "Madrasas were the centres of higher education.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000081",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Who wrote the geography 'Nuzhat al-Mushtaq'?",
+  "options": [
+   "Ibn Khaldun",
+   "Al-Idrisi",
+   "Al-Biruni",
+   "Ibn Khurradadhbih"
+  ],
+  "answer_index": 1,
+  "source": "Al-Idrisi, Nuzhat al-Mushtaq",
+  "explanation": "Al-Idrisi prepared a world map and geography for Roger II of Sicily.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000082",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which polymath studied India and wrote 'Kitab al-Hind'?",
+  "options": [
+   "Ibn Sina",
+   "Al-Farabi",
+   "Al-Biruni",
+   "Ibn Rushd"
+  ],
+  "answer_index": 2,
+  "source": "Al-Biruni, Kitab al-Hind",
+  "explanation": "Al-Biruni studied astronomy, mathematics, geography and history.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000083",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which philosopher was called 'the Second Teacher'?",
+  "options": [
+   "Al-Farabi",
+   "Ibn Sina",
+   "Ibn Rushd",
+   "Al-Kindi"
+  ],
+  "answer_index": 0,
+  "source": "Al-Farabi, al-Madina al-Fadila",
+  "explanation": "He was called the Second Teacher after Aristotle, the First.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000084",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which Cordoban philosopher is known for his commentaries on Aristotle?",
+  "options": [
+   "Ibn Sina",
+   "Al-Farabi",
+   "Al-Kindi",
+   "Ibn Rushd (Averroes)"
+  ],
+  "answer_index": 3,
+  "source": "Ibn Rushd, Tahafut at-Tahafut",
+  "explanation": "His commentaries influenced European thought.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000085",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which structures were established under al-Ma'mun to observe the heavens?",
+  "options": [
+   "Madrasas",
+   "Khans",
+   "Observatories",
+   "Ribats"
+  ],
+  "answer_index": 2,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Observatories were built in Baghdad and Damascus.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000086",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "Which Abbasid caliph supported the House of Wisdom and scholars?",
+  "options": [
+   "Mu'awiyah",
+   "Al-Walid",
+   "Yazid",
+   "Al-Ma'mun"
+  ],
+  "answer_index": 3,
+  "source": "Ibn al-Athir, al-Kamil",
+  "explanation": "Al-Ma'mun was a great patron of translation and learning.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000087",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which Ottoman ruler took Iznik and opened the first Ottoman madrasa?",
+  "options": [
+   "Orhan Gazi",
+   "Osman Gazi",
+   "Murad I",
+   "Bayezid"
+  ],
+  "answer_index": 0,
+  "source": "Ottoman history",
+  "explanation": "Under Orhan, Iznik was taken and the first Ottoman madrasa opened there.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000088",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Which Ottoman sultan was martyred at the Battle of Kosovo?",
+  "options": [
+   "Osman Gazi",
+   "Murad I",
+   "Orhan Gazi",
+   "Bayezid I"
+  ],
+  "answer_index": 1,
+  "source": "Ottoman history",
+  "explanation": "Murad I was killed at Kosovo in 1389.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000089",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "Between which two rulers was the Battle of Ankara (1402) fought?",
+  "options": [
+   "Timur and Bayezid I",
+   "Mehmed II and Constantine",
+   "Alp Arslan and Romanos",
+   "Saladin and Richard"
+  ],
+  "answer_index": 0,
+  "source": "Ottoman history",
+  "explanation": "Timur defeated Bayezid I at Ankara in 1402.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000090",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "In which year was Uthman ibn Affan killed?",
+  "options": [
+   "632",
+   "656",
+   "661",
+   "680"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "Uthman was besieged in his house and killed in 656.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000091",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "In which year was Jerusalem conquered under Umar?",
+  "options": [
+   "622",
+   "638",
+   "711",
+   "1071"
+  ],
+  "answer_index": 1,
+  "source": "Tabari, Tarikh",
+  "explanation": "Jerusalem surrendered by treaty in 638.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000092",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "What was the first Muslim city founded by Amr ibn al-As in Egypt?",
+  "options": [
+   "Cairo",
+   "Fustat",
+   "Alexandria",
+   "Kairouan"
+  ],
+  "answer_index": 1,
+  "source": "Maqrizi, al-Khitat",
+  "explanation": "He founded Fustat and built a mosque there.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-en-tarih-000093",
+  "lang": "en",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "What is the period of flourishing science and arts in the Islamic world, roughly 8th to 13th centuries, called?",
+  "options": [
+   "The Stone Age",
+   "The Islamic Golden Age",
+   "The Age of Ignorance",
+   "The European Renaissance"
+  ],
+  "answer_index": 1,
+  "source": "Islamic civilisation",
+  "explanation": "Science, translation, astronomy and medicine flourished in Baghdad, Cairo and Cordoba.",
+  "review_status": "draft"
+ }
+]

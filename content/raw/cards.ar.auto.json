@@ -1,0 +1,1302 @@
+[
+ {
+  "id": "c-ar-000051",
+  "lang": "ar",
+  "level": "child",
+  "target": "الكعبة",
+  "forbidden": [
+   "مكة",
+   "الحج",
+   "الطواف",
+   "القبلة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000052",
+  "lang": "ar",
+  "level": "child",
+  "target": "سجادة",
+  "forbidden": [
+   "صلاة",
+   "مصلى",
+   "سجود",
+   "أرض"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000053",
+  "lang": "ar",
+  "level": "child",
+  "target": "مسبحة",
+  "forbidden": [
+   "ذكر",
+   "حبات",
+   "تسبيح",
+   "ثلاث وثلاثون"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000054",
+  "lang": "ar",
+  "level": "child",
+  "target": "زمزم",
+  "forbidden": [
+   "الكعبة",
+   "ماء",
+   "بئر",
+   "مكة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000055",
+  "lang": "ar",
+  "level": "child",
+  "target": "الأذان",
+  "forbidden": [
+   "مؤذن",
+   "مئذنة",
+   "صلاة",
+   "وقت"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000056",
+  "lang": "ar",
+  "level": "child",
+  "target": "الأضحية",
+  "forbidden": [
+   "العيد",
+   "كبش",
+   "ذبح",
+   "إبراهيم"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000057",
+  "lang": "ar",
+  "level": "child",
+  "target": "الصلاة",
+  "forbidden": [
+   "سجود",
+   "ركوع",
+   "قبلة",
+   "وقت"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000058",
+  "lang": "ar",
+  "level": "child",
+  "target": "الصيام",
+  "forbidden": [
+   "رمضان",
+   "الإفطار",
+   "السحور",
+   "جوع"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000059",
+  "lang": "ar",
+  "level": "child",
+  "target": "المدينة",
+  "forbidden": [
+   "النبي",
+   "المسجد النبوي",
+   "هجرة",
+   "طيبة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000060",
+  "lang": "ar",
+  "level": "child",
+  "target": "مكة",
+  "forbidden": [
+   "الكعبة",
+   "الحج",
+   "بلد",
+   "المسجد الحرام"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000061",
+  "lang": "ar",
+  "level": "child",
+  "target": "النبي",
+  "forbidden": [
+   "الله",
+   "رسول",
+   "وحي",
+   "القرآن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000062",
+  "lang": "ar",
+  "level": "child",
+  "target": "الجنة",
+  "forbidden": [
+   "الآخرة",
+   "حديقة",
+   "جزاء",
+   "النار"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000063",
+  "lang": "ar",
+  "level": "child",
+  "target": "البسملة",
+  "forbidden": [
+   "الله",
+   "بسم الله",
+   "بدء",
+   "الرحمن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000064",
+  "lang": "ar",
+  "level": "child",
+  "target": "السلام",
+  "forbidden": [
+   "عليكم",
+   "تحية",
+   "أمن",
+   "مرحبا"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000065",
+  "lang": "ar",
+  "level": "child",
+  "target": "الضيف",
+  "forbidden": [
+   "بيت",
+   "إكرام",
+   "زائر",
+   "ضيافة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000066",
+  "lang": "ar",
+  "level": "child",
+  "target": "الجار",
+  "forbidden": [
+   "بيت",
+   "حي",
+   "مجاور",
+   "سكن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000067",
+  "lang": "ar",
+  "level": "child",
+  "target": "اليتيم",
+  "forbidden": [
+   "أب",
+   "طفل",
+   "رعاية",
+   "مات"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000068",
+  "lang": "ar",
+  "level": "child",
+  "target": "التمر",
+  "forbidden": [
+   "إفطار",
+   "نخلة",
+   "حلو",
+   "فاكهة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000069",
+  "lang": "ar",
+  "level": "child",
+  "target": "الهدية",
+  "forbidden": [
+   "عطية",
+   "إهداء",
+   "تقديم",
+   "فرح"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000070",
+  "lang": "ar",
+  "level": "child",
+  "target": "الخير",
+  "forbidden": [
+   "جيد",
+   "عمل",
+   "إحسان",
+   "مساعدة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000071",
+  "lang": "ar",
+  "level": "child",
+  "target": "الصداقة",
+  "forbidden": [
+   "صديق",
+   "محبة",
+   "وفاء",
+   "رفيق"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000072",
+  "lang": "ar",
+  "level": "child",
+  "target": "التعاون",
+  "forbidden": [
+   "مساعدة",
+   "عمل جماعي",
+   "تكاتف",
+   "أيدي"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000073",
+  "lang": "ar",
+  "level": "child",
+  "target": "الجمعة",
+  "forbidden": [
+   "خطبة",
+   "صلاة",
+   "يوم",
+   "أسبوع"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000074",
+  "lang": "ar",
+  "level": "child",
+  "target": "الصدق",
+  "forbidden": [
+   "كذب",
+   "حق",
+   "أمانة",
+   "قول"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000075",
+  "lang": "ar",
+  "level": "child",
+  "target": "الأمانة",
+  "forbidden": [
+   "ثقة",
+   "حفظ",
+   "تسليم",
+   "وديعة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000076",
+  "lang": "ar",
+  "level": "child",
+  "target": "الابتسامة",
+  "forbidden": [
+   "وجه",
+   "فرح",
+   "صدقة",
+   "شفاه"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000077",
+  "lang": "ar",
+  "level": "child",
+  "target": "بر الوالدين",
+  "forbidden": [
+   "أم",
+   "أب",
+   "إحسان",
+   "طاعة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000078",
+  "lang": "ar",
+  "level": "child",
+  "target": "الملائكة",
+  "forbidden": [
+   "جبريل",
+   "أجنحة",
+   "نور",
+   "الله"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000079",
+  "lang": "ar",
+  "level": "child",
+  "target": "النظافة",
+  "forbidden": [
+   "طهارة",
+   "غسل",
+   "وضوء",
+   "صابون"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000080",
+  "lang": "ar",
+  "level": "child",
+  "target": "الشكر",
+  "forbidden": [
+   "نعمة",
+   "الحمد",
+   "امتنان",
+   "تقدير"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000081",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الهجرة",
+  "forbidden": [
+   "المدينة",
+   "مكة",
+   "انتقال",
+   "المهاجرون"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000082",
+  "lang": "ar",
+  "level": "teen",
+  "target": "بدر",
+  "forbidden": [
+   "غزوة",
+   "313",
+   "رمضان",
+   "بئر"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000083",
+  "lang": "ar",
+  "level": "teen",
+  "target": "المسجد الأقصى",
+  "forbidden": [
+   "القدس",
+   "القبلة الأولى",
+   "الإسراء",
+   "ثالث الحرمين"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000084",
+  "lang": "ar",
+  "level": "teen",
+  "target": "المعراج",
+  "forbidden": [
+   "صعود",
+   "السماء",
+   "ليلة",
+   "الصلوات الخمس"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000085",
+  "lang": "ar",
+  "level": "teen",
+  "target": "ليلة القدر",
+  "forbidden": [
+   "رمضان",
+   "ألف شهر",
+   "القرآن",
+   "الملائكة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000086",
+  "lang": "ar",
+  "level": "teen",
+  "target": "عاشوراء",
+  "forbidden": [
+   "المحرم",
+   "صيام",
+   "العاشر",
+   "موسى"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000087",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الخطبة",
+  "forbidden": [
+   "الجمعة",
+   "المنبر",
+   "الخطيب",
+   "تُلقى"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000088",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الفدية",
+  "forbidden": [
+   "صيام",
+   "فقير",
+   "إطعام",
+   "مسكين"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000089",
+  "lang": "ar",
+  "level": "teen",
+  "target": "النصاب",
+  "forbidden": [
+   "زكاة",
+   "مال",
+   "مقدار",
+   "ذهب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000090",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الحجر الأسود",
+  "forbidden": [
+   "الكعبة",
+   "الطواف",
+   "تقبيل",
+   "ركن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000091",
+  "lang": "ar",
+  "level": "teen",
+  "target": "منى",
+  "forbidden": [
+   "الحج",
+   "رمي الجمرات",
+   "خيام",
+   "عرفة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000092",
+  "lang": "ar",
+  "level": "teen",
+  "target": "مزدلفة",
+  "forbidden": [
+   "الحج",
+   "عرفة",
+   "منى",
+   "ليلة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000093",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الختمة",
+  "forbidden": [
+   "القرآن",
+   "قراءة",
+   "كاملة",
+   "إنهاء"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000094",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الحافظ",
+  "forbidden": [
+   "ظهر قلب",
+   "القرآن",
+   "حفظ",
+   "استظهار"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000095",
+  "lang": "ar",
+  "level": "teen",
+  "target": "التجويد",
+  "forbidden": [
+   "القرآن",
+   "مخارج",
+   "قراءة",
+   "أحكام"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000096",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الاستغفار",
+  "forbidden": [
+   "غفران",
+   "ذنب",
+   "عفو",
+   "الله"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000097",
+  "lang": "ar",
+  "level": "teen",
+  "target": "التوبة",
+  "forbidden": [
+   "ندم",
+   "ذنب",
+   "رجوع",
+   "عفو"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000098",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الصبر",
+  "forbidden": [
+   "تحمل",
+   "انتظار",
+   "شدة",
+   "ابتلاء"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000099",
+  "lang": "ar",
+  "level": "teen",
+  "target": "التوكل",
+  "forbidden": [
+   "ثقة",
+   "الله",
+   "الأخذ بالأسباب",
+   "نتيجة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000100",
+  "lang": "ar",
+  "level": "teen",
+  "target": "النافلة",
+  "forbidden": [
+   "فرض",
+   "عبادة",
+   "زيادة",
+   "ثواب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000101",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الكفن",
+  "forbidden": [
+   "ميت",
+   "جنازة",
+   "أبيض",
+   "قماش"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000102",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الجنازة",
+  "forbidden": [
+   "ميت",
+   "صلاة",
+   "كفن",
+   "دفن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000103",
+  "lang": "ar",
+  "level": "teen",
+  "target": "المهاجر",
+  "forbidden": [
+   "هجرة",
+   "ترك",
+   "مكة",
+   "المدينة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000104",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الأنصار",
+  "forbidden": [
+   "مساعدون",
+   "المدينة",
+   "الأوس",
+   "الخزرج"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000105",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الصحابي",
+  "forbidden": [
+   "النبي",
+   "صاحب",
+   "رؤية",
+   "إيمان"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000106",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الحديبية",
+  "forbidden": [
+   "صلح",
+   "مكة",
+   "قريش",
+   "السنة السادسة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000107",
+  "lang": "ar",
+  "level": "teen",
+  "target": "خطبة الوداع",
+  "forbidden": [
+   "عرفة",
+   "النبي",
+   "الأخيرة",
+   "الحج"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000108",
+  "lang": "ar",
+  "level": "teen",
+  "target": "غار ثور",
+  "forbidden": [
+   "الهجرة",
+   "أبو بكر",
+   "العنكبوت",
+   "ثلاثة أيام"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000109",
+  "lang": "ar",
+  "level": "teen",
+  "target": "المسجد النبوي",
+  "forbidden": [
+   "المدينة",
+   "النبي",
+   "الروضة",
+   "القبة الخضراء"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000110",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الغسل",
+  "forbidden": [
+   "جنابة",
+   "اغتسال",
+   "تطهر",
+   "بدن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000111",
+  "lang": "ar",
+  "level": "teen",
+  "target": "التيمم",
+  "forbidden": [
+   "تراب",
+   "وضوء",
+   "ماء",
+   "طهارة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000112",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الإقامة",
+  "forbidden": [
+   "أذان",
+   "صلاة",
+   "تُقال",
+   "جماعة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000113",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الذكر",
+  "forbidden": [
+   "تسبيح",
+   "الله",
+   "تكرار",
+   "قلب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000114",
+  "lang": "ar",
+  "level": "teen",
+  "target": "الحمد",
+  "forbidden": [
+   "شكر",
+   "الله",
+   "ثناء",
+   "مدح"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000115",
+  "lang": "ar",
+  "level": "teen",
+  "target": "القدوة",
+  "forbidden": [
+   "أسوة",
+   "النبي",
+   "مثال",
+   "اقتداء"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000116",
+  "lang": "ar",
+  "level": "adult",
+  "target": "التوحيد",
+  "forbidden": [
+   "واحد",
+   "الله",
+   "إفراد",
+   "ربوبية"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000117",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الشرك",
+  "forbidden": [
+   "إشراك",
+   "أصنام",
+   "الله",
+   "شريك"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000118",
+  "lang": "ar",
+  "level": "adult",
+  "target": "النفاق",
+  "forbidden": [
+   "منافق",
+   "خداع",
+   "إيمان",
+   "باطن"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000119",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الإيمان",
+  "forbidden": [
+   "تصديق",
+   "قلب",
+   "أركان",
+   "يقين"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000120",
+  "lang": "ar",
+  "level": "adult",
+  "target": "القدر",
+  "forbidden": [
+   "الله",
+   "قضاء",
+   "تقدير",
+   "مكتوب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000121",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الزهد",
+  "forbidden": [
+   "دنيا",
+   "بساطة",
+   "ترك",
+   "آخرة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000122",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الحكمة",
+  "forbidden": [
+   "علم",
+   "الله",
+   "حكيم",
+   "عقل"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000123",
+  "lang": "ar",
+  "level": "adult",
+  "target": "العدل",
+  "forbidden": [
+   "ظلم",
+   "حق",
+   "مساواة",
+   "قاضٍ"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000124",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الحياء",
+  "forbidden": [
+   "خجل",
+   "إيمان",
+   "أدب",
+   "حشمة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000125",
+  "lang": "ar",
+  "level": "adult",
+  "target": "البرزخ",
+  "forbidden": [
+   "موت",
+   "قبر",
+   "قيامة",
+   "بين"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000126",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الصور",
+  "forbidden": [
+   "إسرافيل",
+   "نفخ",
+   "قيامة",
+   "بوق"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000127",
+  "lang": "ar",
+  "level": "adult",
+  "target": "المحشر",
+  "forbidden": [
+   "قيامة",
+   "جمع",
+   "حساب",
+   "ساحة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000128",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الحوض",
+  "forbidden": [
+   "الآخرة",
+   "النبي",
+   "ماء",
+   "الجنة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000129",
+  "lang": "ar",
+  "level": "adult",
+  "target": "أصحاب الصفة",
+  "forbidden": [
+   "مسجد",
+   "المدينة",
+   "صحابة",
+   "علم"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000130",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الخلفاء الراشدون",
+  "forbidden": [
+   "أربعة",
+   "خليفة",
+   "أبو بكر",
+   "علي"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000131",
+  "lang": "ar",
+  "level": "adult",
+  "target": "السقيفة",
+  "forbidden": [
+   "خليفة",
+   "اختيار",
+   "الأنصار",
+   "بنو ساعدة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000132",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الردة",
+  "forbidden": [
+   "مدّعو النبوة",
+   "أبو بكر",
+   "حرب",
+   "زكاة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000133",
+  "lang": "ar",
+  "level": "adult",
+  "target": "القادسية",
+  "forbidden": [
+   "فارس",
+   "عمر",
+   "معركة",
+   "سعد"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000134",
+  "lang": "ar",
+  "level": "adult",
+  "target": "اليرموك",
+  "forbidden": [
+   "الروم",
+   "الشام",
+   "معركة",
+   "خالد"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000135",
+  "lang": "ar",
+  "level": "adult",
+  "target": "بيت الحكمة",
+  "forbidden": [
+   "بغداد",
+   "العباسيون",
+   "ترجمة",
+   "المأمون"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000136",
+  "lang": "ar",
+  "level": "adult",
+  "target": "النظامية",
+  "forbidden": [
+   "مدرسة",
+   "السلاجقة",
+   "نظام الملك",
+   "بغداد"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000137",
+  "lang": "ar",
+  "level": "adult",
+  "target": "المصحف العثماني",
+  "forbidden": [
+   "القرآن",
+   "نسخة",
+   "خليفة",
+   "نسخ"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000138",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الوحي",
+  "forbidden": [
+   "جبريل",
+   "نبي",
+   "الله",
+   "إبلاغ"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000139",
+  "lang": "ar",
+  "level": "adult",
+  "target": "النزول",
+  "forbidden": [
+   "هبوط",
+   "القرآن",
+   "آية",
+   "سبب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000140",
+  "lang": "ar",
+  "level": "adult",
+  "target": "المحكم",
+  "forbidden": [
+   "آية",
+   "واضح",
+   "متشابه",
+   "معنى"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000141",
+  "lang": "ar",
+  "level": "adult",
+  "target": "المعجزة",
+  "forbidden": [
+   "نبي",
+   "خارق",
+   "الله",
+   "إثبات"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000142",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الخلافة",
+  "forbidden": [
+   "خليفة",
+   "دولة",
+   "نيابة",
+   "منصب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000143",
+  "lang": "ar",
+  "level": "adult",
+  "target": "البيعة",
+  "forbidden": [
+   "عهد",
+   "خليفة",
+   "ولاء",
+   "اليد"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000144",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الشورى",
+  "forbidden": [
+   "مشاورة",
+   "رأي",
+   "مجلس",
+   "قرار"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000145",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الحنيف",
+  "forbidden": [
+   "إبراهيم",
+   "توحيد",
+   "مكة",
+   "مستقيم"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000146",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الاجتهاد",
+  "forbidden": [
+   "عالم",
+   "حكم",
+   "جهد",
+   "فقه"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000147",
+  "lang": "ar",
+  "level": "adult",
+  "target": "القصة",
+  "forbidden": [
+   "حكاية",
+   "نبي",
+   "القرآن",
+   "عبرة"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000148",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الأمة",
+  "forbidden": [
+   "جماعة",
+   "المسلمون",
+   "النبي",
+   "شعب"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000149",
+  "lang": "ar",
+  "level": "adult",
+  "target": "الورع",
+  "forbidden": [
+   "تقوى",
+   "ترك الشبهات",
+   "حذر",
+   "ابتعاد"
+  ],
+  "review_status": "draft"
+ },
+ {
+  "id": "c-ar-000150",
+  "lang": "ar",
+  "level": "adult",
+  "target": "القناعة",
+  "forbidden": [
+   "رضا",
+   "كفاف",
+   "الرزق",
+   "غنى النفس"
+  ],
+  "review_status": "draft"
+ }
+]

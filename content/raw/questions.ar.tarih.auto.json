@@ -1,0 +1,1566 @@
+[
+ {
+  "id": "q-ar-tarih-000001",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أين تمت مبايعة أول خليفة بعد وفاة النبي ﷺ؟",
+  "options": [
+   "منبر المسجد النبوي",
+   "دار الندوة",
+   "مسجد قباء",
+   "سقيفة بني ساعدة"
+  ],
+  "answer_index": 3,
+  "source": "ابن هشام، السيرة النبوية؛ الطبري، تاريخ الرسل والملوك",
+  "explanation": "اجتمع الأنصار والمهاجرون في سقيفة بني ساعدة وبايعوا أبا بكر رضي الله عنه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000002",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من أول الخلفاء الراشدين؟",
+  "options": [
+   "عمر بن الخطاب",
+   "عثمان بن عفان",
+   "أبو بكر الصديق",
+   "علي بن أبي طالب"
+  ],
+  "answer_index": 2,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "أول الخلفاء الراشدين أبو بكر ثم عمر ثم عثمان ثم علي رضي الله عنهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000003",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ماذا تسمى الحروب التي خاضها أبو بكر ضد المرتدين ومانعي الزكاة؟",
+  "options": [
+   "حروب الفتح",
+   "حروب الردة",
+   "الحروب الصليبية",
+   "وقعة الجمل"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "قاتل أبو بكر المرتدين ومانعي الزكاة ومدّعي النبوة فيما عُرف بحروب الردة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000004",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "في أي معركة قُتل مسيلمة الكذاب؟",
+  "options": [
+   "اليمامة",
+   "الجمل",
+   "صفين",
+   "مؤتة"
+  ],
+  "answer_index": 0,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "قُتل مسيلمة في معركة اليمامة في عهد أبي بكر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000005",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ماذا ترتب على استشهاد عدد كبير من الحفاظ في معركة اليمامة؟",
+  "options": [
+   "الهجرة",
+   "فرض الجزية",
+   "إنشاء الديوان",
+   "جمع القرآن في مصحف"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، فضائل القرآن",
+  "explanation": "أشار عمر على أبي بكر بجمع القرآن بعد استشهاد القراء في اليمامة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000006",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "كم سنة حكم أبو بكر الصديق تقريباً؟",
+  "options": [
+   "1",
+   "2",
+   "5",
+   "10"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "حكم أبو بكر نحو سنتين وثلاثة أشهر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000007",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "كم سنة حكم عمر بن الخطاب تقريباً؟",
+  "options": [
+   "2",
+   "5",
+   "10",
+   "20"
+  ],
+  "answer_index": 2,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "حكم عمر نحو عشر سنين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000008",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "أي حدث اتُّخذ بداية للتقويم الهجري؟",
+  "options": [
+   "ميلاد النبي ﷺ",
+   "الهجرة النبوية",
+   "نزول الوحي",
+   "فتح مكة"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "اتُّخذت الهجرة بداية للتقويم الهجري في عهد عمر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000009",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "ما أول شهر في السنة الهجرية؟",
+  "options": [
+   "رمضان",
+   "المحرم",
+   "ربيع الأول",
+   "شوال"
+  ],
+  "answer_index": 1,
+  "source": "التقويم الإسلامي",
+  "explanation": "تبدأ السنة الهجرية بشهر المحرم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000010",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أي معركة في عهد عمر فتحت العراق على الفرس الساسانيين؟",
+  "options": [
+   "اليرموك",
+   "الجمل",
+   "الخندق",
+   "القادسية"
+  ],
+  "answer_index": 3,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "معركة القادسية (636م) مهدت لفتح العراق وفارس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000011",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أي معركة حاسمة ضد الروم تم بعدها فتح الشام؟",
+  "options": [
+   "القادسية",
+   "أحد",
+   "اليرموك",
+   "حنين"
+  ],
+  "answer_index": 2,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "معركة اليرموك (636م) كانت الحاسمة في فتح بلاد الشام.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000012",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "في عهد أي خليفة فُتحت القدس صلحاً؟",
+  "options": [
+   "عمر بن الخطاب",
+   "أبو بكر",
+   "عثمان",
+   "علي"
+  ],
+  "answer_index": 0,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "فُتحت القدس عام 638م صلحاً في عهد عمر.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000013",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من القائد الذي فتح مصر؟",
+  "options": [
+   "خالد بن الوليد",
+   "سعد بن أبي وقاص",
+   "عمرو بن العاص",
+   "أبو عبيدة"
+  ],
+  "answer_index": 2,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "فتح عمرو بن العاص مصر في عهد عمر بن الخطاب.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000014",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي معركة سُميت «فتح الفتوح» لأنها حسمت أمر فارس؟",
+  "options": [
+   "القادسية",
+   "نهاوند",
+   "اليرموك",
+   "مؤتة"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "معركة نهاوند (642م) كسرت مقاومة الساسانيين فسُميت فتح الفتوح.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000015",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من قتل عمر بن الخطاب رضي الله عنه؟",
+  "options": [
+   "أبو لؤلؤة",
+   "ابن ملجم",
+   "مسيلمة",
+   "أبو جهل"
+  ],
+  "answer_index": 0,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "طعنه أبو لؤلؤة المجوسي وهو يصلي الفجر فاستُشهد.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000016",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ما العمل الذي قام به عثمان بن عفان لتوحيد نسخ القرآن؟",
+  "options": [
+   "إنشاء الديوان",
+   "فرض الجزية",
+   "التقويم الهجري",
+   "نسخ المصحف وإرساله إلى الأمصار"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، فضائل القرآن",
+  "explanation": "جمع عثمان الناس على مصحف واحد ونسخ منه نسخاً أرسلها إلى الأمصار.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000017",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الذي بُويع بالخلافة بعد استشهاد عثمان؟",
+  "options": [
+   "علي بن أبي طالب",
+   "أبو بكر",
+   "معاوية",
+   "طلحة بن عبيد الله"
+  ],
+  "answer_index": 0,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "بُويع علي بن أبي طالب بعد استشهاد عثمان رضي الله عنهما.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000018",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما اسم المعركة التي دارت بين جيش علي وجيش فيه عائشة رضي الله عنها؟",
+  "options": [
+   "صفين",
+   "نهاوند",
+   "الجمل",
+   "اليمامة"
+  ],
+  "answer_index": 2,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "وقعت معركة الجمل (656م) قرب البصرة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000019",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما اسم المعركة بين علي ومعاوية رضي الله عنهما؟",
+  "options": [
+   "الجمل",
+   "صفين",
+   "القادسية",
+   "اليرموك"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "وقعت معركة صفين (657م) بين علي ومعاوية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000020",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من قتل علي بن أبي طالب رضي الله عنه؟",
+  "options": [
+   "أبو لؤلؤة",
+   "مسيلمة",
+   "الوليد بن عتبة",
+   "ابن ملجم"
+  ],
+  "answer_index": 3,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "طعنه ابن ملجم الخارجي وهو ذاهب إلى صلاة الفجر في الكوفة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000021",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ماذا يسمى الذين انشقوا عن علي بعد التحكيم؟",
+  "options": [
+   "الخوارج",
+   "الأنصار",
+   "المهاجرون",
+   "المرجئة"
+  ],
+  "answer_index": 0,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "رفض الخوارج التحكيم في صفين وانشقوا عن جيش علي.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000022",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من مؤسس الدولة الأموية؟",
+  "options": [
+   "عبد الملك",
+   "معاوية بن أبي سفيان",
+   "يزيد",
+   "مروان"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أسس معاوية الدولة الأموية عام 661م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000023",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "ما عاصمة الدولة الأموية؟",
+  "options": [
+   "بغداد",
+   "القاهرة",
+   "دمشق",
+   "الكوفة"
+  ],
+  "answer_index": 2,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "كانت دمشق عاصمة الأمويين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000024",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "في أي موقعة استُشهد الحسين بن علي رضي الله عنهما؟",
+  "options": [
+   "صفين",
+   "الجمل",
+   "الخندق",
+   "كربلاء"
+  ],
+  "answer_index": 3,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "استُشهد الحسين في كربلاء عام 680م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000025",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الخليفة الذي بنى قبة الصخرة في القدس؟",
+  "options": [
+   "هارون الرشيد",
+   "عبد الملك بن مروان",
+   "معاوية",
+   "المنصور"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أنهى عبد الملك بن مروان بناء قبة الصخرة عام 691م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000026",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من الخليفة الذي بنى الجامع الأموي بدمشق؟",
+  "options": [
+   "الوليد بن عبد الملك",
+   "معاوية",
+   "يزيد",
+   "هشام"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "بُني الجامع الأموي في عهد الوليد بن عبد الملك.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000027",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من القائد الذي بدأ فتح الأندلس وسُمّي جبل باسمه؟",
+  "options": [
+   "موسى بن نصير",
+   "عقبة بن نافع",
+   "عمرو بن العاص",
+   "طارق بن زياد"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "عبر طارق بن زياد المضيق عام 711م وسُمّي جبل طارق باسمه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000028",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من القائد الذي أسس مدينة القيروان في شمال أفريقيا؟",
+  "options": [
+   "طارق بن زياد",
+   "عمرو بن العاص",
+   "عقبة بن نافع",
+   "موسى بن نصير"
+  ],
+  "answer_index": 2,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أسس عقبة بن نافع مدينة القيروان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000029",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الخليفة الأموي الذي اشتهر بعدله وسُمّي «خامس الراشدين»؟",
+  "options": [
+   "معاوية",
+   "الوليد",
+   "هشام",
+   "عمر بن عبد العزيز"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "اشتهر عمر بن عبد العزيز بعدله وزهده.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000030",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من مؤسس الدولة العباسية؟",
+  "options": [
+   "أبو العباس السفاح",
+   "هارون الرشيد",
+   "المنصور",
+   "المأمون"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أُسست الدولة العباسية عام 750م على يد أبي العباس السفاح.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000031",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الخليفة العباسي الذي بنى بغداد؟",
+  "options": [
+   "هارون الرشيد",
+   "المنصور",
+   "المأمون",
+   "المعتصم"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "بنى المنصور بغداد عام 762م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000032",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "ما عاصمة الدولة العباسية؟",
+  "options": [
+   "دمشق",
+   "القاهرة",
+   "بغداد",
+   "قرطبة"
+  ],
+  "answer_index": 2,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "كانت بغداد عاصمة العباسيين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000033",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما المؤسسة العلمية في بغداد التي اشتهرت بالترجمة والعلوم؟",
+  "options": [
+   "النظامية",
+   "دار الأرقم",
+   "الصفة",
+   "بيت الحكمة"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "كان بيت الحكمة مركزاً للترجمة والعلوم خصوصاً في عهد المأمون.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000034",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من العالم الذي يُعدّ رائد علم الجبر ومنه اشتُقت كلمة «خوارزمية»؟",
+  "options": [
+   "ابن سينا",
+   "الفارابي",
+   "الخوارزمي",
+   "البيروني"
+  ],
+  "answer_index": 2,
+  "source": "الخوارزمي، الجبر والمقابلة",
+  "explanation": "يُعدّ الخوارزمي من مؤسسي علم الجبر، ومن اسمه اشتُقت كلمة خوارزمية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000035",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الطبيب الذي اشتهر بكتاب «القانون في الطب»؟",
+  "options": [
+   "الخوارزمي",
+   "ابن سينا",
+   "ابن خلدون",
+   "ابن الهيثم"
+  ],
+  "answer_index": 1,
+  "source": "ابن سينا، القانون في الطب",
+  "explanation": "ظل «القانون» مرجعاً في الطب قروناً في جامعات أوروبا.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000036",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من العالم الذي ألّف «كتاب المناظر» في علم البصريات؟",
+  "options": [
+   "ابن الهيثم",
+   "ابن سينا",
+   "البيروني",
+   "الكندي"
+  ],
+  "answer_index": 0,
+  "source": "ابن الهيثم، كتاب المناظر",
+  "explanation": "أسهم ابن الهيثم إسهاماً كبيراً في علم البصريات.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000037",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من صاحب «المقدمة» في فلسفة التاريخ والعمران؟",
+  "options": [
+   "ابن خلدون",
+   "ابن سينا",
+   "ابن رشد",
+   "الغزالي"
+  ],
+  "answer_index": 0,
+  "source": "ابن خلدون، المقدمة",
+  "explanation": "درس ابن خلدون في مقدمته أسباب قيام الدول وسقوطها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000038",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من صاحب كتاب «إحياء علوم الدين»؟",
+  "options": [
+   "ابن سينا",
+   "ابن رشد",
+   "الإمام الغزالي",
+   "الفارابي"
+  ],
+  "answer_index": 2,
+  "source": "الغزالي، إحياء علوم الدين",
+  "explanation": "اشتهر الغزالي بكتابه إحياء علوم الدين في الأخلاق والتصوف.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000039",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من مؤلف كتاب «الجامع الصحيح» المعروف بصحيح البخاري؟",
+  "options": [
+   "مسلم بن الحجاج",
+   "مالك بن أنس",
+   "أبو داود",
+   "محمد بن إسماعيل البخاري"
+  ],
+  "answer_index": 3,
+  "source": "البخاري، الجامع الصحيح",
+  "explanation": "يُعدّ صحيح البخاري من أصح كتب الحديث.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000040",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من مؤلف كتاب «الموطأ»؟",
+  "options": [
+   "الإمام الشافعي",
+   "الإمام مالك",
+   "الإمام أحمد",
+   "الإمام أبو حنيفة"
+  ],
+  "answer_index": 1,
+  "source": "مالك، الموطأ",
+  "explanation": "جمع الإمام مالك في الموطأ أحاديث وأقوالاً في المدينة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000041",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "كم كتاباً تضم الكتب الستة في الحديث؟",
+  "options": [
+   "4",
+   "6",
+   "9",
+   "12"
+  ],
+  "answer_index": 1,
+  "source": "الكتب الستة",
+  "explanation": "الكتب الستة: البخاري ومسلم وأبو داود والترمذي والنسائي وابن ماجه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000042",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من مؤسس الدولة الأموية في الأندلس؟",
+  "options": [
+   "عبد الرحمن الداخل",
+   "طارق بن زياد",
+   "موسى بن نصير",
+   "عبد الرحمن الثالث"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أسس عبد الرحمن الداخل الدولة الأموية في الأندلس عام 756م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000043",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما عاصمة الدولة الأموية في الأندلس؟",
+  "options": [
+   "غرناطة",
+   "إشبيلية",
+   "قرطبة",
+   "طليطلة"
+  ],
+  "answer_index": 2,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "كانت قرطبة عاصمة الأمويين في الأندلس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000044",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما القصر الشهير في غرناطة الذي بُني في عهد بني الأحمر؟",
+  "options": [
+   "الزهراء",
+   "الحمراء",
+   "قصر الإمارة",
+   "الأقصر"
+  ],
+  "answer_index": 1,
+  "source": "تاريخ الأندلس",
+  "explanation": "قصر الحمراء في غرناطة من أشهر آثار الأندلس.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000045",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "في أي سنة سقطت غرناطة آخر معاقل المسلمين في الأندلس؟",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 3,
+  "source": "تاريخ الأندلس",
+  "explanation": "سقطت غرناطة عام 1492م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000046",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من القائد الفاطمي الذي أسس القاهرة؟",
+  "options": [
+   "جوهر الصقلي",
+   "صلاح الدين",
+   "بيبرس",
+   "قطز"
+  ],
+  "answer_index": 0,
+  "source": "المقريزي، الخطط",
+  "explanation": "أسس جوهر الصقلي القاهرة عام 969م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000047",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما الجامع العلمي في القاهرة الذي يُعدّ من أقدم المؤسسات التعليمية في العالم؟",
+  "options": [
+   "النظامية",
+   "الأزهر",
+   "بيت الحكمة",
+   "السليمانية"
+  ],
+  "answer_index": 1,
+  "source": "المقريزي، الخطط",
+  "explanation": "أُسس الأزهر في العهد الفاطمي بالقاهرة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000048",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من القائد الذي استرد القدس من الصليبيين؟",
+  "options": [
+   "بيبرس",
+   "ألب أرسلان",
+   "قلج أرسلان",
+   "صلاح الدين الأيوبي"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "استرد صلاح الدين القدس عام 1187م بعد انتصار حطين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000049",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "في أي معركة انتصر صلاح الدين انتصاراً حاسماً على الصليبيين؟",
+  "options": [
+   "حطين",
+   "ملاذكرد",
+   "عين جالوت",
+   "موهاج"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "كانت معركة حطين (1187م) هزيمة كبرى للصليبيين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000050",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "في أي سنة اجتاح المغول بغداد وأنهوا الخلافة العباسية؟",
+  "options": [
+   "1071",
+   "1258",
+   "1453",
+   "1492"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "اجتاح المغول بقيادة هولاكو بغداد عام 1258م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000051",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي معركة هزم فيها المماليك المغول لأول مرة؟",
+  "options": [
+   "حطين",
+   "عين جالوت",
+   "ملاذكرد",
+   "كوسه داغ"
+  ],
+  "answer_index": 1,
+  "source": "المقريزي، السلوك",
+  "explanation": "هزم المماليك المغول في عين جالوت عام 1260م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000052",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ما الدولة التي تُعدّ أول دولة تركية دخلت الإسلام؟",
+  "options": [
+   "الغزنويون",
+   "السلاجقة",
+   "القراخانيون",
+   "العثمانيون"
+  ],
+  "answer_index": 2,
+  "source": "التاريخ التركي الإسلامي",
+  "explanation": "تُعدّ دولة القراخانيين أول دولة تركية أسلمت في عهد ستوق بغراخان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000053",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "في أي سنة وقعت معركة ملاذكرد؟",
+  "options": [
+   "1071",
+   "1099",
+   "1243",
+   "1453"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "انتصر ألب أرسلان على الروم في ملاذكرد عام 1071م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000054",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من السلطان السلجوقي الذي انتصر في ملاذكرد؟",
+  "options": [
+   "ألب أرسلان",
+   "طغرل بك",
+   "ملكشاه",
+   "سنجر"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أسر ألب أرسلان الإمبراطور البيزنطي رومانوس ديوجين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000055",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما المدارس التي أنشأها الوزير نظام الملك وانتشرت في المدن؟",
+  "options": [
+   "الصفة",
+   "دار الحديث",
+   "الكتاتيب",
+   "المدارس النظامية"
+  ],
+  "answer_index": 3,
+  "source": "نظام الملك، سياست نامه",
+  "explanation": "أنشأ نظام الملك المدارس النظامية في بغداد وغيرها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000056",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "ما عاصمة دولة سلاجقة الروم؟",
+  "options": [
+   "بورصة",
+   "أدرنة",
+   "قونية",
+   "إسطنبول"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ سلاجقة الروم",
+  "explanation": "كانت قونية عاصمة سلاجقة الروم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000057",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من صاحب «المثنوي» المتصوف والشاعر؟",
+  "options": [
+   "يونس إمرة",
+   "أحمد اليسوي",
+   "حافظ الشيرازي",
+   "جلال الدين الرومي"
+  ],
+  "answer_index": 3,
+  "source": "جلال الدين الرومي، المثنوي",
+  "explanation": "ألّف الرومي المثنوي في قونية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000058",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "في أي سنة تأسست الدولة العثمانية تقليدياً؟",
+  "options": [
+   "1071",
+   "1299",
+   "1453",
+   "1517"
+  ],
+  "answer_index": 1,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "يُؤرَّخ تأسيس الدولة العثمانية تقليدياً بسنة 1299م على يد عثمان الغازي.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000059",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من مؤسس الدولة العثمانية؟",
+  "options": [
+   "أورخان الغازي",
+   "مراد الأول",
+   "عثمان الغازي",
+   "بايزيد الأول"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "عثمان الغازي هو مؤسس الدولة العثمانية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000060",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من السلطان العثماني الذي فتح القسطنطينية عام 1453م؟",
+  "options": [
+   "محمد الفاتح",
+   "سليم الأول",
+   "سليمان القانوني",
+   "مراد الأول"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "فتح محمد الثاني (الفاتح) القسطنطينية في 29 مايو 1453م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000061",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما عاصمة الدولة العثمانية قبل فتح إسطنبول؟",
+  "options": [
+   "بورصة",
+   "قونية",
+   "أنقرة",
+   "أدرنة"
+  ],
+  "answer_index": 3,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "كانت أدرنة عاصمة العثمانيين حتى فتح إسطنبول.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000062",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أي بلد فتحه السلطان سليم الأول عام 1517م فانتهت به دولة المماليك؟",
+  "options": [
+   "إيران",
+   "مصر",
+   "المجر",
+   "الهند"
+  ],
+  "answer_index": 1,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "ضم السلطان سليم الأول مصر عام 1517م بعد معركة الريدانية فانتهت دولة المماليك.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000063",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أي معركة في عهد سليمان القانوني ضمّت معظم المجر إلى العثمانيين؟",
+  "options": [
+   "جالديران",
+   "الريدانية",
+   "موهاج",
+   "بروزة"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "انتصر العثمانيون على المجر في موهاج عام 1526م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000064",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من قائد الأسطول العثماني الذي انتصر في معركة بروزة البحرية؟",
+  "options": [
+   "خير الدين بربروس",
+   "بيري ريس",
+   "طرغود ريس",
+   "قلج علي"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "انتصر خير الدين بربروس في بروزة عام 1538م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000065",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "من المعماري الذي بنى جامع السليمانية؟",
+  "options": [
+   "كمال الدين",
+   "سنان",
+   "داود آغا",
+   "نصوح"
+  ],
+  "answer_index": 1,
+  "source": "العمارة العثمانية",
+  "explanation": "يُنسب جامع السليمانية إلى المعماري سنان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000066",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي جامع وصفه المعماري سنان بأنه «تحفته» الكبرى؟",
+  "options": [
+   "جامع السليمانية",
+   "جامع شاه زاده",
+   "جامع السليمية في أدرنة",
+   "جامع السلطان أحمد"
+  ],
+  "answer_index": 2,
+  "source": "العمارة العثمانية",
+  "explanation": "اعتبر سنان جامع السليمية في أدرنة عمل إتقانه.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000067",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من الرحالة المغربي صاحب «الرحلة»؟",
+  "options": [
+   "أوليا جلبي",
+   "بيري ريس",
+   "ابن جبير",
+   "ابن بطوطة"
+  ],
+  "answer_index": 3,
+  "source": "ابن بطوطة، الرحلة",
+  "explanation": "دوّن ابن بطوطة رحلاته في كتاب «تحفة النظار»، المعروف بالرحلة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000068",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من الحاكم التيموري الذي أنشأ مرصداً في سمرقند؟",
+  "options": [
+   "أولغ بيك",
+   "تيمورلنك",
+   "ألب أرسلان",
+   "السلطان سنجر"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ التيموريين",
+  "explanation": "أنشأ أولغ بيك مرصد سمرقند وأجرى فيه أرصاداً فلكية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000069",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من أي مدينة حُكمت دولة المماليك؟",
+  "options": [
+   "بغداد",
+   "دمشق",
+   "القاهرة",
+   "قرطبة"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ المماليك",
+  "explanation": "اتخذ المماليك القاهرة عاصمة لهم.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000070",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أمام أسوار أي مدينة توفي الصحابي أبو أيوب الأنصاري؟",
+  "options": [
+   "القدس",
+   "القسطنطينية",
+   "دمشق",
+   "قرطبة"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "توفي أبو أيوب الأنصاري أثناء حصار الأمويين للقسطنطينية ودُفن قرب أسوارها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000071",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي جزيرة فُتحت بأول أسطول إسلامي في عهد عثمان؟",
+  "options": [
+   "قبرص",
+   "كريت",
+   "رودس",
+   "صقلية"
+  ],
+  "answer_index": 0,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "فتح الأسطول الإسلامي بقيادة معاوية قبرص في عهد عثمان.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000072",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ماذا سُمّي العام الذي تنازل فيه الحسن لمعاوية فاجتمعت الأمة؟",
+  "options": [
+   "عام الفيل",
+   "عام الحزن",
+   "عام الرمادة",
+   "عام الجماعة"
+  ],
+  "answer_index": 3,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "سُمّي عام 41هـ «عام الجماعة» لاجتماع المسلمين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000073",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "ما التنظيم الإداري الذي أنشأه عمر لتسجيل العطاء والجند؟",
+  "options": [
+   "الزكاة",
+   "الجزية",
+   "الفيء",
+   "الديوان"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أنشأ عمر الديوان لتنظيم أعطيات الجند وإيرادات الدولة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000074",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي مسجد في قرطبة صار كاتدرائية فيما بعد؟",
+  "options": [
+   "السليمانية",
+   "مسجد قرطبة الكبير",
+   "السليمية",
+   "آيا صوفيا"
+  ],
+  "answer_index": 1,
+  "source": "عمارة الأندلس",
+  "explanation": "بدأ عبد الرحمن الداخل بناء مسجد قرطبة الكبير وتوسّع بعده.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000075",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "في أي سنة احتل الصليبيون القدس؟",
+  "options": [
+   "1071",
+   "1099",
+   "1187",
+   "1258"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "احتل الصليبيون القدس عام 1099م بعد الحملة الصليبية الأولى.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000076",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "في أي معركة انهزم سلاجقة الروم أمام المغول؟",
+  "options": [
+   "كوسه داغ",
+   "ملاذكرد",
+   "ميريوكيفالون",
+   "عين جالوت"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ سلاجقة الروم",
+  "explanation": "هُزم سلاجقة الروم أمام المغول في كوسه داغ عام 1243م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000077",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "من السلطان الذي أسس الدولة السلجوقية؟",
+  "options": [
+   "ألب أرسلان",
+   "ملكشاه",
+   "سنجر",
+   "طغرل بك"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "طغرل بك هو مؤسس الدولة السلجوقية وأول سلاطينها.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000078",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "أي سلطان عثماني لُقّب بـ«القانوني»؟",
+  "options": [
+   "محمد الثاني",
+   "سليمان الأول",
+   "سليم الأول",
+   "بايزيد الثاني"
+  ],
+  "answer_index": 1,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "لُقّب سليمان بالقانوني لتنظيمه القوانين.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000079",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "أي سلطان عثماني لُقّب بـ«يلدرم» (الصاعقة)؟",
+  "options": [
+   "محمد الثاني",
+   "سليم الأول",
+   "بايزيد الأول",
+   "مراد الأول"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "لُقّب بايزيد الأول بيلدرم لسرعة حركته.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000080",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 1,
+  "question": "ماذا يسمى عصر ازدهار العلوم والفنون في العالم الإسلامي بين القرنين الثامن والثالث عشر الميلاديين؟",
+  "options": [
+   "العصر الذهبي الإسلامي",
+   "العصر الحجري",
+   "عصر الجاهلية",
+   "عصر النهضة الأوروبية"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ الحضارة الإسلامية",
+  "explanation": "ازدهرت في هذا العصر العلوم والترجمة والفلك والطب في بغداد والقاهرة وقرطبة.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000081",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من الجغرافي الذي ألّف «نزهة المشتاق في اختراق الآفاق»؟",
+  "options": [
+   "ابن خلدون",
+   "البيروني",
+   "ابن خرداذبة",
+   "الإدريسي"
+  ],
+  "answer_index": 3,
+  "source": "الإدريسي، نزهة المشتاق",
+  "explanation": "ألّف الإدريسي كتابه وخريطة للعالم لملك صقلية روجر الثاني.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000082",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من العالم الموسوعي الذي درس الهند وألّف «تحقيق ما للهند»؟",
+  "options": [
+   "ابن سينا",
+   "البيروني",
+   "الفارابي",
+   "ابن رشد"
+  ],
+  "answer_index": 1,
+  "source": "البيروني، تحقيق ما للهند",
+  "explanation": "درس البيروني الهند وكتب في الفلك والرياضيات والجغرافيا.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000083",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من الفيلسوف الملقب بـ«المعلم الثاني»؟",
+  "options": [
+   "ابن سينا",
+   "ابن رشد",
+   "الفارابي",
+   "الكندي"
+  ],
+  "answer_index": 2,
+  "source": "الفارابي، المدينة الفاضلة",
+  "explanation": "لُقّب الفارابي بالمعلم الثاني بعد أرسطو المعلم الأول.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000084",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من الفيلسوف القرطبي الذي اشتهر بشروحه لأرسطو؟",
+  "options": [
+   "ابن رشد",
+   "ابن سينا",
+   "الفارابي",
+   "الكندي"
+  ],
+  "answer_index": 0,
+  "source": "ابن رشد، تهافت التهافت",
+  "explanation": "اشتهر ابن رشد بشروحه لأرسطو وأثّر في الفكر الأوروبي.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000085",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ما المنشأة الفلكية التي أُنشئت في عهد المأمون لرصد الأجرام؟",
+  "options": [
+   "المدرسة",
+   "المرصد",
+   "الخان",
+   "الرباط"
+  ],
+  "answer_index": 1,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "أُنشئت مراصد في بغداد ودمشق في عهد المأمون.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000086",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 2,
+  "question": "أي خليفة عباسي رعى بيت الحكمة ودعم العلماء؟",
+  "options": [
+   "معاوية",
+   "الوليد",
+   "يزيد",
+   "المأمون"
+  ],
+  "answer_index": 3,
+  "source": "ابن الأثير، الكامل",
+  "explanation": "اشتهر المأمون بدعمه الترجمة والعلماء.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000087",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "من السلطان العثماني الذي فتح إزنيق وأسس أول مدرسة عثمانية؟",
+  "options": [
+   "أورخان الغازي",
+   "عثمان الغازي",
+   "مراد الأول",
+   "بايزيد"
+  ],
+  "answer_index": 0,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "فتح أورخان إزنيق وأنشأ فيها أول مدرسة عثمانية.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000088",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "أي سلطان عثماني استُشهد في معركة قوصوه؟",
+  "options": [
+   "عثمان الغازي",
+   "أورخان الغازي",
+   "مراد الأول",
+   "بايزيد الأول"
+  ],
+  "answer_index": 2,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "استُشهد السلطان مراد الأول في معركة قوصوه عام 1389م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000089",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "بين أي شخصيتين وقعت معركة أنقرة عام 1402م؟",
+  "options": [
+   "محمد الفاتح وقسطنطين",
+   "ألب أرسلان ورومانوس",
+   "صلاح الدين وريتشارد",
+   "تيمورلنك وبايزيد الأول"
+  ],
+  "answer_index": 3,
+  "source": "تاريخ الدولة العثمانية",
+  "explanation": "انتصر تيمورلنك على بايزيد الأول في معركة أنقرة عام 1402م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000090",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "في أي سنة استُشهد عثمان بن عفان رضي الله عنه؟",
+  "options": [
+   "632",
+   "656",
+   "661",
+   "680"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "حوصر عثمان في داره واستُشهد عام 656م.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000091",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "في أي سنة فُتحت القدس في عهد عمر؟",
+  "options": [
+   "622",
+   "638",
+   "711",
+   "1071"
+  ],
+  "answer_index": 1,
+  "source": "الطبري، تاريخ الرسل والملوك",
+  "explanation": "فُتحت القدس عام 638م صلحاً.",
+  "review_status": "draft"
+ },
+ {
+  "id": "q-ar-tarih-000092",
+  "lang": "ar",
+  "category": "tarih",
+  "difficulty": 3,
+  "question": "ما أول مدينة إسلامية أسسها عمرو بن العاص في مصر؟",
+  "options": [
+   "القاهرة",
+   "الإسكندرية",
+   "الفسطاط",
+   "القيروان"
+  ],
+  "answer_index": 2,
+  "source": "المقريزي، الخطط",
+  "explanation": "أسس عمرو بن العاص الفسطاط وبنى فيها مسجداً.",
+  "review_status": "draft"
+ }
+]

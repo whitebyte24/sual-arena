@@ -13,7 +13,7 @@ import { isRunComplete, scoreRun, type RunAnswer } from '@/features/lig/run';
 import { dayNoFor, leagueStatus } from '@/features/lig/schedule';
 import { loadLig, saveLig } from '@/features/lig/store';
 import { ReportButton } from '@/features/report/ReportButton';
-import { getLang, t } from '@/i18n';
+import { getLang, t, upper } from '@/i18n';
 import { dateKey } from '@/lib/date';
 import { getPlayerName } from '@/lib/identity';
 import { hashString } from '@/lib/rng';
@@ -230,7 +230,7 @@ export default function LeaguePlay() {
         <Card watermark padding={20} style={{ minHeight: 120, justifyContent: 'center', gap: spacing.sm }}>
           <View style={{ flexDirection: 'row', alignItems: 'center', gap: 6 }}>
             <Icon name="book-open-variant" size={14} color={theme.accent} />
-            <Text style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1.1 }}>{t(`category.${shown.category}`).toLocaleUpperCase('tr')}</Text>
+            <Text style={{ color: theme.accent, fontSize: 11, fontWeight: '700', letterSpacing: 1.1 }}>{upper(t(`category.${shown.category}`))}</Text>
           </View>
           <Text style={{ color: theme.text, fontSize: 22, fontWeight: '700', lineHeight: 31 }}>{shown.text}</Text>
         </Card>
