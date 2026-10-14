@@ -170,6 +170,7 @@
     "invite": "Davet gönder",
     "inviteText": "Sual Arena'da odama katıl! Oda kodu: {code} {url}",
     "needOnline": "Arkadaş odası için internet bağlantısı gerekir.",
+    "closed": "Çevrimiçi odalar geçici olarak kapalı. Lütfen daha sonra tekrar dene.",
     "invalidCode": "Kod 6 haneli bir sayı olmalı.",
     "hostLeft": "Kurucu odadan ayrıldı.",
     "connecting": "Bağlanılıyor…"

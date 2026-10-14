@@ -5,12 +5,13 @@ import { supabase } from '@/lib/supabase';
 
 export interface RemoteConfig {
   ads: AdsConfig;
-  features: { league_enabled: boolean; free_duels_per_day: number };
+  /** online_matching = acil durum anahtarı: false → çevrimiçi eşleşme/oda kapanır (düello BOT'a düşer). Varsayılan açık. */
+  features: { league_enabled: boolean; free_duels_per_day: number; online_matching: boolean };
 }
 
 export const DEFAULT_REMOTE: RemoteConfig = {
   ads: DEFAULT_ADS_CONFIG,
-  features: { league_enabled: false, free_duels_per_day: FREE_DUELS_PER_DAY },
+  features: { league_enabled: false, free_duels_per_day: FREE_DUELS_PER_DAY, online_matching: true },
 };
 
 const KEY = 'remote.config.v1';
@@ -22,7 +23,11 @@ export function sanitizeRemote(rows: { key: string; value: unknown }[] | null | 
   const free = typeof f.free_duels_per_day === 'number' && Number.isFinite(f.free_duels_per_day) ? Math.round(f.free_duels_per_day) : FREE_DUELS_PER_DAY;
   return {
     ads: sanitizeAdsConfig(by.ads),
-    features: { league_enabled: f.league_enabled === true, free_duels_per_day: Math.min(100, Math.max(1, free)) },
+    features: {
+      league_enabled: f.league_enabled === true,
+      free_duels_per_day: Math.min(100, Math.max(1, free)),
+      online_matching: f.online_matching !== false,
+    },
   };
 }
 

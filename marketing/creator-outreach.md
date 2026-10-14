@@ -29,7 +29,7 @@ Seçim ölçüleri: son 10 içeriğin tonu saygılı mı · yorumlarda hakaret/s
 > Önerim: (1) Premium'u ücretsiz kullanın, (2) size özel kodla gelen aboneliklerin net gelirinden **ilk 12 ay %25 pay** (ayrıntılar ekte), (3) isterseniz yayın öncesi sürümü test edin ve geri bildirim verin.
 > İçerik özgürlüğünüz sizde: yalnızca uygulamada **gerçekten olan** özellikleri anlatmanızı rica ederiz (ekteki içerik yönergesi).
 > Uygun görürseniz kısa bir görüşme için size dönelim. Teşekkürler.
-> [Ad Soyad] — [İLETİŞİM] — sualarena.app
+> [Ad Soyad] — [İLETİŞİM] — sual-arena.netlify.app
 
 ### TR-C: Kurs hocası/öğrenci topluluğu (samimi)
 > Selâmün aleyküm hocam/[Ad]. Öğrencilerinize Ramazan'da eğlenceli bir bilgi yarışması sunmak ister misiniz? Sual Arena'da Kur'an, Siyer, Kıssalar gibi kategoriler ve kurslar arası turnuva planı var. Kurslara **ücretsiz kurumsal lisans** veriyoruz (Premium erişimi). Kullanıcılar arasında sohbet yok; reklamlar sınırlı ve uygun içerik derecesiyle (G) süzülüyor; gizlilik açıklamamız hazır. Görüşmek ister misiniz? — [Ad Soyad], [İLETİŞİM]

@@ -16,6 +16,7 @@ import {
   PlusJakartaSans_800ExtraBold,
   useFonts,
 } from '@expo-google-fonts/plus-jakarta-sans';
+import { loadCachedContent, refreshContent } from '@/content/remote';
 import { initAds } from '@/features/ads';
 import { initPremium } from '@/features/premium/entitlement';
 import { onNotificationTap } from '@/features/lig/notifications';
@@ -44,10 +45,15 @@ export default function RootLayout() {
 
   // İlk çizimden ÖNCE: kayıtlı dil/yön ve tema tercihi.
   useEffect(() => {
-    Promise.all([initLang(), initAppearance()])
+    Promise.all([initLang(), initAppearance(), loadCachedContent()])
       .catch(() => {})
       .then(() => setReady(true));
   }, []);
+
+  // Yeni soru/kart paketi var mı (arka planda; bir SONRAKİ açılışta kullanılır). Dil değişince o dil için de bakılır.
+  useEffect(() => {
+    if (ready) refreshContent(lang).catch(() => {});
+  }, [ready, lang]);
 
   // Premium durumu (premium'a reklam/ATT gösterilmez), sonra onay → ATT → reklam SDK'sı.
   useEffect(() => {

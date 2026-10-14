@@ -54,6 +54,11 @@ kurulu değilse bu dosyadaki kurallarla devam et. i18n/RTL ve UI için hazır sk
 **Mağaza build'inden önce** `npm run content:verify-store` yeşil olmalı (prod modu, yalnız approved, dil başına yeterli hacim). Dev-seed test dosyaları kaldırıldı (gerçek içerik var).
 - Uygulama, kullanıcının dilinde içerik yoksa `questionLangs()`/`cardLangs()` ile ilk mevcut dile düşer (kısmi onayda boş ekran olmaz).
 
+## Uzaktan içerik + acil anahtar (mağaza incelemesiz güncelleme)
+- Onaylı soru/kart paketleri statik dosya olarak landing sitesinden gelir: `npm run content:publish` → `marketing/landing/content/` (manifest + hash'li paketler) + `content/version.json` +1. İstemci: `src/content/{packs,remote}.ts` (saf doğrulama + indirme/önbellek), `CONTENT_URL` (`src/lib/config.ts`). Sonraki açılışta uygulanır; hata → gömülü içerik. Yalnızca VERİ; şema değişikliği = yeni sürüm.
+- Acil anahtar: `remote_config.features.online_matching=false` → çevrimiçi düello BOT'a düşer, oda kapanır. Ayrıntı ve SQL: `docs/content-ops.md`.
+- Gömülü sürüm `generated/meta.json > version`. Test: `tests/packs.test.ts`, `tests/remoteConfig.test.ts`. Canlı site/alan adı henüz yok → `CONTENT_URL` canlıya alınca doğrula.
+
 ## Söyleme! (Faz 2)
 Motor: `src/features/soyleme/engine.ts` (saf TS, 14 test). Ekranlar: `src/app/soyleme/{index,play}.tsx`. Kural: doğru +1, yasaklı −1, pas 0, tur puanı ≥0,
 süre dolunca ekrandaki kart sonraki tura kalır, görülen kartlar `AsyncStorage`'da tutulup desteye sona atılır.

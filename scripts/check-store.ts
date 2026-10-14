@@ -89,7 +89,7 @@ for (const lang of LANGS) {
     }
   }
   for (const [field, text] of [['appStore.description', a.description], ['googlePlay.fullDescription', g.fullDescription]] as const) {
-    if (!/sualarena\.app\/terms/.test(text) || !/sualarena\.app\/privacy/.test(text)) err(lang, field, 'Kullanım Koşulları ve Gizlilik bağlantıları eksik');
+    if (!/sual-arena\.netlify\.app\/terms/.test(text) || !/sual-arena\.netlify\.app\/privacy/.test(text)) err(lang, field, 'Kullanım Koşulları ve Gizlilik bağlantıları eksik');
     if (!/24|٢٤|auto|otomatik|تلقائي/i.test(text)) err(lang, field, 'abonelik/otomatik yenileme bilgisi eksik');
   }
   if (!(a.name === g.title)) err(lang, 'title', 'App Store adı ile Play başlığı aynı olmalı (tutarlı marka)');

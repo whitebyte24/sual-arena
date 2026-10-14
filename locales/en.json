@@ -170,6 +170,7 @@
     "invite": "Send invite",
     "inviteText": "Join my room on Sual Arena! Room code: {code} {url}",
     "needOnline": "Friends Room needs an internet connection.",
+    "closed": "Online rooms are temporarily closed. Please try again later.",
     "invalidCode": "The code must be a 6-digit number.",
     "hostLeft": "The host left the room.",
     "connecting": "Connecting…"

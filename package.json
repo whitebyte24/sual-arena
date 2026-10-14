@@ -73,7 +73,8 @@
     "store:check": "tsx scripts/check-store.ts",
     "content:compile": "tsx scripts/content-compile.ts",
     "content:lint": "tsx scripts/content-lint.ts",
-    "content:verify-store": "tsx scripts/verify-prod-content.ts --strict"
+    "content:verify-store": "tsx scripts/verify-prod-content.ts --strict",
+    "content:publish": "tsx scripts/content-publish.ts"
   },
   "private": true
 }

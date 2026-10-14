@@ -17,6 +17,7 @@ import { getLang, t } from '@/i18n';
 import { INVITE_URL, MAX_ROOM_PLAYERS } from '@/lib/config';
 import { getIdentity } from '@/lib/identity';
 import type { ChannelTransport, PresenceMeta } from '@/lib/realtime';
+import { getRemoteConfig } from '@/lib/remoteConfig';
 import { supabase } from '@/lib/supabase';
 import { radius, spacing, useTheme } from '@/lib/theme';
 import { Button } from '@/ui/Button';
@@ -59,6 +60,7 @@ export default function RoomLobby() {
       try {
         const me = await getIdentity();
         if (!me.online || !supabase) return alive && setError(t('room.needOnline'));
+        if (!(await getRemoteConfig()).features.online_matching) return alive && setError(t('room.closed'));
         let transport: ChannelTransport;
         if (isHost) {
           const r = await createRoom(supabase, me);

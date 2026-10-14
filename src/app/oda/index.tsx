@@ -7,6 +7,7 @@ import { isRoomCode } from '@/features/duello/pairing';
 import { t } from '@/i18n';
 import { MAX_NAME, getPlayerName, setPlayerName } from '@/lib/identity';
 import { radius, spacing, useTheme } from '@/lib/theme';
+import { getRemoteConfig } from '@/lib/remoteConfig';
 import { supabase } from '@/lib/supabase';
 import { Button } from '@/ui/Button';
 import { ScreenHeader } from '@/ui/ScreenHeader';
@@ -19,11 +20,14 @@ export default function RoomEntry() {
   const [code, setCode] = useState(linkCode ?? '');
   const [error, setError] = useState('');
 
+  const [open, setOpen] = useState(true);
+
   useEffect(() => {
     getPlayerName().then(setName);
+    getRemoteConfig().then((r) => setOpen(r.features.online_matching));
   }, []);
 
-  const online = !!supabase;
+  const online = !!supabase && open;
   const input = { minHeight: 52, borderRadius: radius.md, borderWidth: 1, borderColor: theme.border, backgroundColor: theme.surface, color: theme.text, fontSize: 18, paddingHorizontal: spacing.md } as const;
   const label = { color: theme.textMuted, fontSize: 14, fontWeight: '600' as const, marginBottom: spacing.sm };
 
@@ -44,7 +48,7 @@ export default function RoomEntry() {
       contentContainerStyle={{ padding: spacing.md, paddingTop: insets.top + spacing.md, paddingBottom: insets.bottom + spacing.xl, gap: spacing.lg }}>
       <ScreenHeader title={t('room.title')} />
       <Text style={{ color: theme.textMuted, fontSize: 15, lineHeight: 22 }}>{t('room.subtitle')}</Text>
-      {!online && <Text style={{ color: theme.danger, fontSize: 15 }}>{t('room.needOnline')}</Text>}
+      {!online && <Text style={{ color: theme.danger, fontSize: 15 }}>{t(open ? 'room.needOnline' : 'room.closed')}</Text>}
       <View>
         <Text style={label}>{t('online.yourName')}</Text>
         <TextInput value={name} onChangeText={setName} maxLength={MAX_NAME} style={input} />

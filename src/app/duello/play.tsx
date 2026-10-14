@@ -13,6 +13,7 @@ import { MatchSession, nullTransport } from '@/features/duello/session';
 import { isPremium } from '@/features/premium/entitlement';
 import { allowedCategories, categoryLocked } from '@/features/premium/tiers';
 import { getIdentity } from '@/lib/identity';
+import { getRemoteConfig } from '@/lib/remoteConfig';
 import { supabase } from '@/lib/supabase';
 
 const QUESTIONS_PER_DUEL = 5;
@@ -42,7 +43,8 @@ export default function DuelPlay() {
       const premium = await isPremium();
       // Güvenlik: kilitli kategori (ör. derin bağlantı/eski parametre) → ücretsiz havuza düşer
       const cat: CategoryChoice = categoryLocked(category as CategoryChoice, premium) ? 'all' : (category as CategoryChoice);
-      const res = await searchOpponent({ client: me.online ? supabase : null, self: me, lang, category: cat, signal: ac.signal });
+      const { features } = await getRemoteConfig();
+      const res = await searchOpponent({ client: me.online && features.online_matching ? supabase : null, self: me, lang, category: cat, signal: ac.signal });
       if (!res) return;
       if (ac.signal.aborted) {
         if (res.kind === 'human') res.transport.close();
